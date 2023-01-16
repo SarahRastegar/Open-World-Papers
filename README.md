@@ -4,9 +4,9 @@ Current machine learning algorithms are bound to a closed-world assumption. This
 
 | **Problem Name**  |     **Problem Goal** |
 |---------------|-----------|
-| Zero-shot Recognition | Clarify if a sample has which unseen category | 
-| Generalized Zero-shot Recognition | Detect the category (seen or unseen) of a test sample|
-| Open-set Recognition  | Detect the category (seen or unseen) of a test sample|
-| Open-world Learning   |  Detect the category (seen or unseen) of a test sample|
-| Novel Class Discovery | Detect the category (seen or unseen) of a test sample|
-| Generalized Category Discovery | Detect the category (seen or unseen) of a test sample|
+| Zero-shot Recognition | Classify test samples from a set of unseen but known categories| 
+| Generalized Zero-shot Recognition | Classify test samples from a set of seen and unseen but known categories| 
+| Open-set Recognition  | Classify test samples from a set of seen categories while rejecting samples from unknown categories|
+| Open-world Learning   | Classify test samples from a set of seen categories while rejecting samples from unknown categories|
+| Novel Class Discovery | Classify test samples from a set of unknown categories into  |
+| Generalized Category Discovery | Classify test samples from a set of seen or unknown categories into  |

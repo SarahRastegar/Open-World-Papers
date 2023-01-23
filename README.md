@@ -7,6 +7,6 @@ Current machine learning algorithms are bound to a closed-world assumption. This
 | Zero-shot Recognition | Classify test samples from a set of unseen but known categories| 
 | Generalized Zero-shot Recognition | Classify test samples from a set of seen and unseen but known categories| 
 | Open-set Recognition  | Classify test samples from a set of seen categories while rejecting samples from unknown categories|
-| Open-world Learning   | Classify test samples from a set of seen categories while rejecting samples from unknown categories|
-| Novel Class Discovery | Classify test samples from a set of unknown categories into  |
-| Generalized Category Discovery | Classify test samples from a set of seen or unknown categories into  |
+| Novel Class Discovery | Classify test samples from a set of unknown categories into proposed clasters|
+| Generalized Category Discovery | Classify test samples from a set of seen or unknown categories into seen categories or proposed clasters |
+| Open vocabulary | Classify test samples from a set of seen or unknown categories into proposed clasters and find the corresponding name for that claster with the help of additional information like another modality or language models.|

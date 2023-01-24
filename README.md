@@ -38,7 +38,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 | Generalized Category Discovery | Classify test samples from a set of seen or unknown categories into seen categories or proposed clasters.|
 | Open vocabulary | Classify test samples from a set of seen or unknown categories into proposed clasters and find the corresponding name for that claster with the help of additional information like another modality or language models.|
 
-## Papers 
+## Papers (Non Video) 2022 
 ### Out-of-Distribution Detection
 * Open-Sampling: Exploring Out-of-Distribution Data for Re-balancing long-tailed Datasets (ICML 2022) 
 [[Paper](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf)]
@@ -126,6 +126,32 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: MNIST; CIFAR-10; CIFAR-100; TinyImagenet*<br>
 *Task: Image Classification*
 
+* Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Abdelnabi_Open-Domain_Content-Based_Multi-Modal_Fact-Checking_of_Out-of-Context_Images_via_Online_Resources_CVPR_2022_paper.pdf)]
+[[Code](https://s-abdelnabi.github.io/OoC-multi-modal-fc)]<br>
+*Datasets: NewsCLIPpings*<br>
+*Task: Multi-modal Fact-checking*
+
+#### CVPRw
+
+* Variable Few Shot Class Incremental and Open World Learning (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Ahmad_Variable_Few_Shot_Class_Incremental_and_Open_World_Learning_CVPRW_2022_paper.pdf)]
+[[Code](https://github.com/TouqeerAhmad/VFSOWL)]<br>
+*Datasets: Caltech-UCSD Birds-200-2011 CUB200; miniImageNet*<br>
+*Task: Image Classification*
+
+* Towards Open-Set Object Detection and Discovery (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Zheng_Towards_Open-Set_Object_Detection_and_Discovery_CVPRW_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: Pascal VOC 2007; MS-COCO*<br>
+*Task: Image Classification*
+
+* Open-Set Domain Adaptation Under Few Source-Domain Labeled Samples (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Rakshit_Open-Set_Domain_Adaptation_Under_Few_Source-Domain_Labeled_Samples_CVPRW_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: Office-31; Mini-domainNet; NPU-RSDA*<br>
+*Task: Image Classification*
+
 #### ICLR
 
 * Open-set Recognition: A good closed-set classifier is all you need? (ICLR 2022 Oral) 
@@ -202,6 +228,18 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets: SVHN→MNIST, MNIST→USPS and USPS→MNIST; Office-Home; Endo-c2k -> KID WCE*<br>
 *Task: Domain Adaptation*
+
+* UC-OWOD: Unknown-Classified Open World Object Detection	(ECCV 2022)
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700191.pdf)]
+[[Code](https://github.com/JohnWuzh/UC-OWOD)]<br>
+*Datasets: Pascal VOC; and MS-COCO*<br>
+*Task: Object Detection*
+
+* Open-world Semantic Segmentation for LIDAR Point Clouds	(ECCV 2022)
+[[Paper](https://arxiv.org/pdf/2208.11113v1.pdf)]
+[[Code](https://github.com/Jun-CEN/Open_world_3D_semantic_segmentation)]<br>
+*Datasets: SemanticKITTI, nuScenes*<br>
+*Task: Semantic Segmentation on LIDAR Point Clouds*
 
 #### AAAI
 * Learngene: From Open-World to Your Learning Task	(AAAI 2022)

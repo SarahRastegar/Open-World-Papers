@@ -12,6 +12,12 @@ Without further due, let us dive into the fantastic and challenging world of unc
   - [Unseen Categories](#Unseen-Categories)
   - [Unknown Categories](#Unknown-Categories)
 - [Out-of-Distribution Detection](#Out-of-Distribution-Detection) 
+  - [2022 Papers](#2022-Papers)
+- [Open-set Recognition](#Open-Set-Recognition)
+  - [2022 Papers](#2022-Papers)
+- [Novel Class Discovery](#Novel-Class-Discovery)
+  - [2022 Papers](#2022-Papers)
+- [Open vocabulary](#Open-vocabulary)
 
 ## Introduction 
 Let us consider a Telsa! Car is our running example during this repo. One day Telsa engineers decide to train their autopilot model. First, they meticulously collect these data on mornings on the way to their job while contemplating their life choices in the traffic. Then they give those videos to some people to categorize over several categories like cars, bikes, people, birds, and trees. They then train the model on the collected, labeled data, which produces a good performance on the evaluation data.
@@ -45,6 +51,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 | Open vocabulary | Classify test samples from a set of seen or unknown categories into proposed clasters and find the corresponding name for that claster with the help of additional information like another modality or language models.|
 
 ## Out-of-Distribution Detection
+### 2022 Papers
 * Open-Sampling: Exploring Out-of-Distribution Data for Re-balancing long-tailed Datasets (ICML 2022) 
 [[Paper](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf)]
 [[Code](https://github.com/hongxin001/logitnorm_ood)]<br>
@@ -58,7 +65,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: *<br>
 *Task: OOD Detection*
 
-## Open-set Recognition 
+## Open-Set Recognition 
 ### 2022 Papers
 #### CVPR
 * Expanding Low-Density Latent Regions for Open-Set Object Detection (CVPR 2022) 

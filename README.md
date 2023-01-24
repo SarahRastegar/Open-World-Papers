@@ -1,12 +1,15 @@
 # Open World Papers
 
 Current machine learning algorithms are bound to a closed-world assumption. This means that these models assume the number of categories the model will encounter in the test time is predefined. However, this assumption needs to be revised in the real world. There are many challenges associated with the real-world setting that traditional machine learning models can not resolve. The uncertainty a model can encounter during test time and the strategy to address it have been considered recently under different computer vision branches. 
-In tackling the real world, we want to consider layers of uncertainty. In the following sections, we defined each challenge and what field of data will create. We created this repo to list current methods used in recent years to address uncertainty (specifically novel class and open-set) in the world in contemporary top venues like **CVPR, NeurIPS, ICCV, ECCV, ICLR, ICML, BMVC, WACV, TPAMI, AAAI,** and relevant papers from **Arxiv** and other venues. 
+In tackling the real world, we want to consider layers of uncertainty. In the following sections, we defined each challenge and what field of data will create. We created this repo to list current methods used in recent years to address uncertainty (specifically novel class and open-set) in the world in contemporary top venues like **CVPR, CVPRw, NeurIPS, ICCV, ECCV, ICLR, ICML, BMVC, WACV, TPAMI, AAAI,** and relevant papers from **Arxiv** and other venues. 
 
 Finally, since our primary focus is fine-grained or long-tailed novel action discovery, we also address related works in this area. 
 Without further due, let us dive into the fantastic and challenging world of uncertainty, unseens, and unknowns. 
 
-## Contents 
+## Contents
+- [Introduction](#Introduction)
+- [Out-of-Distribution Detection](#Out-of-Distribution-Detection) 
+
 ## Introduction 
 Let us consider a Telsa! Car is our running example during this repo. One day Telsa engineers decide to train their autopilot model. First, they meticulously collect these data on mornings on the way to their job while contemplating their life choices in the traffic. Then they give those videos to some people to categorize over several categories like cars, bikes, people, birds, and trees. They then train the model on the collected, labeled data, which produces a good performance on the evaluation data.
 
@@ -38,8 +41,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 | Generalized Category Discovery | Classify test samples from a set of seen or unknown categories into seen categories or proposed clasters.|
 | Open vocabulary | Classify test samples from a set of seen or unknown categories into proposed clasters and find the corresponding name for that claster with the help of additional information like another modality or language models.|
 
-## Papers (Non Video) 2022 
-### Out-of-Distribution Detection
+## Out-of-Distribution Detection
 * Open-Sampling: Exploring Out-of-Distribution Data for Re-balancing long-tailed Datasets (ICML 2022) 
 [[Paper](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf)]
 [[Code](https://github.com/hongxin001/logitnorm_ood)]<br>
@@ -53,8 +55,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: *<br>
 *Task: OOD Detection*
 
-### Open-set Recognition 
-#### CVPR (Images)
+## Open-set Recognition 
+### 2022 Papers
+#### CVPR
 * Expanding Low-Density Latent Regions for Open-Set Object Detection (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Expanding_Low-Density_Latent_Regions_for_Open-Set_Object_Detection_CVPR_2022_paper.pdf)]
 [[Code](https://github.com/csuhan/opendet2)]<br>
@@ -274,7 +277,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Point Cloud Novelty Detection*
 
 
-
 #### WACV
 * Few-Shot Open-Set Recognition of Hyperspectral Images With Outlier Calibration Network (WACV 2022) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Pal_Few-Shot_Open-Set_Recognition_of_Hyperspectral_Images_With_Outlier_Calibration_Network_WACV_2022_paper.pdf)]
@@ -326,6 +328,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/jd730/EOPSN.git)]<br>
 *Datasets: MS-COCO 2017*<br>
 *Task: Panoptic Segmentation*
+
+
+## Novel Class Discovery
+### 2022 Papers
+#### CVPR
+
+
 
 
 

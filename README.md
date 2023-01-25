@@ -11,70 +11,15 @@ Without further due, let us dive into the fantastic and challenging world of unc
   - [Unseen Environments](#Unseen-Environments)
   - [Unseen Categories](#Unseen-Categories)
   - [Unknown Categories](#Unknown-Categories)
+- [Zero-Shot Learning](#Zero-Shot-Learning)  
 - [Out-of-Distribution Detection](#Out-of-Distribution-Detection) 
-  - [2022 Papers](#2022-Papers)
-    - [CVPR](#CVPR)
-    - [ICLR](#ICLR)
-    - [NeurIPS](#NeurIPS)
-    - [ICCV](#ICCV)
-    - [ICML](#ICML)
-    - [IEEE Access](#IEEE-Access)
-    - [ECCV](#ECCV)
-    - [AAAI](#AAAI)
-    - [TPAMI](#TPAMI)
-    - [CVPRw](#CVPRw)
-    - [WACV](#WACV)
-    - [IJCV](#IJCV)
-    - [BMVC](#BMVC)
-    - [ICCVw](#ICCw)
-- [Open-set Recognition](#Open-Set-Recognition)
-  - [2022 Papers](#2022-Papers)
-    - [CVPR](#CVPR)
-    - [ICLR](#ICLR)
-    - [NeurIPS](#NeurIPS)
-    - [ICCV](#ICCV)
-    - [ICML](#ICML)
-    - [IEEE Access](#IEEE-Access)
-    - [ECCV](#ECCV)
-    - [AAAI](#AAAI)
-    - [TPAMI](#TPAMI)
-    - [CVPRw](#CVPRw)
-    - [WACV](#WACV)
-    - [IJCV](#IJCV)
-    - [BMVC](#BMVC)
-    - [ICCVw](#ICCw)
 - [Novel Class Discovery](#Novel-Class-Discovery)
-  - [2022 Papers](#2022-Papers)
-    - [CVPR](#CVPR)
-    - [ICLR](#ICLR)
-    - [NeurIPS](#NeurIPS)
-    - [ICCV](#ICCV)
-    - [ICML](#ICML)
-    - [IEEE Access](#IEEE-Access)
-    - [ECCV](#ECCV)
-    - [AAAI](#AAAI)
-    - [TPAMI](#TPAMI)
-    - [CVPRw](#CVPRw)
-    - [WACV](#WACV)
-    - [IJCV](#IJCV)
-    - [BMVC](#BMVC)
-    - [ICCVw](#ICCw)
-- [Open vocabulary](#Open-vocabulary)
-  - [2022 Papers](#2022-Papers)
-    - [CVPR](#CVPR)
-    - [ICLR](#ICLR)
-    - [NeurIPS](#NeurIPS)
-    - [ICCV](#ICCV)
-    - [ICML](#ICML)
-    - [IEEE Access](#IEEE-Access)
-    - [ECCV](#ECCV)
-    - [AAAI](#AAAI)
-    - [TPAMI](#TPAMI)
-    - [CVPRw](#CVPRw)
-    - [WACV](#WACV)
-    - [IJCV](#IJCV)
-    - [BMVC](#BMVC)
-    - [ICCVw](#ICCw)
+- [Open Vocabulary](#Open-Vocabulary)
+- [Fine Grained](#Fine-Grained)
+- [Long Tail](#Long-Tail)
+- [Video Open World Papers](#Video-Open-World-Papers)
+- [Anomaly Detection](#Anomaly-Detection)
+
 
 ## Introduction 
 Let us consider a Telsa! Car is our running example during this repo. One day Telsa engineers decide to train their autopilot model. First, they meticulously collect these data on mornings on the way to their job while contemplating their life choices in the traffic. Then they give those videos to some people to categorize over several categories like cars, bikes, people, birds, and trees. They then train the model on the collected, labeled data, which produces a good performance on the evaluation data.
@@ -107,6 +52,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 | Generalized Category Discovery | Classify test samples from a set of seen or unknown categories into seen categories or proposed clasters.|
 | Open vocabulary | Classify test samples from a set of seen or unknown categories into proposed clasters and find the corresponding name for that claster with the help of additional information like another modality or language models.|
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Zero-Shot Learning
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
 ### 2022 Papers
 * Open-Sampling: Exploring Out-of-Distribution Data for Re-balancing long-tailed Datasets (ICML 2022) 
@@ -119,10 +67,26 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * OSM: An Open Set Matting Framework with OOD Detection and Few-Shot Matting (BMVC 2022) 
 [[Paper]]
 [[Code]]<br>
-*Datasets: *<br>
+*Datasets:*<br>
 *Task: OOD Detection*
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open-Set Recognition 
+### 2023 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw -->
 ### 2022 Papers
 #### CVPR
 * Expanding Low-Density Latent Regions for Open-Set Object Detection (CVPR 2022) 
@@ -231,7 +195,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Open-set recognition*
 
 
-#### ECCV (Images)
+#### ECCV 
 * Open-Set Semi-Supervised Object Detection (ECCV 2022 Oral) 
 [[Paper](https://arxiv.org/pdf/2208.13722v1.pdf)]
 [[Code]]<br>
@@ -396,12 +360,80 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: MS-COCO 2017*<br>
 *Task: Panoptic Segmentation*
 
-
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novel Class Discovery
+### 2023 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw -->
 ### 2022 Papers
-#### CVPR
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw -->
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Open Vocabulary
+### 2023 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw -->
+### 2022 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw -->
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Fine Grained
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Long Tail
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+# Video Open World Papers
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Anomaly Detection

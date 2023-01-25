@@ -1227,8 +1227,87 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+
+* Dual Cross-Attention Learning for Fine-Grained Visual Categorization and Object Re-Identification (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Dual_Cross-Attention_Learning_for_Fine-Grained_Visual_Categorization_and_Object_Re-Identification_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CUB-200-2011, Stanford  Cars, FGVC-Aircraft ; For Re-ID, we use four standard benchmarks:  Mar-ket1501,  DukeMTMC-ReID,  MSMT17 forPerson Re-ID and VeRi-776 for Vehicle Re-ID*<br>
+*Task: Image Classification*
+
+* Knowledge Mining With Scene Text for Fine-Grained Recognition (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Knowledge_Mining_With_Scene_Text_for_Fine-Grained_Recognition_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/lanfeng4659/KnowledgeMiningWithSceneText)]<br>
+*Datasets: Con-Text; Drink Bottle; Crowd Activity*<br>
+*Task: Image Classification*
+
+* Few-Shot Font Generation by Learning Fine-Grained Local Styles (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Few-Shot_Font_Generation_by_Learning_Fine-Grained_Local_Styles_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: UFUC and UFSC*<br>
+*Task: Image Generation*
+
+* Estimating Fine-Grained Noise Model via Contrastive Learning (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_Estimating_Fine-Grained_Noise_Model_via_Contrastive_Learning_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: SIDD,  CRVD and PMRID*<br>
+*Task: Image Denoising*
+
+* Fine-Grained Object Classification via Self-Supervised Pose Alignment (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Fine-Grained_Object_Classification_via_Self-Supervised_Pose_Alignment_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/yangxh11/P2P-Net)]<br>
+*Datasets:*<br>
+*Task: Image Classification*
+
+* Fine-Grained Predicates Learning for Scene Graph Generation (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/XinyuLyu/FGPL)]<br>
+*Datasets: Visual Genome*<br>
+*Task: Scene Graph Generation*
+
+* Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Dynamic_MLP_for_Fine-Grained_Image_Classification_by_Leveraging_Geographical_and_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/megvii-research/DynamicMLPForFinegrained)]<br>
+*Datasets: iNaturalist 2017, 2018, 2021 and YFCC100M-GEO100*<br>
+*Task: Image Classification*
+
+* Task Discrepancy Maximization for Fine-Grained Few-Shot Classification (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Task_Discrepancy_Maximization_for_Fine-Grained_Few-Shot_Classification_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CUB-200-2011, Aircraft, meta-iNat, tiered meta-iNat,Stanford-Cars, Stanford-Dogs, and Oxford-Pets*<br>
+*Task: Image Classification*
+
+* FaceVerse: A Fine-Grained and Detail-Controllable 3D Face Morphable Model From a Hybrid Dataset (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_FaceVerse_A_Fine-Grained_and_Detail-Controllable_3D_Face_Morphable_Model_From_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/emilianavt/OpenSeeFace)]<br>
+*Datasets: FFHQ*<br>
+*Task: 3D Face Morphable Model*
+
+* SphericGAN: Semi-Supervised Hyper-Spherical Generative Adversarial Networks for Fine-Grained Image Synthesis (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_SphericGAN_Semi-Supervised_Hyper-Spherical_Generative_Adversarial_Networks_for_Fine-Grained_Image_Synthesis_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CUB-200/FaceScrub-100/Stanford-Cars*<br>
+*Task: Image Generation*
+
+* Attentive Fine-Grained Structured Sparsity for Image Restoration (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Oh_Attentive_Fine-Grained_Structured_Sparsity_for_Image_Restoration_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/JungHunOh/SLS_CVPR2022)]<br>
+*Datasets: GOPRO; DIV2K; Set14, B100  and Urban100*<br>
+*Task: Image super-resolution*
+
+* PatchNet: A Simple Face Anti-Spoofing Framework via Fine-Grained Patch Recognition (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_PatchNet_A_Simple_Face_Anti-Spoofing_Framework_via_Fine-Grained_Patch_Recognition_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: OULU-NPU (denoted asO), SiW(denoted as S), CASIA-FASD (denotedas C), Replay-Attack (denoted as I), MSU-MFSD*<br>
+*Task: Face anti-spoofing*
+
+* GrainSpace: A Large-Scale Dataset for Fine-Grained and Domain-Adaptive Recognition of Cereal Grains (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_GrainSpace_A_Large-Scale_Dataset_for_Fine-Grained_and_Domain-Adaptive_Recognition_of_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/hellodfan/GrainSpace)]<br>
+*Datasets: GrainSpace*<br>
+*Task: Grain Appearance Inspection (GAI)*
+
+<!-- #### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML
@@ -1239,6 +1318,109 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets: Caltech-UCSD Birds-200-2011(CUB), Animal with Attributes (AWA2) and SUN Attribute (SUN)*<br>
 *Task: Image Classification*
+
+* MvDeCor: Multi-View Dense Correspondence Learning for Fine-Grained 3D Segmentation (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620538.pdf)]
+[[Code](https://nv-tlabs.github.io/MvDeCor)]<br>
+*Datasets: 3D Segmentation*<br>
+*Task: PartNet; Render People; ShapeNet-Part*
+
+* Fine-Grained Data Distribution Alignment for Post-Training Quantization (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710070.pdf)]
+[[Code](https://github.com/zysxmu/FDDA)]<br>
+*Datasets: ResNet-18, MobileNetV1, MobileNetV2 and RegNet-600MF*<br>
+*Task: Network Quantization*
+
+* Deep Ensemble Learning by Diverse Knowledge Distillation for Fine-Grained Object Classification (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710501.pdf)]
+[[Code]]<br>
+*Datasets: Stanford Dogs, Stanford Cars, CUB-200-2011, CIFAR-10, and CIFAR-100*<br>
+*Task: Image Classification*
+
+* RDO-Q: Extremely Fine-Grained Channel-Wise Quantization via Rate-Distortion Optimization (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720156.pdf)]
+[[Code]]<br>
+*Datasets: ResNet-18, ResNet-34, ResNet-50 andMobileNet-v2, on the ImageNet dataset*<br>
+*Task: Network Quantization*
+
+* Rethinking Robust Representation Learning under Fine-Grained Noisy Faces (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720605.pdf)]
+[[Code]]<br>
+*Datasets: MS1MV0; MS1MV3*<br>
+*Task: Face Recognition*
+
+* SEMICON: A Learning-to-Hash Solution for Large-Scale Fine-Grained Image Retrieval (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740518.pdf)]
+[[Code](https://github.com/NJUST-VIPGroup/SEMICON)]<br>
+*Datasets: CUB200-2011, Aircraft and Food101, NABirds, VegFru*<br>
+*Task: Image Retrieval*
+
+* Where to Focus: Investigating Hierarchical Attention Relationship for Fine-Grained Visual Classification (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840056.pdf)]
+[[Code](https://github.com/visiondom/CHRF)]<br>
+*Datasets: CUB; Butterfly-200; VegFru; FGVC-Aircraft; Stanford  Cars*<br>
+*Task: Image Classification*
+
+* Improving Fine-Grained Visual Recognition in Low Data Regimes via Self-Boosting Attention Mechanism (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850444.pdf)]
+[[Code](https://github.com/GANPerf/SAM)]<br>
+*Datasets: Caltech-UCSD Birds (CUB-200-2011), Stanford Cars and FGVC-Aircraft*<br>
+*Task: Image Classification*
+
+* Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860708.pdf)]
+[[Code](https://github.com/1069066484/CSR-ECCV2022)]<br>
+*Datasets: Sketchy, QMUL-Shoe, QMUL-Chair, and QMUL-ShoeV2*<br>
+*Task: Image Retrieval*
+
+* Fine-Grained Fashion Representation Learning by Online Deep Clustering (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870019.pdf)]
+[[Code]]<br>
+*Datasets: FashionAI; DARN*<br>
+*Task: Image Classification*
+
+* Hierarchical Memory Learning for Fine-Grained Scene Graph Generation (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870263.pdf)]
+[[Code]]<br>
+*Datasets: Visual Genome (VG)*<br>
+*Task: Scene Graph Detection*
+
+* Fine-Grained Scene Graph Generation with Data Transfer (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870402.pdf)]
+[[Code](https://github.com/waxnkw/IETrans-SGG.pytorch)]<br>
+*Datasets: VG-50*<br>
+*Task: Scene Graph Detection*
+
+* TransFGU: A Top-down Approach to Fine-Grained Unsupervised Semantic Segmentation (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890072.pdf)]
+[[Code](https://github.com/damo-cv/TransFGU)]<br>
+*Datasets: COCO-Stuff; Cityscapes; Pascal-VOC; LIP*<br>
+*Task: Semantic Segmentation*
+
+* Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890125.pdf)]
+[[Code](https://github.com/owenzlz/EgoHOS)]<br>
+*Datasets: EPIC-KITCHENS; Ego4d; THU-READ; Escape Room*<br>
+*Task: Semantic Segmentation*
+
+* Word-Level Fine-Grained Story Visualization (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960342.pdf)]
+[[Code](https://github.com/mrlibw/Word-Level-Story-Visualization)]<br>
+*Datasets: Pororo-SV; CLEVR-SV*<br>
+*Task: Story Visualization*
+
+* Fine-Grained Visual Entailment (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960393.pdf)]
+[[Code](https://github.com/SkrighYZ/FGVE)]<br>
+*Datasets: VE+AMR→KE; VE→KE*<br>
+*Task: Visual Entailment*
+
+* Adaptive Fine-Grained Sketch-Based Image Retrieval (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970160.pdf)]
+[[Code]]<br>
+*Datasets: Sketchy (Category Level); Shoe-V2 (User Level)*<br>
+*Task: Image Retrieval*
+
 
 <!--#### AAAI
 #### TPAMI
@@ -1413,6 +1595,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 # Video Open World Papers
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -2037,15 +2220,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### NeurIPS
 #### ICCV
 #### ICML
-#### IEEE-Access-->
+#### IEEE-Access
 #### ECCV
-* DenseHybrid: Hybrid Anomaly Detection for Dense Open-set Recognition (ECCV 2022) 
-[[Paper](https://arxiv.org/pdf/2207.02606v1.pdf)]
-[[Code](https://github.com/matejgrcic/DenseHybrid)]<br>
-*Datasets: Fishyscapes, SegmentMeIfYouCan (SMIYC), StreetHazards*<br>
-*Task: Anomaly Detection*
-
-<!--#### AAAI
+#### AAAI
 #### TPAMI
 #### CVPRw
 #### WACV
@@ -2127,6 +2304,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840300.pdf)]
 [[Code](https://github.com/MediaBrain-SJTU/RegAD)]<br>
 *Datasets: MVTec; MPDD*
+
+* DenseHybrid: Hybrid Anomaly Detection for Dense Open-set Recognition (ECCV 2022) 
+[[Paper](https://arxiv.org/pdf/2207.02606v1.pdf)]
+[[Code](https://github.com/matejgrcic/DenseHybrid)]<br>
+*Datasets: Fishyscapes, SegmentMeIfYouCan (SMIYC), StreetHazards*
 
 <!--#### AAAI
 #### TPAMI

@@ -1220,11 +1220,30 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw
 #### Arxiv & Others-->
 ### 2021 Papers
-<!-- #### CVPR
-#### ICLR
-#### NeurIPS
+#### CVPR
+* Generalizing to the Open World: Deep Visual Odometry With Online Adaptation (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Generalizing_to_the_Open_World_Deep_Visual_Odometry_With_Online_CVPR_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: Cityscapes,  KITTI, indoor TUM, NYUv2*<br>
+*Task: Depth estimation*
+
+
+<!--#### ICLR
+#### NeurIPS-->
 #### ICCV
-#### ICML
+* Evidential Deep Learning for Open Set Action Recognition (ICCV 2021) 
+[[Paper](https://arxiv.org/pdf/2107.10161v2.pdf)]
+[[Code](https://www.rit.edu/actionlab/dear)]<br>
+*Datasets: UCF-101, HMDB-51, MiT-v2*<br>
+*Task: Action Recognition*
+
+* Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unidentified_Video_Objects_A_Benchmark_for_Dense_Open-World_Segmentation_ICCV_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: UVO, COCO*<br>
+*Task: Video Object detection and segmentation*
+
+<!-- #### ICML
 #### IEEE-Access
 #### ECCV
 #### AAAI
@@ -1235,7 +1254,36 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+### Older Papers
+* Specifying weight priors in bayesian deep neural networks with empirical bayes (AAAI 2020) 
+[[Paper](https://arxiv.org/pdf/1906.05323v3.pdf)]
+[[Code]]<br>
+*Datasets: UCF-101, Urban Sound 8K, MNIST, Fashion-MNIST, CIFAR10*<br>
+*Task: image and audio classification, and video activity recognition*
 
+* P-ODN: prototype-based open Deep network for open Set Recognition (Scientific Reports 2020) 
+[[Paper](https://www.nature.com/articles/s41598-020-63649-6)]
+[[Code]]<br>
+*Datasets: UCF11, UCF50, UCF101 and HMDB51*<br>
+*Task: Action recognition*
+
+* Uncertainty-aware audiovisual activity recognition using deep bayesian variational inference (ICCV 2019) 
+[[Paper](https://arxiv.org/pdf/1811.10811v3.pdf)]
+[[Code]]<br>
+*Datasets: MiT*<br>
+*Task: Audiovisual action recognition*
+
+* Bayesian activity recognition using variational inference (NeurIPS 2018) 
+[[Paper](https://arxiv.org/pdf/1811.03305v2.pdf)]
+[[Code]]<br>
+*Datasets:  MiT video activity recognition dataset*<br>
+*Task: Action recognition*
+
+* ODN: Opening the deep networkfor open-set action recognition (ICME 2018) 
+[[Paper](https://arxiv.org/pdf/1901.07757v1.pdf)]
+[[Code]]<br>
+*Datasets:  HMDB51, UCF50, UCF101*<br>
+*Task: Action recognition*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ##  Novel Class Discovery Videos
 ### 2023 Papers
@@ -1284,9 +1332,20 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 ### 2021 Papers
 <!-- #### CVPR
 #### ICLR
-#### NeurIPS
+#### NeurIPS-->
 #### ICCV
-#### ICML
+* Joint Representation Learning and Novel Category Discovery on Single- and Multi-Modal Data (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jia_Joint_Representation_Learning_and_Novel_Category_Discovery_on_Single-_and_ICCV_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: ImageNet; CIFAR-10/CIFAR-100; Kinetics-400; VGG-Sound*<br>
+*Task: Multi-modal Data*
+
+* Learning To Better Segment Objects From Unseen Classes With Unlabeled Videos (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Du_Learning_To_Better_Segment_Objects_From_Unseen_Classes_With_Unlabeled_ICCV_2021_paper.pdf)]
+[[Code](https://dulucas.github.io/gbopt)]<br>
+*Datasets: COCO -> Unseen-VIS; DAVIS*<br>
+*Task: Instance segmentation*
+<!--#### ICML
 #### IEEE-Access
 #### ECCV
 #### AAAI
@@ -1297,7 +1356,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
-
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary Videos

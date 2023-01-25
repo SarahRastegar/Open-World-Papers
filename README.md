@@ -25,6 +25,7 @@ Without further due, let us dive into the fantastic and challenging world of unc
 - [Open Vocabulary Videos](#Open-Vocabulary-Videos)
 - [Fine Grained Videos](#Fine-Grained-Videos)
 - [Long Tail Videos](#Long-Tail-Videos)
+- [Anomaly Detection Videos](#Anomaly-Detection-Videos)
 
 ## Introduction 
 Let us consider a Telsa! Car is our running example during this repo. One day Telsa engineers decide to train their autopilot model. First, they meticulously collect these data on mornings on the way to their job while contemplating their life choices in the traffic. Then they give those videos to some people to categorize over several categories like cars, bikes, people, birds, and trees. They then train the model on the collected, labeled data, which produces a good performance on the evaluation data.
@@ -141,8 +142,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Non-Generative Generalized Zero-Shot Learning via Task-Correlated Disentanglement and Controllable Samples Synthesis (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Non-Generative_Generalized_Zero-Shot_Learning_via_Task-Correlated_Disentanglement_and_Controllable_Samples_CVPR_2022_paper.pdf)]
 [[Code]]<br>
-*Datasets: Animal with Attribute (AWA1), Animal withAttribute2 (AWA2), Caltech-UCSD Birds-200-2011(CUB) and Oxford 102 flowers (FLO)*<br>
-*Task: Image Classificationl*
+*Datasets: Animal with Attribute (AWA1), Animal with Attribute2 (AWA2), Caltech-UCSD Birds-200-2011(CUB) and Oxford 102 flowers (FLO)*<br>
+*Task: Image Classification*
 
 * CLIP-Forge: Towards Zero-Shot Text-To-Shape Generation (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sanghi_CLIP-Forge_Towards_Zero-Shot_Text-To-Shape_Generation_CVPR_2022_paper.pdf)]
@@ -432,6 +433,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets: CUB-200, AWA2, MNIST, CIFAR-10, CIFAR-100, SVHN, Tiny Imagenet*<br>
 *Task: Image Classification*
+
 <!--#### IJCV
 #### BMVC
 #### ICCw -->
@@ -1035,6 +1037,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](http://www.robots.ox.ac.uk/~vgg/research/auto_novel)]<br>
 *Datasets: CIFAR-10; CIFAR-100; SVHN*<br>
 *Task: Image Classification*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1080,7 +1083,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets: COCO, Nocaps*<br>
 *Task: Novel Object Captioning*
-
 
 <!--#### ICLR
 #### NeurIPS
@@ -1287,8 +1289,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+<!-- #### ICLR
 #### NeurIPS
 #### ICCV-->
 #### ICML
@@ -1315,12 +1317,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
-<!-- #### CVPR
+<!--#### CVPR
 #### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML
-#### IEEE-Access
+#### IEEE-Access 
 #### ECCV
 #### AAAI
 #### TPAMI
@@ -1330,11 +1332,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
-
-<!----------------------------------------------------------------------------------------------------------------------------------------------->
-# Video Open World Papers
-<!----------------------------------------------------------------------------------------------------------------------------------------------->
-
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Anomaly Detection
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1357,29 +1354,40 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
-* UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Acsintoae_UBnormal_New_Benchmark_for_Supervised_Open-Set_Video_Anomaly_Detection_CVPR_2022_paper.pdf)]
-[[Code](https://github.com/lilygeorgescu/UBnormal)]<br>
-*Datasets: UBnormal, CHUK, Avenue, Shang-hai Tech*<br>
-*Task: Anomaly Detection*
+* Learning Second Order Local Anomaly for General Face Forgery Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Fei_Learning_Second_Order_Local_Anomaly_for_General_Face_Forgery_Detection_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: Face-Forensics++ (FF++), Celeb-DF v2 (CD2), Deep-fakeDetection Dataset (DFD), and FaceShifter (Fshi)*<br>
 <!-- #### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML
 #### IEEE-Access-->
 #### ECCV
-* DenseHybrid: Hybrid Anomaly Detection for Dense Open-set Recognition (ECCV 2022) 
-[[Paper](https://arxiv.org/pdf/2207.02606v1.pdf)]
-[[Code](https://github.com/matejgrcic/DenseHybrid)]<br>
-*Datasets: Fishyscapes, SegmentMeIfYouCan (SMIYC), StreetHazards*<br>
-*Task: Anomaly Detection*
+* Hierarchical Semi-Supervised Contrastive Learning for Contamination-Resistant Anomaly Detection (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850107.pdf)]
+[[Code](https://github.com/GaoangW/HSCL)]<br>
+*Datasets: CIFAR-10, CIFAR-100, ImageNet (FIX), SVHN, and LSUN (FIX)*<br>
 
-* Towards Open Set Video Anomaly Detection (ECCV 2022) 
-[[Paper](https://arxiv.org/pdf/2208.11113v1.pdf)]
-[[Code]]<br>
-*Datasets: XD Violence, UCF Crime, ShanghaiTech Campus*<br>
-*Task: Anomaly Detection*
+* Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900353.pdf)]
+[[Code](https://www.kind-of-works.com)]<br>
+*Datasets: MNIST; STL-10; Internet STL-10; MIT-Places-5; CIFAR-10; CatVsDog; Fashion-MNIST*<br>
 
+* Natural Synthetic Anomalies for Self-Supervised Anomaly Detection and Localization (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910459.pdf)]
+[[Code](https://github.com/hmsch/natural-synthetic-anomalies)]<br>
+*Datasets: MVTecAD; rCXR*<br>
+
+* DSR – A Dual Subspace Re-Projection Network for Surface Anomaly Detection (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910526.pdf)]
+[[Code](https://github.com/VitjanZ/DSR_anomaly_detection)]<br>
+*Datasets: KSDD2; ImageNet*<br>
+
+* Pixel-Wise Energy-Biased Abstention Learning for Anomaly Segmentation on Complex Urban Driving Scenes (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990242.pdf)]
+[[Code](https://github.com/tianyu0207/PEBAL)]<br>
+*Datasets: LostAndFound; Fishyscapes; Road Anomaly*<br>
 <!--#### AAAI
 #### TPAMI
 #### CVPRw
@@ -1405,6 +1413,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+# Video Open World Papers
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Zero-Shot Learning Videos
@@ -1992,6 +2003,77 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### IEEE-Access
 #### ECCV
 #### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2021 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Anomaly Detection Videos
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2023 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access-->
+#### ECCV
+* DenseHybrid: Hybrid Anomaly Detection for Dense Open-set Recognition (ECCV 2022) 
+[[Paper](https://arxiv.org/pdf/2207.02606v1.pdf)]
+[[Code](https://github.com/matejgrcic/DenseHybrid)]<br>
+*Datasets: Fishyscapes, SegmentMeIfYouCan (SMIYC), StreetHazards*<br>
+*Task: Anomaly Detection*
+
+<!--#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2022 Papers
+#### CVPR
+* UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Acsintoae_UBnormal_New_Benchmark_for_Supervised_Open-Set_Video_Anomaly_Detection_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/lilygeorgescu/UBnormal)]<br>
+*Datasets: UBnormal, CHUK, Avenue, Shang-hai Tech*<br>
+*Task: Anomaly Detection*
+<!-- #### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access-->
+#### ECCV
+* Towards Open Set Video Anomaly Detection (ECCV 2022) 
+[[Paper](https://arxiv.org/pdf/2208.11113v1.pdf)]
+[[Code]]<br>
+*Datasets: XD Violence, UCF Crime, ShanghaiTech Campus*<br>
+*Task: Anomaly Detection*
+
+<!--#### AAAI
 #### TPAMI
 #### CVPRw
 #### WACV

@@ -64,14 +64,58 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### WACV
 #### IJCV
 #### BMVC
-#### ICCw -->
+#### ICCw
+#### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Zero-Shot Learning
 ### 2023 Papers
-### 2022 Papers
-### 2021 Papers
 <!-- #### CVPR
 #### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+
+### 2022 Papers
+#### CVPR
+* KG-SP: Knowledge Guided Simple Primitivesfor Open World Compositional Zero-Shot Learning (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Karthik_KG-SP_Knowledge_Guided_Simple_Primitives_for_Open_World_Compositional_Zero-Shot_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/ExplainableML/KG-SP)]<br>
+*Datasets: UT-Zappos, MIT-States, C-GQA*<br>
+*Task: Compositional Zero-Shot Learning*
+
+<!-- #### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+
+### 2021 Papers
+#### CVPR
+* Counterfactual Zero-Shot and Open-Set Visual Recognition (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Counterfactual_Zero-Shot_and_Open-Set_Visual_Recognition_CVPR_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: MNIST, SVHN,CIFAR10 and CIFAR100*<br>
+*Task: Object Detection*
+<!-- #### ICLR
 #### NeurIPS-->
 #### ICCV
 * Prototypical Matching and Open Set Rejection for Zero-Shot Semantic Segmentation (ICCV 2021) 
@@ -92,6 +136,23 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
+### 2023 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+
 ### 2022 Papers
 <!-- #### CVPR
 #### ICLR
@@ -118,7 +179,28 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets:*<br>
 *Task: OOD Detection*
+### 2021 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS-->
+#### ICCV
+* Trash To Treasure: Harvesting OOD Data With Cross-Modal Matching for Open-Set Semi-Supervised Learning (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Trash_To_Treasure_Harvesting_OOD_Data_With_Cross-Modal_Matching_for_ICCV_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR-10, Animal-10, Tiny-ImageNet, CIFAR100*<br>
+*Task: OOD Detection*
 
+<!--#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open-Set Recognition 
 ### 2023 Papers
@@ -748,18 +830,69 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Long Tail
+
 ### 2023 Papers
-### 2022 Papers
-
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
 #### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
 
+### 2022 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV-->
+#### ICML
+* Open-Sampling: Exploring Out-of-Distribution Data for Re-balancing long-tailed Datasets (ICML 2022) 
+[[Paper](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf)]
+[[Code](https://github.com/hongxin001/logitnorm_ood)]<br>
+*Datasets: long-tailed CIFAR10/100, CelebA-5, Places-LT*<br>
+*Task: Out-of-Distribution detection*
+<!-- #### IEEE-Access
+#### ECCV
+#### AAAI-->
+#### TPAMI
 * Open Long-Tailed RecognitionIn A Dynamic World	(TPAMI 2022) 
 [[Paper](https://arxiv.org/pdf/2208.08349v1.pdf)]
 [[Code](https://liuziwei7.github.io/projects/LongTail.html)]<br>
 *Datasets: CIFAR-10-LT,CIFAR-100-LT, and iNaturalist-18, Places-LT,  MS1M-LT, SUN-LT*<br>
 *Task: Image Classification*
-### 2021 Papers
+<!--#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
 
+
+
+### 2021 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 # Video Open World Papers
@@ -767,7 +900,42 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Anomaly Detection
 ### 2023 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
 ### 2022 Papers
+#### CVPR
+<!-- #### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access-->
+#### ECCV
+* DenseHybrid: Hybrid Anomaly Detection for Dense Open-set Recognition (ECCV 2022) 
+[[Paper](https://arxiv.org/pdf/2207.02606v1.pdf)]
+[[Code](https://github.com/matejgrcic/DenseHybrid)]<br>
+*Datasets: Fishyscapes, SegmentMeIfYouCan (SMIYC), StreetHazards*<br>
+*Task: Anomaly Detection*
+<!--#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
 ### 2021 Papers
 <!-- #### CVPR
 #### ICLR

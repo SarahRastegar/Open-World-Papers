@@ -212,6 +212,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 ### 2023 Papers
 <!-- #### CVPR-->
 #### ICLR
+* The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition (ICLR 2023 Submission) 
+[[Paper](https://openreview.net/pdf?id=xLr0I_xYGAs)]
+[[Code]]<br>
+*Datasets:  CIFAR100, LSUN, MiTv2, UCF101, HMDB51*<br>
+*Task: Image and Video Classification*
 <!--#### NeurIPS
 #### ICCV
 #### ICML
@@ -631,8 +636,27 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw
 #### Arxiv & Others-->
 ### 2022 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+* Divide and Conquer: Compositional Experts for Generalized Novel Class Discovery (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Divide_and_Conquer_Compositional_Experts_for_Generalized_Novel_Class_Discovery_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/muliyangm/ComEx)]<br>
+*Datasets: CIFAR-10; CIFAR100-50; CIFAR100-20; ImageNet*<br>
+*Task: Image Classification*
+
+
+* Generalized Category Discovery (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Divide_and_Conquer_Compositional_Experts_for_Generalized_Novel_Class_Discovery_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/muliyangm/ComEx)]<br>
+*Datasets: CIFAR-10; CIFAR100-50; CIFAR100-20; ImageNet*<br>
+*Task: Image Classification*
+
+* Novel Class Discovery in Semantic Segmentation (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Novel_Class_Discovery_in_Semantic_Segmentation_CVPR_2022_paper.pdf)]
+[[Code](https://ncdss.github.io)]<br>
+*Datasets: PASCAL-5i dataset; the COCO-20i dataset*<br>
+*Task: Semantic Segmentation*
+
+<!-- #### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML

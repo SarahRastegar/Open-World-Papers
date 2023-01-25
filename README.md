@@ -51,27 +51,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 | Generalized Category Discovery | Classify test samples from a set of seen or unknown categories into seen categories or proposed clasters.|
 | Open vocabulary | Classify test samples from a set of seen or unknown categories into proposed clasters and find the corresponding name for that claster with the help of additional information like another modality or language models.|
 
-<!----------------------------------------------------------------------------------------------------------------------------------------------->
-## Zero-Shot Learning
-<!----------------------------------------------------------------------------------------------------------------------------------------------->
-## Out-of-Distribution Detection
-### 2022 Papers
-* Open-Sampling: Exploring Out-of-Distribution Data for Re-balancing long-tailed Datasets (ICML 2022) 
-[[Paper](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf)]
-[[Code](https://github.com/hongxin001/logitnorm_ood)]<br>
-*Datasets: long-tailed CIFAR10/100, CelebA-5, Places-LT*<br>
-*Task: Out-of-Distribution detection*
-
-#### BMVC (Not Complete)
-* OSM: An Open Set Matting Framework with OOD Detection and Few-Shot Matting (BMVC 2022) 
-[[Paper]]
-[[Code]]<br>
-*Datasets:*<br>
-*Task: OOD Detection*
-
-<!----------------------------------------------------------------------------------------------------------------------------------------------->
-## Open-Set Recognition 
-### 2023 Papers
 <!-- #### CVPR
 #### ICLR
 #### NeurIPS
@@ -84,6 +63,68 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### CVPRw
 #### WACV
 #### IJCV
+#### BMVC
+#### ICCw -->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Zero-Shot Learning
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw -->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Out-of-Distribution Detection
+### 2022 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV-->
+#### ICML
+* Open-Sampling: Exploring Out-of-Distribution Data for Re-balancing long-tailed Datasets (ICML 2022) 
+[[Paper](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf)]
+[[Code](https://github.com/hongxin001/logitnorm_ood)]<br>
+*Datasets: long-tailed CIFAR10/100, CelebA-5, Places-LT*<br>
+*Task: Out-of-Distribution detection*
+<!-- #### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw -->
+#### BMVC 
+* OSM: An Open Set Matting Framework with OOD Detection and Few-Shot Matting (BMVC 2022) 
+[[Paper]]
+[[Code]]<br>
+*Datasets:*<br>
+*Task: OOD Detection*
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Open-Set Recognition 
+### 2023 Papers
+<!-- #### CVPR-->
+#### ICLR
+<!--#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw-->
+#### WACV
+<!--#### IJCV
 #### BMVC
 #### ICCw -->
 ### 2022 Papers
@@ -165,25 +206,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: NewsCLIPpings*<br>
 *Task: Multi-modal Fact-checking*
 
-#### CVPRw
-
-* Variable Few Shot Class Incremental and Open World Learning (CVPRw 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Ahmad_Variable_Few_Shot_Class_Incremental_and_Open_World_Learning_CVPRW_2022_paper.pdf)]
-[[Code](https://github.com/TouqeerAhmad/VFSOWL)]<br>
-*Datasets: Caltech-UCSD Birds-200-2011 CUB200; miniImageNet*<br>
-*Task: Image Classification*
-
-* Towards Open-Set Object Detection and Discovery (CVPRw 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Zheng_Towards_Open-Set_Object_Detection_and_Discovery_CVPRW_2022_paper.pdf)]
-[[Code]]<br>
-*Datasets: Pascal VOC 2007; MS-COCO*<br>
-*Task: Image Classification*
-
-* Open-Set Domain Adaptation Under Few Source-Domain Labeled Samples (CVPRw 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Rakshit_Open-Set_Domain_Adaptation_Under_Few_Source-Domain_Labeled_Samples_CVPRW_2022_paper.pdf)]
-[[Code]]<br>
-*Datasets: Office-31; Mini-domainNet; NPU-RSDA*<br>
-*Task: Image Classification*
 
 #### ICLR
 
@@ -217,6 +239,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/antoalli/3D_OS)]<br>
 *Datasets: ShapeNetCore v2,  ModelNet40->ScanObjectNN, ScanObjectNN*<br>
 *Task: Point Cloud Novelty Detection*
+
 #### ECCV 
 * Open-Set Semi-Supervised Object Detection (ECCV 2022 Oral) 
 [[Paper](https://arxiv.org/pdf/2208.13722v1.pdf)]
@@ -304,7 +327,32 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets:*<br>
 *Task:*
 
+#### TPAMI
+* Open Long-Tailed RecognitionIn A Dynamic World	(TPAMI 2022) 
+[[Paper](https://arxiv.org/pdf/2208.08349v1.pdf)]
+[[Code](https://liuziwei7.github.io/projects/LongTail.html)]<br>
+*Datasets: CIFAR-10-LT,CIFAR-100-LT, and iNaturalist-18, Places-LT,  MS1M-LT, SUN-LT*<br>
+*Task: Image Classification*
 
+#### CVPRw
+
+* Variable Few Shot Class Incremental and Open World Learning (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Ahmad_Variable_Few_Shot_Class_Incremental_and_Open_World_Learning_CVPRW_2022_paper.pdf)]
+[[Code](https://github.com/TouqeerAhmad/VFSOWL)]<br>
+*Datasets: Caltech-UCSD Birds-200-2011 CUB200; miniImageNet*<br>
+*Task: Image Classification*
+
+* Towards Open-Set Object Detection and Discovery (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Zheng_Towards_Open-Set_Object_Detection_and_Discovery_CVPRW_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: Pascal VOC 2007; MS-COCO*<br>
+*Task: Image Classification*
+
+* Open-Set Domain Adaptation Under Few Source-Domain Labeled Samples (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Rakshit_Open-Set_Domain_Adaptation_Under_Few_Source-Domain_Labeled_Samples_CVPRW_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: Office-31; Mini-domainNet; NPU-RSDA*<br>
+*Task: Image Classification*
 
 
 #### WACV
@@ -345,12 +393,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets:*<br>
 *Task: Domain Adaptation*
 
-#### TPAMI
-* Open Long-Tailed RecognitionIn A Dynamic World	(WACV 2022) 
-[[Paper](https://arxiv.org/pdf/2208.08349v1.pdf)]
-[[Code](https://liuziwei7.github.io/projects/LongTail.html)]<br>
-*Datasets: CIFAR-10-LT,CIFAR-100-LT, and iNaturalist-18, Places-LT,  MS1M-LT, SUN-LT*<br>
-*Task: Image Classification*
 
 #### BMVC
 * Dual Decision Improves Open-Set Panoptic Segmentation (BMVC 2022) 
@@ -410,14 +452,94 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw -->
 ### 2022 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+* Open-Vocabulary One-Stage Detection with Hierarchical Visual-Language Knowledge Distillation	(CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Open-Vocabulary_One-Stage_Detection_With_Hierarchical_Visual-Language_Knowledge_Distillation_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/mengqiDyangge/HierKD)]<br>
+*Datasets: MS COCO*<br>
+*Task: Object Detection*
+
+* Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling	(CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Huynh_Open-Vocabulary_Instance_Segmentation_via_Robust_Cross-Modal_Pseudo-Labeling_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/hbdat/cvpr22_cross_modal_pseudo_labeling)]<br>
+*Datasets: MS-COCO, Open Images, Conceptual Caption*<br>
+*Task: Instance segmentation*
+
+* Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Du_Learning_To_Prompt_for_Open-Vocabulary_Object_Detection_With_Vision-Language_Model_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/dyabel/detpro)]<br>
+*Datasets: LVIS v1, Pascal  VOC  Dataset, COCO, Objects365  Dataset*<br>
+*Task: Object detection and instance segmentation*
+
+
+
+<!--#### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML
-#### IEEE-Access
+#### IEEE-Access-->
 #### ECCV
-#### AAAI
+
+* PromptDet: Towards Open-vocabulary Detection using Uncurated Images	(ECCV 2022) 
+[[Paper](https://arxiv.org/pdf/2203.16513v2.pdf)]
+[[Code](https://fcjian.github.io/promptdet)]<br>
+*Datasets: LVIS, LAION-400M and LAION-Novel, COCO*<br>
+*Task: Object Detection*
+
+* Scaling Open-vocabulary Image Segmentation with Image-level Labels (ECCV 2022) 
+[[Paper](https://arxiv.org/pdf/2112.12143v2.pdf)]
+[[Code]]<br>
+*Datasets: COCO, Localized Narrative (Loc. Narr.) test: PASCAL Context, PASCAL  VOC, ADE20k*<br>
+*Task: Instance segmentation*
+
+* Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning (ECCV 2022) 
+[[Paper](https://arxiv.org/pdf/2208.08165v3.pdf)]
+[[Code]]<br>
+*Datasets: Visual Genome(VG), GQA, Open-Image*<br>
+*Task: Scene Graph Generation*
+
+* Simple Open-Vocabulary Object Detection with Vision Transformers (ECCV 2022) 
+[[Paper](https://arxiv.org/pdf/2205.06230v2.pdf)]
+[[Code](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)]<br>
+*Datasets: OpenImages V4 (OI), Objects 365 (O365),and/or Visual Genome (VG) - Evaluation: COCO, LVIS, and O365*<br>
+*Task: Object Detection*
+
+* Open Vocabulary Object Detection with Pseudo Bounding-Box Labels (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700263.pdf)]
+[[Code](https://github.com/salesforce/PB-OVD)]<br>
+*Datasets: COCO Caption, Visual-Genome, and SBU Caption (Object names:  COCO,  PASCAL  VOC,  Objects365 and LVIS)*<br>
+*Task: Object Detection*
+
+* Open-Vocabulary DETR with Conditional Matching (ECCV 2022 Oral) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690107.pdf)]
+[[Code](https://github.com/yuhangzang/OV-DETR)]<br>
+*Datasets: LVIS, COCO*<br>
+*Task: Object Detection*
+
+* Improving Closed and Open-Vocabulary Attribute Prediction using Transformers (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850199.pdf)]
+[[Code](https://vkhoi.github.io/TAP)]<br>
+*Datasets: VAW (closed-set) LSA common, LSA common→rare, HICO*<br>
+*Task: Attribute Prediction*
+
+* A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model (ECCV 2022) 
+[[Paper]]
+[[Code]]<br>
+*Datasets: COCO Stuff; Pascal VOC 2012; Cityscapes; Pascal Context; ADE20K*<br>
+*Task: Semantic Segmentation*
+
+* A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680304.pdf)]
+[[Code](https://github.com/aburns4/MoTIF)]<br>
+*Datasets: MoTIF*<br>
+*Task: Vision-Language Navigation (Apps)*
+
+* Acknowledging the Unknown for Multi-label Learning with Single Positive Labels (ECCV 2022) 
+[[Paper]]
+[[Code]]<br>
+*Datasets:*<br>
+*Task:*
+<!--#### AAAI
 #### TPAMI
 #### CVPRw
 #### WACV
@@ -430,7 +552,15 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Long Tail
+### 2022 Papers
 
+#### TPAMI
+
+* Open Long-Tailed RecognitionIn A Dynamic World	(TPAMI 2022) 
+[[Paper](https://arxiv.org/pdf/2208.08349v1.pdf)]
+[[Code](https://liuziwei7.github.io/projects/LongTail.html)]<br>
+*Datasets: CIFAR-10-LT,CIFAR-100-LT, and iNaturalist-18, Places-LT,  MS1M-LT, SUN-LT*<br>
+*Task: Image Classification*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 # Video Open World Papers
 

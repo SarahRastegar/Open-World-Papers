@@ -72,9 +72,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 ### 2021 Papers
 <!-- #### CVPR
 #### ICLR
-#### NeurIPS
+#### NeurIPS-->
 #### ICCV
-#### ICML
+* Prototypical Matching and Open Set Rejection for Zero-Shot Semantic Segmentation (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Prototypical_Matching_and_Open_Set_Rejection_for_Zero-Shot_Semantic_Segmentation_ICCV_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: Pascal VOC 2012, Pascal Context*<br>
+*Task: Semantic Segmentation*
+<!--#### ICML
 #### IEEE-Access
 #### ECCV
 #### AAAI
@@ -443,10 +448,60 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets: CIFAR10, CIFAR 100, Imagenet*<br>
 *Task: Object Detection*
+
 <!-- #### ICLR
-#### NeurIPS
+#### NeurIPS-->
 #### ICCV
-#### ICML
+* NGC: A Unified Framework for Learning With Open-World Noisy Data (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_NGC_A_Unified_Framework_for_Learning_With_Open-World_Noisy_Data_ICCV_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR10, CIFAR 100, TinyImageNet, Places-365*<br>
+*Task: OOD*
+
+* OpenGAN: Open-Set Recognition via Open Data Generation (ICCV 2021 Best honorable) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kong_OpenGAN_Open-Set_Recognition_via_Open_Data_Generation_ICCV_2021_paper.pdf)]
+[[Code](https://github.com/aimerykong/OpenGAN)]<br>
+*Datasets: MNIST, SVHN,CIFAR10, TinyImageNet, Cityscapes*<br>
+*Task: Image Classification*
+
+* Conditional Variational Capsule Network for Open Set Recognition (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Conditional_Variational_Capsule_Network_for_Open_Set_Recognition_ICCV_2021_paper.pdf)]
+[[Code](https://github.com/guglielmocamporese/cvaecaposr)]<br>
+*Datasets: MNIST, SVHN, CIFAR10,  CIFAR+10, CIFAR+50 and TinyImageNet*<br>
+*Task: Image Classification*
+
+* Deep Metric Learning for Open World Semantic Segmentation (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cen_Deep_Metric_Learning_for_Open_World_Semantic_Segmentation_ICCV_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: StreetHazards, Lost and  Found  and  Road  Anomaly*<br>
+*Task: Semantic Segmentation*
+
+* Towards Discovery and Attribution of Open-World GAN Generated Images (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Girish_Towards_Discovery_and_Attribution_of_Open-World_GAN_Generated_Images_ICCV_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets:*<br>
+*Task: Image Generation*
+
+* Prototypical Matching and Open Set Rejection for Zero-Shot Semantic Segmentation (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Prototypical_Matching_and_Open_Set_Rejection_for_Zero-Shot_Semantic_Segmentation_ICCV_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: Pascal VOC 2012, Pascal Context*<br>
+*Task: Semantic Segmentation*
+
+* Energy-Based Open-World Uncertainty Modeling for Confidence Calibration (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Energy-Based_Open-World_Uncertainty_Modeling_for_Confidence_Calibration_ICCV_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: MNIST,CIFAR-10/100 and Tiny-ImageNet*<br>
+*Task: Confidence Calibration*
+
+
+* Trash To Treasure: Harvesting OOD Data With Cross-Modal Matching for Open-Set Semi-Supervised Learning (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Trash_To_Treasure_Harvesting_OOD_Data_With_Cross-Modal_Matching_for_ICCV_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR-10, Animal-10, Tiny-ImageNet, CIFAR100*<br>
+*Task: OOD Detection*
+
+<!--#### ICML
 #### IEEE-Access
 #### ECCV
 #### AAAI
@@ -668,7 +723,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### WACV
 #### IJCV
 #### BMVC
-#### ICCw -->
+#### ICCw
+#### Arxiv & Others-->
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Fine Grained
@@ -688,12 +744,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### WACV
 #### IJCV
 #### BMVC
-#### ICCw -->
+#### ICCw
+#### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Long Tail
 ### 2023 Papers
 ### 2022 Papers
-### 2021 Papers
 
 #### TPAMI
 
@@ -702,6 +758,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://liuziwei7.github.io/projects/LongTail.html)]<br>
 *Datasets: CIFAR-10-LT,CIFAR-100-LT, and iNaturalist-18, Places-LT,  MS1M-LT, SUN-LT*<br>
 *Task: Image Classification*
+### 2021 Papers
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 # Video Open World Papers
 
@@ -723,4 +782,5 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### WACV
 #### IJCV
 #### BMVC
-#### ICCw -->
+#### ICCw
+#### Arxiv & Others-->

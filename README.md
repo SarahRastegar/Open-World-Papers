@@ -99,16 +99,142 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: UT-Zappos, MIT-States, C-GQA*<br>
 *Task: Compositional Zero-Shot Learning*
 
-<!-- #### ICLR
+* Unseen Classes at a Later Time? No Problem (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Kuchibhotla_Unseen_Classes_at_a_Later_Time_No_Problem_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: AWA1  and  AWA2,  Attribute  Pascal  and  Yahoo(aPY), Caltech-UCSD-Birds 200-2011 (CUB) and SUN*<br>
+*Task: Image Classification*
+
+* Few-Shot Keypoint Detection With Uncertainty Learning for Unseen Species (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Few-Shot_Keypoint_Detection_With_Uncertainty_Learning_for_Unseen_Species_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: Animal  pose, CUB, NABird*<br>
+*Task: Keypoint Detection*
+
+* Distinguishing Unseen From Seen for Generalized Zero-Shot Learning (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Su_Distinguishing_Unseen_From_Seen_for_Generalized_Zero-Shot_Learning_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: Caltech-UCSD Birds-200-2011 (CUB), Ox-ford Flowers (FLO), SUN Attribute (SUN), Animals with Attributes 1 (AwA1) and Animals with Attributes 2(AwA2)*<br>
+*Task: Image Classification*
+
+* Siamese Contrastive Embedding Network for Compositional Zero-Shot Learning (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Siamese_Contrastive_Embedding_Network_for_Compositional_Zero-Shot_Learning_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/XDUxyLi/SCEN-master)]<br>
+*Datasets: MIT-States, UT-Zappos, and C-GQA*<br>
+*Task: Image Classification*
+
+* ZeroCap: Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tewel_ZeroCap_Zero-Shot_Image-to-Text_Generation_for_Visual-Semantic_Arithmetic_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/YoadTew/zero-shot-image-to-text)]<br>
+*Datasets: COCO*<br>
+*Task: Image Captioning*
+
+* LiT: Zero-Shot Transfer With Locked-Image Text Tuning (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhai_LiT_Zero-Shot_Transfer_With_Locked-Image_Text_Tuning_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CC12M; YFCC100m; ALIGN; ImageNet-v2, -R, -A, -ReaL, and ObjectNet, VTAB;  Cifar100; Pets; Wikipedia based Image Text (WIT) dataset*<br>
+*Task: Image-text retreival*
+
+* Non-Generative Generalized Zero-Shot Learning via Task-Correlated Disentanglement and Controllable Samples Synthesis (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Non-Generative_Generalized_Zero-Shot_Learning_via_Task-Correlated_Disentanglement_and_Controllable_Samples_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: Animal with Attribute (AWA1), Animal withAttribute2 (AWA2), Caltech-UCSD Birds-200-2011(CUB) and Oxford 102 flowers (FLO)*<br>
+*Task: Image Classificationl*
+
+* CLIP-Forge: Towards Zero-Shot Text-To-Shape Generation (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sanghi_CLIP-Forge_Towards_Zero-Shot_Text-To-Shape_Generation_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/AutodeskAILab/Clip-Forge)]<br>
+*Datasets: ShapeNet(v2) dataset*<br>
+*Task: Text-To-Shape Generation*
+
+* Zero-Shot Text-Guided Object Generation With Dream Fields (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jain_Zero-Shot_Text-Guided_Object_Generation_With_Dream_Fields_CVPR_2022_paper.pdf)]
+[[Code](https://ajayj.com/dreamfields)]<br>
+*Datasets: COCO*<br>
+*Task: Text-Guided Object Generation*
+
+* En-Compactness: Self-Distillation Embedding & Contrastive Generation for Generalized Zero-Shot Learning (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_En-Compactness_Self-Distillation_Embedding__Contrastive_Generation_for_Generalized_Zero-Shot_Learning_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: Animals with Attributes 1&2 (AWA1 &AWA2), USCD Birds-200-2011 (CUB), OxfordFlowers (FLO),  and  Attributes  Pascal  and  Yahoo(APY)*<br>
+*Task: Image Classification*
+
+* VGSE: Visually-Grounded Semantic Embeddings for Zero-Shot Learning (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_VGSE_Visually-Grounded_Semantic_Embeddings_for_Zero-Shot_Learning_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/wenjiaXu/VGSE)]<br>
+*Datasets: AWA2; CUB; SUN*<br>
+*Task: Image Classification*
+
+* Sketch3T: Test-Time Training for Zero-Shot SBIR (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sain_Sketch3T_Test-Time_Training_for_Zero-Shot_SBIR_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: Sketchy;  TU-Berlin Extension*<br>
+*Task: Sketch-based image retrieval*
+
+* MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_MSDN_Mutually_Semantic_Distillation_Network_for_Zero-Shot_Learning_CVPR_2022_paper.pdf)]
+[[Code](https://anonymous.4open.science/r/MSDN)]<br>
+*Datasets: CUB  (Caltech  UCSD  Birds200), SUN (SUN Attribute) and AWA2 (Animalswith Attributes 2)*<br>
+*Task: Image Classification*
+
+* Decoupling Zero-Shot Semantic Segmentation (CVPR 2022) 
+[[Paper](https://arxiv.org/pdf/2112.07910v2.pdf)]
+[[Code](https://github.com/dingjiansw101/ZegFormer)]<br>
+*Datasets: PASCAL VOC; COCO-Stuff*<br>
+*Task: Semantic Segmentation*
+
+* Robust Region Feature Synthesizer for Zero-Shot Object Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Robust_Region_Feature_Synthesizer_for_Zero-Shot_Object_Detection_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: PASCAL VOC, COCO, and DIOR*<br>
+*Task: Object Detection*
+
+* IntraQ: Learning Synthetic Images With Intra-Class Heterogeneity for Zero-Shot Network Quantization (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_IntraQ_Learning_Synthetic_Images_With_Intra-Class_Heterogeneity_for_Zero-Shot_Network_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/zysxmu/IntraQ)]<br>
+*Datasets: CIFAR-10/100; ImageNet*<br>
+*Task: Zero-Shot Quantization*
+
+* It's All in the Teacher: Zero-Shot Quantization Brought Closer to the Teacher (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Choi_Its_All_in_the_Teacher_Zero-Shot_Quantization_Brought_Closer_to_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR-10/100; ImageNet*<br>
+*Task: Zero-Shot Quantization*
+
+* Robust Fine-Tuning of Zero-Shot Models (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wortsman_Robust_Fine-Tuning_of_Zero-Shot_Models_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: ImageNet distribution shifts (ImageNetV2, ImageNet-R,ObjectNet, and ImageNet-A, ImageNet Sketch); CIFAR10.1 &10.2*<br>
+*Task: Zero-shot distribution shift robustness*
+
+<!-- #### ICLR -->
 #### NeurIPS
-#### ICCV
+* Make an Omelette with Breaking Eggs: Zero-Shot Learning for Novel Attribute Synthesis (NeurIPS 2022) 
+[[Paper](https://arxiv.org/pdf/2111.14182v5.pdf)]
+[[Code](https://yuhsuanli.github.io/ZSLA)]<br>
+*Datasets: Caltech-UCSD Birds-200-2011 (CUB Dataset), α-CLEVR*<br>
+*Task: Image Classification*
+
+<!-- #### ICCV
 #### ICML
 #### IEEE-Access
 #### ECCV
 #### AAAI
-#### TPAMI
+#### TPAMI-->
 #### CVPRw
-#### WACV
+* Semantically Grounded Visual Embeddings for Zero-Shot Learning (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/MULA/papers/Nawaz_Semantically_Grounded_Visual_Embeddings_for_Zero-Shot_Learning_CVPRW_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CUB(312−d), AWA(85−d) and aPY(64−d); FLO*<br>
+*Task: semantic embeddings*
+
+* Zero-Shot Learning Using Multimodal Descriptions (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Mall_Zero-Shot_Learning_Using_Multimodal_Descriptions_CVPRW_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CUB-200-2011 (CUB), SUN attributes (SUN) and DeepFashion (DF)*<br>
+*Task:*
+
+<!-- #### WACV
 #### IJCV
 #### BMVC
 #### ICCw
@@ -129,6 +255,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets: Pascal VOC 2012, Pascal Context*<br>
 *Task: Semantic Segmentation*
+
 <!--#### ICML
 #### IEEE-Access
 #### ECCV
@@ -217,8 +344,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets:  CIFAR100, LSUN, MiTv2, UCF101, HMDB51*<br>
 *Task: Image and Video Classification*
-<!--#### NeurIPS
-#### ICCV
+
+#### NeurIPS
+<!--#### ICCV
 #### ICML
 #### IEEE-Access
 #### ECCV
@@ -502,7 +630,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets:*<br>
 *Task:*
 
-
 * Adversarial Open Domain Adaptation for Sketch-to-Photo Synthesis	(WACV 2022) 
 [[Paper](https://arxiv.org/pdf/2104.05703v2.pdf)]
 [[Code](https://github.com/Mukosame/AODA)]<br>
@@ -597,7 +724,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets: MNIST,CIFAR-10/100 and Tiny-ImageNet*<br>
 *Task: Confidence Calibration*
-
 
 * Trash To Treasure: Harvesting OOD Data With Cross-Modal Matching for Open-Set Semi-Supervised Learning (ICCV 2021) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Trash_To_Treasure_Harvesting_OOD_Data_With_Cross-Modal_Matching_for_ICCV_2021_paper.pdf)]
@@ -695,8 +821,21 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR-10 and CIFAR-100*<br>
 *Task: Image Classification*
 
-<!-- #### WACV
-#### IJCV
+#### WACV
+* One-Class Learned Encoder-Decoder Network With Adversarial Context Masking for Novelty Detection (WACV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Jewell_One-Class_Learned_Encoder-Decoder_Network_With_Adversarial_Context_Masking_for_Novelty_WACV_2022_paper.pdf)]
+[[Code](https://github.com/jewelltaylor/OLED)]<br>
+*Datasets:*<br>
+*Task:*
+
+* COCOA: Context-Conditional Adaptation for Recognizing Unseen Classes in Unseen Domains (WACV 2022) 
+[[Paper]]
+[[Code]]<br>
+*Datasets:*<br>
+*Task:*
+
+
+<!-- #### IJCV
 #### BMVC
 #### ICCw-->
 #### Arxiv & Others
@@ -714,9 +853,33 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR10, CIFAR 100, Imagenet*<br>
 *Task: Object Detection*
 <!--#### ICLR
-#### NeurIPS
+#### NeurIPS-->
 #### ICCV
-#### ICML
+* Towards Novel Target Discovery Through Open-Set Domain Adaptation (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf)]
+[[Code](https://github.com/scottjingtt/SROSDA.git)]<br>
+*Datasets: D2AwA; IAwA2*<br>
+*Task: Image Classification*
+
+* A Unified Objective for Novel Class Discovery (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fini_A_Unified_Objective_for_Novel_Class_Discovery_ICCV_2021_paper.pdf)]
+[[Code](https://ncd-uno.github.ioc)]<br>
+*Datasets: CIFAR10; CIFAR100-20; CIFAR100-50; ImageNet*<br>
+*Task: Image Classification*
+
+* The Surprising Impact of Mask-Head Architecture on Novel Class Segmentation (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Birodkar_The_Surprising_Impact_of_Mask-Head_Architecture_on_Novel_Class_Segmentation_ICCV_2021_paper.pdf)]
+[[Code](https://git.io/deepmac)]<br>
+*Datasets: VOC, COCO*<br>
+*Task: Instance segmentation*
+
+* The Pursuit of Knowledge: Discovering and Localizing Novel Categories Using Dual Memory (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Rambhatla_The_Pursuit_of_Knowledge_Discovering_and_Localizing_Novel_Categories_Using_ICCV_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: PascalVOC2007-> COCO2014*<br>
+*Task:*
+
+<!--#### ICML
 #### IEEE-Access
 #### ECCV
 #### AAAI

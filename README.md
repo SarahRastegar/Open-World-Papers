@@ -672,13 +672,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets:  Indian Pines(IP), Salinas, University of Pavia, Houston-2013*<br>
 *Task: Hyperspectral Image Classification*
 
-* Distance-based Hyperspherical Classification for Multi-source Open-Set Domain Adaptation	(WACV 2022) 
+* Distance-based Hyperspherical Classification for Multi-source Open-Set Domain Adaptation (WACV 2022) 
 [[Paper](https://arxiv.org/pdf/2107.02067v3.pdf)]
 [[Code](https://github.com/silvia1993/HyMOS)]<br>
 *Datasets: Office-31, Office-Home, DomainNet*<br>
 *Task: Domain Adaptation*
 
-* SeeTek: Very Large-Scale Open-Set Logo Recognition With Text-Aware Metric Learning	(WACV 2022) 
+* SeeTek: Very Large-Scale Open-Set Logo Recognition With Text-Aware Metric Learning (WACV 2022) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Li_SeeTek_Very_Large-Scale_Open-Set_Logo_Recognition_With_Text-Aware_Metric_Learning_WACV_2022_paper.pdf)]
 [[Code]]<br>
 *Datasets:*<br>
@@ -690,13 +690,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets:*<br>
 *Task:*
 
-* Learning To Generate the Unknowns as a Remedy to the Open-Set Domain Shift	(WACV 2022) 
+* Learning To Generate the Unknowns as a Remedy to the Open-Set Domain Shift (WACV 2022) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Baktashmotlagh_Learning_To_Generate_the_Unknowns_as_a_Remedy_to_the_WACV_2022_paper.pdf)]
 [[Code]]<br>
 *Datasets:*<br>
 *Task:*
 
-* Adversarial Open Domain Adaptation for Sketch-to-Photo Synthesis	(WACV 2022) 
+* Adversarial Open Domain Adaptation for Sketch-to-Photo Synthesis (WACV 2022) 
 [[Paper](https://arxiv.org/pdf/2104.05703v2.pdf)]
 [[Code](https://github.com/Mukosame/AODA)]<br>
 *Datasets:*<br>

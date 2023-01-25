@@ -307,6 +307,19 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw
 #### Arxiv & Others-->
 
+### Older Papers
+* Enhancing the reliability of out-of-distribution image detection in neural networks (ICLR 2018) 
+[[Paper](https://openreview.net/pdf?id=H1VGkIxRZ)]
+[[Code](https://github.com/facebookresearch/odin)]<br>
+*Datasets: CIFAR-10, CIFAR-100, ImageNet, iSUN*<br>
+*Task: OOD*
+
+* A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks (NeurIPS 2018) 
+[[Paper](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf)]
+[[Code](https://github.com/pokaxpoka/deep_Mahalanobis_detector)]<br>
+*Datasets: CIFAR, SVHN, ImageNet and LSUN*<br>
+*Task: OOD*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1002,7 +1015,26 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
 
+* Learning to Discover Novel Visual Categories via Deep Transfer Clustering (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Learning_to_Discover_Novel_Visual_Categories_via_Deep_Transfer_Clustering_ICCV_2019_paper.pdf)]
+[[Code](http://www.robots.ox.ac.uk/ ̃vgg/research/DTC)]<br>
+*Datasets: ImageNet, OmniGlot, CIFAR-100, CIFAR-10, and SVHN*<br>
+*Task: Image Classification*
+
+* Open-World Class Discovery with Kernel Networks (ICDM 2020) 
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338431)]
+[[Code](https://github.com/neu-spiral/OpenWorldKNet)]<br>
+*Datasets: MNIST; Fashion-MNIST; CIFAR-100; RF-50*<br>
+*Task: Image Classification*
+
+* Automatically Discovering and Learning New Visual Categories with Ranking Statistics (ICLR 2020) 
+[[Paper](https://arxiv.org/pdf/2002.05714v1.pdf)]
+[[Code](http://www.robots.ox.ac.uk/~vgg/research/auto_novel)]<br>
+*Datasets: CIFAR-10; CIFAR-100; SVHN*<br>
+*Task: Image Classification*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary
 <!----------------------------------------------------------------------------------------------------------------------------------------------->

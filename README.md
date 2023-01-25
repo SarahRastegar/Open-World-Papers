@@ -1048,9 +1048,32 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### NeurIPS
 #### ICCV
 #### ICML
-#### IEEE-Access
+#### IEEE-Access-->
 #### ECCV
-#### AAAI
+* Temporal and cross-modal attention foraudio-visual zero-shot learning (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800474.pdf)]
+[[Code](https://github.com/ExplainableML/TCAF-GZSL)]<br>
+*Datasets: UCF-GZSL^cls, VGGSound-GZSL^cls, and ActivityNet-GZSL^cls1*<br>
+*Task: Action Recognition*
+
+* CLASTER: Clustering with Reinforcement Learning for Zero-Shot Action Recognition (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800177.pdf)]
+[[Code](https://sites.google.com/view/claster-zsl/home)]<br>
+*Datasets: Olympic Sports; UCF-101; HMDB-51*<br>
+*Task: Action Recognition*
+
+* Rethinking Zero-Shot Action Recognition: Learning from Latent Atomic Actions (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640102.pdf)]
+[[Code]]<br>
+*Datasets: KineticsZSAR, HMDB51, and UCF101*<br>
+*Task: Action Recognition*
+
+* Zero-Shot Temporal Action Detection via Vision-Language Prompting (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630667.pdf)]
+[[Code](https://github.com/sauradip/STALE)]<br>
+*Datasets: THUMOS14; ActivityNet v1.3*<br>
+*Task: temporal action detection (TAD)*
+<!--#### AAAI
 #### TPAMI
 #### CVPRw
 #### WACV
@@ -1345,18 +1368,77 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+
 ### 2022 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+
+* FineDiving: A Fine-Grained Dataset for Procedure-Aware Action Quality Assessment (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_FineDiving_A_Fine-Grained_Dataset_for_Procedure-Aware_Action_Quality_Assessment_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/xujinglin/FineDiving)]<br>
+*Datasets: FineDiving*<br>
+*Task: Action Quality Assessment*
+
+* Fine-Grained Temporal Contrastive Learning for Weakly-Supervised Temporal Action Localization (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_Fine-Grained_Temporal_Contrastive_Learning_for_Weakly-Supervised_Temporal_Action_Localization_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/MengyuanChen21/CVPR2022-FTCL)]<br>
+*Datasets: THUMOS14; ActivityNet1.3*<br>
+*Task: Temporal Action Localization*
+
+* How Do You Do It? Fine-Grained Action Understanding With Pseudo-Adverbs (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Doughty_How_Do_You_Do_It_Fine-Grained_Action_Understanding_With_Pseudo-Adverbs_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/hazeld/PseudoAdverbs)]<br>
+*Datasets: VATEX Adverbs, ActivityNet Adverbs and MSR-VTT Adverbs*<br>
+*Task: Adverb Recognition*
+
+* EMScore: Evaluating Video Captioning via Coarse-Grained and Fine-Grained Embedding Matching (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_EMScore_Evaluating_Video_Captioning_via_Coarse-Grained_and_Fine-Grained_Embedding_Matching_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/shiyaya/emscore)]<br>
+*Datasets: VATEX-EVAL; ActivityNet-FOIL *<br>
+*Task: Video Captioning*
+<!-- #### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML
-#### IEEE-Access
+#### IEEE-Access-->
 #### ECCV
-#### AAAI
-#### TPAMI
+* Dynamic Spatio-Temporal Specialization Learning for Fine-Grained Action Recognition (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640381.pdf)]
+[[Code]]<br>
+*Datasets: Diving48*<br>
+*Task: Action recognition*
+
+* Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680262.pdf)]
+[[Code](https://github.com/visipedia/ssw60)]<br>
+*Datasets: SSW60*<br>
+*Task: Action recognition*
+
+* Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700562.pdf)]
+[[Code](https://github.com/lizhi1104/HAAN.git)]<br>
+*Datasets: FineAction; FineGym*<br>
+*Task: Action recognition*
+
+* Semantic-Aware Fine-Grained Correspondence (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910093.pdf)]
+[[Code]]<br>
+*Datasets: DAVIS-2017; JHMDB; Video Instance Parsing (VIP)*<br>
+*Task: video object segmentation, human pose tracking, and human part tracking*
+
+* Spotting Temporally Precise, Fine-Grained Events in Video (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136950033.pdf)]
+[[Code]]<br>
+*Datasets: Tennis, Figure Skating, FineDiving, and Fine-Gym*<br>
+*Task: temporally precise spotting*
+<!-- #### AAAI
+#### TPAMI-->
 #### CVPRw
-#### WACV
+* FenceNet: Fine-Grained Footwork Recognition in Fencing (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVSports/papers/Zhu_FenceNet_Fine-Grained_Footwork_Recognition_in_Fencing_CVPRW_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets:  FFD a publicly available fencing dataset*<br>
+*Task: Action recognition*
+<!--#### WACV
 #### IJCV
 #### BMVC
 #### ICCw

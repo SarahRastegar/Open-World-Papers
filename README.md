@@ -217,9 +217,45 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!-- #### ICCV
 #### ICML
-#### IEEE-Access
+#### IEEE-Access -->
 #### ECCV
-#### AAAI
+* Zero-Shot Attribute Attacks on Fine-Grained Recognition Models (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650257.pdf)]
+[[Code]]<br>
+*Datasets: Caltech-UCSD Birds-200-2011(CUB), Animal with Attributes (AWA2) and SUN Attribute (SUN)*<br>
+*Task: Image Classification*
+
+* Zero-Shot Learning for Reflection Removal of Single 360-Degree Image (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790523.pdf)]
+[[Code]]<br>
+*Datasets: 30 test 360-degree images*<br>
+*Task: Reflection Removal*
+
+* Exploring Hierarchical Graph Representation for Large-Scale Zero-Shot Image Classification (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800108.pdf)]
+[[Code](https://kaiyi.me/p/hgrnet.html)]<br>
+*Datasets: ImageNet-21K-D (D for Directed Acyclic Graph)*<br>
+*Task: Image Classification*
+
+* Learning Invariant Visual Representations for Compositional Zero-Shot Learning (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840335.pdf)]
+[[Code](https://github.com/PRIS-CV/IVR)]<br>
+*Datasets: Mit-States; UT-Zappos50K; Clothing16K, and AO-CLEVr*<br>
+*Task: Image Retrieval*
+
+* 3D Compositional Zero-Shot Learning with DeCompositional Consensus (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880704.pdf)]
+[[Code]]<br>
+*Datasets: Compositional PartNet (C-PartNet)*<br>
+*Task: Compositional zero-shot segmentation*
+
+* Zero-Shot Category-Level Object Pose Estimation (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990509.pdf)]
+[[Code](https://github.com/applied-ai-lab/zero-shot-pose)]<br>
+*Datasets: Common Objects in 3D (CO3D); PoseContrast*<br>
+*Task: Object pose estimation*
+
+<!-- #### AAAI
 #### TPAMI-->
 #### CVPRw
 * Semantically Grounded Visual Embeddings for Zero-Shot Learning (CVPRw 2022) 
@@ -683,17 +719,17 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!-- #### ICLR
 #### NeurIPS-->
 #### ICCV
-* NGC: A Unified Framework for Learning With Open-World Noisy Data (ICCV 2021) 
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_NGC_A_Unified_Framework_for_Learning_With_Open-World_Noisy_Data_ICCV_2021_paper.pdf)]
-[[Code]]<br>
-*Datasets: CIFAR10, CIFAR 100, TinyImageNet, Places-365*<br>
-*Task: OOD*
-
 * OpenGAN: Open-Set Recognition via Open Data Generation (ICCV 2021 Best honorable) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kong_OpenGAN_Open-Set_Recognition_via_Open_Data_Generation_ICCV_2021_paper.pdf)]
 [[Code](https://github.com/aimerykong/OpenGAN)]<br>
 *Datasets: MNIST, SVHN,CIFAR10, TinyImageNet, Cityscapes*<br>
 *Task: Image Classification*
+
+* NGC: A Unified Framework for Learning With Open-World Noisy Data (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_NGC_A_Unified_Framework_for_Learning_With_Open-World_Noisy_Data_ICCV_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR10, CIFAR 100, TinyImageNet, Places-365*<br>
+*Task: OOD*
 
 * Conditional Variational Capsule Network for Open Set Recognition (ICCV 2021) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Conditional_Variational_Capsule_Network_for_Open_Set_Recognition_ICCV_2021_paper.pdf)]
@@ -730,6 +766,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets: CIFAR-10, Animal-10, Tiny-ImageNet, CIFAR100*<br>
 *Task: OOD Detection*
+
+* Towards Novel Target Discovery Through Open-Set Domain Adaptation (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf)]
+[[Code](https://github.com/scottjingtt/SROSDA.git)]<br>
+*Datasets: D2AwA; IAwA2*<br>
+*Task: Image Classification*
 
 <!--#### ICML
 #### IEEE-Access
@@ -768,7 +810,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/muliyangm/ComEx)]<br>
 *Datasets: CIFAR-10; CIFAR100-50; CIFAR100-20; ImageNet*<br>
 *Task: Image Classification*
-
 
 * Generalized Category Discovery (CVPR 2022) 
 [[Paper](https://arxiv.org/abs/2201.02609v2)]
@@ -1078,9 +1119,15 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### NeurIPS
 #### ICCV
 #### ICML
-#### IEEE-Access
+#### IEEE-Access-->
 #### ECCV
-#### AAAI
+* Zero-Shot Attribute Attacks on Fine-Grained Recognition Models (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650257.pdf)]
+[[Code]]<br>
+*Datasets: Caltech-UCSD Birds-200-2011(CUB), Animal with Attributes (AWA2) and SUN Attribute (SUN)*<br>
+*Task: Image Classification*
+
+<!--#### AAAI
 #### TPAMI
 #### CVPRw
 #### WACV

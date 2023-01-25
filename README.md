@@ -645,9 +645,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 
 * Generalized Category Discovery (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Divide_and_Conquer_Compositional_Experts_for_Generalized_Novel_Class_Discovery_CVPR_2022_paper.pdf)]
-[[Code](https://github.com/muliyangm/ComEx)]<br>
-*Datasets: CIFAR-10; CIFAR100-50; CIFAR100-20; ImageNet*<br>
+[[Paper](https://arxiv.org/abs/2201.02609v2)]
+[[Code](https://github.com/sgvaze/generalized-category-discovery)]<br>
+*Datasets:  CIFAR10,  CIFAR100, ImageNet-100*<br>
 *Task: Image Classification*
 
 * Novel Class Discovery in Semantic Segmentation (CVPR 2022) 
@@ -656,20 +656,56 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: PASCAL-5i dataset; the COCO-20i dataset*<br>
 *Task: Semantic Segmentation*
 
-<!-- #### ICLR
+<!-- #### ICLR-->
 #### NeurIPS
-#### ICCV
+* Learning to Discover and Detect Objects (NeurIPS 2022) 
+[[Paper](https://arxiv.org/pdf/2210.10774.pdf)]
+[[Code](https://vlfom.github.io/RNCDL)]<br>
+*Datasets: COCOhalf+ LVIS; LVIS + Visual Genome*<br>
+*Task: Object Detection*
+
+<!-- #### ICCV
 #### ICML
-#### IEEE-Access
+#### IEEE-Access-->
 #### ECCV
+* Generative Meta-Adversarial Network for Unseen Object Navigation (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990295.pdf)]
+[[Code](https://github.com/sx-zhang/GMAN.git)]<br>
+*Datasets: AI2THOR  and RoboTHOR*<br>
+*Task: Object Navigation*
+
+* incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850581.pdf)]
+[[Code]]<br>
+*Datasets: 1. CIFAR-10 (10 classes), 2. CIFAR-100 (super-classlevel, 20 classes), 3. EMNIST (26 classes) and 4. iNaturalist21 (phylumlevel, 9 classes)*<br>
+*Task: Image Classification*
+
 #### AAAI
-#### TPAMI
+* Self-Labeling Framework for Novel Category Discovery over Domains (AAAI 2022) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20224/version/18521/19983)]
+[[Code]]<br>
+*Datasets: Office (Amazon, DSLR, Webcam); OfficeHome (art, clipart, product, and real); VisDA (synthetic and real)*<br>
+*Task: Image Classification*
+
+<!-- #### TPAMI -->
 #### CVPRw
-#### WACV
+* Spacing Loss for Discovering Novel Categories (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Joseph_Spacing_Loss_for_Discovering_Novel_Categories_CVPRW_2022_paper.pdf)]
+[[Code](https://github.com/JosephKJ/Awesome-Novel-Class-Discovery)]<br>
+*Datasets: CIFAR-10 and CIFAR-100*<br>
+*Task: Image Classification*
+
+<!-- #### WACV
 #### IJCV
 #### BMVC
-#### ICCw
-#### Arxiv & Others-->
+#### ICCw-->
+#### Arxiv & Others
+* Mutual Information-guided Knowledge Transfer for Novel Class Discovery (Arxiv 2022) 
+[[Paper]]
+[[Code]]<br>
+*Datasets:*<br>
+*Task:*
+
 ### 2021 Papers
 #### CVPR
 * OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in an Open World (CVPR 2021) 
@@ -728,6 +764,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: LVIS v1, Pascal  VOC  Dataset, COCO, Objects365  Dataset*<br>
 *Task: Object detection and instance segmentation*
 
+* NOC-REK: Novel Object Captioning With Retrieved Vocabulary From External Knowledge (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Vo_NOC-REK_Novel_Object_Captioning_With_Retrieved_Vocabulary_From_External_Knowledge_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: COCO, Nocaps*<br>
+*Task: Novel Object Captioning*
 
 
 <!--#### ICLR
@@ -821,6 +862,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets:*<br>
 *Task: Semantic Segmentation*
 <!-- #### ICCw -->
+
 #### Arxiv & Others
 * Describing Sets of Images with Textual-PCA (EMNLP 2022) 
 [[Paper](https://arxiv.org/pdf/2210.12112v1.pdf)]

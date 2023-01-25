@@ -20,7 +20,6 @@ Without further due, let us dive into the fantastic and challenging world of unc
 - [Video Open World Papers](#Video-Open-World-Papers)
 - [Anomaly Detection](#Anomaly-Detection)
 
-
 ## Introduction 
 Let us consider a Telsa! Car is our running example during this repo. One day Telsa engineers decide to train their autopilot model. First, they meticulously collect these data on mornings on the way to their job while contemplating their life choices in the traffic. Then they give those videos to some people to categorize over several categories like cars, bikes, people, birds, and trees. They then train the model on the collected, labeled data, which produces a good performance on the evaluation data.
 
@@ -194,7 +193,30 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets:  ImageNet-21K-P, CUB, Stanford Car, FGVC-Aircraft, MNIST, SVHN, CIFAR10, CIFAR+N, TinyImageNet*<br>
 *Task: Open-set recognition*
 
+#### NeurIPS 
+* Interpretable Open-Set Domain Adaptation via Angular Margin Separation	(NeurIPS 2022) 
+[[Paper](https://arxiv.org/pdf/2202.01339.pdf)]
+[[Code](https://github.com/sungnyun/understanding-cdfsl)]<br>
+*Datasets: ImageNet, tieredImageNet, and miniImageNet for source domain similarity to ImageNet: Places,CUB,Cars,Plantae,EuroSAT,CropDisease,ISIC,ChestX*<br>
+*Task: Active Learning*
 
+* OpenAUC: Towards AUC-Oriented Open-Set Recognition	(NeurIPS 2022) 
+[[Paper](https://arxiv.org/pdf/2210.13458v1.pdf)]
+[[Code]]<br>
+*Datasets: MNIST1, SVHN2, CIFAR10, CIFAR+10, CIFAR+50, TinyImageNet, CUB*<br>
+*Task: Image Classification*
+
+* Unknown-Aware Domain Adversarial Learning for Open-Set Domain Adaptation	(NeurIPS 2022) 
+[[Paper](https://arxiv.org/pdf/2206.07551.pdf)]
+[[Code](https://github.com/JoonHo-Jang/UADAL)]<br>
+*Datasets: Office-31, Office-Home, VisDA*<br>
+*Task: Domain Adaptation*
+
+* Towards Open Set 3D Learning:Benchmarking and Understanding Semantic Novelty Detection on Point Clouds	(NeurIPS 2022) 
+[[Paper](https://openreview.net/pdf?id=X2dHozbd1at)]
+[[Code](https://github.com/antoalli/3D_OS)]<br>
+*Datasets: ShapeNetCore v2,  ModelNet40->ScanObjectNN, ScanObjectNN*<br>
+*Task: Point Cloud Novelty Detection*
 #### ECCV 
 * Open-Set Semi-Supervised Object Detection (ECCV 2022 Oral) 
 [[Paper](https://arxiv.org/pdf/2208.13722v1.pdf)]
@@ -282,30 +304,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets:*<br>
 *Task:*
 
-#### NeurIPS 
-* Interpretable Open-Set Domain Adaptation via Angular Margin Separation	(NeurIPS 2022) 
-[[Paper](https://arxiv.org/pdf/2202.01339.pdf)]
-[[Code](https://github.com/sungnyun/understanding-cdfsl)]<br>
-*Datasets: ImageNet, tieredImageNet, and miniImageNet for source domain similarity to ImageNet: Places,CUB,Cars,Plantae,EuroSAT,CropDisease,ISIC,ChestX*<br>
-*Task: Active Learning*
 
-* OpenAUC: Towards AUC-Oriented Open-Set Recognition	(NeurIPS 2022) 
-[[Paper](https://arxiv.org/pdf/2210.13458v1.pdf)]
-[[Code]]<br>
-*Datasets: MNIST1, SVHN2, CIFAR10, CIFAR+10, CIFAR+50, TinyImageNet, CUB*<br>
-*Task: Image Classification*
-
-* Unknown-Aware Domain Adversarial Learning for Open-Set Domain Adaptation	(NeurIPS 2022) 
-[[Paper](https://arxiv.org/pdf/2206.07551.pdf)]
-[[Code](https://github.com/JoonHo-Jang/UADAL)]<br>
-*Datasets: Office-31, Office-Home, VisDA*<br>
-*Task: Domain Adaptation*
-
-* Towards Open Set 3D Learning:Benchmarking and Understanding Semantic Novelty Detection on Point Clouds	(NeurIPS 2022) 
-[[Paper](https://openreview.net/pdf?id=X2dHozbd1at)]
-[[Code](https://github.com/antoalli/3D_OS)]<br>
-*Datasets: ShapeNetCore v2,  ModelNet40->ScanObjectNN, ScanObjectNN*<br>
-*Task: Point Cloud Novelty Detection*
 
 
 #### WACV

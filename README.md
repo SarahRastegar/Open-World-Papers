@@ -2059,8 +2059,39 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Acsintoae_UBnormal_New_Benchmark_for_Supervised_Open-Set_Video_Anomaly_Detection_CVPR_2022_paper.pdf)]
 [[Code](https://github.com/lilygeorgescu/UBnormal)]<br>
-*Datasets: UBnormal, CHUK, Avenue, Shang-hai Tech*<br>
-*Task: Anomaly Detection*
+*Datasets: UBnormal, CHUK, Avenue, Shang-hai Tech*
+
+* Deep Anomaly Discovery From Unlabeled Videos via Normality Advantage and Self-Paced Refinement (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Deep_Anomaly_Discovery_From_Unlabeled_Videos_via_Normality_Advantage_and_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/lilygeorgescu/AED-SSMTL)]<br>
+*Datasets: UCS-Dped1/UCSDped2, Avenue and  ShanghaiTech*
+
+* Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/ristea/sspcab)]<br>
+*Datasets: MVTec AD, Avenue and  ShanghaiTech*
+
+* Anomaly Detection via Reverse Distillation From One-Class Embedding (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: MVTec; MNIST, FashionMNIST and CIFAR10*<br>
+
+* Bayesian Nonparametric Submodular Video Partition for Robust Anomaly Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sapkota_Bayesian_Nonparametric_Submodular_Video_Partition_for_Robust_Anomaly_Detection_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: ShanghaiTech, Avenue, UCF-Crime*
+
+* Towards Total Recall in Industrial Anomaly Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Roth_Towards_Total_Recall_in_Industrial_Anomaly_Detection_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/amazon-science/patchcore-inspection)]<br>
+*Datasets: MVTec; Magnetic Tile Defects (MTD); Mini Shanghai Tech Campus(mSTC)*
+
+
+* Generative Cooperative Learning for Unsupervised Video Anomaly Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zaheer_Generative_Cooperative_Learning_for_Unsupervised_Video_Anomaly_Detection_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/amazon-science/patchcore-inspection)]<br>
+*Datasets: UCF-Crime (UCFC); ShanghaiTech*
+
 <!-- #### ICLR
 #### NeurIPS
 #### ICCV
@@ -2070,8 +2101,32 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Towards Open Set Video Anomaly Detection (ECCV 2022) 
 [[Paper](https://arxiv.org/pdf/2208.11113v1.pdf)]
 [[Code]]<br>
-*Datasets: XD Violence, UCF Crime, ShanghaiTech Campus*<br>
-*Task: Anomaly Detection*
+*Datasets: XD Violence, UCF Crime, ShanghaiTech Campus*
+
+* Scale-Aware Spatio-Temporal Relation Learning for Video Anomaly Detection (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640328.pdf)]
+[[Code](https://github.com/nutuniv/SSRL)]<br>
+*Datasets: UCF-Crime (UCFC); ShanghaiTech*
+
+* Dynamic Local Aggregation Network with Adaptive Clusterer for Anomaly Detection (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640398.pdf)]
+[[Code](https://github.com/Beyond-Zw/DLAN-AC)]<br>
+*Datasets: CUHK Avenue; UCSD Ped2; ShanghaiTech*
+
+* Video Anomaly Detection by Solving Decoupled Spatio-Temporal Jigsaw Puzzles (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700490.pdf)]
+[[Code]]<br>
+*Datasets: CUHK Avenue; UCSD Ped2; ShanghaiTech*
+
+* Self-Supervised Sparse Representation for Video Anomaly Detection (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730727.pdf)]
+[[Code](https://github.com/louisYen/S3R)]<br>
+*Datasets: ShanghaiTech, UCF-Crime, and XD-Violence*
+
+* Registration Based Few-Shot Anomaly Detection (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840300.pdf)]
+[[Code](https://github.com/MediaBrain-SJTU/RegAD)]<br>
+*Datasets: MVTec; MPDD*
 
 <!--#### AAAI
 #### TPAMI

@@ -953,6 +953,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### Arxiv & Others-->
 ### 2022 Papers
 #### CVPR
+* UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Acsintoae_UBnormal_New_Benchmark_for_Supervised_Open-Set_Video_Anomaly_Detection_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/lilygeorgescu/UBnormal)]<br>
+*Datasets: UBnormal, CHUK, Avenue, Shang-hai Tech*<br>
+*Task: Anomaly Detection*
 <!-- #### ICLR
 #### NeurIPS
 #### ICCV
@@ -964,6 +969,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/matejgrcic/DenseHybrid)]<br>
 *Datasets: Fishyscapes, SegmentMeIfYouCan (SMIYC), StreetHazards*<br>
 *Task: Anomaly Detection*
+
+* Towards Open Set Video Anomaly Detection (ECCV 2022) 
+[[Paper](https://arxiv.org/pdf/2208.11113v1.pdf)]
+[[Code]]<br>
+*Datasets: XD Violence, UCF Crime, ShanghaiTech Campus*<br>
+*Task: Anomaly Detection*
+
 <!--#### AAAI
 #### TPAMI
 #### CVPRw
@@ -1007,8 +1019,32 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw
 #### Arxiv & Others-->
 ### 2022 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+* Uni-Perceiver: Pre-Training Unified Architecture for Generic Perception for Zero-Shot and Few-Shot Tasks (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Uni-Perceiver_Pre-Training_Unified_Architecture_for_Generic_Perception_for_Zero-Shot_and_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: ImageNet-21k;  Kinetics-700 and Moments in Time;  BookCorpora & English  Wikipedia  (Books&Wiki)  and  PAQ; COCO Caption, SBUCaptions  (SBU),  Visual  Genome,  CC3M, CC12M and YFCC; Flickr30k, MSVD,VQA ,and GLUE*<br>
+*Task: Image-text retreival; Image and video classification*
+
+* Cross-Modal Representation Learning for Zero-Shot Action Recognition (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Cross-Modal_Representation_Learning_for_Zero-Shot_Action_Recognition_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/microsoft/ResT)]<br>
+*Datasets: Kinetics ->  UCF101, HMDB51, and ActivityNet*<br>
+*Task: Action Recognition*
+
+* Audio-Visual Generalised Zero-Shot Learning With Cross-Modal Attention and Language (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Mercea_Audio-Visual_Generalised_Zero-Shot_Learning_With_Cross-Modal_Attention_and_Language_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/ExplainableML/AVCA-GZSL)]<br>
+*Datasets: VGGSound; UCF101; ActivityNet*<br>
+*Task: Action Recognition*
+
+* Alignment-Uniformity Aware Representation Learning for Zero-Shot Video Classification (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Pu_Alignment-Uniformity_Aware_Representation_Learning_for_Zero-Shot_Video_Classification_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/ShipuLoveMili/CVPR2022-AURL)]<br>
+*Datasets: Kinetics-700 -> UCF101, HMDB51*<br>
+*Task: Action Recognition*
+
+<!-- #### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML
@@ -1057,8 +1093,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw
 #### Arxiv & Others-->
 ### 2022 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+* Unknown-Aware Object Detection: Learning What You Don't Know From Videos in the Wild (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Du_Unknown-Aware_Object_Detection_Learning_What_You_Dont_Know_From_Videos_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/deeplearning-wisc/stud)]<br>
+*Datasets: (Videos -> Images) BDD100K and Youtube-Video Instance Segmentation(Youtube-VIS)  2021 (ID data) - MS-COCO and nuImages (OOD)*<br>
+*Task: Object Detection*
+<!-- #### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML
@@ -1109,14 +1150,45 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw
 #### Arxiv & Others-->
 ### 2022 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+* Opening Up Open World Tracking (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Opening_Up_Open_World_Tracking_CVPR_2022_paper.pdf)]
+[[Code](https://openworldtracking.github.io)]<br>
+*Datasets: TAO-OW*<br>
+*Task: Object Tracking*
+
+* OpenTAL: Towards Open Set Temporal Action Localization (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Bao_OpenTAL_Towards_Open_Set_Temporal_Action_Localization_CVPR_2022_paper.pdf)]
+[[Code](https://www.rit.edu/actionlab/opental)]<br>
+*Datasets: THUMOS14, ActivityNet1.3*<br>
+*Task: Temporal Action Localization*
+
+* UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Acsintoae_UBnormal_New_Benchmark_for_Supervised_Open-Set_Video_Anomaly_Detection_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/lilygeorgescu/UBnormal)]<br>
+*Datasets: UBnormal, CHUK, Avenue, Shang-hai Tech*<br>
+*Task: Anomaly Detection*
+
+* Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Open-World_Instance_Segmentation_Exploiting_Pseudo_Ground_Truth_From_Learned_Pairwise_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: COCO 17, LVIS, UVO (videos), ADE20k*<br>
+*Task: Instance segmentation*
+
+
+<!--#### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML
-#### IEEE-Access
+#### IEEE-Access-->
 #### ECCV
-#### AAAI
+* Towards Open Set Video Anomaly Detection (ECCV 2022) 
+[[Paper](https://arxiv.org/pdf/2208.11113v1.pdf)]
+[[Code]]<br>
+*Datasets: XD Violence, UCF Crime, ShanghaiTech Campus*<br>
+*Task: Anomaly Detection*
+
+<!--#### AAAI
 #### TPAMI
 #### CVPRw
 #### WACV
@@ -1165,9 +1237,20 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### NeurIPS
 #### ICCV
 #### ICML
-#### IEEE-Access
+#### IEEE-Access-->
 #### ECCV
-#### AAAI
+* Text-based Temporal Localization of Novel Events (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740552.pdf)]
+[[Code]]<br>
+*Datasets: Charades-STA Unseen, ActivityNet Captions Unseen*<br>
+*Task: Temporal Action Localization*
+
+* Discovering Objects That Can Move (ECCV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Bao_Discovering_Objects_That_Can_Move_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/zpbao/Discovery_Obj_Move)]<br>
+*Datasets: KITTI; CATER; TRI-PD*<br>
+*Task: Object Segmentation*
+<!--#### AAAI
 #### TPAMI
 #### CVPRw
 #### WACV

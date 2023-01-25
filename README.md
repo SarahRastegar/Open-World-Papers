@@ -221,6 +221,17 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### TPAMI
 #### CVPRw-->
 #### WACV
+* MORGAN: Meta-Learning-Based Few-Shot Open-Set Recognition via Generative Adversarial Network (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Pal_MORGAN_Meta-Learning-Based_Few-Shot_Open-Set_Recognition_via_Generative_Adversarial_Network_WACV_2023_paper.pdf)]
+[[Code](https://github.com/DebabrataPal7/MORGAN)]<br>
+*Datasets: Indian  Pines (IP), Salinas, University of Pavia, Houston-2013*<br>
+*Task: Hyper-spectral images*
+
+* Ancestor Search: Generalized Open Set Recognition via Hyperbolic Side Information Learning (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Dengxiong_Ancestor_Search_Generalized_Open_Set_Recognition_via_Hyperbolic_Side_Information_WACV_2023_paper.pdf)]
+[[Code]]<br>
+*Datasets: CUB-200, AWA2, MNIST, CIFAR-10, CIFAR-100, SVHN, Tiny Imagenet*<br>
+*Task: Image Classification*
 <!--#### IJCV
 #### BMVC
 #### ICCw -->
@@ -1152,7 +1163,18 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+### Older
+* Uncertainty-aware audiovisual activity recognition using deep bayesian variational inference (ICCV 2019) 
+[[Paper](https://arxiv.org/pdf/1811.10811v3.pdf)]
+[[Code]]<br>
+*Datasets: MiT*<br>
+*Task: Audiovisual action recognition*
 
+* Bayesian activity recognition using variational inference (NeurIPS 2018) 
+[[Paper](https://arxiv.org/pdf/1811.03305v2.pdf)]
+[[Code]]<br>
+*Datasets:  MiT video activity recognition dataset*<br>
+*Task: Action recognition*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ##  Open-set Recognition Videos
@@ -1279,7 +1301,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets:  MiT video activity recognition dataset*<br>
 *Task: Action recognition*
 
-* ODN: Opening the deep networkfor open-set action recognition (ICME 2018) 
+* ODN: Opening the deep network for open-set action recognition (ICME 2018) 
 [[Paper](https://arxiv.org/pdf/1901.07757v1.pdf)]
 [[Code]]<br>
 *Datasets:  HMDB51, UCF50, UCF101*<br>

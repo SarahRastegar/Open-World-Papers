@@ -83,7 +83,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### WACV
 #### IJCV
 #### BMVC
-#### ICCw -->
+#### ICCw
+#### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
 ### 2022 Papers
@@ -243,6 +244,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: ShapeNetCore v2,  ModelNet40->ScanObjectNN, ScanObjectNN*<br>
 *Task: Point Cloud Novelty Detection*
 
+<!-- #### ICCV
+#### ICML
+#### IEEE-Access -->
 #### ECCV 
 * Open-Set Semi-Supervised Object Detection (ECCV 2022 Oral) 
 [[Paper](https://arxiv.org/pdf/2208.13722v1.pdf)]
@@ -396,6 +400,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets:*<br>
 *Task: Domain Adaptation*
 
+<!-- #### IJCV -->
 
 #### BMVC
 * Dual Decision Improves Open-Set Panoptic Segmentation (BMVC 2022) 
@@ -403,6 +408,55 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/jd730/EOPSN.git)]<br>
 *Datasets: MS-COCO 2017*<br>
 *Task: Panoptic Segmentation*
+
+<!-- 
+#### ICCVw
+#### Arxiv & Others -->
+### 2021 Papers
+#### CVPR
+* Counterfactual Zero-Shot and Open-Set Visual Recognition (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Counterfactual_Zero-Shot_and_Open-Set_Visual_Recognition_CVPR_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: MNIST, SVHN,CIFAR10 and CIFAR100*<br>
+*Task: Object Detection*
+
+* Towards Open World Object Detection (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets:*<br>
+*Task: Object Detection*
+
+* Learning Placeholders for Open-Set Recognition (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Learning_Placeholders_for_Open-Set_Recognition_CVPR_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets:*<br>
+*Task: Object Detection*
+
+* Few-Shot Open-Set Recognition by Transformation Consistency (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jeong_Few-Shot_Open-Set_Recognition_by_Transformation_Consistency_CVPR_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets:*<br>
+*Task: Object Detection*
+
+* OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in an Open World (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR10, CIFAR 100, Imagenet*<br>
+*Task: Object Detection*
+<!-- #### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novel Class Discovery
@@ -420,7 +474,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### WACV
 #### IJCV
 #### BMVC
-#### ICCw -->
+#### ICCw
+#### Arxiv & Others-->
 ### 2022 Papers
 <!-- #### CVPR
 #### ICLR
@@ -435,8 +490,29 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### WACV
 #### IJCV
 #### BMVC
-#### ICCw -->
-
+#### ICCw
+#### Arxiv & Others-->
+### 2021 Papers
+#### CVPR
+* OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in an Open World (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR10, CIFAR 100, Imagenet*<br>
+*Task: Object Detection*
+<!--#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary
 ### 2023 Papers
@@ -542,13 +618,37 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets:*<br>
 *Task:*
-<!--#### AAAI
-#### TPAMI
+
+#### AAAI
+* OVIS: Open-Vocabulary Visual Instance Search via Visual-Semantic Aligned Representation Learning (AAAI 2022) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20070/version/18367/19829)]
+[[Code]]<br>
+*Datasets:OVIS40; OVIS1400*<br>
+*Task:*
+
+<!--#### TPAMI
 #### CVPRw
 #### WACV
-#### IJCV
+#### IJCV-->
 #### BMVC
-#### ICCw -->
+* Partially-Supervised Novel Object Captioning Using Context from Paired Data (BMVC 2022) 
+[[Paper]]
+[[Code]]<br>
+*Datasets:*<br>
+*Task:*
+
+* Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models (BMVC 2022) 
+[[Paper]]
+[[Code]]<br>
+*Datasets:*<br>
+*Task: Semantic Segmentation*
+<!-- #### ICCw -->
+#### Arxiv & Others
+* Describing Sets of Images with Textual-PCA (EMNLP 2022) 
+[[Paper](https://arxiv.org/pdf/2210.12112v1.pdf)]
+[[Code](https://github.com/OdedH/textual-pca)]<br>
+*Datasets: CelebA; Stanford Cars; COCO-Horses; LSUN-Church*<br>
+*Task:*
 ### 2021 Papers
 #### CVPR
 * Open-Vocabulary Object Detection Using Captions	(CVPR 2021) 
@@ -569,6 +669,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### IJCV
 #### BMVC
 #### ICCw -->
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Fine Grained
 ### 2023 Papers

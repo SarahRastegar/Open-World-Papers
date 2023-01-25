@@ -67,6 +67,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw -->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Zero-Shot Learning
+### 2023 Papers
+### 2022 Papers
+### 2021 Papers
 <!-- #### CVPR
 #### ICLR
 #### NeurIPS
@@ -546,13 +549,50 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### IJCV
 #### BMVC
 #### ICCw -->
-
+### 2021 Papers
+#### CVPR
+* Open-Vocabulary Object Detection Using Captions	(CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf)]
+[[Code](https://github.com/alirezazareian/ovr-cnn)]<br>
+*Datasets:*<br>
+*Task:*
+<!--#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw -->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Fine Grained
-
+### 2023 Papers
+### 2022 Papers
+### 2021 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw -->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Long Tail
+### 2023 Papers
 ### 2022 Papers
+### 2021 Papers
 
 #### TPAMI
 
@@ -566,3 +606,20 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Anomaly Detection
+### 2023 Papers
+### 2022 Papers
+### 2021 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw -->

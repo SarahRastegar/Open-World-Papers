@@ -72,8 +72,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Zero-Shot Learning
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR
@@ -303,8 +306,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR
@@ -322,6 +328,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw
 #### Arxiv & Others-->
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 <!-- #### CVPR
 #### ICLR
@@ -348,6 +355,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets:*<br>
 *Task: OOD Detection*
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 <!-- #### CVPR
 #### ICLR
@@ -370,8 +378,18 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open-Set Recognition 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Surveys
+* Learning and the Unknown: Surveying Steps toward Open World Recognition (AAAI 2019) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/5054/4927)]
+
+* Recent advances in open set recognition: A survey (TPAMI 2020) 
+[[Paper]]
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2023 Papers
 <!-- #### CVPR-->
 #### ICLR
@@ -404,6 +422,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!--#### IJCV
 #### BMVC
 #### ICCw -->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
 * Expanding Low-Density Latent Regions for Open-Set Object Detection (CVPR 2022) 
@@ -483,7 +502,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: NewsCLIPpings*<br>
 *Task: Multi-modal Fact-checking*
 
-
 #### ICLR
 
 * Open-set Recognition: A good closed-set classifier is all you need? (ICLR 2022 Oral) 
@@ -556,7 +574,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/ksaito-ut/openworld_ldet)]<br>
 *Datasets: COCO, Cityscapes, (test: UVO, Obj365, Mappilary Vista)*<br>
 *Task: Object Detection*
-
 
 * Open-world Semantic Segmentation via Contrasting and Clustering Vision-language Embedding (ECCV 2022) 
 [[Paper](https://arxiv.org/pdf/2207.08455v2.pdf)]
@@ -684,6 +701,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!-- 
 #### ICCVw
 #### Arxiv & Others -->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR
 * Counterfactual Zero-Shot and Open-Set Visual Recognition (CVPR 2021) 
@@ -773,8 +791,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: D2AwA; IAwA2*<br>
 *Task: Image Classification*
 
-<!--#### ICML
-#### IEEE-Access
+#### ICML
+* Learning bounds for open-set learning (ICML 2021) 
+[[Paper]]
+[[Code]]<br>
+*Datasets:*<br>
+*Task: Image Classification*
+
+<!--#### IEEE-Access
 #### ECCV
 #### AAAI
 #### TPAMI
@@ -786,7 +810,53 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### Arxiv & Others-->
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
+* Toward Open Set Recognition (TPAMI 2012) 
+[[Paper](https://ieeexplore.ieee.org/document/6365193)]
+[[Code]]<br>
+*Datasets:*<br>
+*Task: Image Classification*
+
+* Multi-class Open Set Recognition Using Probability of Inclusion (ECCV 2014) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10578-9_26)]
+[[Code]]<br>
+*Datasets:LETTER, MNIST*<br>
+*Task: Image Classification*
+
+* Towards Open World Recognition (CVPR 2015) 
+[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Bendale_Towards_Open_World_2015_CVPR_paper.pdf)]
+[[Code](http://vast.uccs.edu/OpenWorld)]<br>
+*Datasets:*<br>
+*Task: Image Classification*
+
+* Towards Open Set Deep Networks (OpenMax) (CVPR 2016) 
+[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf)]
+[[Code]]<br>
+*Datasets:*<br>
+*Task: Image Classification*
+
+* Generative OpenMax for multi-class open set classification (BMVC 2017) 
+[[Paper]]
+[[Code]]<br>
+*Datasets:*<br>
+*Task: Image Classification*
+
+* Open-world Learning and Application to Product Classification (WWW 2019) 
+[[Paper](https://arxiv.org/pdf/1809.06004v2.pdf)]
+[[Code](https://www.cs.uic.edu/~hxu/)]<br>
+*Datasets:*<br>
+*Task: Image Classification*
+
+* C2AE: Class Conditioned Auto-Encoder for Open-set Recognition (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Oza_C2AE_Class_Conditioned_Auto-Encoder_for_Open-Set_Recognition_CVPR_2019_paper.pdf)]
+[[Code](https://github.com/otkupjnoz/c2ae)]<br>
+*Datasets: MNIST, SVHN, CIFAR10, CIFAR+10, CIFAR+50, TinyImageNet*<br>
+*Task: Image Classification*
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novel Class Discovery
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR
@@ -803,6 +873,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
 * Divide and Conquer: Compositional Experts for Generalized Novel Class Discovery (CVPR 2022) 
@@ -885,7 +956,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets:*<br>
 *Task:*
-
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR
 * OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in an Open World (CVPR 2021) 
@@ -931,8 +1002,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR
@@ -948,6 +1022,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### IJCV
 #### BMVC
 #### ICCw -->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
 * Open-Vocabulary One-Stage Detection with Hierarchical Visual-Language Knowledge Distillation	(CVPR 2022) 
@@ -1073,6 +1148,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/OdedH/textual-pca)]<br>
 *Datasets: CelebA; Stanford Cars; COCO-Horses; LSUN-Church*<br>
 *Task:*
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR
 * Open-Vocabulary Object Detection Using Captions	(CVPR 2021) 
@@ -1097,6 +1173,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Fine Grained
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1113,6 +1191,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1135,6 +1214,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1151,8 +1231,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Long Tail
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
 <!-- #### CVPR
@@ -1171,6 +1253,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw
 #### Arxiv & Others-->
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1198,8 +1281,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw
 #### Arxiv & Others-->
 
-
-
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1219,9 +1301,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 # Video Open World Papers
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Anomaly Detection
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1238,6 +1322,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
 * UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection (CVPR 2022) 
@@ -1271,6 +1356,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1287,8 +1373,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Zero-Shot Learning Videos
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1305,6 +1394,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
 * Uni-Perceiver: Pre-Training Unified Architecture for Generic Perception for Zero-Shot and Few-Shot Tasks (CVPR 2022) 
@@ -1368,6 +1458,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1384,8 +1475,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection Videos
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1402,6 +1496,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
 * Unknown-Aware Object Detection: Learning What You Don't Know From Videos in the Wild (CVPR 2022) 
@@ -1423,6 +1518,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1439,7 +1535,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
-### Older
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
 * Uncertainty-aware audiovisual activity recognition using deep bayesian variational inference (ICCV 2019) 
 [[Paper](https://arxiv.org/pdf/1811.10811v3.pdf)]
 [[Code]]<br>
@@ -1454,6 +1551,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ##  Open-set Recognition Videos
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1470,6 +1569,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
 * Opening Up Open World Tracking (CVPR 2022) 
@@ -1517,6 +1617,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR
 * Generalizing to the Open World: Deep Visual Odometry With Online Adaptation (CVPR 2021) 
@@ -1552,6 +1653,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
 * Specifying weight priors in bayesian deep neural networks with empirical bayes (AAAI 2020) 
 [[Paper](https://arxiv.org/pdf/1906.05323v3.pdf)]
@@ -1582,8 +1684,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets:  HMDB51, UCF50, UCF101*<br>
 *Task: Action recognition*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ##  Novel Class Discovery Videos
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1600,6 +1705,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1627,6 +1733,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1657,6 +1764,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary Videos
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1673,6 +1782,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1689,6 +1799,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1708,6 +1819,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Fine Grained Videos
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1724,7 +1837,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
-
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
 
@@ -1799,6 +1912,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1818,6 +1932,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Long Tail Videos
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1834,6 +1950,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 <!-- #### CVPR
 #### ICLR
@@ -1850,6 +1967,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 <!-- #### CVPR
 #### ICLR

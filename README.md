@@ -211,6 +211,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: ImageNet distribution shifts (ImageNetV2, ImageNet-R,ObjectNet, and ImageNet-A, ImageNet Sketch); CIFAR10.1 &10.2*<br>
 *Task: Zero-shot distribution shift robustness*
 
+* Neural Mean Discrepancy for Efficient Out-of-Distribution Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Neural_Mean_Discrepancy_for_Efficient_Out-of-Distribution_Detection_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR-10, CIFAR-100, SVHN, croppedImageNet,  cropped  LSUN,  iSUN,  and  Texture*<br>
+*Task: Image Classification*
+
 <!-- #### ICLR -->
 #### NeurIPS
 * Make an Omelette with Breaking Eggs: Zero-Shot Learning for Novel Attribute Synthesis (NeurIPS 2022) 
@@ -344,8 +350,68 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+* OoD-Bench: Quantifying and Understanding Two Dimensions of Out-of-Distribution Generalization (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_OoD-Bench_Quantifying_and_Understanding_Two_Dimensions_of_Out-of-Distribution_Generalization_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/ynysjtu/ood_bench)]<br>
+*Datasets: PACS; Office Home; TerraInc; Camelyon17; Colored MNIST; NICO; CelebA*<br>
+*Task: Image Classification*
+
+* Evading the Simplicity Bias: Training a Diverse Set of Models Discovers Solutions With Superior OOD Generalization (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Teney_Evading_the_Simplicity_Bias_Training_a_Diverse_Set_of_Models_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/dteney/collages-dataset)]<br>
+*Datasets: [MNIST;CIFAR;  Fashion-MNIST; SVHN]  Biased activity recognition (BAR); PACS*<br>
+*Task: Image Classification*
+
+* Weakly Supervised Semantic Segmentation Using Out-of-Distribution Data (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Weakly_Supervised_Semantic_Segmentation_Using_Out-of-Distribution_Data_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/naver-ai/w-ood)]<br>
+*Datasets:*<br>
+*Task: Semantic Segmentation*
+
+* DeepFace-EMD: Re-Ranking Using Patch-Wise Earth Mover's Distance Improves Out-of-Distribution Face Identification (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_DeepFace-EMD_Re-Ranking_Using_Patch-Wise_Earth_Movers_Distance_Improves_Out-of-Distribution_Face_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets:*<br>
+*Task: Face Identification*
+
+* Neural Mean Discrepancy for Efficient Out-of-Distribution Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Neural_Mean_Discrepancy_for_Efficient_Out-of-Distribution_Detection_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR-10, CIFAR-100, SVHN, croppedImageNet,  cropped  LSUN,  iSUN,  and  Texture*<br>
+*Task: Image Classification*
+
+* Deep Hybrid Models for Out-of-Distribution Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_Deep_Hybrid_Models_for_Out-of-Distribution_Detection_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR-10 and CIFAR-100, SVHN, CLINC150*<br>
+*Task: Image Classification*
+
+* Amodal Segmentation Through Out-of-Task and Out-of-Distribution Generalization With a Bayesian Model (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Amodal_Segmentation_Through_Out-of-Task_and_Out-of-Distribution_Generalization_With_a_Bayesian_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/anonymous-submission-vision/Amodal-Bayesian)]<br>
+*Datasets: OccludedVehicles; KINS; COCOA-cls*<br>
+*Task: Instance segmentation?*
+
+* Rethinking Reconstruction Autoencoder-Based Out-of-Distribution Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Rethinking_Reconstruction_Autoencoder-Based_Out-of-Distribution_Detection_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR10; CIFAR100*<br>
+*Task: Image Classification*
+
+* ViM: Out-of-Distribution With Virtual-Logit Matching (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ViM_Out-of-Distribution_With_Virtual-Logit_Matching_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/haoqiwang/vim)]<br>
+*Datasets: OpenImage-O; Texture; iNaturalist, ImageNet-O*<br>
+*Task: Image Classification*
+
+* Out-of-Distribution Generalization With Causal Invariant Transformations (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Out-of-Distribution_Generalization_With_Causal_Invariant_Transformations_CVPR_2022_paper.pdf)]
+[[Code](https://www.mindspore.cn)]<br>
+*Datasets: PACS; VLCS {VOC2007, LabelMe, Caltech101, SUN09}*<br>
+*Task: Image Classification*
+
+<!--#### ICLR
 #### NeurIPS
 #### ICCV-->
 #### ICML
@@ -353,13 +419,100 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf)]
 [[Code](https://github.com/hongxin001/logitnorm_ood)]<br>
 *Datasets: long-tailed CIFAR10/100, CelebA-5, Places-LT*<br>
-*Task: Out-of-Distribution detection*
-<!-- #### IEEE-Access
+*Task: Image Classification*
+
+<!-- #### IEEE-Access-->
 #### ECCV
+
+* OOD-CV: A Benchmark for Robustness to Out-of-Distribution Shifts of Individual Nuisances in Natural Images (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680158.pdf)]
+[[Code]]<br>
+*Datasets: PASCAL3D+; OOD-CV*<br>
+*Task: Image Classification, Object Detection, and 3D Pose Estimation*
+
+* Out-of-Distribution Identification: Let Detector Tell Which I Am Not Sure (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700631.pdf)]
+[[Code]]<br>
+*Datasets: PASCAL VOC-IO; Crack  Defect*<br>
+*Task: Image Classification*
+
+* Out-of-Distribution Detection with Boundary Aware Learning (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840232.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR-10 and CIFAR-100; SVHN and LSUN; TinyImageNet; MNIST; Fashion-MNIST; Omniglot*<br>
+*Task: Image Classification*
+
+* Out-of-Distribution Detection with Semantic Mismatch under Masking (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840369.pdf)]
+[[Code](https://github.com/cure-lab/MOODCat)]<br>
+*Datasets: Cifar-10, Cifar-100, SVHN, Texture, Places365, Lsun and Tiny-ImageNet*<br>
+*Task: Image Classification*
+
+* DICE: Leveraging Sparsification for Out-of-Distribution Detection (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840680.pdf)]
+[[Code](https://github.com/deeplearning-wisc/dice.git)]<br>
+*Datasets: CIFAR10; CIFAR100; Places365; Textures; iNaturalist; and SUN*<br>
+*Task: Image Classification*
+
+* Class Is Invariant to Context and Vice Versa: On Learning Invariance for Out-of-Distribution Generalization (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850089.pdf)]
+[[Code](https://github.com/simpleshinobu/IRMCon)]<br>
+*Datasets: Colored MNIST; Corrupted CIFAR-10, Biased Action Recognition(BAR); PACS*<br>
+*Task: Image Classification*
+
+* Data Invariants to Understand Unsupervised Out-of-Distribution Detection (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910129.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR10; MVTec; SVHN; CIFAR100; DomainNet; coherence tomography (OCT); chest X-ray*<br>
+*Task: Image Classification*
+
+
+* Embedding Contrastive Unsupervised Features to Cluster in- and Out-of-Distribution Noise in Corrupted Image Datasets (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910389.pdf)]
+[[Code](https://github.com/PaulAlbert31/SNCF)]<br>
+*Datasets: (mini) Webvision*<br>
+*Task: Image Classification*
+
 #### AAAI
-#### TPAMI
+* Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classification (AAAI 2022) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20812/version/19109/20571)]
+[[Code]]<br>
+*Datasets: CIFAR-10, CIFAR-100, SVHN and TinyImageNet*<br>
+*Task: Image Classification*
+
+<!-- #### TPAMI-->
 #### CVPRw
-#### WACV
+* Out-of-Distribution Detection in Unsupervised Continual Learning (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/He_Out-of-Distribution_Detection_in_Unsupervised_Continual_Learning_CVPRW_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR-100*<br>
+*Task: Image Classification*
+
+* Continual Learning Based on OOD Detection and Task Masking (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Kim_Continual_Learning_Based_on_OOD_Detection_and_Task_Masking_CVPRW_2022_paper.pdf)]
+[[Code](https://github.com/k-gyuhak/CLOM)]<br>
+*Datasets: MNIST-5T; CIFAR10-5T; CIFAR100-10T; CIFAR100-20T; T-ImageNet-5T; T-ImageNet-10T*<br>
+*Task: Image Classification*
+
+* Class-Wise Thresholding for Robust Out-of-Distribution Detection (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Guarrera_Class-Wise_Thresholding_for_Robust_Out-of-Distribution_Detection_CVPRW_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: Places365; SVHN; German Traffic Sign Recognition Benchmark (GTSRB); ImageNet; Anime Faces; Fishes; Fruits; iSUN; Jig-saw Training; LSUN; Office; PACS; Texture*<br>
+*Task: Image Classification*
+
+* PyTorch-OOD: A Library for Out-of-Distribution Detection Based on PyTorch (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Kirchheim_PyTorch-OOD_A_Library_for_Out-of-Distribution_Detection_Based_on_PyTorch_CVPRW_2022_paper.pdf)]
+[[Code](https://gitlab.com/kkirchheim/pytorch-ood)]<br>
+*Datasets: CIFAR 10 or CIFAR 100;  ImageNet-A; ImageNet-O; Newsgroups; ImageNet-R*<br>
+*Task: Image Classification*
+
+* RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/papers/Khalid_RODD_A_Self-Supervised_Approach_for_Robust_Out-of-Distribution_Detection_CVPRW_2022_paper.pdf)]
+[[Code](https://github.com/UmarKhalidcs/RODD)]<br>
+*Datasets: CIFAR-10 and CIFAR-100 as ID datasets and 7 OOD datasets. OOD datasets utilized are TinyImageNet-crop (TINc), TinyImageNet-resize(TINr), LSUN-resize (LSUN-r), Places, Textures, SVHN and iSUN*<br>
+*Task: Image Classification*
+
+<!--#### WACV
 #### IJCV
 #### BMVC
 #### ICCw -->
@@ -379,7 +532,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Trash_To_Treasure_Harvesting_OOD_Data_With_Cross-Modal_Matching_for_ICCV_2021_paper.pdf)]
 [[Code]]<br>
 *Datasets: CIFAR-10, Animal-10, Tiny-ImageNet, CIFAR100*<br>
-*Task: OOD Detection*
+*Task: Image Classification*
 
 <!--#### ICML
 #### IEEE-Access

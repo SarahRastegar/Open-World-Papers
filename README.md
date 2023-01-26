@@ -1625,6 +1625,30 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
+* C2AM Loss: Chasing a Better Decision Boundary for Long-Tail Object Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_C2AM_Loss_Chasing_a_Better_Decision_Boundary_for_Long-Tail_Object_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: LVIS*<br>
+*Task: Object Detection*
+
+* Long-Tail Recognition via Compositional Knowledge Transfer (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Parisot_Long-Tail_Recognition_via_Compositional_Knowledge_Transfer_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: ImageNet-LT and Places-LT*<br>
+*Task: Image Classification*
+
+* Relieving Long-Tailed Instance Segmentation via Pairwise Class Balance (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Relieving_Long-Tailed_Instance_Segmentation_via_Pairwise_Class_Balance_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: LVIS*<br>
+*Task: Instance segmentation*
+
+* Relieving Long-Tailed Instance Segmentation via Pairwise Class Balance (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Relieving_Long-Tailed_Instance_Segmentation_via_Pairwise_Class_Balance_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: LVIS*<br>
+*Task: Instance segmentation*
+
 <!-- #### ICLR
 #### NeurIPS
 #### ICCV-->

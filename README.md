@@ -411,6 +411,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: PACS; VLCS {VOC2007, LabelMe, Caltech101, SUN09}*<br>
 *Task: Image Classification*
 
+* Trustworthy Long-Tailed Classification (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Trustworthy_Long-Tailed_Classification_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: (CIFAR-10-LT, CIFAR-100-LT and ImageNet-LT) and three balanced OOD datasets (SVHN, ImageNet-open and Places-open)*<br>
+*Task: Image Classification*
+
 <!--#### ICLR
 #### NeurIPS
 #### ICCV-->
@@ -1649,6 +1655,73 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: LVIS*<br>
 *Task: Instance segmentation*
 
+
+* RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_RelTransformer_A_Transformer-Based_Long-Tail_Visual_Relationship_Recognition_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/Vision-CAIR/ RelTransformer)]<br>
+*Datasets: GQA-LT; VG8K-LT; VG200*<br>
+*Task: Relationship Recognition*
+
+* Long-Tailed Recognition via Weight Balancing (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Alshammari_Long-Tailed_Recognition_via_Weight_Balancing_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/ShadeAlsha/LTR-weight-balancing)]<br>
+*Datasets: CIFAR100-LT; ImageNet-LT; iNaturalist*<br>
+*Task: Image Classification*
+
+* Equalized Focal Loss for Dense Long-Tailed Object Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Equalized_Focal_Loss_for_Dense_Long-Tailed_Object_Detection_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/ModelTC/EOD)]<br>
+*Datasets: LVIS v1*<br>
+*Task: Object Detection*
+
+* Targeted Supervised Contrastive Learning for Long-Tailed Recognition (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Targeted_Supervised_Contrastive_Learning_for_Long-Tailed_Recognition_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR-10-LT  &  CIFAR-100-LT; ImageNet-LT; iNaturalist*<br>
+*Task: Image Classification*
+
+* Balanced Contrastive Learning for Long-Tailed Visual Recognition (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Balanced_Contrastive_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR-10-LT  &  CIFAR-100-LT; ImageNet-LT; iNaturalist*<br>
+*Task: Image Classification*
+
+* Trustworthy Long-Tailed Classification (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Trustworthy_Long-Tailed_Classification_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: (CIFAR-10-LT, CIFAR-100-LT and ImageNet-LT) and three balanced OOD datasets (SVHN, ImageNet-open and Places-open)*<br>
+*Task: Image Classification*
+
+* Nested Collaborative Learning for Long-Tailed Visual Recognition (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Nested_Collaborative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/Bazinga699/NCL)]<br>
+*Datasets: CIFAR-10-LT  &  CIFAR-100-LT; ImageNet-LT; iNaturalist; Places-LT*<br>
+*Task: Image Classification*
+
+* The Majority Can Help the Minority: Context-Rich Minority Oversampling for Long-Tailed Classification (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_The_Majority_Can_Help_the_Minority_Context-Rich_Minority_Oversampling_for_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/naver-ai/cmo)]<br>
+*Datasets: CIFAR-10-LT, CIFAR-100-LT, ImageNet-LT, and iNaturalist2018*<br>
+*Task: Image Classification*
+
+* Retrieval Augmented Classification for Long-Tail Visual Recognition (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Retrieval_Augmented_Classification_for_Long-Tail_Visual_Recognition_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: iNaturalist; Places365-LT*<br>
+*Task: Image Retrieval*
+
+* Adaptive Hierarchical Representation Learning for Long-Tailed Object Detection (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Adaptive_Hierarchical_Representation_Learning_for_Long-Tailed_Object_Detection_CVPR_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: LVIS*<br>
+*Task: Object Detection*
+
+* Long-Tailed Visual Recognition via Gaussian Clouded Logit Adjustment (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Long-Tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/Keke921/GCLLoss)]<br>
+*Datasets: CIFAR-10-LT  &  CIFAR-100-LT; ImageNet-LT; iNaturalist; Places-LT*<br>
+*Task: Image Classification*
+
 <!-- #### ICLR
 #### NeurIPS
 #### ICCV-->
@@ -1658,17 +1731,117 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/hongxin001/logitnorm_ood)]<br>
 *Datasets: long-tailed CIFAR10/100, CelebA-5, Places-LT*<br>
 *Task: Out-of-Distribution detection*
-<!-- #### IEEE-Access
+
+<!-- #### IEEE-Access-->
+
 #### ECCV
-#### AAAI-->
+* Long-Tail Detection with Effective Class-Margins (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680684.pdf)]
+[[Code](https://github.com/janghyuncho/ECM-Loss)]<br>
+*Datasets: LVIS v1.0 and OpenImages*<br>
+*Task: Image Classification*
+
+* Improving the Intra-Class Long-Tail in 3D Detection via Rare Example Mining (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700155.pdf)]
+[[Code]]<br>
+*Datasets: Waymo Open Dataset (camera+LiDAR)*<br>
+*Task: Track Mining*
+
+* Long-Tailed Instance Segmentation Using Gumbel Optimized Loss (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700349.pdf)]
+[[Code](https://github.com/kostas1515/ GOL)]<br>
+*Datasets: LVISv1; LVISv0.5; CIFAR100-LT; ImageNet-LT, Places-LT*<br>
+*Task: Image Classification*
+
+* Learning with Free Object Segments for Long-Tailed Instance Segmentation (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700648.pdf)]
+[[Code](https://github.com/czhang0528/FreeSeg)]<br>
+*Datasets: LVISv1; COCO-LT*<br>
+*Task: Instance segmentation*
+
+* Improving GANs for Long-Tailed Data through Group Spectral Regularization (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750423.pdf)]
+[[Code](https://sites.google.com/view/gsr-eccv22)]<br>
+*Datasets: CIFAR-10 and LSUN*<br>
+*Task: Image Classification*
+
+* Constructing Balance from Imbalance for Long-Tailed Image Recognition (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800036.pdf)]
+[[Code](https://github.com/silicx/DLSA)]<br>
+*Datasets: ImageNet-LT, Places-LT, and iNaturalist18*<br>
+*Task: Image Classification*
+
+* On Multi-Domain Long-Tailed Recognition, Imbalanced Domain Generalization and Beyond (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800054.pdf)]
+[[Code](https://github.com/YyzHarry/multi-domain-imbalance)]<br>
+*Datasets: VLCS-MLT; PACS-MLT; OfficeHome-MLT; TerraInc-MLT; DomainNet-MLT*<br>
+*Task: Image Classification*
+
+
+* Tackling Long-Tailed Category Distribution under Domain Shifts (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830706.pdf)]
+[[Code](https://xiaogu.site/LTDS)]<br>
+*Datasets: AWA2-LTS; ImageNet-LTS*<br>
+*Task: Image Classification*
+
+* Towards Calibrated Hyper-Sphere Representation via Distribution Overlap Coefficient for Long-Tailed Learning (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840176.pdf)]
+[[Code](https://github.com/VipaiLab/vMF_OP)]<br>
+*Datasets: ADE20K; LVIS-v1.0*<br>
+*Task: Image Classification*
+
+* SAFA: Sample-Adaptive Feature Augmentation for Long-Tailed Image Classification (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840578.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR-LT-10,CIFAR-LT-100, Places-LT, ImageNet-LT, and iNaturalist2018*<br>
+*Task: Image Classification*
+
+* Breadcrumbs: Adversarial Class-Balanced Sampling for Long-Tailed Recognition (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840628.pdf)]
+[[Code](https://github.com/BoLiu-SVCL/Breadcrumbs)]<br>
+*Datasets: Places-LT, ImageNet-LT, and iNaturalist2018*<br>
+*Task: Image Classification*
+
+* Invariant Feature Learning for Generalized Long-Tailed Classification (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840698.pdf)]
+[[Code](https://github.com/KaihuaTang/Generalized-Long-Tailed-Benchmarks.pytorch)]<br>
+*Datasets: ImageNet-GLT; MSCOCO-GLT*<br>
+*Task: Image Classification*
+
+* VL-LTR: Learning Class-Wise Visual-Linguistic Representation for Long-Tailed Visual Recognition (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850072.pdf)]
+[[Code](https://github.com/ChangyaoTian/VL-LTR)]<br>
+*Datasets: ImageNet-LT, Places-LT, and iNaturalist 2018*<br>
+*Task: Image Classification*
+
+* Identifying Hard Noise in Long-Tailed Sample Distribution (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860725.pdf)]
+[[Code](https://github.com/yxymessi/H2E-Framework)]<br>
+*Datasets: ImageNet-NLT, Animal10-NLT and Food101-NLT; Red Mini-ImageNet, Animal-10N and Food-101N*<br>
+*Task: Image Classification*
+
+* Long-Tailed Class Incremental Learning (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930486.pdf)]
+[[Code](https://github.com/xialeiliu/Long-Tailed-CIL)]<br>
+*Datasets: CIFAR-100 and ImageNet-Subset with 100 classes*<br>
+*Task: Image Classification*
+
+<!--#### AAAI-->
 #### TPAMI
 * Open Long-Tailed RecognitionIn A Dynamic World	(TPAMI 2022) 
 [[Paper](https://arxiv.org/pdf/2208.08349v1.pdf)]
 [[Code](https://liuziwei7.github.io/projects/LongTail.html)]<br>
 *Datasets: CIFAR-10-LT,CIFAR-100-LT, and iNaturalist-18, Places-LT,  MS1M-LT, SUN-LT*<br>
 *Task: Image Classification*
-<!--#### CVPRw
-#### WACV
+
+#### CVPRw
+* A Two-Stage Shake-Shake Network for Long-Tailed Recognition of SAR Aerial View Objects (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/PBVS/papers/Li_A_Two-Stage_Shake-Shake_Network_for_Long-Tailed_Recognition_of_SAR_Aerial_CVPRW_2022_paper.pdf)]
+[[Code](https://codalab.lisn.upsaclay.fr/competitions/1388)]<br>
+*Datasets: PBVS @ CVPR 2022 Multi-modal Aerial View Object Classification Challenge Track 1 (SAR images)*<br>
+*Task: Image Classification*
+
+<!--#### WACV
 #### IJCV
 #### BMVC
 #### ICCw

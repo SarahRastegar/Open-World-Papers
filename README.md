@@ -79,9 +79,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR
+<!-- #### CVPR-->
 #### ICLR
-#### NeurIPS
+* Relative representations enable zero-shot latent space communication (ICLR 2023 top 5%) 
+[[Paper](https://openreview.net/forum?id=SrC-nwieGJ)]
+[[Code]]<br>
+*Datasets: MNIST, F-MNIST, CIFAR-10, CIFAR-100, Cora, CiteSeer, PubMed, Amazon Reviews, TREC, DBpedia*<br>
+*Task: Image Classification, Graph Node Classification, Image reconstruction, Text Classification*
+<!--#### NeurIPS
 #### ICCV
 #### ICML
 #### IEEE-Access
@@ -613,8 +618,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets:  LAION 400M*<br>
 *Task: Image Retrieval*
 
-#### NeurIPS
-<!--#### ICCV
+<!--#### NeurIPS
+#### ICCV
 #### ICML
 #### IEEE-Access
 #### ECCV
@@ -733,6 +738,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Open-set recognition*
 
 #### NeurIPS 
+* Rethinking Knowledge Graph Evaluation Under the Open-World Assumption (NeurIPS 2022 Oral) 
+[[Paper](https://openreview.net/forum?id=5xiLuNutzJG)]
+[[Code](https://github.com/GraphPKU/Open-World-KG)]<br>
+*Datasets: family tree KG*<br>
+*Task: Knowledge  Graph  Completion *
+
 * Interpretable Open-Set Domain Adaptation via Angular Margin Separation	(NeurIPS 2022) 
 [[Paper](https://arxiv.org/pdf/2202.01339.pdf)]
 [[Code](https://github.com/sungnyun/understanding-cdfsl)]<br>
@@ -756,6 +767,36 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/antoalli/3D_OS)]<br>
 *Datasets: ShapeNetCore v2,  ModelNet40->ScanObjectNN, ScanObjectNN*<br>
 *Task: Point Cloud Novelty Detection*
+
+* Domain Adaptation under Open Set Label Shift (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=OMZG4vsKmm7)]
+[[Code](https://github.com/acmi-lab/Open-Set-Label-Shift)]<br>
+*Datasets:  CIFAR10, CIFAR100, Entity30, Newsgroups-20, Tabula Muris, Dermnet (skin disease prediction), BreakHis(tumor cell classification)*<br>
+*Task: Domain Adaptation*
+
+* Meta-Query-Net: Resolving Purity-Informativeness Dilemma in Open-set Active Learning (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=_kZVnosHbV3)]
+[[Code]()]<br>
+*Datasets: CIFAR10, CIFAR100, and ImageNet,  LSUN, Places365*<br>
+*Task: Active Learning*
+
+* Maximum Class Separation as Inductive Bias in One Matrix (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=MbVS6BuJ3ql)]
+[[Code](https://github.com/tkasarla/max-separation-as-inductive-bias)]<br>
+*Datasets: CIFAR10, CIFAR100, and ImageNet*<br>
+*Task: Image Classification*
+
+* GlanceNets: Interpretable, Leak-proof Concept-based Models (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=MbVS6BuJ3ql)]
+[[Code](https://github.com/ema-marconato/glancenet)]<br>
+*Datasets: dSprites, MPI3D, CelebA, even and odd MNIST images*<br>
+*Task: Concept Leakage*
+
+* Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=ZlCpRiZN7n)]
+[[Code](https://github.com/Albert0147/AaD_SFDA)]<br>
+*Datasets: Office-31,Office-Home and VisDA-C 2017*<br>
+*Task: Domain Adaptation*
 
 <!-- #### ICCV
 #### ICML
@@ -1548,9 +1589,15 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR
+<!-- #### CVPR -->
 #### ICLR
-#### NeurIPS
+* This Looks Like It Rather Than That: ProtoKNN For Similarity-Based Classifiers (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=lh-HRYxuoRr)]
+[[Code]]<br>
+*Datasets: CUB200-2011, Stanford Dogs, Stanford Cars*<br>
+*Task: Image Classification*
+
+<!-- #### NeurIPS
 #### ICCV
 #### ICML
 #### IEEE-Access

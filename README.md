@@ -1080,7 +1080,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: PASCAL-5i dataset; the COCO-20i dataset*<br>
 *Task: Semantic Segmentation*
 
-<!-- #### ICLR-->
+#### ICLR
+* Meta Discovery: Learning to Discover Novel Classes given Very Limited Data (ICLR 2022 spotlight) 
+[[Paper](https://openreview.net/forum?id=MEpKGLsY8f)]
+[[Code](https://github.com/Haoang97/MEDI)]<br>
+*Datasets: CIFAR-10, CIFAR-100, SVHN, OmniGlot *<br>
+*Task: Image Classification*
+
 #### NeurIPS
 * Learning to Discover and Detect Objects (NeurIPS 2022) 
 [[Paper](https://arxiv.org/pdf/2210.10774.pdf)]
@@ -1106,7 +1112,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection (ECCV 2022) 
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850581.pdf)]
 [[Code]]<br>
-*Datasets: 1. CIFAR-10 (10 classes), 2. CIFAR-100 (super-classlevel, 20 classes), 3. EMNIST (26 classes) and 4. iNaturalist21 (phylumlevel, 9 classes)*<br>
+*Datasets: 1.CIFAR-10 (10 classes), 2. CIFAR-100 (super-classlevel, 20 classes), 3. EMNIST (26 classes) and 4. iNaturalist21 (phylumlevel, 9 classes)*<br>
 *Task: Image Classification*
 
 #### AAAI
@@ -1138,9 +1144,15 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task:*
 
 
-<!-- #### IJCV
+<!-- #### IJCV-->
 #### BMVC
-#### ICCw-->
+* XCon: Learning with Experts for Fine-grained Category Discovery (BMVC 2022) 
+[[Paper](https://arxiv.org/abs/2208.01898v1)]
+[[Code](https://github.com/YiXXin/XCon)]<br>
+*Datasets: CIFAR-10/100, ImageNet-100, CUB-200, Standford Cars, FGVC-Aircraft, and Oxford-IIIT Pet*<br>
+*Task: Image Classification*
+
+<!--#### ICCw-->
 #### Arxiv & Others
 * Mutual Information-guided Knowledge Transfer for Novel Class Discovery (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2206.12063v2)]
@@ -1210,8 +1222,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code]]<br>
 *Datasets: CIFAR10, CIFAR 100, Imagenet*<br>
 *Task: Object Detection*
-<!--#### ICLR
-#### NeurIPS-->
+<!--#### ICLR-->
+#### NeurIPS
+* Novel Visual Category Discovery with Dual Ranking Statistics and Mutual Knowledge Distillation (NeurIPS 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf)]
+[[Code](https://github.com/DTennant/dual-rank-ncd)]<br>
+*Datasets:  CIFAR-10, CIFAR-100, ImageNet-1K, ImageNet-100, CUB-200, Stanford-Cars, FGVC aircraft*<br>
+*Task: Image Classification*
+
 #### ICCV
 * Towards Novel Target Discovery Through Open-Set Domain Adaptation (ICCV 2021) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf)]
@@ -1237,17 +1255,37 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: PascalVOC2007-> COCO2014*<br>
 *Task:*
 
+
 <!--#### ICML
 #### IEEE-Access
 #### ECCV
-#### AAAI
+#### AAAI-->
 #### TPAMI
-#### CVPRw
+
+* AutoNovel: Automatically Discovering and Learning Novel Visual Categories (TPAMI 2021) 
+[[Paper](https://arxiv.org/abs/2106.15252v1)]
+[[Code](http://www.robots.ox.ac.uk/~vgg/research/auto_novel/)]<br>
+*Datasets: CIFAR10, CIFAR100, SVHN, OmniGlot, ImageNet*<br>
+*Task: Image Classification*
+
+<!--#### CVPRw
 #### WACV
 #### IJCV
 #### BMVC
-#### ICCw
-#### Arxiv & Others-->
+#### ICCw-->
+#### Arxiv & Others
+
+* End-to-end novel visual categories learning via auxiliary self-supervision (Neural Networks 2021) 
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0893608021000575)]
+[[Code]]<br>
+*Datasets: CIFAR10, CIFAR100, SVHN*<br>
+*Task: Image Classification*
+
+* Progressive Self-Supervised Clustering With Novel Category Discovery (TCYB 2021) 
+[[Paper](https://ieeexplore.ieee.org/document/9409777)]
+[[Code]]<br>
+*Datasets: Coil20, Yeast, MSRA25, PalmData25, Abalone, USPS, Letter, MNIST*<br>
+*Task: Self-Supervised Clustering*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
 
@@ -1657,10 +1695,24 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### TPAMI
 #### CVPRw
 #### WACV
-#### IJCV
+#### IJCV-->
 #### BMVC
-#### ICCw
-#### Arxiv & Others-->
+
+* XCon: Learning with Experts for Fine-grained Category Discovery (BMVC 2022) 
+[[Paper](https://arxiv.org/abs/2208.01898v1)]
+[[Code](https://github.com/YiXXin/XCon)]<br>
+*Datasets: CIFAR-10/100, ImageNet-100, CUB-200, Standford Cars, FGVC-Aircraft, and Oxford-IIIT Pet*<br>
+*Task: Image Classification*
+<!--#### ICCw-->
+
+#### Arxiv & Others
+
+* Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning (EMNLP 2022) 
+[[Paper](https://arxiv.org/abs/2210.07733v1)]
+[[Code](https://github.com/Lackel/Hierarchical_Weighted_SCL)]<br>
+*Datasets: CLINC, Web of Science (WOS), HWU64*<br>
+*Task: Text Classification*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 <!-- #### CVPR

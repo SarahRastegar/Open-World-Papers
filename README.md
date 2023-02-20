@@ -1307,6 +1307,23 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR-10; CIFAR-100; SVHN*<br>
 *Task: Image Classification*
 
+* Multi-class classification without multi-class labels (ICLR 2019) 
+[[Paper](https://openreview.net/forum?id=SJzR2iRcK7)]
+[[Code](https://github.com/GT-RIPL/L2C)]<br>
+*Datasets: CIFAR-10, CIFAR-100, ImageNet, MNIST*<br>
+*Task: Image Classification*
+
+* Learning to cluster in order to transfer across domains and tasks (ICLR 2018) 
+[[Paper](https://openreview.net/pdf?id=ByRWCqvT-)]
+[[Code](https://github.com/GT-RIPL/L2C)]<br>
+*Datasets: Omniglot, Office-31, SVHN-TO-MNIST*<br>
+*Task: Cross-domain Transfer Learning, Clustering*
+
+* Neural network-based clustering using pairwise constraints (ICLRw 2016) 
+[[Paper](https://arxiv.org/abs/1511.06321v5)]
+[[Code](https://github.com/GT-RIPL/L2C)]<br>
+*Datasets: MNIST, CIFAR10*<br>
+*Task: Image Classification, Clustering*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary
 <!----------------------------------------------------------------------------------------------------------------------------------------------->

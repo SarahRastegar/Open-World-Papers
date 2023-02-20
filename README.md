@@ -596,6 +596,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!--#### IJCV
 #### BMVC
 #### ICCw -->
+#### Arxiv & Others 
+* OpenCon: Open-world Contrastive Learning (TMLR 2023) 
+[[Paper](https://openreview.net/forum?id=2wWJxtpFer)]
+[[Code](https://github.com/deeplearning-wisc/opencon)]<br>
+*Datasets: CIFAR-10, CIFAR-100, Imagenet-100*<br>
+*Task: Image Classification and Domain Adaptation*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
@@ -873,8 +880,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Panoptic Segmentation*
 
 <!-- 
-#### ICCVw
-#### Arxiv & Others -->
+#### ICCVw -->
+#### Arxiv & Others 
+* Open Set Domain Adaptation By Novel Class Discovery (ICME 2022) 
+[[Paper](https://arxiv.org/abs/2203.03329v1)]
+[[Code]]<br>
+*Datasets: Office-31, Office-Home, DomainNet*<br>
+*Task: Image Classification and Domain Adaptation*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR
@@ -1076,6 +1088,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: COCOhalf+ LVIS; LVIS + Visual Genome*<br>
 *Task: Object Detection*
 
+* Grow and Merge: A Unified Framework for Continuous Categories Discovery (NeurIPS 2022) 
+[[Paper](https://arxiv.org/abs/2210.04174v1)]
+[[Code]]<br>
+*Datasets:  CIFAR-100, CUB-200, ImageNet-100, Stanford-Cars, FGVC-Aircraft, ImageNet-200*<br>
+*Task: Image Classification*
 <!-- #### ICCV
 #### ICML
 #### IEEE-Access-->
@@ -1126,10 +1143,65 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw-->
 #### Arxiv & Others
 * Mutual Information-guided Knowledge Transfer for Novel Class Discovery (Arxiv 2022) 
-[[Paper]]
+[[Paper](https://arxiv.org/abs/2206.12063v2)]
 [[Code]]<br>
 *Datasets:*<br>
 *Task:*
+
+* Automatically Discovering Novel Visual Categories with Adaptive Prototype Learning (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2206.12063v2)]
+[[Code](https://github.com/dvlab-research/Entity)]<br>
+*Datasets: CIFAR10, CIFAR100, OmniGlot, ImageNet*<br>
+*Task: Image Classification*
+
+* Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2208.00979v1)]
+[[Code](https://github.com/dvlab-research/Entity)]<br>
+*Datasets: CIFAR10, CIFAR100, OmniGlot, ImageNet*<br>
+*Task: Image Classification*
+
+* A Method for Discovering Novel Classes in Tabular Data (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2209.01217v3)]
+[[Code]]<br>
+*Datasets: ForestCover Type, Letter Recognition, Human Activity Recognition, Satimage, Pen-Based Handwritten Digits Recognition, 1990 US Census Data, MNIST*<br>
+*Task: Tabular Data Classification*
+
+* A Closer Look at Novel Class Discovery from the Labeled Set (NeurIPSw 2022) 
+[[Paper](https://arxiv.org/abs/2209.09120v4)]
+[[Code]]<br>
+*Datasets: CIFAR100-50, ImageNet*<br>
+*Task: Image Classification*
+
+* Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2210.03591v2)]
+[[Code]]<br>
+*Datasets: CIFAR10, CIFAR100, ImageNet*<br>
+*Task: Image Classification*
+
+* A Simple Parametric Classification Baseline for Generalized Category Discovery (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2211.11727v1)]
+[[Code](https://github.com/CVMI-Lab/SimGCD)]<br>
+*Datasets: CIFAR10/100, ImageNet-100, Semantic Shift Benchmark (SSB, including CUB, Stanford Cars, and FGVC-Aircraft), Herbarium 19*<br>
+*Task: Image Classification*
+
+* Residual Tuning: Toward Novel Category Discovery Without Labels (TNNLS 2022) 
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9690577&tag=1)]
+[[Code](https://github.com/liuyudut/ResTune)]<br>
+*Datasets: CIFAR-10, CIFAR-100, TinyImageNet*<br>
+*Task: Image Classification*
+
+* Open Set Domain Adaptation By Novel Class Discovery (ICME 2022) 
+[[Paper](https://arxiv.org/abs/2203.03329v1)]
+[[Code]]<br>
+*Datasets: Office-31, Office-Home, DomainNet*<br>
+*Task: Image Classification and Domain Adaptation*
+
+* Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning (EMNLP 2022) 
+[[Paper](https://arxiv.org/abs/2210.07733v1)]
+[[Code](https://github.com/Lackel/Hierarchical_Weighted_SCL)]<br>
+*Datasets: CLINC, Web of Science (WOS), HWU64*<br>
+*Task: Text Classification*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR

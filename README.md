@@ -734,8 +734,20 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Open-set Recognition: A good closed-set classifier is all you need? (ICLR 2022 Oral) 
 [[Paper](https://openreview.net/pdf?id=5hLP5JY9S2d)]
 [[Code](https://github.com/sgvaze/osr_closed_set_all_you_need)]<br>
-*Datasets:  ImageNet-21K-P, CUB, Stanford Car, FGVC-Aircraft, MNIST, SVHN, CIFAR10, CIFAR+N, TinyImageNet*<br>
+*Datasets: ImageNet-21K-P, CUB, Stanford Car, FGVC-Aircraft, MNIST, SVHN, CIFAR10, CIFAR+N, TinyImageNet*<br>
 *Task: Open-set recognition*
+
+* CrossMatch: Cross-Classifier Consistency Regularization for Open-Set Single Domain Generalization (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=48RBsJwGkJf)]
+[[Code]]<br>
+*Datasets: MNIST, SVHN,USPS, MNIST-M, SYN, Office31, Office-Home, PACS*<br>
+*Task: Domain Generalization*
+
+* Objects in Semantic Topology (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=d5SCUJ5t1k)]
+[[Code]]<br>
+*Datasets: Pascal VOC, MS-COCO*<br>
+*Task: Object Detection*
 
 #### NeurIPS 
 * Rethinking Knowledge Graph Evaluation Under the Open-World Assumption (NeurIPS 2022 Oral) 

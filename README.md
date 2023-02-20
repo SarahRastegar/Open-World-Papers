@@ -560,7 +560,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/5054/4927)]
 
 * Recent advances in open set recognition: A survey (TPAMI 2020) 
-[[Paper]]
+[[Paper](https://arxiv.org/abs/1811.08581v4)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2023 Papers

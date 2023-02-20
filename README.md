@@ -332,9 +332,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR
+<!-- #### CVPR-->
 #### ICLR
-#### NeurIPS
+* Harnessing Out-Of-Distribution Examples via Augmenting Content and Style (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=boNyg20-JDm)]
+[[Code]]<br>
+*Datasets:  SVHN, CIFAR10, LSUN, DTD, CUB, Flowers, Caltech, Dogs*<br>
+*Task: Out-Of-Distribution Detection*
+<!--#### NeurIPS
 #### ICCV
 #### ICML
 #### IEEE-Access
@@ -566,11 +571,47 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 ### 2023 Papers
 <!-- #### CVPR-->
 #### ICLR
-* The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition (ICLR 2023 Submission) 
+* Towards Open Temporal Graph Neural Networks (ICLR 2023 top 5%) 
+[[Paper](https://openreview.net/forum?id=N9Pk5iSCzAn)]
+[[Code]]<br>
+*Datasets: Reddit, Yelp, Taobao*<br>
+*Task: Graph Neural Networks*
+
+* Adaptive Robust Evidential Optimization For Open Set Detection from Imbalanced Data (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=3yJ-hcJBqe)]
+[[Code]]<br>
+*Datasets:  Cifar10, Cifar100, ImageNet, MNIST, and Architecture Heritage Elements Dataset(AHED)*<br>
+*Task: Image Classification*
+
+* The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition (ICLR 2023) 
 [[Paper](https://openreview.net/pdf?id=xLr0I_xYGAs)]
 [[Code]]<br>
 *Datasets:  CIFAR100, LSUN, MiTv2, UCF101, HMDB51*<br>
 *Task: Image and Video Classification*
+
+* Towards Addressing Label Skews in One-Shot Federated Learning (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=rzrqh85f4Sc)]
+[[Code](https://github.com/Xtra-Computing/FedOV)]<br>
+*Datasets: MNIST, Fashion-MNIST, CIFAR-10 and SVHN*<br>
+*Task: Federated Learning*
+
+* Evidential Uncertainty and Diversity Guided Active Learning for Scene Graph Generation (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=xI1ZTtVOtlz)]
+[[Code]]<br>
+*Datasets: VG150*<br>
+*Task: Scene Graph Generation*
+
+* GOOD: Exploring geometric cues for detecting objects in an open world (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=W-nZDQyuy8D)]
+[[Code](https://github.com/autonomousvision/good)]<br>
+*Datasets: COCO*<br>
+*Task: Object Detection*
+
+* Unicom: Universal and Compact Representation Learning for Image Retrieval (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=3YFDsSRSxB-)]
+[[Code]]<br>
+*Datasets:  LAION 400M*<br>
+*Task: Image Retrieval*
 
 #### NeurIPS
 <!--#### ICCV
@@ -1044,9 +1085,15 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR
+<!-- #### CVPR-->
 #### ICLR
-#### NeurIPS
+* Effective Cross-instance Positive Relations for Generalized Category Discovery (ICLR 2023 Submission) 
+[[Paper](https://openreview.net/forum?id=hag85Gdq_RA)]
+[[Code]]<br>
+*Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Herbarium19*<br>
+*Task: Image Classification*
+
+<!--#### NeurIPS
 #### ICCV
 #### ICML
 #### IEEE-Access
@@ -1057,8 +1104,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### WACV
 #### IJCV
 #### BMVC
-#### ICCw
-#### Arxiv & Others-->
+#### ICCw-->
+#### Arxiv & Others
+* Zero-Knowledge Zero-Shot Learning for Novel Visual Category Discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.04427v1)]
+[[Code]]<br>
+*Datasets:  Attribute Pascal and Yahoo (APY), Animals with Attributes2 (AWA2), Caltech-UCSD-Birds 200-2011 (CUB), SUN*<br>
+*Task: Image Classification*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR

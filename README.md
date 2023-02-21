@@ -930,34 +930,30 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 ### 2021 Papers
 #### CVPR
 * Counterfactual Zero-Shot and Open-Set Visual Recognition (CVPR 2021) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Counterfactual_Zero-Shot_and_Open-Set_Visual_Recognition_CVPR_2021_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Counterfactual_Zero-Shot_and_Open-Set_Visual_Recognition_CVPR_2021_paper.pdf)]<br>
 *Datasets: MNIST, SVHN,CIFAR10 and CIFAR100*<br>
-*Task: Object Detection*
+*Task: Image Classification*
 
 * Towards Open World Object Detection (CVPR 2021) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.pdf)]
-[[Code]]<br>
-*Datasets:*<br>
+[[Code](https://github.com/JosephKJ/OWOD)]<br>
+*Datasets: Pascal VOC, MS-COCO<br>
 *Task: Object Detection*
 
 * Learning Placeholders for Open-Set Recognition (CVPR 2021) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Learning_Placeholders_for_Open-Set_Recognition_CVPR_2021_paper.pdf)]
-[[Code]]<br>
-*Datasets:*<br>
-*Task: Object Detection*
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Learning_Placeholders_for_Open-Set_Recognition_CVPR_2021_paper.pdf)]<br>
+*Datasets: SVHN, CIFAR10, CIFAR+10, CIFAR+50, Tiny-ImageNet*<br>
+*Task: Image Classification*
 
 * Few-Shot Open-Set Recognition by Transformation Consistency (CVPR 2021) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jeong_Few-Shot_Open-Set_Recognition_by_Transformation_Consistency_CVPR_2021_paper.pdf)]
-[[Code]]<br>
-*Datasets:*<br>
-*Task: Object Detection*
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jeong_Few-Shot_Open-Set_Recognition_by_Transformation_Consistency_CVPR_2021_paper.pdf)]<br>
+*Datasets: miniImageNet, tieredImageNet*<br>
+*Task: Image Classification*
 
 * OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in an Open World (CVPR 2021) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.pdf)]<br>
 *Datasets: CIFAR10, CIFAR 100, Imagenet*<br>
-*Task: Object Detection*
+*Task: Image Classification*
 
 <!-- #### ICLR
 #### NeurIPS-->
@@ -969,10 +965,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * NGC: A Unified Framework for Learning With Open-World Noisy Data (ICCV 2021) 
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_NGC_A_Unified_Framework_for_Learning_With_Open-World_Noisy_Data_ICCV_2021_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_NGC_A_Unified_Framework_for_Learning_With_Open-World_Noisy_Data_ICCV_2021_paper.pdf)]<br>
 *Datasets: CIFAR10, CIFAR 100, TinyImageNet, Places-365*<br>
-*Task: OOD*
+*Task: Out-of-Distribution Detection*
 
 * Conditional Variational Capsule Network for Open Set Recognition (ICCV 2021) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Conditional_Variational_Capsule_Network_for_Open_Set_Recognition_ICCV_2021_paper.pdf)]
@@ -981,34 +976,30 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * Deep Metric Learning for Open World Semantic Segmentation (ICCV 2021) 
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cen_Deep_Metric_Learning_for_Open_World_Semantic_Segmentation_ICCV_2021_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cen_Deep_Metric_Learning_for_Open_World_Semantic_Segmentation_ICCV_2021_paper.pdf)]<br>
 *Datasets: StreetHazards, Lost and  Found  and  Road  Anomaly*<br>
 *Task: Semantic Segmentation*
 
 * Towards Discovery and Attribution of Open-World GAN Generated Images (ICCV 2021) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Girish_Towards_Discovery_and_Attribution_of_Open-World_GAN_Generated_Images_ICCV_2021_paper.pdf)]
-[[Code]]<br>
-*Datasets:*<br>
+[[Code](https://github.com/Sharath-girish/openworld-gan)]<br>
+*Datasets: CelebA, CelebA-HQ, ImageNet, LSUN Bedroom*<br>
 *Task: Image Generation*
 
 * Prototypical Matching and Open Set Rejection for Zero-Shot Semantic Segmentation (ICCV 2021) 
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Prototypical_Matching_and_Open_Set_Rejection_for_Zero-Shot_Semantic_Segmentation_ICCV_2021_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Prototypical_Matching_and_Open_Set_Rejection_for_Zero-Shot_Semantic_Segmentation_ICCV_2021_paper.pdf)]<br>
 *Datasets: Pascal VOC 2012, Pascal Context*<br>
 *Task: Semantic Segmentation*
 
 * Energy-Based Open-World Uncertainty Modeling for Confidence Calibration (ICCV 2021) 
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Energy-Based_Open-World_Uncertainty_Modeling_for_Confidence_Calibration_ICCV_2021_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Energy-Based_Open-World_Uncertainty_Modeling_for_Confidence_Calibration_ICCV_2021_paper.pdf)]<br>
 *Datasets: MNIST,CIFAR-10/100 and Tiny-ImageNet*<br>
 *Task: Confidence Calibration*
 
 * Trash To Treasure: Harvesting OOD Data With Cross-Modal Matching for Open-Set Semi-Supervised Learning (ICCV 2021) 
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Trash_To_Treasure_Harvesting_OOD_Data_With_Cross-Modal_Matching_for_ICCV_2021_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Trash_To_Treasure_Harvesting_OOD_Data_With_Cross-Modal_Matching_for_ICCV_2021_paper.pdf)]<br>
 *Datasets: CIFAR-10, Animal-10, Tiny-ImageNet, CIFAR100*<br>
-*Task: OOD Detection*
+*Task: Out-of-Distribution Detection*
 
 * Towards Novel Target Discovery Through Open-Set Domain Adaptation (ICCV 2021) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf)]
@@ -1018,9 +1009,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 #### ICML
 * Learning bounds for open-set learning (ICML 2021) 
-[[Paper]]
-[[Code]]<br>
-*Datasets:*<br>
+[[Paper](http://proceedings.mlr.press/v139/fang21c/fang21c.pdf)]
+[[Code](https://github.com/Anjin-Liu/Openset_Learning_AOSR)]<br>
+*Datasets: n MNIST, SVHN, CIFAR-10, CIFAR+10, CIFAR+50*<br>
 *Task: Image Classification*
 
 <!--#### IEEE-Access
@@ -1037,21 +1028,19 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
 * Toward Open Set Recognition (TPAMI 2012) 
-[[Paper](https://ieeexplore.ieee.org/document/6365193)]
-[[Code]]<br>
-*Datasets:*<br>
+[[Paper](https://ieeexplore.ieee.org/document/6365193)]<br>
+*Datasets: Caltech 256, ImageNet*<br>
 *Task: Image Classification*
 
 * Multi-class Open Set Recognition Using Probability of Inclusion (ECCV 2014) 
-[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10578-9_26)]
-[[Code]]<br>
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10578-9_26)]<br>
 *Datasets:LETTER, MNIST*<br>
 *Task: Image Classification*
 
 * Towards Open World Recognition (CVPR 2015) 
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Bendale_Towards_Open_World_2015_CVPR_paper.pdf)]
 [[Code](http://vast.uccs.edu/OpenWorld)]<br>
-*Datasets:*<br>
+*Datasets: ImageNet 2010*<br>
 *Task: Image Classification*
 
 * Towards Open Set Deep Networks (OpenMax) (CVPR 2016) 

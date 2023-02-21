@@ -1455,7 +1455,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### AAAI
 * OVIS: Open-Vocabulary Visual Instance Search via Visual-Semantic Aligned Representation Learning (AAAI 2022) 
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20070/version/18367/19829)]<br>
-*Datasets:OVIS40; OVIS1600*<br>
+*Datasets: OVIS40; OVIS1600*<br>
 *Task: Visual Instance Search*
 
 <!--#### TPAMI
@@ -1487,8 +1487,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Open-Vocabulary Object Detection Using Captions	(CVPR 2021) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf)]
 [[Code](https://github.com/alirezazareian/ovr-cnn)]<br>
-*Datasets:*<br>
-*Task:*
+*Datasets: COCO Objects, COCO Captions*<br>
+*Task: Object Detection*
 <!--#### ICLR
 #### NeurIPS
 #### ICCV

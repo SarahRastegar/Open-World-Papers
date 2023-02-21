@@ -178,7 +178,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sain_Sketch3T_Test-Time_Training_for_Zero-Shot_SBIR_CVPR_2022_paper.pdf)]
 [[Code]]<br>
 *Datasets: Sketchy;  TU-Berlin Extension*<br>
-*Task: Sketch-based image retrieval*
+*Task: Sketch-Based Image Retrieval*
 
 * MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_MSDN_Mutually_Semantic_Distillation_Network_for_Zero-Shot_Learning_CVPR_2022_paper.pdf)]
@@ -214,7 +214,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wortsman_Robust_Fine-Tuning_of_Zero-Shot_Models_CVPR_2022_paper.pdf)]
 [[Code]]<br>
 *Datasets: ImageNet distribution shifts (ImageNetV2, ImageNet-R,ObjectNet, and ImageNet-A, ImageNet Sketch); CIFAR10.1 &10.2*<br>
-*Task: Zero-shot distribution shift robustness*
+*Task: Zero-Shot Distribution Shift Robustness*
 
 * Neural Mean Discrepancy for Efficient Out-of-Distribution Detection (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Neural_Mean_Discrepancy_for_Efficient_Out-of-Distribution_Detection_CVPR_2022_paper.pdf)]
@@ -262,13 +262,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880704.pdf)]
 [[Code]]<br>
 *Datasets: Compositional PartNet (C-PartNet)*<br>
-*Task: Compositional zero-shot segmentation*
+*Task: Compositional Zero-Shot Segmentation*
 
 * Zero-Shot Category-Level Object Pose Estimation (ECCV 2022) 
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990509.pdf)]
 [[Code](https://github.com/applied-ai-lab/zero-shot-pose)]<br>
 *Datasets: Common Objects in 3D (CO3D); PoseContrast*<br>
-*Task: Object pose estimation*
+*Task: Object Pose Estimation*
 
 <!-- #### AAAI
 #### TPAMI-->
@@ -277,13 +277,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/MULA/papers/Nawaz_Semantically_Grounded_Visual_Embeddings_for_Zero-Shot_Learning_CVPRW_2022_paper.pdf)]
 [[Code]]<br>
 *Datasets: CUB(312−d), AWA(85−d) and aPY(64−d); FLO*<br>
-*Task: semantic embeddings*
+*Task: Semantic Embeddings*
 
 * Zero-Shot Learning Using Multimodal Descriptions (CVPRw 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Mall_Zero-Shot_Learning_Using_Multimodal_Descriptions_CVPRW_2022_paper.pdf)]
 [[Code]]<br>
 *Datasets: CUB-200-2011 (CUB), SUN attributes (SUN) and DeepFashion (DF)*<br>
-*Task:*
+*Task: Multimodal Zero-Shot*
 
 <!-- #### WACV
 #### IJCV
@@ -324,13 +324,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openreview.net/pdf?id=H1VGkIxRZ)]
 [[Code](https://github.com/facebookresearch/odin)]<br>
 *Datasets: CIFAR-10, CIFAR-100, ImageNet, iSUN*<br>
-*Task: OOD*
+*Task: Out-of-Distribution Image Classification*
 
 * A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks (NeurIPS 2018) 
 [[Paper](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf)]
 [[Code](https://github.com/pokaxpoka/deep_Mahalanobis_detector)]<br>
 *Datasets: CIFAR, SVHN, ImageNet and LSUN*<br>
-*Task: OOD*
+*Task: Out-of-Distribution Image Classification*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
@@ -401,7 +401,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Amodal_Segmentation_Through_Out-of-Task_and_Out-of-Distribution_Generalization_With_a_Bayesian_CVPR_2022_paper.pdf)]
 [[Code](https://github.com/anonymous-submission-vision/Amodal-Bayesian)]<br>
 *Datasets: OccludedVehicles; KINS; COCOA-cls*<br>
-*Task: Instance segmentation?*
+*Task: Instance Segmentation*
 
 * Rethinking Reconstruction Autoencoder-Based Out-of-Distribution Detection (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Rethinking_Reconstruction_Autoencoder-Based_Out-of-Distribution_Detection_CVPR_2022_paper.pdf)]
@@ -631,7 +631,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Pal_MORGAN_Meta-Learning-Based_Few-Shot_Open-Set_Recognition_via_Generative_Adversarial_Network_WACV_2023_paper.pdf)]
 [[Code](https://github.com/DebabrataPal7/MORGAN)]<br>
 *Datasets: Indian  Pines (IP), Salinas, University of Pavia, Houston-2013*<br>
-*Task: Hyper-spectral images*
+*Task: Hyper-Spectral Images*
 
 * Ancestor Search: Generalized Open Set Recognition via Hyperbolic Side Information Learning (WACV 2023) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Dengxiong_Ancestor_Search_Generalized_Open_Set_Recognition_via_Hyperbolic_Side_Information_WACV_2023_paper.pdf)]
@@ -727,7 +727,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Abdelnabi_Open-Domain_Content-Based_Multi-Modal_Fact-Checking_of_Out-of-Context_Images_via_Online_Resources_CVPR_2022_paper.pdf)]
 [[Code](https://s-abdelnabi.github.io/OoC-multi-modal-fc)]<br>
 *Datasets: NewsCLIPpings*<br>
-*Task: Multi-modal Fact-checking*
+*Task: Multimodal Fact-Checking*
 
 #### ICLR
 
@@ -735,7 +735,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openreview.net/pdf?id=5hLP5JY9S2d)]
 [[Code](https://github.com/sgvaze/osr_closed_set_all_you_need)]<br>
 *Datasets: ImageNet-21K-P, CUB, Stanford Car, FGVC-Aircraft, MNIST, SVHN, CIFAR10, CIFAR+N, TinyImageNet*<br>
-*Task: Open-set recognition*
+*Task: Open-set Recognition*
 
 * CrossMatch: Cross-Classifier Consistency Regularization for Open-Set Single Domain Generalization (ICLR 2022) 
 [[Paper](https://openreview.net/forum?id=48RBsJwGkJf)]
@@ -894,10 +894,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 #### AAAI
 * Learngene: From Open-World to Your Learning Task	(AAAI 2022)
-[[Paper]]
+[[Paper](https://arxiv.org/abs/2106.06788v3)]
 [[Code]]<br>
-*Datasets:*<br>
-*Task:*
+*Datasets:CIFAR100, ImageNet100*<br>
+*Task: Meta Learning*
 
 #### TPAMI
 * Open Long-Tailed RecognitionIn A Dynamic World	(TPAMI 2022) 
@@ -943,14 +943,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * SeeTek: Very Large-Scale Open-Set Logo Recognition With Text-Aware Metric Learning (WACV 2022) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Li_SeeTek_Very_Large-Scale_Open-Set_Logo_Recognition_With_Text-Aware_Metric_Learning_WACV_2022_paper.pdf)]
 [[Code]]<br>
-*Datasets:*<br>
-*Task:*
+*Datasets: PL8K,LogoDet-3K, FlickrLogos-47, Logos-in-the-Wild (LitW), OpenLogo, BelgaLogos, Hard Evaluation dataset*<br>
+*Task: Logo Recognition*
 
 * Novel Ensemble Diversification Methods for Open-Set Scenarios	(WACV 2022) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Farber_Novel_Ensemble_Diversification_Methods_for_Open-Set_Scenarios_WACV_2022_paper.pdf)]
 [[Code]]<br>
-*Datasets:*<br>
-*Task:*
+*Datasets: Market-1501 (ReID), MS1MV2,  Labeled Faces in the Wild (LFW) (Face Recognition), CIFAR-100, CIFAR-10, TinyImageNet(crop) (OSR, OOD), SVHN and MNIST (OSR)*<br>
+*Task: Ensemble Diversification*
 
 * Learning To Generate the Unknowns as a Remedy to the Open-Set Domain Shift (WACV 2022) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Baktashmotlagh_Learning_To_Generate_the_Unknowns_as_a_Remedy_to_the_WACV_2022_paper.pdf)]

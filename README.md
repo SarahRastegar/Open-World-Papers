@@ -2118,10 +2118,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 ### 2022 Papers
 #### CVPR
 * Uni-Perceiver: Pre-Training Unified Architecture for Generic Perception for Zero-Shot and Few-Shot Tasks (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Uni-Perceiver_Pre-Training_Unified_Architecture_for_Generic_Perception_for_Zero-Shot_and_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Uni-Perceiver_Pre-Training_Unified_Architecture_for_Generic_Perception_for_Zero-Shot_and_CVPR_2022_paper.pdf)]<br>
 *Datasets: ImageNet-21k;  Kinetics-700 and Moments in Time;  BookCorpora & English  Wikipedia  (Books&Wiki)  and  PAQ; COCO Caption, SBUCaptions  (SBU),  Visual  Genome,  CC3M, CC12M and YFCC; Flickr30k, MSVD,VQA ,and GLUE*<br>
-*Task: Image-text retreival; Image and video classification*
+*Task: Image-Text Retreival; Image and Video Classification*
 
 * Cross-Modal Representation Learning for Zero-Shot Action Recognition (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Cross-Modal_Representation_Learning_for_Zero-Shot_Action_Recognition_CVPR_2022_paper.pdf)]
@@ -2160,8 +2159,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Action Recognition*
 
 * Rethinking Zero-Shot Action Recognition: Learning from Latent Atomic Actions (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640102.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640102.pdf)]<br>
 *Datasets: KineticsZSAR, HMDB51, and UCF101*<br>
 *Task: Action Recognition*
 
@@ -2169,7 +2167,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630667.pdf)]
 [[Code](https://github.com/sauradip/STALE)]<br>
 *Datasets: THUMOS14; ActivityNet v1.3*<br>
-*Task: temporal action detection (TAD)*
+*Task: Temporal Action Detection (TAD)*
 <!--#### AAAI
 #### TPAMI
 #### CVPRw
@@ -2222,7 +2220,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Unknown-Aware Object Detection: Learning What You Don't Know From Videos in the Wild (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Du_Unknown-Aware_Object_Detection_Learning_What_You_Dont_Know_From_Videos_CVPR_2022_paper.pdf)]
 [[Code](https://github.com/deeplearning-wisc/stud)]<br>
-*Datasets: (Videos -> Images) BDD100K and Youtube-Video Instance Segmentation(Youtube-VIS)  2021 (ID data) - MS-COCO and nuImages (OOD)*<br>
+*Datasets: (Videos -> Images) BDD100K and Youtube-Video Instance Segmentation(Youtube-VIS)  2021 (ID) - MS-COCO and nuImages (OOD)*<br>
 *Task: Object Detection*
 <!-- #### ICLR
 #### NeurIPS

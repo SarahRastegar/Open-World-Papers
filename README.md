@@ -2383,16 +2383,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Audiovisual Action Recognition*
 
 * Bayesian activity recognition using variational inference (NeurIPS 2018) 
-[[Paper](https://arxiv.org/pdf/1811.03305v2.pdf)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/pdf/1811.03305v2.pdf)]<br>
 *Datasets:  MiT video activity recognition dataset*<br>
-*Task: Action recognition*
+*Task: Action Recognition*
 
 * ODN: Opening the deep network for open-set action recognition (ICME 2018) 
-[[Paper](https://arxiv.org/pdf/1901.07757v1.pdf)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/pdf/1901.07757v1.pdf)]<br>
 *Datasets:  HMDB51, UCF50, UCF101*<br>
-*Task: Action recognition*
+*Task: Action Recognition*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ##  Novel Class Discovery Videos
@@ -2424,8 +2422,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### IEEE-Access-->
 #### ECCV
 * Text-based Temporal Localization of Novel Events (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740552.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740552.pdf)]<br>
 *Datasets: Charades-STA Unseen, ActivityNet Captions Unseen*<br>
 *Task: Temporal Action Localization*
 
@@ -2449,16 +2446,15 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### NeurIPS-->
 #### ICCV
 * Joint Representation Learning and Novel Category Discovery on Single- and Multi-Modal Data (ICCV 2021) 
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jia_Joint_Representation_Learning_and_Novel_Category_Discovery_on_Single-_and_ICCV_2021_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jia_Joint_Representation_Learning_and_Novel_Category_Discovery_on_Single-_and_ICCV_2021_paper.pdf)]<br>
 *Datasets: ImageNet; CIFAR-10/CIFAR-100; Kinetics-400; VGG-Sound*<br>
-*Task: Multi-modal Data*
+*Task: Multimodal Data*
 
 * Learning To Better Segment Objects From Unseen Classes With Unlabeled Videos (ICCV 2021) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Du_Learning_To_Better_Segment_Objects_From_Unseen_Classes_With_Unlabeled_ICCV_2021_paper.pdf)]
 [[Code](https://dulucas.github.io/gbopt)]<br>
 *Datasets: COCO -> Unseen-VIS; DAVIS*<br>
-*Task: Instance segmentation*
+*Task: Instance Segmentation*
 <!--#### ICML
 #### IEEE-Access
 #### ECCV

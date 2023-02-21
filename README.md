@@ -2610,27 +2610,31 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700562.pdf)]
 [[Code](https://github.com/lizhi1104/HAAN.git)]<br>
 *Datasets: FineAction; FineGym*<br>
-*Task: Action recognition*
+*Task: Action Recognition*
 
 * Semantic-Aware Fine-Grained Correspondence (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910093.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910093.pdf)]<br>
 *Datasets: DAVIS-2017; JHMDB; Video Instance Parsing (VIP)*<br>
-*Task: video object segmentation, human pose tracking, and human part tracking*
+*Task: Video Object Segmentation, Human Pose Tracking, Human Part Tracking*
 
 * Spotting Temporally Precise, Fine-Grained Events in Video (ECCV 2022) 
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136950033.pdf)]
 [[Code]]<br>
 *Datasets: Tennis, Figure Skating, FineDiving, and Fine-Gym*<br>
-*Task: temporally precise spotting*
+*Task: Temporally Precise Spotting*
+
+* Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890125.pdf)]
+[[Code](https://github.com/owenzlz/EgoHOS)]<br>
+*Datasets: EPIC-KITCHENS; Ego4d; THU-READ; Escape Room*<br>
+*Task: Semantic Segmentation*
 <!-- #### AAAI
 #### TPAMI-->
 #### CVPRw
 * FenceNet: Fine-Grained Footwork Recognition in Fencing (CVPRw 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVSports/papers/Zhu_FenceNet_Fine-Grained_Footwork_Recognition_in_Fencing_CVPRW_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVSports/papers/Zhu_FenceNet_Fine-Grained_Footwork_Recognition_in_Fencing_CVPRW_2022_paper.pdf)]<br>
 *Datasets:  FFD a publicly available fencing dataset*<br>
-*Task: Action recognition*
+*Task: Action Recognition*
 <!--#### WACV
 #### IJCV
 #### BMVC

@@ -742,8 +742,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Domain Adaptation*
 
 * Meta-Query-Net: Resolving Purity-Informativeness Dilemma in Open-set Active Learning (NeurIPS 2022) 
-[[Paper](https://openreview.net/forum?id=_kZVnosHbV3)]
-[[Code]()]<br>
+[[Paper](https://openreview.net/forum?id=_kZVnosHbV3)]<br>
 *Datasets: CIFAR10, CIFAR100, and ImageNet,  LSUN, Places365*<br>
 *Task: Active Learning*
 
@@ -922,8 +921,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCVw -->
 #### Arxiv & Others 
 * Open Set Domain Adaptation By Novel Class Discovery (ICME 2022) 
-[[Paper](https://arxiv.org/abs/2203.03329v1)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/abs/2203.03329v1)]<br>
 *Datasets: Office-31, Office-Home, DomainNet*<br>
 *Task: Image Classification and Domain Adaptation*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1044,21 +1042,19 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * Towards Open Set Deep Networks (OpenMax) (CVPR 2016) 
-[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf)]
-[[Code]]<br>
-*Datasets:*<br>
+[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf)]<br>
+*Datasets: ILSVRC 2012 *<br>
 *Task: Image Classification*
 
 * Generative OpenMax for multi-class open set classification (BMVC 2017) 
-[[Paper]]
-[[Code]]<br>
-*Datasets:*<br>
+[[Paper](http://www.bmva.org/bmvc/2017/papers/paper042/paper042.pdf)]<br>
+*Datasets: : MNIST, HASYv2*<br>
 *Task: Image Classification*
 
 * Open-world Learning and Application to Product Classification (WWW 2019) 
 [[Paper](https://arxiv.org/pdf/1809.06004v2.pdf)]
 [[Code](https://www.cs.uic.edu/~hxu/)]<br>
-*Datasets:*<br>
+*Datasets:  product descriptions from the Amazon Datasets*<br>
 *Task: Image Classification*
 
 * C2AE: Class Conditioned Auto-Encoder for Open-set Recognition (CVPR 2019) 
@@ -1075,8 +1071,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!-- #### CVPR-->
 #### ICLR
 * Effective Cross-instance Positive Relations for Generalized Category Discovery (ICLR 2023 Submission) 
-[[Paper](https://openreview.net/forum?id=hag85Gdq_RA)]
-[[Code]]<br>
+[[Paper](https://openreview.net/forum?id=hag85Gdq_RA)]<br>
 *Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Herbarium19*<br>
 *Task: Image Classification*
 
@@ -1094,8 +1089,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw-->
 #### Arxiv & Others
 * Zero-Knowledge Zero-Shot Learning for Novel Visual Category Discovery (Arxiv 2023) 
-[[Paper](https://arxiv.org/abs/2302.04427v1)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/abs/2302.04427v1)]<br>
 *Datasets:  Attribute Pascal and Yahoo (APY), Animals with Attributes2 (AWA2), Caltech-UCSD-Birds 200-2011 (CUB), SUN*<br>
 *Task: Image Classification*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1110,7 +1104,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Generalized Category Discovery (CVPR 2022) 
 [[Paper](https://arxiv.org/abs/2201.02609v2)]
 [[Code](https://github.com/sgvaze/generalized-category-discovery)]<br>
-*Datasets:  CIFAR10,  CIFAR100, ImageNet-100*<br>
+*Datasets: CIFAR10,  CIFAR100, ImageNet-100*<br>
 *Task: Image Classification*
 
 * Novel Class Discovery in Semantic Segmentation (CVPR 2022) 
@@ -1134,8 +1128,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Object Detection*
 
 * Grow and Merge: A Unified Framework for Continuous Categories Discovery (NeurIPS 2022) 
-[[Paper](https://arxiv.org/abs/2210.04174v1)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/abs/2210.04174v1)]<br>
 *Datasets:  CIFAR-100, CUB-200, ImageNet-100, Stanford-Cars, FGVC-Aircraft, ImageNet-200*<br>
 *Task: Image Classification*
 <!-- #### ICCV
@@ -1149,15 +1142,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Object Navigation*
 
 * incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850581.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850581.pdf)]<br>
 *Datasets: 1.CIFAR-10 (10 classes), 2. CIFAR-100 (super-classlevel, 20 classes), 3. EMNIST (26 classes) and 4. iNaturalist21 (phylumlevel, 9 classes)*<br>
 *Task: Image Classification*
 
 #### AAAI
 * Self-Labeling Framework for Novel Category Discovery over Domains (AAAI 2022) 
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20224/version/18521/19983)]
-[[Code]]<br>
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20224/version/18521/19983)]<br>
 *Datasets: Office (Amazon, DSLR, Webcam); OfficeHome (art, clipart, product, and real); VisDA (synthetic and real)*<br>
 *Task: Image Classification*
 
@@ -1173,14 +1164,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * One-Class Learned Encoder-Decoder Network With Adversarial Context Masking for Novelty Detection (WACV 2022) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Jewell_One-Class_Learned_Encoder-Decoder_Network_With_Adversarial_Context_Masking_for_Novelty_WACV_2022_paper.pdf)]
 [[Code](https://github.com/jewelltaylor/OLED)]<br>
-*Datasets:*<br>
-*Task:*
+*Datasets: MNIST, CIFAR-10, UCSD*<br>
+*Task: Novelty Detection, Anomaly*
 
 * COCOA: Context-Conditional Adaptation for Recognizing Unseen Classes in Unseen Domains (WACV 2022) 
-[[Paper]]
-[[Code]]<br>
-*Datasets:*<br>
-*Task:*
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Mangla_COCOA_Context-Conditional_Adaptation_for_Recognizing_Unseen_Classes_in_Unseen_Domains_WACV_2022_paper.pdf)]<br>
+*Datasets: DomainNet, DomainNet-LS*<br>
+*Task: Domain Generalization and Novel Class Discovery*
 
 
 <!-- #### IJCV-->
@@ -1195,9 +1185,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### Arxiv & Others
 * Mutual Information-guided Knowledge Transfer for Novel Class Discovery (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2206.12063v2)]
-[[Code]]<br>
-*Datasets:*<br>
-*Task:*
+
 
 * Automatically Discovering Novel Visual Categories with Adaptive Prototype Learning (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2206.12063v2)]
@@ -1218,14 +1206,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Tabular Data Classification*
 
 * A Closer Look at Novel Class Discovery from the Labeled Set (NeurIPSw 2022) 
-[[Paper](https://arxiv.org/abs/2209.09120v4)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/abs/2209.09120v4)]<br>
 *Datasets: CIFAR100-50, ImageNet*<br>
 *Task: Image Classification*
 
 * Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery (Arxiv 2022) 
-[[Paper](https://arxiv.org/abs/2210.03591v2)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/abs/2210.03591v2)]<br>
 *Datasets: CIFAR10, CIFAR100, ImageNet*<br>
 *Task: Image Classification*
 
@@ -1242,8 +1228,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * Open Set Domain Adaptation By Novel Class Discovery (ICME 2022) 
-[[Paper](https://arxiv.org/abs/2203.03329v1)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/abs/2203.03329v1)]<br>
 *Datasets: Office-31, Office-Home, DomainNet*<br>
 *Task: Image Classification and Domain Adaptation*
 
@@ -1257,8 +1242,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 ### 2021 Papers
 #### CVPR
 * OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in an Open World (CVPR 2021) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.pdf)]<br>
 *Datasets: CIFAR10, CIFAR 100, Imagenet*<br>
 *Task: Object Detection*
 <!--#### ICLR-->
@@ -1266,7 +1250,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Novel Visual Category Discovery with Dual Ranking Statistics and Mutual Knowledge Distillation (NeurIPS 2021) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf)]
 [[Code](https://github.com/DTennant/dual-rank-ncd)]<br>
-*Datasets:  CIFAR-10, CIFAR-100, ImageNet-1K, ImageNet-100, CUB-200, Stanford-Cars, FGVC aircraft*<br>
+*Datasets: CIFAR-10, CIFAR-100, ImageNet-1K, ImageNet-100, CUB-200, Stanford-Cars, FGVC aircraft*<br>
 *Task: Image Classification*
 
 #### ICCV
@@ -1289,10 +1273,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Instance segmentation*
 
 * The Pursuit of Knowledge: Discovering and Localizing Novel Categories Using Dual Memory (ICCV 2021) 
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Rambhatla_The_Pursuit_of_Knowledge_Discovering_and_Localizing_Novel_Categories_Using_ICCV_2021_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Rambhatla_The_Pursuit_of_Knowledge_Discovering_and_Localizing_Novel_Categories_Using_ICCV_2021_paper.pdf)]<br>
 *Datasets: PascalVOC2007-> COCO2014*<br>
-*Task:*
+*Task: Object Detection and Localization*
 
 
 <!--#### ICML
@@ -1321,8 +1304,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * Progressive Self-Supervised Clustering With Novel Category Discovery (TCYB 2021) 
-[[Paper](https://ieeexplore.ieee.org/document/9409777)]
-[[Code]]<br>
+[[Paper](https://ieeexplore.ieee.org/document/9409777)]<br>
 *Datasets: Coil20, Yeast, MSRA25, PalmData25, Abalone, USPS, Letter, MNIST*<br>
 *Task: Self-Supervised Clustering*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1404,8 +1386,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Object detection and instance segmentation*
 
 * NOC-REK: Novel Object Captioning With Retrieved Vocabulary From External Knowledge (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Vo_NOC-REK_Novel_Object_Captioning_With_Retrieved_Vocabulary_From_External_Knowledge_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Vo_NOC-REK_Novel_Object_Captioning_With_Retrieved_Vocabulary_From_External_Knowledge_CVPR_2022_paper.pdf)]<br>
 *Datasets: COCO, Nocaps*<br>
 *Task: Novel Object Captioning*
 
@@ -1423,14 +1404,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Object Detection*
 
 * Scaling Open-vocabulary Image Segmentation with Image-level Labels (ECCV 2022) 
-[[Paper](https://arxiv.org/pdf/2112.12143v2.pdf)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/pdf/2112.12143v2.pdf)]<br>
 *Datasets: COCO, Localized Narrative (Loc. Narr.) test: PASCAL Context, PASCAL  VOC, ADE20k*<br>
 *Task: Instance segmentation*
 
 * Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning (ECCV 2022) 
 [[Paper](https://arxiv.org/pdf/2208.08165v3.pdf)]
-[[Code]]<br>
+<br>
 *Datasets: Visual Genome(VG), GQA, Open-Image*<br>
 *Task: Scene Graph Generation*
 
@@ -1459,8 +1439,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Attribute Prediction*
 
 * A Simple Baseline for Open Vocabulary Semantic Segmentation with Pre-trained Vision-language Model (ECCV 2022) 
-[[Paper]]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890725.pdf)]
+[[Code](https://github.com/MendelXu/zsseg.baseline)]<br>
 *Datasets: COCO Stuff; Pascal VOC 2012; Cityscapes; Pascal Context; ADE20K*<br>
 *Task: Semantic Segmentation*
 
@@ -1471,17 +1451,16 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Vision-Language Navigation (Apps)*
 
 * Acknowledging the Unknown for Multi-label Learning with Single Positive Labels (ECCV 2022) 
-[[Paper]]
-[[Code]]<br>
-*Datasets:*<br>
-*Task:*
+[[Paper](https://arxiv.org/abs/2203.16219v2)]
+[[Code](https://github.com/Correr-Zhou/SPML-AckTheUnknown)]<br>
+*Datasets: PASCAL VOC 2012 (VOC), MS-COCO 2014 (COCO), NUS-WIDE (NUS), and CUB-200-2011 (CUB)*<br>
+*Task: Single Positive Multi-label Learning*
 
 #### AAAI
 * OVIS: Open-Vocabulary Visual Instance Search via Visual-Semantic Aligned Representation Learning (AAAI 2022) 
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20070/version/18367/19829)]
-[[Code]]<br>
-*Datasets:OVIS40; OVIS1400*<br>
-*Task:*
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20070/version/18367/19829)]<br>
+*Datasets:OVIS40; OVIS1600*<br>
+*Task: Visual Instance Search*
 
 <!--#### TPAMI
 #### CVPRw
@@ -1489,15 +1468,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### IJCV-->
 #### BMVC
 * Partially-Supervised Novel Object Captioning Using Context from Paired Data (BMVC 2022) 
-[[Paper]]
-[[Code]]<br>
-*Datasets:*<br>
-*Task:*
+[[Paper](https://arxiv.org/abs/2109.05115v2)]<br>
+*Datasets: MS COCO*<br>
+*Task: Object Captioning*
 
 * Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models (BMVC 2022) 
-[[Paper]]
-[[Code]]<br>
-*Datasets:*<br>
+[[Paper](https://arxiv.org/pdf/2210.15138v1.pdf)]
+[[Code](https://yyh-rain-song.github.io/Fusioner_webpage/)]<br>
+*Datasets: : PASCAL-5i, COCO-20i, FSS-1000, Mosaic-4*<br>
 *Task: Semantic Segmentation*
 <!-- #### ICCw -->
 
@@ -1506,7 +1484,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://arxiv.org/pdf/2210.12112v1.pdf)]
 [[Code](https://github.com/OdedH/textual-pca)]<br>
 *Datasets: CelebA; Stanford Cars; COCO-Horses; LSUN-Church*<br>
-*Task:*
+*Task: Text Generation for Sets of Images*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR
@@ -1538,8 +1516,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!-- #### CVPR -->
 #### ICLR
 * This Looks Like It Rather Than That: ProtoKNN For Similarity-Based Classifiers (ICLR 2023) 
-[[Paper](https://openreview.net/forum?id=lh-HRYxuoRr)]
-[[Code]]<br>
+[[Paper](https://openreview.net/forum?id=lh-HRYxuoRr)]<br>
 *Datasets: CUB200-2011, Stanford Dogs, Stanford Cars*<br>
 *Task: Image Classification*
 
@@ -1561,8 +1538,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### CVPR
 
 * Dual Cross-Attention Learning for Fine-Grained Visual Categorization and Object Re-Identification (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Dual_Cross-Attention_Learning_for_Fine-Grained_Visual_Categorization_and_Object_Re-Identification_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Dual_Cross-Attention_Learning_for_Fine-Grained_Visual_Categorization_and_Object_Re-Identification_CVPR_2022_paper.pdf)]<br>
 *Datasets: CUB-200-2011, Stanford  Cars, FGVC-Aircraft ; For Re-ID, we use four standard benchmarks:  Mar-ket1501,  DukeMTMC-ReID,  MSMT17 forPerson Re-ID and VeRi-776 for Vehicle Re-ID*<br>
 *Task: Image Classification*
 
@@ -1573,14 +1549,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * Few-Shot Font Generation by Learning Fine-Grained Local Styles (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Few-Shot_Font_Generation_by_Learning_Fine-Grained_Local_Styles_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Few-Shot_Font_Generation_by_Learning_Fine-Grained_Local_Styles_CVPR_2022_paper.pdf)]<br>
 *Datasets: UFUC and UFSC*<br>
 *Task: Image Generation*
 
 * Estimating Fine-Grained Noise Model via Contrastive Learning (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_Estimating_Fine-Grained_Noise_Model_via_Contrastive_Learning_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_Estimating_Fine-Grained_Noise_Model_via_Contrastive_Learning_CVPR_2022_paper.pdf)]<br>
 *Datasets: SIDD,  CRVD and PMRID*<br>
 *Task: Image Denoising*
 
@@ -1603,8 +1577,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * Task Discrepancy Maximization for Fine-Grained Few-Shot Classification (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Task_Discrepancy_Maximization_for_Fine-Grained_Few-Shot_Classification_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Task_Discrepancy_Maximization_for_Fine-Grained_Few-Shot_Classification_CVPR_2022_paper.pdf)]<br>
 *Datasets: CUB-200-2011, Aircraft, meta-iNat, tiered meta-iNat,Stanford-Cars, Stanford-Dogs, and Oxford-Pets*<br>
 *Task: Image Classification*
 
@@ -1615,8 +1588,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: 3D Face Morphable Model*
 
 * SphericGAN: Semi-Supervised Hyper-Spherical Generative Adversarial Networks for Fine-Grained Image Synthesis (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_SphericGAN_Semi-Supervised_Hyper-Spherical_Generative_Adversarial_Networks_for_Fine-Grained_Image_Synthesis_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_SphericGAN_Semi-Supervised_Hyper-Spherical_Generative_Adversarial_Networks_for_Fine-Grained_Image_Synthesis_CVPR_2022_paper.pdf)]<br>
 *Datasets: CUB-200/FaceScrub-100/Stanford-Cars*<br>
 *Task: Image Generation*
 
@@ -1627,8 +1599,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image super-resolution*
 
 * PatchNet: A Simple Face Anti-Spoofing Framework via Fine-Grained Patch Recognition (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_PatchNet_A_Simple_Face_Anti-Spoofing_Framework_via_Fine-Grained_Patch_Recognition_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_PatchNet_A_Simple_Face_Anti-Spoofing_Framework_via_Fine-Grained_Patch_Recognition_CVPR_2022_paper.pdf)]<br>
 *Datasets: OULU-NPU (denoted asO), SiW(denoted as S), CASIA-FASD (denotedas C), Replay-Attack (denoted as I), MSU-MFSD*<br>
 *Task: Face anti-spoofing*
 
@@ -1645,8 +1616,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### IEEE-Access-->
 #### ECCV
 * Zero-Shot Attribute Attacks on Fine-Grained Recognition Models (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650257.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650257.pdf)]<br>
 *Datasets: Caltech-UCSD Birds-200-2011(CUB), Animal with Attributes (AWA2) and SUN Attribute (SUN)*<br>
 *Task: Image Classification*
 
@@ -1663,20 +1633,17 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Network Quantization*
 
 * Deep Ensemble Learning by Diverse Knowledge Distillation for Fine-Grained Object Classification (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710501.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710501.pdf)]<br>
 *Datasets: Stanford Dogs, Stanford Cars, CUB-200-2011, CIFAR-10, and CIFAR-100*<br>
 *Task: Image Classification*
 
 * RDO-Q: Extremely Fine-Grained Channel-Wise Quantization via Rate-Distortion Optimization (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720156.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720156.pdf)]<br>
 *Datasets: ResNet-18, ResNet-34, ResNet-50 andMobileNet-v2, on the ImageNet dataset*<br>
 *Task: Network Quantization*
 
 * Rethinking Robust Representation Learning under Fine-Grained Noisy Faces (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720605.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720605.pdf)]<br>
 *Datasets: MS1MV0; MS1MV3*<br>
 *Task: Face Recognition*
 
@@ -1705,8 +1672,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Retrieval*
 
 * Fine-Grained Fashion Representation Learning by Online Deep Clustering (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870019.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870019.pdf)]<br>
 *Datasets: FashionAI; DARN*<br>
 *Task: Image Classification*
 
@@ -1747,8 +1713,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Visual Entailment*
 
 * Adaptive Fine-Grained Sketch-Based Image Retrieval (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970160.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970160.pdf)]<br>
 *Datasets: Sketchy (Category Level); Shoe-V2 (User Level)*<br>
 *Task: Image Retrieval*
 
@@ -1818,29 +1783,24 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 ### 2022 Papers
 #### CVPR
 * C2AM Loss: Chasing a Better Decision Boundary for Long-Tail Object Detection (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_C2AM_Loss_Chasing_a_Better_Decision_Boundary_for_Long-Tail_Object_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_C2AM_Loss_Chasing_a_Better_Decision_Boundary_for_Long-Tail_Object_CVPR_2022_paper.pdf)]<br>
 *Datasets: LVIS*<br>
 *Task: Object Detection*
 
 * Long-Tail Recognition via Compositional Knowledge Transfer (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Parisot_Long-Tail_Recognition_via_Compositional_Knowledge_Transfer_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Parisot_Long-Tail_Recognition_via_Compositional_Knowledge_Transfer_CVPR_2022_paper.pdf)]<br>
 *Datasets: ImageNet-LT and Places-LT*<br>
 *Task: Image Classification*
 
 * Relieving Long-Tailed Instance Segmentation via Pairwise Class Balance (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Relieving_Long-Tailed_Instance_Segmentation_via_Pairwise_Class_Balance_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Relieving_Long-Tailed_Instance_Segmentation_via_Pairwise_Class_Balance_CVPR_2022_paper.pdf)]<br>
 *Datasets: LVIS*<br>
 *Task: Instance segmentation*
 
 * Relieving Long-Tailed Instance Segmentation via Pairwise Class Balance (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Relieving_Long-Tailed_Instance_Segmentation_via_Pairwise_Class_Balance_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Relieving_Long-Tailed_Instance_Segmentation_via_Pairwise_Class_Balance_CVPR_2022_paper.pdf)]<br>
 *Datasets: LVIS*<br>
 *Task: Instance segmentation*
-
 
 * RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_RelTransformer_A_Transformer-Based_Long-Tail_Visual_Relationship_Recognition_CVPR_2022_paper.pdf)]
@@ -1861,14 +1821,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Object Detection*
 
 * Targeted Supervised Contrastive Learning for Long-Tailed Recognition (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Targeted_Supervised_Contrastive_Learning_for_Long-Tailed_Recognition_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Targeted_Supervised_Contrastive_Learning_for_Long-Tailed_Recognition_CVPR_2022_paper.pdf)]<br>
 *Datasets: CIFAR-10-LT  &  CIFAR-100-LT; ImageNet-LT; iNaturalist*<br>
 *Task: Image Classification*
 
 * Balanced Contrastive Learning for Long-Tailed Visual Recognition (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Balanced_Contrastive_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Balanced_Contrastive_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2022_paper.pdf)]<br>
 *Datasets: CIFAR-10-LT  &  CIFAR-100-LT; ImageNet-LT; iNaturalist*<br>
 *Task: Image Classification*
 
@@ -1891,14 +1849,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * Retrieval Augmented Classification for Long-Tail Visual Recognition (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Retrieval_Augmented_Classification_for_Long-Tail_Visual_Recognition_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Retrieval_Augmented_Classification_for_Long-Tail_Visual_Recognition_CVPR_2022_paper.pdf)]<br>
 *Datasets: iNaturalist; Places365-LT*<br>
 *Task: Image Retrieval*
 
 * Adaptive Hierarchical Representation Learning for Long-Tailed Object Detection (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Adaptive_Hierarchical_Representation_Learning_for_Long-Tailed_Object_Detection_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Adaptive_Hierarchical_Representation_Learning_for_Long-Tailed_Object_Detection_CVPR_2022_paper.pdf)]<br>
 *Datasets: LVIS*<br>
 *Task: Object Detection*
 
@@ -1928,8 +1884,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * Improving the Intra-Class Long-Tail in 3D Detection via Rare Example Mining (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700155.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700155.pdf)]<br>
 *Datasets: Waymo Open Dataset (camera+LiDAR)*<br>
 *Task: Track Mining*
 
@@ -1977,8 +1932,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * SAFA: Sample-Adaptive Feature Augmentation for Long-Tailed Image Classification (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840578.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840578.pdf)]<br>
 *Datasets: CIFAR-LT-10,CIFAR-LT-100, Places-LT, ImageNet-LT, and iNaturalist2018*<br>
 *Task: Image Classification*
 
@@ -2073,8 +2027,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 ### 2022 Papers
 #### CVPR
 * Learning Second Order Local Anomaly for General Face Forgery Detection (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Fei_Learning_Second_Order_Local_Anomaly_for_General_Face_Forgery_Detection_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Fei_Learning_Second_Order_Local_Anomaly_for_General_Face_Forgery_Detection_CVPR_2022_paper.pdf)]<br>
 *Datasets: Face-Forensics++ (FF++), Celeb-DF v2 (CD2), Deep-fakeDetection Dataset (DFD), and FaceShifter (Fshi)*<br>
 <!-- #### ICLR
 #### NeurIPS
@@ -2110,12 +2063,16 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### TPAMI-->
 #### CVPRw
 * Autoencoders - A Comparative Analysis in the Realm of Anomaly Detection (CVPRw 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/WiCV/papers/Schneider_Autoencoders_-_A_Comparative_Analysis_in_the_Realm_of_Anomaly_CVPRW_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/WiCV/papers/Schneider_Autoencoders_-_A_Comparative_Analysis_in_the_Realm_of_Anomaly_CVPRW_2022_paper.pdf)]<br>
 *Datasets: CIFAR10, MNIST*<br>
 
-<!--#### WACV
-#### IJCV
+#### WACV
+* One-Class Learned Encoder-Decoder Network With Adversarial Context Masking for Novelty Detection (WACV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Jewell_One-Class_Learned_Encoder-Decoder_Network_With_Adversarial_Context_Masking_for_Novelty_WACV_2022_paper.pdf)]
+[[Code](https://github.com/jewelltaylor/OLED)]<br>
+*Datasets: MNIST, CIFAR-10, UCSD*<br>
+*Task: Novelty Detection, Anomaly*
+<!--#### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->

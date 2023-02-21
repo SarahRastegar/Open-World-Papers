@@ -1535,7 +1535,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 * Dual Cross-Attention Learning for Fine-Grained Visual Categorization and Object Re-Identification (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Dual_Cross-Attention_Learning_for_Fine-Grained_Visual_Categorization_and_Object_Re-Identification_CVPR_2022_paper.pdf)]<br>
-*Datasets: CUB-200-2011, Stanford  Cars, FGVC-Aircraft ; For Re-ID, we use four standard benchmarks:  Mar-ket1501,  DukeMTMC-ReID,  MSMT17 forPerson Re-ID and VeRi-776 for Vehicle Re-ID*<br>
+*Datasets: CUB-200-2011, Stanford  Cars, FGVC-Aircraft ; For Re-ID, we use four standard benchmarks:  Mar-ket1501,  DukeMTMC-ReID,  MSMT17 for Person Re-ID and VeRi-776 for Vehicle Re-ID*<br>
 *Task: Image Classification*
 
 * Knowledge Mining With Scene Text for Fine-Grained Recognition (CVPR 2022) 
@@ -1557,7 +1557,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Fine-Grained Object Classification via Self-Supervised Pose Alignment (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Fine-Grained_Object_Classification_via_Self-Supervised_Pose_Alignment_CVPR_2022_paper.pdf)]
 [[Code](https://github.com/yangxh11/P2P-Net)]<br>
-*Datasets:*<br>
+*Datasets: Caltech-UCSD Birds (CUB), Stanford Cars (CAR), FGVC Aircraft (AIR)*<br>
 *Task: Image Classification*
 
 * Fine-Grained Predicates Learning for Scene Graph Generation (CVPR 2022) 

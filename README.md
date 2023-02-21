@@ -1791,12 +1791,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Relieving Long-Tailed Instance Segmentation via Pairwise Class Balance (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Relieving_Long-Tailed_Instance_Segmentation_via_Pairwise_Class_Balance_CVPR_2022_paper.pdf)]<br>
 *Datasets: LVIS*<br>
-*Task: Instance segmentation*
+*Task: Instance Segmentation*
 
 * Relieving Long-Tailed Instance Segmentation via Pairwise Class Balance (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Relieving_Long-Tailed_Instance_Segmentation_via_Pairwise_Class_Balance_CVPR_2022_paper.pdf)]<br>
 *Datasets: LVIS*<br>
-*Task: Instance segmentation*
+*Task: Instance Segmentation*
 
 * RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_RelTransformer_A_Transformer-Based_Long-Tail_Visual_Relationship_Recognition_CVPR_2022_paper.pdf)]

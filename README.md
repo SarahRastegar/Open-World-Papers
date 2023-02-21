@@ -549,7 +549,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 * Adaptive Robust Evidential Optimization For Open Set Detection from Imbalanced Data (ICLR 2023) 
 [[Paper](https://openreview.net/forum?id=3yJ-hcJBqe)]<br>
-*Datasets: Cifar10, Cifar100, ImageNet, MNIST, and Architecture Heritage Elements Dataset(AHED)*<br>
+*Datasets: CIFAR10, CIFAR100, ImageNet, MNIST, and Architecture Heritage Elements Dataset (AHED)*<br>
 *Task: Image Classification*
 
 * The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition (ICLR 2023) 

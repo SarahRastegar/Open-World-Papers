@@ -164,7 +164,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 * En-Compactness: Self-Distillation Embedding & Contrastive Generation for Generalized Zero-Shot Learning (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_En-Compactness_Self-Distillation_Embedding__Contrastive_Generation_for_Generalized_Zero-Shot_Learning_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+<br>
 *Datasets: Animals with Attributes 1&2 (AWA1 &AWA2), USCD Birds-200-2011 (CUB), OxfordFlowers (FLO),  and  Attributes  Pascal  and  Yahoo(APY)*<br>
 *Task: Image Classification*
 

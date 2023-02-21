@@ -2580,16 +2580,15 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### IEEE-Access-->
 #### ECCV
 * Dynamic Spatio-Temporal Specialization Learning for Fine-Grained Action Recognition (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640381.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640381.pdf)]<br>
 *Datasets: Diving48*<br>
-*Task: Action recognition*
+*Task: Action Recognition*
 
 * Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset (ECCV 2022) 
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680262.pdf)]
 [[Code](https://github.com/visipedia/ssw60)]<br>
 *Datasets: SSW60*<br>
-*Task: Action recognition*
+*Task: Action Recognition*
 
 * Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions (ECCV 2022) 
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700562.pdf)]
@@ -2603,8 +2602,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Video Object Segmentation, Human Pose Tracking, Human Part Tracking*
 
 * Spotting Temporally Precise, Fine-Grained Events in Video (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136950033.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136950033.pdf)]<br>
 *Datasets: Tennis, Figure Skating, FineDiving, and Fine-Gym*<br>
 *Task: Temporally Precise Spotting*
 
@@ -2736,13 +2734,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: MVTec AD, Avenue and  ShanghaiTech*
 
 * Anomaly Detection via Reverse Distillation From One-Class Embedding (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.pdf)]<br>
 *Datasets: MVTec; MNIST, FashionMNIST and CIFAR10*<br>
 
 * Bayesian Nonparametric Submodular Video Partition for Robust Anomaly Detection (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sapkota_Bayesian_Nonparametric_Submodular_Video_Partition_for_Robust_Anomaly_Detection_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sapkota_Bayesian_Nonparametric_Submodular_Video_Partition_for_Robust_Anomaly_Detection_CVPR_2022_paper.pdf)]<br>
 *Datasets: ShanghaiTech, Avenue, UCF-Crime*
 
 * Towards Total Recall in Industrial Anomaly Detection (CVPR 2022) 
@@ -2763,8 +2759,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### IEEE-Access-->
 #### ECCV
 * Towards Open Set Video Anomaly Detection (ECCV 2022) 
-[[Paper](https://arxiv.org/pdf/2208.11113v1.pdf)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/pdf/2208.11113v1.pdf)]<br>
 *Datasets: XD Violence, UCF Crime, ShanghaiTech Campus*
 
 * Scale-Aware Spatio-Temporal Relation Learning for Video Anomaly Detection (ECCV 2022) 
@@ -2778,8 +2773,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CUHK Avenue; UCSD Ped2; ShanghaiTech*
 
 * Video Anomaly Detection by Solving Decoupled Spatio-Temporal Jigsaw Puzzles (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700490.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700490.pdf)]<br>
 *Datasets: CUHK Avenue; UCSD Ped2; ShanghaiTech*
 
 * Self-Supervised Sparse Representation for Video Anomaly Detection (ECCV 2022) 
@@ -2801,13 +2795,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### TPAMI-->
 #### CVPRw
 * Unsupervised Anomaly Detection From Time-of-Flight Depth Images (CVPRw 2022) 
-[[Paper](https://arxiv.org/abs/2203.01052v2)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/abs/2203.01052v2)]<br>
 *Datasets: TIMo*<br>
 
 * Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems (CVPRw 2022) 
-[[Paper](https://arxiv.org/abs/2204.03141v1)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/abs/2204.03141v1)]<br>
 *Datasets: CUHK Avenue, the ShanghaiTech Campus*<br>
 
 * Anomaly Detection in Autonomous Driving: A Survey (CVPRw 2022) 

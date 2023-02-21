@@ -1868,7 +1868,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf)]
 [[Code](https://github.com/hongxin001/logitnorm_ood)]<br>
 *Datasets: long-tailed CIFAR10/100, CelebA-5, Places-LT*<br>
-*Task: Out-of-Distribution detection*
+*Task: Out-of-Distribution Detection, Image Classification*
 
 <!-- #### IEEE-Access-->
 
@@ -1886,7 +1886,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 * Long-Tailed Instance Segmentation Using Gumbel Optimized Loss (ECCV 2022) 
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700349.pdf)]
-[[Code](https://github.com/kostas1515/ GOL)]<br>
+[[Code](https://github.com/kostas1515/GOL)]<br>
 *Datasets: LVISv1; LVISv0.5; CIFAR100-LT; ImageNet-LT, Places-LT*<br>
 *Task: Image Classification*
 

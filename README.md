@@ -701,8 +701,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Domain Generalization*
 
 * Objects in Semantic Topology (ICLR 2022) 
-[[Paper](https://openreview.net/forum?id=d5SCUJ5t1k)]
-[[Code]]<br>
+[[Paper](https://openreview.net/forum?id=d5SCUJ5t1k)]<br>
 *Datasets: Pascal VOC, MS-COCO*<br>
 *Task: Object Detection*
 
@@ -720,8 +719,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Active Learning*
 
 * OpenAUC: Towards AUC-Oriented Open-Set Recognition	(NeurIPS 2022) 
-[[Paper](https://arxiv.org/pdf/2210.13458v1.pdf)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/pdf/2210.13458v1.pdf)]<br>
 *Datasets: MNIST1, SVHN2, CIFAR10, CIFAR+10, CIFAR+50, TinyImageNet, CUB*<br>
 *Task: Image Classification*
 
@@ -740,7 +738,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Domain Adaptation under Open Set Label Shift (NeurIPS 2022) 
 [[Paper](https://openreview.net/forum?id=OMZG4vsKmm7)]
 [[Code](https://github.com/acmi-lab/Open-Set-Label-Shift)]<br>
-*Datasets:  CIFAR10, CIFAR100, Entity30, Newsgroups-20, Tabula Muris, Dermnet (skin disease prediction), BreakHis(tumor cell classification)*<br>
+*Datasets: CIFAR10, CIFAR100, Entity30, Newsgroups-20, Tabula Muris, Dermnet (skin disease prediction), BreakHis(tumor cell classification)*<br>
 *Task: Domain Adaptation*
 
 * Meta-Query-Net: Resolving Purity-Informativeness Dilemma in Open-set Active Learning (NeurIPS 2022) 
@@ -772,8 +770,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### IEEE-Access -->
 #### ECCV 
 * Open-Set Semi-Supervised Object Detection (ECCV 2022 Oral) 
-[[Paper](https://arxiv.org/pdf/2208.13722v1.pdf)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/pdf/2208.13722v1.pdf)]<br>
 *Datasets: COCO, OpenImages*<br>
 *Task: Semi-Supervised Object Detection*
 
@@ -784,8 +781,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * Towards Accurate Open-Set Recognition via Background-Class Regularization (ECCV 2022) 
-[[Paper](https://arxiv.org/pdf/2207.10287v1.pdf)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/pdf/2207.10287v1.pdf)]<br>
 *Datasets: SVHN, CIFAR10 & CIFAR100, TinyImageNet*<br>
 *Task: Image Classification*
 
@@ -808,8 +804,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Object Detection*
 
 * Open-world Semantic Segmentation via Contrasting and Clustering Vision-language Embedding (ECCV 2022) 
-[[Paper](https://arxiv.org/pdf/2207.08455v2.pdf)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/pdf/2207.08455v2.pdf)]<br>
 *Datasets: PAS-CAL VOC, PASCAL Context, and COCO Stuff*<br>
 *Task: Semantic Segmentation*
 
@@ -832,8 +827,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: 3D Oriention Estimation*
 
 * Unknown-Oriented Learning for Open Set Domain Adaptation	(ECCV 2022)
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930328.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930328.pdf)]<br>
 *Datasets: SVHN→MNIST, MNIST→USPS and USPS→MNIST; Office-Home; Endo-c2k -> KID WCE*<br>
 *Task: Domain Adaptation*
 
@@ -851,8 +845,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 #### AAAI
 * Learngene: From Open-World to Your Learning Task	(AAAI 2022)
-[[Paper](https://arxiv.org/abs/2106.06788v3)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/abs/2106.06788v3)]<br>
 *Datasets:CIFAR100, ImageNet100*<br>
 *Task: Meta Learning*
 
@@ -872,14 +865,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * Towards Open-Set Object Detection and Discovery (CVPRw 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Zheng_Towards_Open-Set_Object_Detection_and_Discovery_CVPRW_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Zheng_Towards_Open-Set_Object_Detection_and_Discovery_CVPRW_2022_paper.pdf)]<br>
 *Datasets: Pascal VOC 2007; MS-COCO*<br>
 *Task: Image Classification*
 
 * Open-Set Domain Adaptation Under Few Source-Domain Labeled Samples (CVPRw 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Rakshit_Open-Set_Domain_Adaptation_Under_Few_Source-Domain_Labeled_Samples_CVPRW_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Rakshit_Open-Set_Domain_Adaptation_Under_Few_Source-Domain_Labeled_Samples_CVPRW_2022_paper.pdf)]<br>
 *Datasets: Office-31; Mini-domainNet; NPU-RSDA*<br>
 *Task: Image Classification*
 
@@ -898,27 +889,24 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Domain Adaptation*
 
 * SeeTek: Very Large-Scale Open-Set Logo Recognition With Text-Aware Metric Learning (WACV 2022) 
-[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Li_SeeTek_Very_Large-Scale_Open-Set_Logo_Recognition_With_Text-Aware_Metric_Learning_WACV_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Li_SeeTek_Very_Large-Scale_Open-Set_Logo_Recognition_With_Text-Aware_Metric_Learning_WACV_2022_paper.pdf)]<br>
 *Datasets: PL8K,LogoDet-3K, FlickrLogos-47, Logos-in-the-Wild (LitW), OpenLogo, BelgaLogos, Hard Evaluation dataset*<br>
 *Task: Logo Recognition*
 
 * Novel Ensemble Diversification Methods for Open-Set Scenarios	(WACV 2022) 
-[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Farber_Novel_Ensemble_Diversification_Methods_for_Open-Set_Scenarios_WACV_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Farber_Novel_Ensemble_Diversification_Methods_for_Open-Set_Scenarios_WACV_2022_paper.pdf)]<br>
 *Datasets: Market-1501 (ReID), MS1MV2,  Labeled Faces in the Wild (LFW) (Face Recognition), CIFAR-100, CIFAR-10, TinyImageNet(crop) (OSR, OOD), SVHN and MNIST (OSR)*<br>
 *Task: Ensemble Diversification*
 
 * Learning To Generate the Unknowns as a Remedy to the Open-Set Domain Shift (WACV 2022) 
-[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Baktashmotlagh_Learning_To_Generate_the_Unknowns_as_a_Remedy_to_the_WACV_2022_paper.pdf)]
-[[Code]]<br>
-*Datasets:*<br>
-*Task:*
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Baktashmotlagh_Learning_To_Generate_the_Unknowns_as_a_Remedy_to_the_WACV_2022_paper.pdf)]<br>
+*Datasets: Office-Home, VisDA-17, Syn2Real-O*<br>
+*Task: Domain Adaptation*
 
 * Adversarial Open Domain Adaptation for Sketch-to-Photo Synthesis (WACV 2022) 
 [[Paper](https://arxiv.org/pdf/2104.05703v2.pdf)]
 [[Code](https://github.com/Mukosame/AODA)]<br>
-*Datasets:*<br>
+*Datasets: Scribble, SketchyCOCO*<br>
 *Task: Domain Adaptation*
 
 <!-- #### IJCV -->

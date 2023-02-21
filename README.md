@@ -2256,16 +2256,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
 * Uncertainty-aware audiovisual activity recognition using deep bayesian variational inference (ICCV 2019) 
-[[Paper](https://arxiv.org/pdf/1811.10811v3.pdf)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/pdf/1811.10811v3.pdf)]<br>
 *Datasets: MiT*<br>
-*Task: Audiovisual action recognition*
+*Task: Audiovisual Action Recognition*
 
 * Bayesian activity recognition using variational inference (NeurIPS 2018) 
-[[Paper](https://arxiv.org/pdf/1811.03305v2.pdf)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/pdf/1811.03305v2.pdf)]<br>
 *Datasets:  MiT video activity recognition dataset*<br>
-*Task: Action recognition*
+*Task: Action Recognition*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ##  Open-set Recognition Videos

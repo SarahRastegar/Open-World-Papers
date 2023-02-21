@@ -371,8 +371,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * Deep Hybrid Models for Out-of-Distribution Detection (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_Deep_Hybrid_Models_for_Out-of-Distribution_Detection_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_Deep_Hybrid_Models_for_Out-of-Distribution_Detection_CVPR_2022_paper.pdf)]<br>
 *Datasets: CIFAR-10 and CIFAR-100, SVHN, CLINC150*<br>
 *Task: Image Classification*
 
@@ -418,20 +417,17 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ECCV
 
 * OOD-CV: A Benchmark for Robustness to Out-of-Distribution Shifts of Individual Nuisances in Natural Images (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680158.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680158.pdf)]<br>
 *Datasets: PASCAL3D+; OOD-CV*<br>
 *Task: Image Classification, Object Detection, and 3D Pose Estimation*
 
 * Out-of-Distribution Identification: Let Detector Tell Which I Am Not Sure (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700631.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700631.pdf)]<br>
 *Datasets: PASCAL VOC-IO; Crack  Defect*<br>
 *Task: Image Classification*
 
 * Out-of-Distribution Detection with Boundary Aware Learning (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840232.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840232.pdf)]<br>
 *Datasets: CIFAR-10 and CIFAR-100; SVHN and LSUN; TinyImageNet; MNIST; Fashion-MNIST; Omniglot*<br>
 *Task: Image Classification*
 
@@ -454,11 +450,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * Data Invariants to Understand Unsupervised Out-of-Distribution Detection (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910129.pdf)]
-[[Code]]<br>
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910129.pdf)]<br>
 *Datasets: CIFAR10; MVTec; SVHN; CIFAR100; DomainNet; coherence tomography (OCT); chest X-ray*<br>
 *Task: Image Classification*
-
 
 * Embedding Contrastive Unsupervised Features to Cluster in- and Out-of-Distribution Noise in Corrupted Image Datasets (ECCV 2022) 
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910389.pdf)]
@@ -468,16 +462,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 #### AAAI
 * Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classification (AAAI 2022) 
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20812/version/19109/20571)]
-[[Code]]<br>
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20812/version/19109/20571)]<br>
 *Datasets: CIFAR-10, CIFAR-100, SVHN and TinyImageNet*<br>
 *Task: Image Classification*
 
 <!-- #### TPAMI-->
 #### CVPRw
 * Out-of-Distribution Detection in Unsupervised Continual Learning (CVPRw 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/He_Out-of-Distribution_Detection_in_Unsupervised_Continual_Learning_CVPRW_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/He_Out-of-Distribution_Detection_in_Unsupervised_Continual_Learning_CVPRW_2022_paper.pdf)]<br>
 *Datasets: CIFAR-100*<br>
 *Task: Image Classification*
 
@@ -488,8 +480,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * Class-Wise Thresholding for Robust Out-of-Distribution Detection (CVPRw 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Guarrera_Class-Wise_Thresholding_for_Robust_Out-of-Distribution_Detection_CVPRW_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Guarrera_Class-Wise_Thresholding_for_Robust_Out-of-Distribution_Detection_CVPRW_2022_paper.pdf)]<br>
 *Datasets: Places365; SVHN; German Traffic Sign Recognition Benchmark (GTSRB); ImageNet; Anime Faces; Fishes; Fruits; iSUN; Jig-saw Training; LSUN; Office; PACS; Texture*<br>
 *Task: Image Classification*
 

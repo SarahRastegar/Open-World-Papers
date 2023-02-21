@@ -1406,8 +1406,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Instance segmentation*
 
 * Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning (ECCV 2022) 
-[[Paper](https://arxiv.org/pdf/2208.08165v3.pdf)]
-<br>
+[[Paper](https://arxiv.org/pdf/2208.08165v3.pdf)]<br>
 *Datasets: Visual Genome(VG), GQA, Open-Image*<br>
 *Task: Scene Graph Generation*
 

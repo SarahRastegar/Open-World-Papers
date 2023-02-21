@@ -2307,10 +2307,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Anomaly Detection*
 
 * Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Open-World_Instance_Segmentation_Exploiting_Pseudo_Ground_Truth_From_Learned_Pairwise_CVPR_2022_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Open-World_Instance_Segmentation_Exploiting_Pseudo_Ground_Truth_From_Learned_Pairwise_CVPR_2022_paper.pdf)]<br>
 *Datasets: COCO 17, LVIS, UVO (videos), ADE20k*<br>
-*Task: Instance segmentation*
+*Task: Instance Segmentation*
 
 
 <!--#### ICLR
@@ -2320,8 +2319,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### IEEE-Access-->
 #### ECCV
 * Towards Open Set Video Anomaly Detection (ECCV 2022) 
-[[Paper](https://arxiv.org/pdf/2208.11113v1.pdf)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/pdf/2208.11113v1.pdf)]<br>
 *Datasets: XD Violence, UCF Crime, ShanghaiTech Campus*<br>
 *Task: Anomaly Detection*
 
@@ -2337,10 +2335,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 ### 2021 Papers
 #### CVPR
 * Generalizing to the Open World: Deep Visual Odometry With Online Adaptation (CVPR 2021) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Generalizing_to_the_Open_World_Deep_Visual_Odometry_With_Online_CVPR_2021_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Generalizing_to_the_Open_World_Deep_Visual_Odometry_With_Online_CVPR_2021_paper.pdf)]<br>
 *Datasets: Cityscapes,  KITTI, indoor TUM, NYUv2*<br>
-*Task: Depth estimation*
+*Task: Depth Estimation*
 
 
 <!--#### ICLR
@@ -2353,10 +2350,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Action Recognition*
 
 * Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation (ICCV 2021) 
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unidentified_Video_Objects_A_Benchmark_for_Dense_Open-World_Segmentation_ICCV_2021_paper.pdf)]
-[[Code]]<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unidentified_Video_Objects_A_Benchmark_for_Dense_Open-World_Segmentation_ICCV_2021_paper.pdf)]<br>
 *Datasets: UVO, COCO*<br>
-*Task: Video Object detection and segmentation*
+*Task: Video Object Detection and Segmentation*
 
 <!-- #### ICML
 #### IEEE-Access
@@ -2372,22 +2368,19 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
 * Specifying weight priors in bayesian deep neural networks with empirical bayes (AAAI 2020) 
-[[Paper](https://arxiv.org/pdf/1906.05323v3.pdf)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/pdf/1906.05323v3.pdf)]<br>
 *Datasets: UCF-101, Urban Sound 8K, MNIST, Fashion-MNIST, CIFAR10*<br>
-*Task: image and audio classification, and video activity recognition*
+*Task: Image and Audio Classification, Video Activity Recognition*
 
 * P-ODN: prototype-based open Deep network for open Set Recognition (Scientific Reports 2020) 
-[[Paper](https://www.nature.com/articles/s41598-020-63649-6)]
-[[Code]]<br>
+[[Paper](https://www.nature.com/articles/s41598-020-63649-6)]<br>
 *Datasets: UCF11, UCF50, UCF101 and HMDB51*<br>
-*Task: Action recognition*
+*Task: Action Recognition*
 
 * Uncertainty-aware audiovisual activity recognition using deep bayesian variational inference (ICCV 2019) 
-[[Paper](https://arxiv.org/pdf/1811.10811v3.pdf)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/pdf/1811.10811v3.pdf)]<br>
 *Datasets: MiT*<br>
-*Task: Audiovisual action recognition*
+*Task: Audiovisual Action Recognition*
 
 * Bayesian activity recognition using variational inference (NeurIPS 2018) 
 [[Paper](https://arxiv.org/pdf/1811.03305v2.pdf)]

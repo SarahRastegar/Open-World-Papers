@@ -356,12 +356,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Weakly Supervised Semantic Segmentation Using Out-of-Distribution Data (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Weakly_Supervised_Semantic_Segmentation_Using_Out-of-Distribution_Data_CVPR_2022_paper.pdf)]
 [[Code](https://github.com/naver-ai/w-ood)]<br>
-*Datasets:*<br>
+*Datasets: Pascal VOC 2012, OpenImages, hard OoD dataset*<br>
 *Task: Semantic Segmentation*
 
 * DeepFace-EMD: Re-Ranking Using Patch-Wise Earth Mover's Distance Improves Out-of-Distribution Face Identification (CVPR 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_DeepFace-EMD_Re-Ranking_Using_Patch-Wise_Earth_Movers_Distance_Improves_Out-of-Distribution_Face_CVPR_2022_paper.pdf)]<br>
-*Datasets:*<br>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_DeepFace-EMD_Re-Ranking_Using_Patch-Wise_Earth_Movers_Distance_Improves_Out-of-Distribution_Face_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/anguyen8/deepface-emd)]<br>
+*Datasets: LFW, LFW-crop*<br>
 *Task: Face Identification*
 
 * Neural Mean Discrepancy for Efficient Out-of-Distribution Detection (CVPR 2022) 

@@ -2173,9 +2173,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/tianyu0207/PEBAL)]<br>
 *Datasets: LostAndFound; Fishyscapes; Road Anomaly*<br>
 <!--#### AAAI
-#### TPAMI
+#### TPAMI-->
 #### CVPRw
-#### WACV
+* Autoencoders - A Comparative Analysis in the Realm of Anomaly Detection (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/WiCV/papers/Schneider_Autoencoders_-_A_Comparative_Analysis_in_the_Realm_of_Anomaly_CVPRW_2022_paper.pdf)]
+[[Code]]<br>
+*Datasets: CIFAR10, MNIST*<br>
+
+<!--#### WACV
 #### IJCV
 #### BMVC
 #### ICCw
@@ -2913,9 +2918,27 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: Fishyscapes, SegmentMeIfYouCan (SMIYC), StreetHazards*
 
 <!--#### AAAI
-#### TPAMI
+#### TPAMI-->
 #### CVPRw
-#### WACV
+* Unsupervised Anomaly Detection From Time-of-Flight Depth Images (CVPRw 2022) 
+[[Paper](https://arxiv.org/abs/2203.01052v2)]
+[[Code]]<br>
+*Datasets: TIMo*<br>
+
+* Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems (CVPRw 2022) 
+[[Paper](https://arxiv.org/abs/2204.03141v1)]
+[[Code]]<br>
+*Datasets: CUHK Avenue, the ShanghaiTech Campus*<br>
+
+* Anomaly Detection in Autonomous Driving: A Survey (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/WAD/papers/Bogdoll_Anomaly_Detection_in_Autonomous_Driving_A_Survey_CVPRW_2022_paper.pdf)]
+
+* AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)]
+[[Code](https://github.com/Julian-Wyatt/AnoDDPM)]<br>
+*Datasets: MVTec AD*<br>
+
+<!--#### WACV
 #### IJCV
 #### BMVC
 #### ICCw

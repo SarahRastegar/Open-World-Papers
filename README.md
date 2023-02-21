@@ -710,7 +710,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openreview.net/forum?id=5xiLuNutzJG)]
 [[Code](https://github.com/GraphPKU/Open-World-KG)]<br>
 *Datasets: family tree KG*<br>
-*Task: Knowledge  Graph  Completion *
+*Task: Knowledge  Graph  Completion*
 
 * Interpretable Open-Set Domain Adaptation via Angular Margin Separation	(NeurIPS 2022) 
 [[Paper](https://arxiv.org/pdf/2202.01339.pdf)]
@@ -1200,8 +1200,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 * A Method for Discovering Novel Classes in Tabular Data (Arxiv 2022) 
-[[Paper](https://arxiv.org/abs/2209.01217v3)]
-[[Code]]<br>
+[[Paper](https://arxiv.org/abs/2209.01217v3)]<br>
 *Datasets: ForestCover Type, Letter Recognition, Human Activity Recognition, Satimage, Pen-Based Handwritten Digits Recognition, 1990 US Census Data, MNIST*<br>
 *Task: Tabular Data Classification*
 
@@ -1298,8 +1297,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### Arxiv & Others
 
 * End-to-end novel visual categories learning via auxiliary self-supervision (Neural Networks 2021) 
-[[Paper](https://www.sciencedirect.com/science/article/pii/S0893608021000575)]
-[[Code]]<br>
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0893608021000575)]<br>
 *Datasets: CIFAR10, CIFAR100, SVHN*<br>
 *Task: Image Classification*
 
@@ -1311,8 +1309,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 ### Older Papers
 
 * Learning to Discover Novel Visual Categories via Deep Transfer Clustering (ICCV 2019) 
-[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Learning_to_Discover_Novel_Visual_Categories_via_Deep_Transfer_Clustering_ICCV_2019_paper.pdf)]
-[[Code](http://www.robots.ox.ac.uk/ ̃vgg/research/DTC)]<br>
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Learning_to_Discover_Novel_Visual_Categories_via_Deep_Transfer_Clustering_ICCV_2019_paper.pdf)][[Code](https://github.com/k-han/DTC)]<br>
 *Datasets: ImageNet, OmniGlot, CIFAR-100, CIFAR-10, and SVHN*<br>
 *Task: Image Classification*
 

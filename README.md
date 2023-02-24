@@ -1128,7 +1128,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Meta Discovery: Learning to Discover Novel Classes given Very Limited Data (ICLR 2022 spotlight) 
 [[Paper](https://openreview.net/forum?id=MEpKGLsY8f)]
 [[Code](https://github.com/Haoang97/MEDI)]<br>
-*Datasets: CIFAR-10, CIFAR-100, SVHN, OmniGlot *<br>
+*Datasets: CIFAR-10, CIFAR-100, SVHN, OmniGlot*<br>
 *Task: Image Classification*
 
 #### NeurIPS

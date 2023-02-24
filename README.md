@@ -599,6 +599,17 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CUB-200, AWA2, MNIST, CIFAR-10, CIFAR-100, SVHN, Tiny Imagenet*<br>
 *Task: Image Classification*
 
+* Large-Scale Open-Set Classification Protocols for ImageNet (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Palechor_Large-Scale_Open-Set_Classification_Protocols_for_ImageNet_WACV_2023_paper.pdf)]
+[[Code](https://github.com/AIML-IfI/openset-imagenet)]<br>
+*Datasets: ILSVRC 2012*<br>
+*Task: Image Classification*
+
+* Contrastive Learning of Semantic Concepts for Open-Set Cross-Domain Retrieval (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Agarwal_Contrastive_Learning_of_Semantic_Concepts_for_Open-Set_Cross-Domain_Retrieval_WACV_2023_paper.pdf)]<br>
+*Datasets: DomainNet, PACS, Sketchy Extended*<br>
+*Task: Open-Set Domain Generalization*
+
 <!--#### IJCV
 #### BMVC
 #### ICCw -->
@@ -2279,9 +2290,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ECCV
 #### AAAI
 #### TPAMI
-#### CVPRw
+#### CVPRw-->
 #### WACV
-#### IJCV
+* Reconstructing Humpty Dumpty: Multi-Feature Graph Autoencoder for Open Set Action Recognition (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2212.06023)]
+[[Code](https://github.com/Kitware/graphautoencoder)]<br>
+*Datasets:  HMDB-51, UCF-101*<br>
+*Task: Action Recognition*
+<!--#### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->

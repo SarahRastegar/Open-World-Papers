@@ -1093,9 +1093,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ECCV
 #### AAAI
 #### TPAMI
-#### CVPRw
+#### CVPRw-->
 #### WACV
-#### IJCV
+* Scaling Novel Object Detection With Weakly Supervised Detection Transformers (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2207.05205)]<br>
+*Datasets: Few-Shot  Object  Detec-tion (FSOD), FGVC-Aircraft, iNaturalist  2017, PASCAL VOC 2007*<br>
+*Task: Object Detection*
+<!--#### IJCV
 #### BMVC
 #### ICCw-->
 #### Arxiv & Others
@@ -2556,9 +2560,19 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ECCV
 #### AAAI
 #### TPAMI
-#### CVPRw
+#### CVPRw-->
 #### WACV
-#### IJCV
+* Fine-Grained Activities of People Worldwide (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Byrne_Fine-Grained_Activities_of_People_Worldwide_WACV_2023_paper.pdf)]
+[[Code](https://visym.github.io/cap)]<br>
+*Datasets: Consented Activities of People (CAP)*<br>
+*Task: Action Recognition*
+
+* Fine-Grained Affordance Annotation for Egocentric Hand-Object Interaction Videos (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Yu_Fine-Grained_Affordance_Annotation_for_Egocentric_Hand-Object_Interaction_Videos_WACV_2023_paper.pdf)]<br>
+*Datasets:  EPIC-KITCHENS*<br>
+*Task: Action Recognition*
+<!--#### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->

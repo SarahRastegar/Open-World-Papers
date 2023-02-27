@@ -764,6 +764,24 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: Pascal VOC, MS-COCO*<br>
 *Task: Object Detection*
 
+* Open-World Semi-Supervised Learning (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=O-r8LOR-CCA)]
+[[Code](https://github.com/snap-stanford/orca)]<br>
+*Datasets: CIFAR-10, CIFAR-100, ImageNet, single-cell Mouse Ageing Cell Atlas dataset*<br>
+*Task: Image Classification*
+
+* Audio Lottery: Speech Recognition Made Ultra-Lightweight, Noise-Robust, and Transferable (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=9Nk6AJkVYB)]
+[[Code](https://github.com/VITA-Group/Audio-Lottery)]<br>
+*Datasets: TED-LIUM, Common Voice, LibriSpeech<br>
+*Task: Lightweight Speech Recognition*
+
+* Benchmarking the Spectrum of Agent Capabilities (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=1W0z96MFEoH)]
+[[Code](https://github.com/danijar/crafter)]<br>
+*Datasets: Crafter<br>
+*Task: Agent Evaluation*
+
 #### NeurIPS 
 * Rethinking Knowledge Graph Evaluation Under the Open-World Assumption (NeurIPS 2022 Oral) 
 [[Paper](https://openreview.net/forum?id=5xiLuNutzJG)]

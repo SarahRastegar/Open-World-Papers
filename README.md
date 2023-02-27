@@ -273,8 +273,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: Common Objects in 3D (CO3D); PoseContrast*<br>
 *Task: Object Pose Estimation*
 
-<!-- #### AAAI
-#### TPAMI-->
+#### AAAI
+* Open Vocabulary Electroencephalography-to-Text Decoding and Zero-Shot Sentiment Classification (AAAI 2022) 
+[[Paper](https://arxiv.org/abs/2112.02690)]
+[[Code](https://github.com/MikeWangWZHL/EEG-To-Text)]<br>
+*Datasets:  ZuCo*<br>
+*Task: Brain Signals Language Decoding*
+<!--#### TPAMI-->
 #### CVPRw
 * Semantically Grounded Visual Embeddings for Zero-Shot Learning (CVPRw 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/MULA/papers/Nawaz_Semantically_Grounded_Visual_Embeddings_for_Zero-Shot_Learning_CVPRW_2022_paper.pdf)]<br>
@@ -497,6 +502,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf)]
 [[Code](https://github.com/hongxin001/logitnorm_ood)]<br>
 *Datasets: long-tailed CIFAR10/100, CelebA-5, Places-LT*<br>
+*Task: Image Classification*
+
+* Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition (ICML 2022) 
+[[Paper](https://arxiv.org/abs/2207.01160)]
+[[Code](https://github.com/amazon-research/long-tailed-ood-detection)]<br>
+*Datasets: CIFAR10-LT, CIFAR100-LT, and ImageNet-LT*<br>
 *Task: Image Classification*
 
 <!-- #### IEEE-Access-->
@@ -2039,6 +2050,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR-10-LT  &  CIFAR-100-LT; ImageNet-LT; iNaturalist; Places-LT*<br>
 *Task: Image Classification*
 
+
+
 <!-- #### ICLR
 #### NeurIPS
 #### ICCV-->
@@ -2048,6 +2061,18 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/hongxin001/logitnorm_ood)]<br>
 *Datasets: long-tailed CIFAR10/100, CelebA-5, Places-LT*<br>
 *Task: Out-of-Distribution Detection, Image Classification*
+
+* Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition (ICML 2022) 
+[[Paper](https://arxiv.org/abs/2207.01160)]
+[[Code](https://github.com/amazon-research/long-tailed-ood-detection)]<br>
+*Datasets: CIFAR10-LT, CIFAR100-LT, and ImageNet-LT*<br>
+*Task: Image Classification*
+
+* AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems (ICML 2022) 
+[[Paper](https://arxiv.org/abs/2206.12169)]<br>
+*Datasets: CIFAR10-LT, CIFAR100-LT, and MNIST-LT*<br>
+*Task: AUC optimization*
+
 
 <!-- #### IEEE-Access-->
 
@@ -2247,9 +2272,28 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: Face-Forensics++ (FF++), Celeb-DF v2 (CD2), Deep-fakeDetection Dataset (DFD), and FaceShifter (Fshi)*<br>
 <!-- #### ICLR
 #### NeurIPS
-#### ICCV
+#### ICCV-->
 #### ICML
-#### IEEE-Access-->
+* Latent Outlier Exposure for Anomaly Detection with Contaminated Data (ICML 2022) 
+[[Paper](https://arxiv.org/abs/2202.08088)]
+[[Code](https://github.com/boschresearch/LatentOE-AD.git)]<br>
+*Datasets:  CIFAR-10, Fashion-MNIST, MVTEC, 30 tabular data sets, UCSD Peds1*<br>
+
+* Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection (ICML 2022) 
+[[Paper](https://proceedings.mlr.press/v162/chen22x.html)]
+[[Code](http://github.com/BoChenGroup/DVGCRN)]<br>
+*Datasets:  DND, KPI, SMD, MSL, SMAP*<br>
+
+* FITNESS: (Fine Tune on New and Similar Samples) to detect anomalies in streams with drift and outliers (ICML 2022) 
+[[Paper](https://proceedings.mlr.press/v162/sankararaman22a.html)]
+[[Code](http://github.com/BoChenGroup/DVGCRN)]<br>
+*Datasets: Satellite and Thyroid, IoT Attack, Telemetry*<br>
+
+* Rethinking Graph Neural Networks for Anomaly Detection (ICML 2022) 
+[[Paper](https://arxiv.org/abs/2205.15508)]
+[[Code](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)]<br>
+*Datasets: Amazon, YelpChi, T-Finance, T-Social*<br>
+<!--#### IEEE-Access-->
 #### ECCV
 * Hierarchical Semi-Supervised Contrastive Learning for Contamination-Resistant Anomaly Detection (ECCV 2022) 
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850107.pdf)]
@@ -3037,9 +3081,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!-- #### ICLR
 #### NeurIPS
-#### ICCV
+#### ICCV-->
 #### ICML
-#### IEEE-Access-->
+* Latent Outlier Exposure for Anomaly Detection with Contaminated Data (ICML 2022) 
+[[Paper](https://arxiv.org/abs/2202.08088)]
+[[Code](https://github.com/boschresearch/LatentOE-AD.git)]<br>
+*Datasets:  CIFAR-10, Fashion-MNIST, MVTEC, 30 tabular data sets, UCSD Peds1*<br>
+<!--#### IEEE-Access-->
 #### ECCV
 * Towards Open Set Video Anomaly Detection (ECCV 2022) 
 [[Paper](https://arxiv.org/pdf/2208.11113v1.pdf)]<br>

@@ -510,6 +510,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR10-LT, CIFAR100-LT, and ImageNet-LT*<br>
 *Task: Image Classification*
 
+* Training OOD Detectors in their Natural Habitats (ICML 2022) 
+[[Paper](https://arxiv.org/abs/2202.03299)]
+[[Code](https://github.com/jkatzsam/woods_ood)]<br>
+*Datasets: CIFAR10, CIFAR100 (ID), SVHN, Textures, Places365, LSUN-Crop, LSUN-Resize*<br>
+*Task: Image Classification*
+
 <!-- #### IEEE-Access-->
 #### ECCV
 
@@ -593,8 +599,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR-10 and CIFAR-100 as ID datasets and 7 OOD datasets. OOD datasets utilized are TinyImageNet-crop (TINc), TinyImageNet-resize(TINr), LSUN-resize (LSUN-r), Places, Textures, SVHN and iSUN*<br>
 *Task: Image Classification*
 
-<!--#### WACV
-#### IJCV
+#### WACV
+* Addressing Out-of-Distribution Label Noise in Webly-Labelled Data (WACV 2022) 
+[[Paper](http://arxiv.org/abs/2110.13699)]
+[[Code](https://git.io/JKGcj)]<br>
+*Datasets: CIFAR-100, ImageNet32, MiniImageNet, Stanford Cars, mini-WebVision, ILSVRC12, Clothing1M*<br>
+*Task: Image Classification*
+<!--#### IJCV
 #### BMVC
 #### ICCw -->
 #### BMVC 
@@ -2187,9 +2198,18 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 <!--#### WACV
-#### IJCV
+#### IJCV-->
 #### BMVC
-#### ICCw
+* Class-Balanced Loss Based on ClassVolume for Long-Tailed Object Recognition (BMVC 2022) 
+[[Paper](https://bmvc2022.mpi-inf.mpg.de/0896.pdf)]<br>
+*Datasets: CIFAR-LT, ImageNet-LT, Places-LT, and iNaturalist 2018*<br>
+*Task: Image Classification*
+
+* Unleashing the Potential of Vision-Language Models for Long-Tailed Visual Recognition (BMVC 2022) 
+[[Paper](https://bmvc2022.mpi-inf.mpg.de/0481.pdf)]<br>
+*Datasets: ImageNet-LT, Places-LT, and iNaturalist 2018, Conceptual 12M (CC12M), Conceptual Captions 3M (CC3M) and SBU Captions*<br>
+*Task: Image Classification*
+<!--#### ICCw
 #### Arxiv & Others-->
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->

@@ -354,8 +354,32 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Mixture Outlier Exposure: Towards Out-of-Distribution Detection in Fine-Grained Environments (WACV 2023) 
 [[Paper](http://arxiv.org/abs/2106.03917)]
 [[Code](https://github.com/zjysteven/MixOE)]<br>
-*Datasets: WebVision 1.0<br>
+*Datasets: WebVision 1.0*<br>
 *Task: Out-of-Distribution Detection Images*
+
+* Out-of-Distribution Detection via Frequency-Regularized Generative Models (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2208.09083)]
+[[Code](https://github.com/mu-cai/FRL)]<br>
+*Datasets: CIFAR-10, Fashion-MNIST (ID), SVHN, LSUN, MNIST, KMNIST, Omniglot, NotMNIST, Noise, Constant*<br>
+*Task: Out-of-Distribution Detection Images*
+
+* Hyperdimensional Feature Fusion for Out-of-Distribution Detection (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Wilson_Hyperdimensional_Feature_Fusion_for_Out-of-Distribution_Detection_WACV_2023_paper.pdf)]
+[[Code](https://github.com/SamWilso/HDFF_Official)]<br>
+*Datasets: CIFAR10 and CIFAR100 (ID), iSUN, TinyImageNet (croppedand resized: TINc and TINr), LSUN (cropped and resized: LSUNc and LSUNr), SVHN, MNIST, KMNIST, FashionMNIST, Textures*<br>
+*Task: Out-of-Distribution Detection Images*
+
+* Out-of-Distribution Detection With Reconstruction Error and Typicality-Based Penalty (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2212.12641)]<br>
+*Datasets: CIFAR-10, TinyImageNet, and ILSVRC2012*<br>
+*Task: Out-of-Distribution Detection Image Reconstruction*
+
+* Heatmap-Based Out-of-Distribution Detection (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2211.08115)]
+[[Code](https://github.com/jhornauer/heatmap_ood)]<br>
+*Datasets: CIFAR-10, CIFAR-100 and Tiny ImageNet*<br>
+*Task: Out-of-Distribution Detection Images*
+
 
 <!--#### IJCV
 #### BMVC

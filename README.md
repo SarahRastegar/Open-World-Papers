@@ -1299,6 +1299,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://arxiv.org/abs/2210.04174v1)]<br>
 *Datasets:  CIFAR-100, CUB-200, ImageNet-100, Stanford-Cars, FGVC-Aircraft, ImageNet-200*<br>
 *Task: Image Classification*
+
 <!-- #### ICCV
 #### ICML
 #### IEEE-Access-->
@@ -1581,6 +1582,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/hanoonaR/object-centric-ovd)]<br>
 *Datasets: COCO, LVIS v1.0, OpenImages, Objects365*<br>
 *Task: Object Detection*
+
+* Paraphrasing Is All You Need for Novel Object Captioning (NeurIPS 2022) 
+[[Paper](https://arxiv.org/abs/2209.12343)]<br>
+*Datasets:  Open Images V4, COCO Captions 2017*<br>
+*Task: Image Captioning*
 
 <!--#### ICCV
 #### ICML

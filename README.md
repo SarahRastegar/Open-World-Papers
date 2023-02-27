@@ -2053,9 +2053,36 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ECCV
 #### AAAI
 #### TPAMI
-#### CVPRw
+#### CVPRw-->
 #### WACV
-#### IJCV
+
+* Anomaly Clustering: Grouping Images Into Coherent Clusters of Anomaly Types (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2112.11573)]<br>
+*Datasets: MVTec dataset, magnetic tiledefect (MTD) dataset*
+
+* No Shifted Augmentations (NSA): Compact Distributions for Robust Self-Supervised Anomaly Detection (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2203.10344)]
+[[Code]](https://github.com/IntuitionMachines/NSA)<br>
+*Datasets: CIFAR10*
+
+* Training Auxiliary Prototypical Classifiers for Explainable Anomaly Detection in Medical Image Segmentation (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2202.11660)]<br>
+*Datasets: magnetic resonance (MR), M&Ms challenge dataset, M&Ms-2, PROSTATEx, PROMISE12*
+
+* Anomaly Detection in 3D Point Clouds Using Deep Geometric Descriptors (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2203.10344)]<br>
+*Datasets: MVTec 3D Anomaly Detection*<br>
+
+* Asymmetric Student-Teacher Networks for Industrial Anomaly Detection (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2210.07829)]
+[[Code]](https://github.com/marco-rudolph/ast2593)<br>
+*Datasets: MVTec 3D Anomaly Detection*
+
+* GLAD: A Global-to-Local Anomaly Detector (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Artola_GLAD_A_Global-to-Local_Anomaly_Detector_WACV_2023_paper.pdf)]<br>
+*Datasets: MVTec*
+
+<!--#### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->

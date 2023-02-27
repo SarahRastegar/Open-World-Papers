@@ -2191,12 +2191,26 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/WiCV/papers/Schneider_Autoencoders_-_A_Comparative_Analysis_in_the_Realm_of_Anomaly_CVPRW_2022_paper.pdf)]<br>
 *Datasets: CIFAR10, MNIST*<br>
 
+* AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)]
+[[Code](https://github.com/Julian-Wyatt/AnoDDPM)]<br>
+*Datasets: MVTec AD*<br>
+
 #### WACV
 * One-Class Learned Encoder-Decoder Network With Adversarial Context Masking for Novelty Detection (WACV 2022) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Jewell_One-Class_Learned_Encoder-Decoder_Network_With_Adversarial_Context_Masking_for_Novelty_WACV_2022_paper.pdf)]
 [[Code](https://github.com/jewelltaylor/OLED)]<br>
 *Datasets: MNIST, CIFAR-10, UCSD*<br>
 *Task: Novelty Detection, Anomaly*
+
+* CFLOW-AD: Real-Time Unsupervised Anomaly Detection With Localization via Conditional Normalizing Flows (WACV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Gudovskiy_CFLOW-AD_Real-Time_Unsupervised_Anomaly_Detection_With_Localization_via_Conditional_Normalizing_WACV_2022_paper.pdf)]
+[[Code](github.com/gudovskiy/cflow-ad)]<br>
+*Datasets: MVTec AD*<br>
+
+* Multi-Scale Patch-Based Representation Learning for Image Anomaly Detection and Segmentation (WACV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Tsai_Multi-Scale_Patch-Based_Representation_Learning_for_Image_Anomaly_Detection_and_Segmentation_WACV_2022_paper.pdf)]<br>
+*Datasets: MVTec AD, BTAD*<br>
 <!--#### IJCV
 #### BMVC
 #### ICCw
@@ -2545,7 +2559,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICLR
 #### NeurIPS
 #### ICCV
-#### ICML
+#### ICML* AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)]
+[[Code](https://github.com/Julian-Wyatt/AnoDDPM)]<br>
+*Datasets: MVTec AD*<br>
 #### IEEE-Access
 #### ECCV
 #### AAAI
@@ -2978,13 +2995,33 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Anomaly Detection in Autonomous Driving: A Survey (CVPRw 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/WAD/papers/Bogdoll_Anomaly_Detection_in_Autonomous_Driving_A_Survey_CVPRW_2022_paper.pdf)]
 
-* AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise (CVPRw 2022) 
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)]
-[[Code](https://github.com/Julian-Wyatt/AnoDDPM)]<br>
-*Datasets: MVTec AD*<br>
 
-<!--#### WACV
-#### IJCV
+
+#### WACV
+* A Modular and Unified Framework for Detecting and Localizing Video Anomalies (WACV 2022) 
+[[Paper](http://arxiv.org/abs/2103.11299)]<br>
+*Datasets: CUHK Avenue, UCSD Ped2, ShanghaiTech Campus, UR fall*<br>
+
+* FastAno: Fast Anomaly Detection via Spatio-Temporal Patch Transformation (WACV 2022) 
+[[Paper](http://arxiv.org/abs/2106.08613)]<br>
+*Datasets: CUHK Avenue, UCSD Ped2, ShanghaiTech Campus*<br>
+
+* Multi-Branch Neural Networks for Video Anomaly Detection in Adverse Lighting and Weather Conditions (WACV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Leroux_Multi-Branch_Neural_Networks_for_Video_Anomaly_Detection_in_Adverse_Lighting_WACV_2022_paper.pdf)]
+[[Code](https://github.com/UjjwalSaxena/Automold--Road-Augmentation-Library)]<br>
+*Datasets: CUHK Avenue (Augmented)*<br>
+
+* Discrete Neural Representations for Explainable Anomaly Detection (WACV 2022) 
+[[Paper](http://arxiv.org/abs/2112.05585)]
+[[Code](http://jjcvision.com/projects/vqunet_anomally_detection.html)]<br>
+*Datasets: CUHK Avenue, UCSD Ped2, X-MAN*<br>
+
+* Rethinking Video Anomaly Detection - A Continual Learning Approach (WACV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Doshi_Rethinking_Video_Anomaly_Detection_-_A_Continual_Learning_Approach_WACV_2022_paper.pdf)]<br>
+*Datasets: NOLA*<br>
+
+
+<!--#### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->

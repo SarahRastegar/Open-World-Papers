@@ -1825,9 +1825,25 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ECCV
 #### AAAI
 #### TPAMI
-#### CVPRw
+#### CVPRw-->
 #### WACV
-#### IJCV
+* Dynamic Re-Weighting for Long-Tailed Semi-Supervised Learning (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Peng_Dynamic_Re-Weighting_for_Long-Tailed_Semi-Supervised_Learning_WACV_2023_paper.pdf)]<br>
+*Datasets: CIFAR-10, CIFAR-100, ImageNet127*<br>
+*Task: Image Classification*
+
+* Difficulty-Net: Learning To Predict Difficulty for Long-Tailed Recognition (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Sinha_Difficulty-Net_Learning_To_Predict_Difficulty_for_Long-Tailed_Recognition_WACV_2023_paper.pdf)]
+[[Code](https://github.com/hitachi-rd-cv/Difficulty_Net)]<br>
+*Datasets: CIFAR100-LT, ImageNet-LT, Places-LT*<br>
+*Task: Image Classification*
+
+* Mutual Learning for Long-Tailed Recognition (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Park_Mutual_Learning_for_Long-Tailed_Recognition_WACV_2023_paper.pdf)]<br>
+*Datasets:  CIFAR100-LT,ImageNet-LT, and iNaturalist 2018*<br>
+*Task: Image Classification*
+
+<!--#### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->

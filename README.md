@@ -1087,7 +1087,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Towards Open World Object Detection (CVPR 2021) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.pdf)]
 [[Code](https://github.com/JosephKJ/OWOD)]<br>
-*Datasets: Pascal VOC, MS-COCO<br>
+*Datasets: Pascal VOC, MS-COCO*<br>
 *Task: Object Detection*
 
 * Learning Placeholders for Open-Set Recognition (CVPR 2021) 
@@ -1104,6 +1104,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.pdf)]<br>
 *Datasets: CIFAR10, CIFAR 100, Imagenet*<br>
 *Task: Image Classification*
+
+* Exemplar-Based Open-Set Panoptic Segmentation Network (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2105.08336)]
+[[Code](https://cv.snu.ac.kr/research/EOPSN)]<br>
+*Datasets: COCO*<br>
+*Task: Semantic Segmentation*
 
 <!-- #### ICLR
 #### NeurIPS-->
@@ -1399,11 +1405,19 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in an Open World (CVPR 2021) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.pdf)]<br>
 *Datasets: CIFAR10, CIFAR 100, Imagenet*<br>
-*Task: Object Detection*
+*Task: Image Classification*
+
+* Neighborhood Contrastive Learning for Novel Class Discovery (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2106.10731)]<br>
+*Datasets: CIFAR10, CIFAR 100, Imagenet*<br>
+*Task: Image Classification*
+
+
+
 <!--#### ICLR-->
 #### NeurIPS
 * Novel Visual Category Discovery with Dual Ranking Statistics and Mutual Knowledge Distillation (NeurIPS 2021) 
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf)]
+[[Paper](https://arxiv.org/abs/2107.03358)]
 [[Code](https://github.com/DTennant/dual-rank-ncd)]<br>
 *Datasets: CIFAR-10, CIFAR-100, ImageNet-1K, ImageNet-100, CUB-200, Stanford-Cars, FGVC aircraft*<br>
 *Task: Image Classification*
@@ -1923,8 +1937,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+* Learning Deep Classifiers Consistent With Fine-Grained Novelty Detection (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_Learning_Deep_Classifiers_Consistent_With_Fine-Grained_Novelty_Detection_CVPR_2021_paper.pdf)]<br>
+*Datasets: small- and large-scale FGVC*<br>
+*Task: Novelty Detection*
+<!--#### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML
@@ -2486,8 +2504,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+* Recognizing Actions in Videos From Unseen Viewpoints (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2103.16516)]<br>
+*Datasets: Human3.6M, MLB-YouTube, Toyota SmartHome (TSH), NTU-RGB-D*<br>
+*Task: Action Recognition*
+<!-- #### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML

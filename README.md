@@ -1201,7 +1201,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 * Towards Open Set Deep Networks (OpenMax) (CVPR 2016) 
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf)]<br>
-*Datasets: ILSVRC 2012 *<br>
+*Datasets: ILSVRC 2012*<br>
 *Task: Image Classification*
 
 * Generative OpenMax for multi-class open set classification (BMVC 2017) 

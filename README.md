@@ -2144,6 +2144,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://drive.google.com/drive/folders/10OyPzvI3H6llCZBxKxFlKWt1Pw1tkMK1)]<br>
 *Datasets: MVTec*
 
+* Image-Consistent Detection of Road Anomalies As Unpredictable Patches (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Vojir_Image-Consistent_Detection_of_Road_Anomalies_As_Unpredictable_Patches_WACV_2023_paper.pdf)]<br>
+*Datasets: Lost-and-Found(LaF), Road  Anomaly (RA), Road  Obstacles(RO) and Fishyscapes (FS), SegmentMeIfYouCan (SMIYC), CityScapes and BDD100k*
+
 <!--#### IJCV
 #### BMVC
 #### ICCw
@@ -2901,6 +2905,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Normality Guided Multiple Instance Learning for Weakly Supervised Video Anomaly Detection (WACV 2023) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Park_Normality_Guided_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_WACV_2023_paper.pdf)]<br>
 *Datasets: ShanghaiTech, UCF-Crime, XD-Violence*
+
+
 <!--#### IJCV
 #### BMVC
 #### ICCw

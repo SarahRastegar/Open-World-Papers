@@ -2601,7 +2601,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * EMScore: Evaluating Video Captioning via Coarse-Grained and Fine-Grained Embedding Matching (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_EMScore_Evaluating_Video_Captioning_via_Coarse-Grained_and_Fine-Grained_Embedding_Matching_CVPR_2022_paper.pdf)]
 [[Code](https://github.com/shiyaya/emscore)]<br>
-*Datasets: VATEX-EVAL; ActivityNet-FOIL *<br>
+*Datasets: VATEX-EVAL; ActivityNet-FOIL*<br>
 *Task: Video Captioning*
 <!-- #### ICLR
 #### NeurIPS

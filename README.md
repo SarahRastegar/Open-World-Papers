@@ -340,7 +340,44 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Harnessing Out-Of-Distribution Examples via Augmenting Content and Style (ICLR 2023) 
 [[Paper](https://openreview.net/forum?id=boNyg20-JDm)]<br>
 *Datasets:  SVHN, CIFAR10, LSUN, DTD, CUB, Flowers, Caltech, Dogs*<br>
-*Task: Out-Of-Distribution Detection*
+
+* Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution (ICLR Oral 2023) 
+[[Paper](https://openreview.net/forum?id=UYneFzXSJWh)]
+[[Code](https://github.com/AnanyaKumar/transfer_learning)]<br>
+*Datasets:  DomainNet, BREEDS-Living-17, BREEDS-Entity-30, CIFAR-10→STL, CIFAR-10→CIFAR-10.1, ImageNet-1K — where the OODtest sets are ImageNetV2, ImageNet-R, ImageNet-A, and ImageNet-Sketch —, FMoW Geo-shift*<br>
+
+* Vision-Based Manipulators Need to Also See from Their Hands (ICLR Oral 2023) 
+[[Paper](https://openreview.net/forum?id=RJkAHKp7kNZ)]
+[[Code](https://sites.google.com/view/seeing-from-hands)]<br>
+*Datasets: PyBullet physics engine, Meta-World*<br>
+
+* Asymmetry Learning for Counterfactually-invariant Classification in OOD Tasks (ICLR Oral 2023) 
+[[Paper](https://openreview.net/forum?id=avgclFZ221l)]<br>
+*Datasets: MNIST-{3,4},...*<br>
+
+* Poisoning and Backdooring Contrastive Learning (ICLR Oral 2023) 
+[[Paper](https://openreview.net/forum?id=iC4UHbQ01Mp)]<br>
+*Datasets: Conceptual Captions dataset*<br>
+
+* Representational Continuity for Unsupervised Continual Learning (ICLR Oral 2023) 
+[[Paper](https://openreview.net/forum?id=9Hrka5PA7LW)]
+[[Code](https://github.com/divyam3897/UCL)]<br>
+*Datasets: Split CIFAR-10, Split CIFAR-100, Split Tiny-ImageNet*<br>
+
+* Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions (ICLR Spotlight 2023) 
+[[Paper](https://openreview.net/forum?id=tV3N0DWMxCg)]<br>
+*Datasets: Sensorless Drive, MNIST, FMNIST, CIFAR-10*<br>
+
+* Pessimistic Bootstrapping for Uncertainty-Driven Offline Reinforcement Learning (ICLR Spotlight 2023) 
+[[Paper](https://openreview.net/forum?id=Y4cs1Z3HnqL)]
+[[Code](https://github.com/Baichenjia/PBRL)]<br>
+*Datasets: Gym*<br>
+
+* Compositional Attention: Disentangling Search and Retrieval (ICLR Spotlight 2023) 
+[[Paper](https://openreview.net/forum?id=IwJPj2MBcIa)]
+[[Code](https://github.com/sarthmit/Compositional-Attention)]<br>
+*Datasets: Sort-of-CLEVR, CIFAR10, FashionMNIST, SVHN, Equilateral Triangle Detection*<br>
+
 <!--#### NeurIPS
 #### ICCV
 #### ICML
@@ -1428,9 +1465,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR
+<!-- #### CVPR-->
 #### ICLR
-#### NeurIPS
+* Open-vocabulary Object Detection via Vision and Language Knowledge Distillation	(ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=lL3lnMbR4WU)]
+[[Code](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)]<br>
+*Datasets: LVIS, PASCAL VOC, COCO, Objects365*<br>
+*Task: Object Detection*
+<!--#### NeurIPS
 #### ICCV
 #### ICML
 #### IEEE-Access

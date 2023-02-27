@@ -13,6 +13,7 @@ Without further due, let us dive into the fantastic and challenging world of unc
   - [Unknown Categories](#Unknown-Categories)
 - [Zero-Shot Learning](#Zero-Shot-Learning)  
 - [Out-of-Distribution Detection](#Out-of-Distribution-Detection) 
+- [Open-Set Recognition](#Open-Set-Recognition)
 - [Novel Class Discovery](#Novel-Class-Discovery)
 - [Open Vocabulary](#Open-Vocabulary)
 - [Fine Grained](#Fine-Grained)
@@ -816,7 +817,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Benchmarking the Spectrum of Agent Capabilities (ICLR 2022) 
 [[Paper](https://openreview.net/forum?id=1W0z96MFEoH)]
 [[Code](https://github.com/danijar/crafter)]<br>
-*Datasets: Crafter<br>
+*Datasets: Crafter*<br>
 *Task: Agent Evaluation*
 
 #### NeurIPS 

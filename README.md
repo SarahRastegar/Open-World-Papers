@@ -849,11 +849,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: family tree KG*<br>
 *Task: Knowledge  Graph  Completion*
 
-* Interpretable Open-Set Domain Adaptation via Angular Margin Separation	(NeurIPS 2022) 
-[[Paper](https://arxiv.org/pdf/2202.01339.pdf)]
-[[Code](https://github.com/sungnyun/understanding-cdfsl)]<br>
-*Datasets: ImageNet, tieredImageNet, and miniImageNet for source domain similarity to ImageNet: Places,CUB,Cars,Plantae,EuroSAT,CropDisease,ISIC,ChestX*<br>
-*Task: Active Learning*
 
 * OpenAUC: Towards AUC-Oriented Open-Set Recognition	(NeurIPS 2022) 
 [[Paper](https://arxiv.org/pdf/2210.13458v1.pdf)]<br>
@@ -1573,9 +1568,21 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: COCO, Nocaps*<br>
 *Task: Novel Object Captioning*
 
-<!--#### ICLR
+<!--#### ICLR-->
 #### NeurIPS
-#### ICCV
+* Patching open-vocabulary models by interpolating weights (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=uOQNvEfjpaC)]
+[[Code](https://github.com/mlfoundations/patching)]<br>
+*Datasets: Cars, DTD, EuroSAT, GTSRB, KITTI, MNIST, RESISC45, SUN397, and SVHN. We use the remaining tasks as supported tasks: CIFAR10, CIFAR100, Food101, ImageNet, and STL10*<br>
+*Task: Model Patching*
+
+* Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=aKXBrj0DHm)]
+[[Code](https://github.com/hanoonaR/object-centric-ovd)]<br>
+*Datasets: COCO, LVIS v1.0, OpenImages, Objects365*<br>
+*Task: Object Detection*
+
+<!--#### ICCV
 #### ICML
 #### IEEE-Access-->
 #### ECCV
@@ -3236,3 +3243,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+
+### Other Papers
+* Understanding Cross-Domain Few-Shot Learning Based on Domain Similarity and Few-Shot Difficulty	(NeurIPS 2022) 
+[[Paper](https://arxiv.org/pdf/2202.01339.pdf)]
+[[Code](https://github.com/sungnyun/understanding-cdfsl)]<br>
+*Datasets: ImageNet, tieredImageNet, and miniImageNet for source domain similarity to ImageNet: Places,CUB,Cars,Plantae,EuroSAT,CropDisease,ISIC,ChestX*<br>
+*Task: Active Learning*
+

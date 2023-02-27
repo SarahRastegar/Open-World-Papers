@@ -92,9 +92,15 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ECCV
 #### AAAI
 #### TPAMI
-#### CVPRw
+#### CVPRw-->
 #### WACV
-#### IJCV
+* Zero-Shot Versus Many-Shot: Unsupervised Texture Anomaly Detection (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Aota_Zero-Shot_Versus_Many-Shot_Unsupervised_Texture_Anomaly_Detection_WACV_2023_paper.pdf)]
+[[Code](https://drive.google.com/drive/folders/10OyPzvI3H6llCZBxKxFlKWt1Pw1tkMK1)]<br>
+*Datasets: MVTec*<br>
+*Task: Texture Anomaly Detection*
+
+<!--#### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
@@ -2075,11 +2081,16 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 * Asymmetric Student-Teacher Networks for Industrial Anomaly Detection (WACV 2023) 
 [[Paper](http://arxiv.org/abs/2210.07829)]
-[[Code]](https://github.com/marco-rudolph/ast2593)<br>
+[[Code](https://github.com/marco-rudolph/ast2593)]<br>
 *Datasets: MVTec 3D Anomaly Detection*
 
 * GLAD: A Global-to-Local Anomaly Detector (WACV 2023) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Artola_GLAD_A_Global-to-Local_Anomaly_Detector_WACV_2023_paper.pdf)]<br>
+*Datasets: MVTec*
+
+* Zero-Shot Versus Many-Shot: Unsupervised Texture Anomaly Detection (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Aota_Zero-Shot_Versus_Many-Shot_Unsupervised_Texture_Anomaly_Detection_WACV_2023_paper.pdf)]
+[[Code](https://drive.google.com/drive/folders/10OyPzvI3H6llCZBxKxFlKWt1Pw1tkMK1)]<br>
 *Datasets: MVTec*
 
 <!--#### IJCV
@@ -2791,9 +2802,28 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ECCV
 #### AAAI
 #### TPAMI
-#### CVPRw
+#### CVPRw-->
 #### WACV
-#### IJCV
+* DyAnNet: A Scene Dynamicity Guided Self-Trained Video Anomaly Detection Network (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2211.00882)]<br>
+*Datasets: UCF-Crime, CCTV-Fights, UBI-Fights*
+
+* Cross-Domain Video Anomaly Detection Without Target Domain Adaptation (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2212.07010)]<br>
+*Datasets: SHTdc, SHT and Ped2, HMDB, UCF101*
+
+* Bi-Directional Frame Interpolation for Unsupervised Video Anomaly Detection (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Deng_Bi-Directional_Frame_Interpolation_for_Unsupervised_Video_Anomaly_Detection_WACV_2023_paper.pdf)]<br>
+*Datasets: UCSD Ped2, CUHK Avenue, ShanghaiTech Campus*
+
+* Towards Interpretable Video Anomaly Detection (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Doshi_Towards_Interpretable_Video_Anomaly_Detection_WACV_2023_paper.pdf)]<br>
+*Datasets: CUHK Avenue, ShanghaiTech Campus*
+
+* Normality Guided Multiple Instance Learning for Weakly Supervised Video Anomaly Detection (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Park_Normality_Guided_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_WACV_2023_paper.pdf)]<br>
+*Datasets: ShanghaiTech, UCF-Crime, XD-Violence*
+<!--#### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->

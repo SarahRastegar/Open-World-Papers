@@ -100,6 +100,17 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: MVTec*<br>
 *Task: Texture Anomaly Detection*
 
+* Learning Attention Propagation for Compositional Zero-Shot Learning (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2210.11557)]<br>
+*Datasets:  MIT-States, CGQA, UT-Zappos*<br>
+*Task: Image Classification*
+
+* InDiReCT: Language-Guided Zero-Shot Deep Metric Learning for Images (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2211.12760)]<br>
+*Datasets: Synthetic Cars, Cars196*<br>
+*Task: Deep Metric Learning Images*
+
+
 <!--#### IJCV
 #### BMVC
 #### ICCw
@@ -2186,9 +2197,19 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ECCV
 #### AAAI
 #### TPAMI
-#### CVPRw
+#### CVPRw-->
 #### WACV
-#### IJCV
+
+* Language-Free Training for Zero-Shot Video Grounding (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2210.12977)]<br>
+*Datasets: Charades-STA, ActivityNet Captions*<br>
+*Task: Video Grounding*
+
+* Semantics Guided Contrastive Learning of Transformers for Zero-Shot Temporal Activity Detection (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Nag_Semantics_Guided_Contrastive_Learning_of_Transformers_for_Zero-Shot_Temporal_Activity_WACV_2023_paper.pdf)]<br>
+*Datasets: Thumos’14 and Charades*<br>
+*Task: Action Recognition*
+<!--#### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->

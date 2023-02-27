@@ -331,9 +331,16 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ECCV
 #### AAAI
 #### TPAMI
-#### CVPRw
+#### CVPRw-->
 #### WACV
-#### IJCV
+
+* Mixture Outlier Exposure: Towards Out-of-Distribution Detection in Fine-Grained Environments (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2106.03917)]
+[[Code](https://github.com/zjysteven/MixOE)]<br>
+*Datasets: WebVision 1.0<br>
+*Task: Out-of-Distribution Detection Images*
+
+<!--#### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
@@ -1538,9 +1545,27 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ECCV
 #### AAAI
 #### TPAMI
-#### CVPRw
+#### CVPRw-->
 #### WACV
-#### IJCV
+
+* CAST: Conditional Attribute Subsampling Toolkit for Fine-Grained Evaluation (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Robbins_CAST_Conditional_Attribute_Subsampling_Toolkit_for_Fine-Grained_Evaluation_WACV_2023_paper.pdf)]<br>
+*Datasets: WebFace42M, CAST-11*<br>
+*Task: Face Recognition*
+
+* SSFE-Net: Self-Supervised Feature Enhancement for Ultra-Fine-Grained Few-Shot Class Incremental Learning (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Pan_SSFE-Net_Self-Supervised_Feature_Enhancement_for_Ultra-Fine-Grained_Few-Shot_Class_Incremental_Learning_WACV_2023_paper.pdf)]<br>
+*Datasets: CottonCultivar, SoyCultivarLocal, PlantVillage, Caltech-UCSD Birds-200-2011 (CUB200), Mini-ImageNet*<br>
+*Task: Image Classification*
+
+
+* Mixture Outlier Exposure: Towards Out-of-Distribution Detection in Fine-Grained Environments (WACV 2023) 
+[[Paper](http://arxiv.org/abs/2106.03917)]
+[[Code](https://github.com/zjysteven/MixOE)]<br>
+*Datasets: WebVision 1.0<br>
+*Task: Out-of-Distribution Detection Images*
+
+<!--#### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->

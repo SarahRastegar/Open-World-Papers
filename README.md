@@ -833,7 +833,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Audio Lottery: Speech Recognition Made Ultra-Lightweight, Noise-Robust, and Transferable (ICLR 2022) 
 [[Paper](https://openreview.net/forum?id=9Nk6AJkVYB)]
 [[Code](https://github.com/VITA-Group/Audio-Lottery)]<br>
-*Datasets: TED-LIUM, Common Voice, LibriSpeech<br>
+*Datasets: TED-LIUM, Common Voice, LibriSpeech*<br>
 *Task: Lightweight Speech Recognition*
 
 * Benchmarking the Spectrum of Agent Capabilities (ICLR 2022) 
@@ -866,7 +866,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: Office-31, Office-Home, VisDA*<br>
 *Task: Domain Adaptation*
 
-* Towards Open Set 3D Learning:Benchmarking and Understanding Semantic Novelty Detection on Point Clouds	(NeurIPS 2022) 
+* 3DOS: Towards Open Set 3D Learning:Benchmarking and Understanding Semantic Novelty Detection on Point Clouds	(NeurIPS 2022) 
 [[Paper](https://openreview.net/pdf?id=X2dHozbd1at)]
 [[Code](https://github.com/antoalli/3D_OS)]<br>
 *Datasets: ShapeNetCore v2,  ModelNet40->ScanObjectNN, ScanObjectNN*<br>
@@ -900,6 +900,17 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/Albert0147/AaD_SFDA)]<br>
 *Datasets: Office-31,Office-Home and VisDA-C 2017*<br>
 *Task: Domain Adaptation*
+
+* DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection (NeurIPS 2022) 
+[[Paper](https://arxiv.org/abs/2209.09407)]<br>
+*Datasets: LVIS, YFCC100m*<br>
+*Task: Object Detection*
+
+* What is Where by Looking: Weakly-Supervised Open-World Phrase-Grounding without Text Inputs (NeurIPS 2022) 
+[[Paper](https://arxiv.org/abs/2206.09358)]
+[[Code](https://github.com/talshaharabany/what-is-where-by-looking)]<br>
+*Datasets: CUB-200-2011, Stanford Car, Stanford dogs, Flickr30k, ReferIt, Visual Genome (VG), MSCOCO 2014*<br>
+*Task: Object Localization and Captioning*
 
 <!-- #### ICCV
 #### ICML

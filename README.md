@@ -963,6 +963,21 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets:CIFAR100, ImageNet100*<br>
 *Task: Meta Learning*
 
+* PMAL: Open Set Recognition via Robust Prototype Mining (AAAI 2022)
+[[Paper](https://arxiv.org/abs/2203.08569v1)]<br>
+*Datasets: MNIST, SVHN, CIFAR10, CIFAR+10, CIFAR+50, TinyImageNet*<br>
+*Task: Image Classification*
+
+* Learning Network Architecture for Open-Set Recognition (AAAI 2022)
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20246/version/18543/20005)]<br>
+*Datasets: MNIST, SVHN, CIFAR10, CIFAR+10, CIFAR+50*<br>
+*Task: Image Classification*
+
+* LUNA: Localizing Unfamiliarity Near Acquaintance for Open-Set Long-Tailed Recognition (AAAI 2022)
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/19887)]<br>
+*Datasets: ImageNet-LT, Places-LT, Marine Species (MS)-LT*<br>
+*Task: Image Classification*
+
 #### TPAMI
 * Open Long-Tailed RecognitionIn A Dynamic World	(TPAMI 2022) 
 [[Paper](https://arxiv.org/pdf/2208.08349v1.pdf)]
@@ -1582,6 +1597,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: OVIS40; OVIS1600*<br>
 *Task: Visual Instance Search*
 
+* Open Vocabulary Electroencephalography-to-Text Decoding and Zero-Shot Sentiment Classification (AAAI 2022) 
+[[Paper](https://arxiv.org/abs/2112.02690)]
+[[Code](https://github.com/MikeWangWZHL/EEG-To-Text)]<br>
+*Datasets:  ZuCo*<br>
+*Task: Brain Signals Language Decoding*
+
 <!--#### TPAMI
 #### CVPRw
 #### WACV
@@ -2120,7 +2141,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR-100 and ImageNet-Subset with 100 classes*<br>
 *Task: Image Classification*
 
-<!--#### AAAI-->
+#### AAAI
+
+* LUNA: Localizing Unfamiliarity Near Acquaintance for Open-Set Long-Tailed Recognition (AAAI 2022)
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/19887)]<br>
+*Datasets: ImageNet-LT, Places-LT, Marine Species (MS)-LT*<br>
+*Task: Image Classification*
 #### TPAMI
 * Open Long-Tailed RecognitionIn A Dynamic World	(TPAMI 2022) 
 [[Paper](https://arxiv.org/pdf/2208.08349v1.pdf)]

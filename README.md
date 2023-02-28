@@ -236,6 +236,18 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: Caltech-UCSD Birds-200-2011 (CUB Dataset), α-CLEVR*<br>
 *Task: Image Classification*
 
+* PatchComplete: Learning Multi-Resolution Patch Priors for 3D Shape Completion on Unseen Categories (NeurIPS 2022) 
+[[Paper](https://arxiv.org/abs/2206.04916)]
+[[Code](https://yuchenrao.github.io/projects/patchComplete/patchComplete.html)]<br>
+*Datasets: ShapeNet, ScanNet, Scan2CAD*<br>
+*Task: 3D Shape Reconstruction*
+
+* Mining Unseen Classes via Regional Objectness: A Simple Baseline for Incremental Segmentation (NeurIPS 2022) 
+[[Paper](https://arxiv.org/abs/2211.06866)]
+[[Code](https://github.com/zkzhang98/MicroSeg)]<br>
+*Datasets: Pascal VOC and ADE20K*<br>
+*Task: Continual Image Classification*
+
 <!-- #### ICCV
 #### ICML
 #### IEEE-Access -->
@@ -2043,7 +2055,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 * RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_RelTransformer_A_Transformer-Based_Long-Tail_Visual_Relationship_Recognition_CVPR_2022_paper.pdf)]
-[[Code](https://github.com/Vision-CAIR/ RelTransformer)]<br>
+[[Code](https://github.com/Vision-CAIR/RelTransformer)]<br>
 *Datasets: GQA-LT; VG8K-LT; VG200*<br>
 *Task: Relationship Recognition*
 
@@ -2100,14 +2112,20 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Long-Tailed Visual Recognition via Gaussian Clouded Logit Adjustment (CVPR 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Long-Tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment_CVPR_2022_paper.pdf)]
 [[Code](https://github.com/Keke921/GCLLoss)]<br>
-*Datasets: CIFAR-10-LT  &  CIFAR-100-LT; ImageNet-LT; iNaturalist; Places-LT*<br>
+*Datasets: CIFAR-10-LT & CIFAR-100-LT; ImageNet-LT; iNaturalist; Places-LT*<br>
 *Task: Image Classification*
 
 
 
-<!-- #### ICLR
+<!-- #### ICLR-->
 #### NeurIPS
-#### ICCV-->
+* Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition (NeurIPS 2022) 
+[[Paper](https://arxiv.org/abs/2107.09249)]
+[[Code](https://github.com/Vanint/SADE-AgnosticLT)]<br>
+*Datasets: ImageNet-LT, CIFAR100-LT, Places-LT, iNaturalist 2018*<br>
+*Task: Image Classification*
+
+<!--#### ICCV-->
 #### ICML
 * Open-Sampling: Exploring Out-of-Distribution Data for Re-balancing long-tailed Datasets (ICML 2022) 
 [[Paper](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf)]

@@ -625,6 +625,18 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://bmvc2022.mpi-inf.mpg.de/0092.pdf)]<br>
 *Datasets: SIMD*<br>
 *Task: Out-of-Distribution Detection, Semantic Image Matting*
+
+* VL4Pose: Active Learning Through Out-Of-Distribution Detection For Pose Estimation (BMVC 2022) 
+[[Paper](https://bmvc2022.mpi-inf.mpg.de/610/)]
+[[Code](https://github.com/meghshukla/ActiveLearningForHumanPose)]<br>
+*Datasets: MPII, LSP/LSPET, ICVL*<br>
+*Task: Active Learning*
+
+* Shifting Transformation Learning for Robust Out-of-Distribution Detection (BMVC 2022) 
+[[Paper](https://bmvc2022.mpi-inf.mpg.de/0679.pdf)]<br>
+*Datasets: CIFAR-10, CIFAR-100, ImageNet-30*<br>
+*Task: Image Classification*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 <!-- #### CVPR
@@ -2451,9 +2463,22 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Multi-Scale Patch-Based Representation Learning for Image Anomaly Detection and Segmentation (WACV 2022) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Tsai_Multi-Scale_Patch-Based_Representation_Learning_for_Image_Anomaly_Detection_and_Segmentation_WACV_2022_paper.pdf)]<br>
 *Datasets: MVTec AD, BTAD*<br>
-<!--#### IJCV
+<!--#### IJCV-->
 #### BMVC
-#### ICCw
+
+* Anomaly Detection and Localization Using Attention-Guided Synthetic Anomaly and Test-Time Adaptation (BMVC 2022) 
+[[Paper](https://bmvc2022.mpi-inf.mpg.de/0472.pdf)]<br>
+*Datasets: MVTec AD, NIH*<br>
+
+* Siamese U-Net for Image Anomaly Detection and Segmentation with Contrastive Learning (BMVC 2022) 
+[[Paper](https://bmvc2022.mpi-inf.mpg.de/0752.pdf)]<br>
+*Datasets: MVTec AD,  MVTec3D-AD*<br>
+
+* G-CMP: Graph-enhanced Contextual Matrix Profile for unsupervised anomaly detection in sensor-based remote health monitoring (BMVC 2022) 
+[[Paper](https://bmvc2022.mpi-inf.mpg.de/0854.pdf)]<br>
+*Datasets: Two real-world sensor-based remote health monitoringdatasets collected from the homes of persons living with dementia between August 2019 andApril 2022, by the UK Dementia Research Institute Care Research and Technology Centre*<br>
+
+<!--#### ICCw
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers

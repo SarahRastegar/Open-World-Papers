@@ -344,9 +344,24 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 * Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning (NeurIPS 2018) 
 [[Paper](https://papers.nips.cc/paper/2018/hash/9087b0efc7c7acd1ef7e153678809c77-Abstract.html)]<br>
-*Datasets: CUB and NABird *<br>
+*Datasets: CUB and NABird*<br>
 *Task: Image Classification*
 
+* MSplit LBI: Realizing Feature Selection and Dense Estimation Simultaneously in Few-shot and Zero-shot Learning (ICML 2018) 
+[[Paper](http://proceedings.mlr.press/v80/zhao18c.html)]<br>
+*Datasets: Animals with Attributes (AwA), Caltech-UCSD Birds-200-2011 (CUB) and ImageNet 2012/2010*<br>
+*Task: Image Classification*
+
+* A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf)]<br>
+*Datasets: AWA1, AWA2, CUB, FLO and SUN*<br>
+*Task: Out-of-Distribution Image Classification*
+
+* Towards Recognizing Unseen Categories in Unseen Domains (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680460.pdf)]
+[[Code](https://github.com/mancinimassimiliano/CuMix)]<br>
+*Datasets: AWA, CUB, FLO and SUN, PACS*<br>
+*Task: Out-of-Distribution Image Classification*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
@@ -689,6 +704,37 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://papers.nips.cc/paper/2019/hash/1e79596878b2320cac26dd792a6c51c9-Abstract.html)]<br>
 *Datasets: FashionMNIST -> MNIST, CIFAR10 -> SVHN, ImageNet and LSUN*<br>
 *Task: Out-of-Distribution Image Classification*
+
+* Out-of-Distribution Detection Using an Ensemble of Self Supervised Leave-out Classifiers (ECCV 2018) 
+[[Paper](http://arxiv.org/abs/1809.03576)]<br>
+*Datasets: CIFAR10, CIFAR100, TinyImageNet, LSUN, Uniform Noise(UNFM), Gaussian Noise(GSSN), iSUN*<br>
+*Task: Out-of-Distribution Image Classification*
+
+* Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples (ICLR 2018) 
+[[Paper](https://openreview.net/forum?id=ryiAv2xAZ)]
+[[Code](https://github.com/alinlab/Confident_classifier)]<br>
+*Datasets: CIFAR-10, ImageNet, LSUN, MNIST, SVHN*<br>
+*Task: Out-of-Distribution Image Classification*
+
+* Unsupervised Out-of-Distribution Detection by Maximum Classifier Discrepancy (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Unsupervised_Out-of-Distribution_Detection_by_Maximum_Classifier_Discrepancy_ICCV_2019_paper.pdf)]<br>
+*Datasets: CIFAR-10, CIFAR-100, LSUN, iSUN, TinyImageNet*<br>
+*Task: Out-of-Distribution Image Classification*
+
+* A Less Biased Evaluation of Out-of-distribution Sample Detectors (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0333.html)]
+[[Code](https://github.com/ashafaei/OD-test)]<br>
+*Datasets: CIFAR-10, CIFAR-100, MNIST, TinyImageNet, FashionMNIST, STL-10*<br>
+*Task: Out-of-Distribution Image Classification*
+
+
+* A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf)]<br>
+*Datasets: AWA1, AWA2, CUB, FLO and SUN*<br>
+*Task: Out-of-Distribution Image Classification*
+
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open-Set Recognition 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1338,6 +1384,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: PASCAL VOC, MSCOCO*<br>
 *Task: Object Detection*
 
+* Open Category Detection with PAC Guarantees (ICML 2018) 
+[[Paper](http://proceedings.mlr.press/v80/liu18e.html)]<br>
+*Datasets: Landsat, Opt.digits, pageb, Shuttle, Covertype and MNIST, Tiny ImageNet*<br>
+*Task: Image Classification*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novel Class Discovery
@@ -2766,6 +2816,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: UCF-101, Kinetics-400*<br>
 *Task: Action Recognition*
 
+* Out-Of-Distribution Detection for Generalized Zero-Shot Action Recognition (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mandal_Out-Of-Distribution_Detection_for_Generalized_Zero-Shot_Action_Recognition_CVPR_2019_paper.pdf)]
+[[Code](https://github.com/naraysa/gzsl-od)]<br>
+*Datasets: Olympic Sports, HMDB51 and UCF101*<br>
+*Task: Action Recognition*
+
 <!--#### ICCw
 #### Arxiv & Others-->
 
@@ -2838,6 +2894,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Bayesian activity recognition using variational inference (NeurIPS 2018) 
 [[Paper](https://arxiv.org/pdf/1811.03305v2.pdf)]<br>
 *Datasets:  MiT video activity recognition dataset*<br>
+*Task: Action Recognition*
+
+* Out-Of-Distribution Detection for Generalized Zero-Shot Action Recognition (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mandal_Out-Of-Distribution_Detection_for_Generalized_Zero-Shot_Action_Recognition_CVPR_2019_paper.pdf)]
+[[Code](https://github.com/naraysa/gzsl-od)]<br>
+*Datasets: Olympic Sports, HMDB51 and UCF101*<br>
 *Task: Action Recognition*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->

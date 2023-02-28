@@ -1394,7 +1394,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR-->
+#### CVPR
+* Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2210.03591)]<br>
+*Datasets: CIFAR-10, CIFAR-100, and ImageNet, CIFAR100-50, CIFAR100-20*<br>
+*Task: Image Classification*
+
 #### ICLR
 * Effective Cross-instance Positive Relations for Generalized Category Discovery (ICLR 2023 Submission) 
 [[Paper](https://openreview.net/forum?id=hag85Gdq_RA)]<br>
@@ -1405,9 +1410,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCV
 #### ICML
 #### IEEE-Access
-#### ECCV
+#### ECCV-->
 #### AAAI
-#### TPAMI
+* Generalized Category Discovery with Decoupled Prototypical Network (AAAI 2023) 
+[[Paper](https://arxiv.org/abs/2211.15115)]
+[[Code](https://github.com/Lackel/DPN)]<br>
+*Datasets: BANKING, StackOverflow, CLINC*<br>
+*Task: Intent Classification*
+<!--#### TPAMI
 #### CVPRw-->
 #### WACV
 * Scaling Novel Object Detection With Weakly Supervised Detection Transformers (WACV 2023) 
@@ -1421,6 +1431,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Zero-Knowledge Zero-Shot Learning for Novel Visual Category Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2302.04427v1)]<br>
 *Datasets:  Attribute Pascal and Yahoo (APY), Animals with Attributes2 (AWA2), Caltech-UCSD-Birds 200-2011 (CUB), SUN*<br>
+*Task: Image Classification*
+
+* PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2212.05590)]
+[[Code](https://github.com/sheng-eatamath/PromptCAL)]<br>
+*Datasets: CIFAR-10/100, CUB-200, StandfordCars, Aircraft, ImageNet-100*<br>
 *Task: Image Classification*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers

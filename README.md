@@ -330,23 +330,18 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### TPAMI
 #### CVPRw
 #### WACV
-#### IJCV
+#### IJCV-->
 #### BMVC
-#### ICCw
+
+* Structured Latent Embeddings for Recognizing Unseen Classes in Unseen Domains (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/1377.pdf)]<br>
+*Datasets: DomainNet, DomainNet-LS*<br>
+*Task: Domain Generalization*
+
+<!--#### ICCw
 #### Arxiv & Others-->
 
-### Older Papers
-* Enhancing the reliability of out-of-distribution image detection in neural networks (ICLR 2018) 
-[[Paper](https://openreview.net/pdf?id=H1VGkIxRZ)]
-[[Code](https://github.com/facebookresearch/odin)]<br>
-*Datasets: CIFAR-10, CIFAR-100, ImageNet, iSUN*<br>
-*Task: Out-of-Distribution Image Classification*
 
-* A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks (NeurIPS 2018) 
-[[Paper](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf)]
-[[Code](https://github.com/pokaxpoka/deep_Mahalanobis_detector)]<br>
-*Datasets: CIFAR, SVHN, ImageNet and LSUN*<br>
-*Task: Out-of-Distribution Image Classification*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
@@ -655,11 +650,29 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### TPAMI
 #### CVPRw
 #### WACV
-#### IJCV
+#### IJCV-->
 #### BMVC
-#### ICCw
-#### Arxiv & Others-->
 
+* OODformer: Out-Of-Distribution Detection Transformer (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/1391.pdf)]
+[[Code](https://github.com/rajatkoner08/oodformer)]<br>
+*Datasets: CIFAR-10/-100 and ImageNet30*<br>
+*Task: Image Classification*
+
+<!--#### ICCw
+#### Arxiv & Others-->
+### Older Papers
+* Enhancing the reliability of out-of-distribution image detection in neural networks (ICLR 2018) 
+[[Paper](https://openreview.net/pdf?id=H1VGkIxRZ)]
+[[Code](https://github.com/facebookresearch/odin)]<br>
+*Datasets: CIFAR-10, CIFAR-100, ImageNet, iSUN*<br>
+*Task: Out-of-Distribution Image Classification*
+
+* A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks (NeurIPS 2018) 
+[[Paper](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf)]
+[[Code](https://github.com/pokaxpoka/deep_Mahalanobis_detector)]<br>
+*Datasets: CIFAR, SVHN, ImageNet and LSUN*<br>
+*Task: Out-of-Distribution Image Classification*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open-Set Recognition 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1527,9 +1540,20 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!--#### CVPRw
 #### WACV
-#### IJCV
+#### IJCV-->
 #### BMVC
-#### ICCw-->
+
+* Learning to Generate Novel Classes for Deep Metric Learning (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0631.pdf)]<br>
+*Datasets: CUB-200-2011 (CUB), Cars-196 (Cars), Stanford Online Product (SOP), and In-shop Clothes Retrieval (In-Shop)*<br>
+*Task: Image Classification*
+
+* Learning to Generate Novel Classes for Deep Metric Learning (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0631.pdf)]<br>
+*Datasets: CUB-200-2011 (CUB), Cars-196 (Cars), Stanford Online Product (SOP), and In-shop Clothes Retrieval (In-Shop)*<br>
+*Task: Image Classification*
+
+<!--#### ICCw-->
 #### Arxiv & Others
 
 * End-to-end novel visual categories learning via auxiliary self-supervision (Neural Networks 2021) 
@@ -2345,9 +2369,15 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### TPAMI
 #### CVPRw
 #### WACV
-#### IJCV
+#### IJCV-->
 #### BMVC
-#### ICCw
+
+* Class-Balanced Distillation for Long-Tailed Visual Recognition (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0614.pdf)]<br>
+*Datasets: ImageNet-LT, iNaturalist17 and iNaturalist18*<br>
+*Task: Image Classification*
+
+<!--#### ICCw
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Anomaly Detection
@@ -2634,9 +2664,16 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### TPAMI
 #### CVPRw
 #### WACV
-#### IJCV
+#### IJCV-->
 #### BMVC
-#### ICCw
+
+* Zero-Shot Action Recognition from Diverse Object-Scene Compositions (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0739.pdf)]
+[[Code](https://github.com/carlobretti/object-scene-compositions-for-actions)]<br>
+*Datasets: UCF-101, Kinetics-400*<br>
+*Task: Action Recognition*
+
+<!--#### ICCw
 #### Arxiv & Others-->
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -2915,9 +2952,15 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### TPAMI
 #### CVPRw
 #### WACV
-#### IJCV
+#### IJCV-->
 #### BMVC
-#### ICCw
+
+* Unsupervised Discovery of Actions in Instructional Videos (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0773.pdf)]<br>
+*Datasets: 50-salads dataset, Narrated Instructional Videos (NIV) dataset, Breakfast dataset*<br>
+*Task: Action Discovery*
+
+<!--#### ICCw
 #### Arxiv & Others-->
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -3341,7 +3384,74 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw
 #### Arxiv & Others-->
 
-### Other Papers
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Novelty Detection
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2023 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2022 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+### 2021 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV-->
+#### BMVC
+
+* Multi-Class Novelty Detection with Generated Hard Novel Features (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0838.pdf)]<br>
+*Datasets: Stanford Dogs, Caltech 256, CUB 200, FounderType-200*<br>
+*Task: Image Classification*
+
+<!--#### ICCw
+#### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Other Papers
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 * Understanding Cross-Domain Few-Shot Learning Based on Domain Similarity and Few-Shot Difficulty	(NeurIPS 2022) 
 [[Paper](https://arxiv.org/pdf/2202.01339.pdf)]
 [[Code](https://github.com/sungnyun/understanding-cdfsl)]<br>

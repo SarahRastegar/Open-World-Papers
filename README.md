@@ -1129,8 +1129,33 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: COCO*<br>
 *Task: Semantic Segmentation*
 
-<!-- #### ICLR
-#### NeurIPS-->
+<!-- #### ICLR-->
+#### NeurIPS
+
+* Towards Open-World Feature Extrapolation: An Inductive Graph Learning Approach (NeurIPS 2021) 
+[[Paper](https://papers.nips.cc/paper/2021/hash/a1c5aff9679455a233086e26b72b9a06-Abstract.html)]
+[[Code](https://github.com/qitianwu/FATE)]<br>
+*Datasets: UCI Machine Learning Repository: Gene, Protein, Robot, Drive, Calls and Github, Avazu and Criteo*<br>
+*Task: Graph Learning*
+
+* OpenMatch: Open-Set Semi-supervised Learning with Open-set Consistency Regularization (NeurIPS 2021) 
+[[Paper](https://papers.nips.cc/paper/2021/hash/da11e8cd1811acb79ccf0fd62cd58f86-Abstract.html)]
+[[Code](https://github.com/VisionLearningGroup/OP_Match)]<br>
+*Datasets: CIFAR10/100 and ImageNet*<br>
+*Task: Image Classification*
+
+* Improving Contrastive Learning on Imbalanced Data via Open-World Sampling (NeurIPS 2021) 
+[[Paper](https://papers.nips.cc/paper/2021/hash/2f37d10131f2a483a8dd005b3d14b0d9-Abstract.html)]
+[[Code](https://github.com/VITA-Group/MAK)]<br>
+*Datasets: ImageNet-100-LT, ImageNet-900 and ImageNet-Places-mix*<br>
+*Task: Image Classification*
+
+* Open-set Label Noise Can Improve Robustness Against Inherent Label Noise (NeurIPS 2021) 
+[[Paper](https://papers.nips.cc/paper/2021/hash/428fca9bc1921c25c5121f9da7815cde-Abstract.html)]
+[[Code](https://github.com/hongxin001/ODNL)]<br>
+*Datasets: CIFAR-10, CIFAR-100 and Clothing1M, 300K Random Images, CIFAR-5m*<br>
+*Task: Image Classification with Noisy Labels*
+
 #### ICCV
 * OpenGAN: Open-Set Recognition via Open Data Generation (ICCV 2021 Best honorable) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kong_OpenGAN_Open-Set_Recognition_via_Open_Data_Generation_ICCV_2021_paper.pdf)]

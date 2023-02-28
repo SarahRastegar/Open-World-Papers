@@ -1392,6 +1392,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novel Class Discovery
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Surveys
+* Novel Class Discovery: an Introduction and Key Concepts (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.12028)]<br>
+
 
 ### 2023 Papers
 #### CVPR
@@ -1404,6 +1408,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Effective Cross-instance Positive Relations for Generalized Category Discovery (ICLR 2023 Submission) 
 [[Paper](https://openreview.net/forum?id=hag85Gdq_RA)]<br>
 *Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Herbarium19*<br>
+*Task: Image Classification*
+
+* Novel Class Discovery under Unreliable Sampling (ICLR 2023 Submission) 
+[[Paper](https://openreview.net/forum?id=uJzSlJruEjk)]<br>
+*Datasets: CIFAR-10/100, ImageNet*<br>
 *Task: Image Classification*
 
 <!--#### NeurIPS
@@ -1438,6 +1447,17 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/sheng-eatamath/PromptCAL)]<br>
 *Datasets: CIFAR-10/100, CUB-200, StandfordCars, Aircraft, ImageNet-100*<br>
 *Task: Image Classification*
+
+* Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2211.11262)]<br>
+
+
+* Mutual Information-based Generalized Category Discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2212.00334)]
+[[Code](https://github.com/fchiaroni/Mutual-Information-Based-GCD)]<br>
+*Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Herbarium19*<br>
+*Task: Image Classification*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR

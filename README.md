@@ -1242,9 +1242,31 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ECCV
 #### AAAI
 #### TPAMI
-#### CVPRw
+#### CVPRw-->
 #### WACV
-#### IJCV
+
+* Class Anchor Clustering: A Loss for Distance-Based Open Set Recognition (WACV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Miller_Class_Anchor_Clustering_A_Loss_for_Distance-Based_Open_Set_Recognition_WACV_2021_paper.pdf)]<br>
+*Datasets: MNIST, SVHN, CIFAR-10, CIFAR+10, CIFAR+50, TinyImageNet*<br>
+*Task: Image Classification*
+
+* Automatic Open-World Reliability Assessment (WACV 2021) 
+[[Paper](http://arxiv.org/abs/2011.05506)]<br>
+*Datasets: EfficientNet-B3 on ImageNet*<br>
+*Task: Image Classification Reliability Assessment*
+
+* Object Recognition With Continual Open Set Domain Adaptation for Home Robot (WACV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Kishida_Object_Recognition_With_Continual_Open_Set_Domain_Adaptation_for_Home_WACV_2021_paper.pdf)]<br>
+*Datasets: RGB-D Object Dataset (ROD), Autonomous Robot Indoor Dataset (ARID), OpenLORIS-object Dataset, CORe50 Dataset, iCubWorld Transformations Dataset, COSDA-HR dataset*<br>
+*Task: Home Robot Object Detection*
+
+* EvidentialMix: Learning With Combined Open-Set and Closed-Set Noisy Labels (WACV 2021) 
+[[Paper](http://arxiv.org/abs/2011.05704)]
+[[Code](https://github.com/ragavsachdeva/EvidentialMix)]<br>
+*Datasets: CIFAR-10, CIFAR-100, ImageNet32*<br>
+*Task: Image Classification*
+
+<!--#### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->

@@ -1952,6 +1952,18 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
+* A Latent Morphology Model for Open-Vocabulary Neural Machine Translation (ICLR 2020 Spotlight) 
+[[Paper](https://openreview.net/forum?id=BJxSI1SKDH)]
+[[Code](https://github.com/d-ataman/lmm)]<br>
+*Datasets: Arabic (AR), Czech (CS) and Turkish (TR)*<br>
+*Task: Neural Machine Translation*
+
+* Open Vocabulary Learning on Source Code with a Graph-Structured Cache (ICML 2019) 
+[[Paper](https://arxiv.org/abs/1810.08305)]<br>
+*Datasets: Java source code*<br>
+*Task: Java source code Learning*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Fine Grained
@@ -2729,6 +2741,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openreview.net/forum?id=HyxCxhRcY7)]
 [[Code](https://github.com/hendrycks/outlier-exposure)]<br>
 *Datasets: CIFAR-10, CIFAR-100, Places, SST, SVHN, Tiny ImageNet, Tiny Images*<br>
+
+* Anomaly Detection With Multiple-Hypotheses Predictions (ICML 2019) 
+[[Paper](https://arxiv.org/abs/1810.13292)]<br>
+*Datasets: CIFAR-10*<br>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 # Video Open World Papers

@@ -1311,6 +1311,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: MNIST, SVHN, CIFAR10, CIFAR+10, CIFAR+50, TinyImageNet*<br>
 *Task: Image Classification*
 
+* The Overlooked Elephant of Object Detection: Open Set (WACV 2020) 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Dhamija_The_Overlooked_Elephant_of_Object_Detection_Open_Set_WACV_2020_paper.pdf)]
+[[Code](https://github.com/Vastlab/Elephant-of-object-detection)]<br>
+*Datasets: PASCAL VOC, MSCOCO*<br>
+*Task: Object Detection*
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novel Class Discovery
 <!----------------------------------------------------------------------------------------------------------------------------------------------->

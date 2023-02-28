@@ -1390,6 +1390,16 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: DomainNet, DomainNet-LS*<br>
 *Task: Domain Generalization and Novel Class Discovery*
 
+* FalCon: Fine-Grained Feature Map Sparsity Computing With Decomposed Convolutions for Inference Optimization (WACV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Xu_FalCon_Fine-Grained_Feature_Map_Sparsity_Computing_With_Decomposed_Convolutions_for_WACV_2022_paper.pdf)]<br>
+*Datasets: CIFAR-10, CIFAR-100, ILSVRC-2012*<br>
+*Task: Inference Optimization*
+
+* 3DRefTransformer: Fine-Grained Object Identification in Real-World Scenes Using Natural Language (WACV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Abdelreheem_3DRefTransformer_Fine-Grained_Object_Identification_in_Real-World_Scenes_Using_Natural_Language_WACV_2022_paper.pdf)]
+[[Code](https://vision-cair.github.io/3dreftransformer/)]<br>
+*Datasets: Nr3D, Sr3D*<br>
+*Task: 3D Object Identification*
 
 <!-- #### IJCV-->
 #### BMVC
@@ -1709,13 +1719,26 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Open Vocabulary Electroencephalography-to-Text Decoding and Zero-Shot Sentiment Classification (AAAI 2022) 
 [[Paper](https://arxiv.org/abs/2112.02690)]
 [[Code](https://github.com/MikeWangWZHL/EEG-To-Text)]<br>
-*Datasets:  ZuCo*<br>
+*Datasets: ZuCo*<br>
 *Task: Brain Signals Language Decoding*
 
 <!--#### TPAMI
-#### CVPRw
+#### CVPRw-->
 #### WACV
-#### IJCV-->
+
+* From Node To Graph: Joint Reasoning on Visual-Semantic Relational Graph for Zero-Shot Detection (WACV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Nie_From_Node_To_Graph_Joint_Reasoning_on_Visual-Semantic_Relational_Graph_WACV_2022_paper.pdf)]
+[[Code](https://github.com/witnessai)]<br>
+*Datasets: MSCOCO*<br>
+*Task: Object Detection*
+
+* Trading-Off Information Modalities in Zero-Shot Classification (WACV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Sanchez_Trading-Off_Information_Modalities_in_Zero-Shot_Classification_WACV_2022_paper.pdf)]
+[[Code](http://github.com/jadrs/zsl)]<br>
+*Datasets: Caltech UCSD Birds 200-2011 (CUB), Animals with Attributes 1 and 2 (AWA1 & AWA2), attribute Pascal & Yahoo (APY), SUN attributes (SUN) and Oxford flowers (FLO)*<br>
+*Task: Image Classification*
+
+<!--#### IJCV-->
 #### BMVC
 * Partially-Supervised Novel Object Captioning Using Context from Paired Data (BMVC 2022) 
 [[Paper](https://arxiv.org/abs/2109.05115v2)]<br>

@@ -340,7 +340,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!--#### ICCw
 #### Arxiv & Others-->
+### Older Papers
 
+* Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning (NeurIPS 2018) 
+[[Paper](https://papers.nips.cc/paper/2018/hash/9087b0efc7c7acd1ef7e153678809c77-Abstract.html)]<br>
+*Datasets: CUB and NABird *<br>
+*Task: Image Classification*
 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -672,6 +677,17 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf)]
 [[Code](https://github.com/pokaxpoka/deep_Mahalanobis_detector)]<br>
 *Datasets: CIFAR, SVHN, ImageNet and LSUN*<br>
+*Task: Out-of-Distribution Image Classification*
+
+* Out-of-Distribution Detection using Multiple Semantic Label Representations (NeurIPS 2018) 
+[[Paper](https://papers.nips.cc/paper/2018/hash/2151b4c76b4dcb048d06a5c32942b6f6-Abstract.html)]
+[[Code](http://www.github.com/MLSpeech/semantic_OOD)]<br>
+*Datasets: CIFAR-10, CIFAR-100 and Google Speech Commands Dataset*<br>
+*Task: Out-of-Distribution Image, Speech Classification*
+
+* Likelihood Ratios for Out-of-Distribution Detection (NeurIPS 2019) 
+[[Paper](https://papers.nips.cc/paper/2019/hash/1e79596878b2320cac26dd792a6c51c9-Abstract.html)]<br>
+*Datasets: FashionMNIST -> MNIST, CIFAR10 -> SVHN, ImageNet and LSUN*<br>
 *Task: Out-of-Distribution Image Classification*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open-Set Recognition 
@@ -1311,6 +1327,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: MNIST, SVHN, CIFAR10, CIFAR+10, CIFAR+50, TinyImageNet*<br>
 *Task: Image Classification*
 
+* Learning Factorized Representations for Open-set Domain Adaptation (NeurIPS 2019) 
+[[Paper](https://openreview.net/forum?id=SJe3HiC5KX)]<br>
+*Datasets: Bing(B), Caltech256(C), ImageNet(I) and SUN(S), hence referred to as BCIS, Office, namely Amazon(A), DSLR(D) and Webcam(W)*<br>
+*Task: Image Classification*
+
 * The Overlooked Elephant of Object Detection: Open Set (WACV 2020) 
 [[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Dhamija_The_Overlooked_Elephant_of_Object_Detection_Open_Set_WACV_2020_paper.pdf)]
 [[Code](https://github.com/Vastlab/Elephant-of-object-detection)]<br>
@@ -1631,6 +1652,18 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/GT-RIPL/L2C)]<br>
 *Datasets: MNIST, CIFAR10*<br>
 *Task: Image Classification, Clustering*
+
+* Learning to Reconstruct Shapes from Unseen Classes (NeurIPS 2018) 
+[[Paper](https://papers.nips.cc/paper/2018/hash/208e43f0e45c4c78cafadb83d2888cb6-Abstract.html)]
+[[Code](http://genre.csail.mit.edu/)]<br>
+*Datasets: ShapeNet, Pix3D, non-rigid shapes such as humans and horses*<br>
+*Task: 3D Shape Reconstruction*
+
+* Memory Replay GANs: Learning to Generate New Categories without Forgetting (NeurIPS 2018) 
+[[Paper](https://papers.nips.cc/paper/2018/hash/a57e8915461b83adefb011530b711704-Abstract.html)]
+[[Code](https://github.com/WuChenshen/MeRGAN)]<br>
+*Datasets: MNIST, SVHN and LSUN*<br>
+*Task: Image Generation*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -2105,6 +2138,17 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+### Older Papers
+
+* Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering (ICLR 2019) 
+[[Paper](https://openreview.net/forum?id=Syl7OsRqY7)]<br>
+*Datasets: TriviaQA, WikiHop*<br>
+*Task: Question Answering*
+
+* Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning (NeurIPS 2018) 
+[[Paper](https://papers.nips.cc/paper/2018/hash/9087b0efc7c7acd1ef7e153678809c77-Abstract.html)]<br>
+*Datasets: CUB and NABird *<br>
+*Task: Image Classification*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Long Tail
@@ -2579,6 +2623,26 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
+
+* Efficient Anomaly Detection via Matrix Sketching (NeurIPS 2018) 
+[[Paper](https://papers.nips.cc/paper/2018/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html)]<br>
+*Datasets: p53 mutants, Dorothea and RCV1*<br>
+
+* Deep Anomaly Detection Using Geometric Transformations (NeurIPS 2018) 
+[[Paper](https://papers.nips.cc/paper/2018/hash/5e62d03aec0d17facfc5355dd90d441c-Abstract.html)]
+[[Code](https://github.com/izikgo/AnomalyDetectionTransformations)]<br>
+*Datasets: CIFAR-10, CIFAR-100, CatsVsDogs, fashion-MNIST*<br>
+
+* A loss framework for calibrated anomaly detection (NeurIPS 2018) 
+[[Paper](https://papers.nips.cc/paper/2018/hash/959a557f5f6beb411fd954f3f34b21c3-Abstract.html)]<br>
+
+
+* Deep Anomaly Detection with Outlier Exposure (ICLR 2019) 
+[[Paper](https://openreview.net/forum?id=HyxCxhRcY7)]
+[[Code](https://github.com/hendrycks/outlier-exposure)]<br>
+*Datasets: CIFAR-10, CIFAR-100, Places, SST, SVHN, Tiny ImageNet, Tiny Images*<br>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 # Video Open World Papers
@@ -3454,8 +3518,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2021 Papers
-<!-- #### CVPR
-#### ICLR
+ #### CVPR
+* Learning Deep Classifiers Consistent With Fine-Grained Novelty Detection (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_Learning_Deep_Classifiers_Consistent_With_Fine-Grained_Novelty_Detection_CVPR_2021_paper.pdf)]<br>
+*Datasets: small- and large-scale FGVC*<br>
+*Task: Novelty Detection*
+
+<!--#### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML
@@ -3468,6 +3537,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### IJCV-->
 #### BMVC
 
+
 * Multi-Class Novelty Detection with Generated Hard Novel Features (BMVC 2021) 
 [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0838.pdf)]<br>
 *Datasets: Stanford Dogs, Caltech 256, CUB 200, FounderType-200*<br>
@@ -3477,8 +3547,26 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
+### Older Papers
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-## Other Papers
+* Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents (NeurIPS 2018) 
+[[Paper](https://papers.nips.cc/paper/2018/hash/b1301141feffabac455e1f90a7de2054-Abstract.html)]<br>
+*Datasets: OpenAI Gym*<br>
+*Task: Reinforcement Learning*
+
+* Multivariate Triangular Quantile Maps for Novelty Detection (NeurIPS 2019) 
+[[Paper](https://papers.nips.cc/paper/2019/hash/6244b2ba957c48bc64582cf2bcec3d04-Abstract.html)]
+[[Code](https://github.com/GinGinWang/MTQ)]<br>
+*Datasets: MNIST and Fashion-MNIST, KDDCUP and Thyroid*<br>
+*Task: Image Classification*
+
+* Multi-class Novelty Detection Using Mix-up Technique (WACV 2020) 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Bhattacharjee_Multi-class_Novelty_Detection_Using_Mix-up_Technique_WACV_2020_paper.pdf)]<br>
+*Datasets: Caltech 256 and Stanford Dogs*<br>
+*Task: Image Classification*
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Other Related Papers
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 * Understanding Cross-Domain Few-Shot Learning Based on Domain Similarity and Few-Shot Difficulty	(NeurIPS 2022) 

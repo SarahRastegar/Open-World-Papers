@@ -2315,7 +2315,18 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 * Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning (NeurIPS 2018) 
 [[Paper](https://papers.nips.cc/paper/2018/hash/9087b0efc7c7acd1ef7e153678809c77-Abstract.html)]<br>
-*Datasets: CUB and NABird *<br>
+*Datasets: CUB and NABird*<br>
+*Task: Image Classification*
+
+* Guided Zoom: Questioning Network Evidence for Fine-grained Classification (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0061.html)]<br>
+*Datasets: CaltechUCSD (CUB-200-2011) Birds, Stanford Dogs, FGVC-Aircraft*<br>
+*Task: Image Classification*
+
+* Group Based Deep Shared Feature Learning for Fine-grained Image Classification (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0885.html)]
+[[Code](https://github.com/xueluli/GSFL-Net)]<br>
+*Datasets: CaltechUCSD (CUB-200-2011) Birds, Stanford Dogs, FGVC-Aircraft*<br>
 *Task: Image Classification*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -2819,6 +2830,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://paperswithcode.com/paper/?openreview=BJJLHbb0-)]<br>
 *Datasets: CIFAR-10, Fashion-MNIST, MNIST, STL-10, cats_vs_dogs*<br>
 
+* Superpixel Masking and Inpainting for Self-Supervised Anomaly Detection (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/assets/papers/0275.pdf)]<br>
+*Datasets: MVTec AD*<br>
+
+* Interpretable, Multidimensional, Multimodal Anomaly Detection with Negative Sampling for Detection of Device Failure (ICML 2020) 
+[[Paper](https://arxiv.org/abs/2007.10088)]<br>
+*Datasets: FOREST COVER(FC), MAMMOGRAPHY(MM), SMARTBUILDINGS(SB), MULCROSS(MC), SATELLITE(SA), SHUTTLE(SH)*<br>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 # Video Open World Papers
@@ -3275,6 +3293,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://bmvc2019.org/wp-content/papers/0499.html)]<br>
 *Datasets: TUM-RGB-D, MS COCO, PASCAL VOC*<br>
 *Task: Object Tracking and Segmentation*
+
+* Localizing Novel Attended Objects in Egocentric Views (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/assets/papers/0014.pdf)]<br>
+*Datasets: GTEA Gaze+, Toy Room*<br>
+*Task: Novel Object Localization*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary Videos
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -3595,10 +3619,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### NeurIPS
 #### ICCV-->
 #### ICML
+
 * Latent Outlier Exposure for Anomaly Detection with Contaminated Data (ICML 2022) 
 [[Paper](https://arxiv.org/abs/2202.08088)]
 [[Code](https://github.com/boschresearch/LatentOE-AD.git)]<br>
 *Datasets:  CIFAR-10, Fashion-MNIST, MVTEC, 30 tabular data sets, UCSD Peds1*<br>
+
 <!--#### IEEE-Access-->
 #### ECCV
 * Towards Open Set Video Anomaly Detection (ECCV 2022) 
@@ -3816,6 +3842,20 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: MNIST, Caltech-256, UCSD Ped2*<br>
 *Task: Image Classification, Anomaly Detection*
 
+* Multiple Class Novelty Detection Under Data Distribution Shift (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520426.pdf)]<br>
+*Datasets: SVHN, MNIST and USPS, Office-31*<br>
+*Task: Image Classification*
+
+* Utilizing Patch-level Category Activation Patterns for Multiple Class Novelty Detection (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550426.pdf)]<br>
+*Datasets: Caltech256, CUB-200, Stanford Dogs and FounderType-200*<br>
+*Task: Image Classification*
+
+* Unsupervised and Semi-supervised Novelty Detection using Variational Autoencoders in Opportunistic Science Missions (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/assets/papers/0643.pdf)]<br>
+*Datasets: Mars novelty detection Mastcam labeled dataset*<br>
+*Task: Image Classification*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Other Related Papers

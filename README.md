@@ -363,6 +363,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: AWA, CUB, FLO and SUN, PACS*<br>
 *Task: Out-of-Distribution Image Classification*
 
+* Zero-Shot Visual Imitation (ICLR 2018 Oral) 
+[[Paper](https://openreview.net/forum?id=BkisuzWRW)]
+[[Code](https://github.com/pathak22/zeroshot-imitation)]<br>
+*Datasets: Rope manipulation using Baxter robot, Navigation of a wheeled robot in cluttered office environments, Simulated 3D navigation*<br>
+*Task: Imitation Learning*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1387,6 +1393,16 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Open Category Detection with PAC Guarantees (ICML 2018) 
 [[Paper](http://proceedings.mlr.press/v80/liu18e.html)]<br>
 *Datasets: Landsat, Opt.digits, pageb, Shuttle, Covertype and MNIST, Tiny ImageNet*<br>
+*Task: Image Classification*
+
+* Towards Open-Set Identity Preserving Face Synthesis (CVPR 2018) 
+[[Paper](http://arxiv.org/abs/1803.11182v2)]<br>
+*Datasets: MS-Celeb-1M, LFW, Multi-PIE*<br>
+*Task: Object Detection*
+
+* Iterative Learning With Open-Set Noisy Labels (CVPR 2018) 
+[[Paper](http://arxiv.org/abs/1804.00092v1)]<br>
+*Datasets: CIFAR-10+SVHN, CIFAR-10+CIFAR-100 and CIFAR-10+ImageNet3, CIFAR-100/ImageNet32*<br>
 *Task: Image Classification*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -2746,6 +2762,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://arxiv.org/abs/1810.13292)]<br>
 *Datasets: CIFAR-10*<br>
 
+* Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection (ICLR 2018) 
+[[Paper](https://openreview.net/forum?id=BJJLHbb0-)]
+[[Code](https://paperswithcode.com/paper/?openreview=BJJLHbb0-)]<br>
+*Datasets: CIFAR-10, Fashion-MNIST, MNIST, STL-10, cats_vs_dogs*<br>
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 # Video Open World Papers
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -2868,15 +2889,23 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: UCF-101, Kinetics-400*<br>
 *Task: Action Recognition*
 
+
+<!--#### ICCw
+#### Arxiv & Others-->
+
+### Older Papers
+
 * Out-Of-Distribution Detection for Generalized Zero-Shot Action Recognition (CVPR 2019) 
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mandal_Out-Of-Distribution_Detection_for_Generalized_Zero-Shot_Action_Recognition_CVPR_2019_paper.pdf)]
 [[Code](https://github.com/naraysa/gzsl-od)]<br>
 *Datasets: Olympic Sports, HMDB51 and UCF101*<br>
 *Task: Action Recognition*
 
-<!--#### ICCw
-#### Arxiv & Others-->
 
+* Towards Universal Representation for Unseen Action Recognition (CVPR 2018) 
+[[Paper](http://arxiv.org/abs/1803.08460)]<br>
+*Datasets: ActivityNet, HMDB51 and UCF101*<br>
+*Task: Action Recognition*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection Videos
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -3591,6 +3620,23 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw
 #### Arxiv & Others-->
 
+### Older Papers
+
+* Adversarially Learned One-Class Classifier for Novelty Detection (CVPR 2018) 
+[[Paper](http://arxiv.org/abs/1802.09088)]<br>
+*Datasets: MNIST, Caltech-256, UCSD Ped2*<br>
+*Task: Image Classification, Anomaly Detection*
+
+* Real-World Anomaly Detection in Surveillance Videos (CVPR 2018) 
+[[Paper](http://arxiv.org/abs/1801.04264)]
+[[Code](http://crcv.ucf.edu/projects/real-world/)]<br>
+*Datasets: Real-world Surveillance Videos*<br>
+
+* Future Frame Prediction for Anomaly Detection – A New Baseline (CVPR 2018) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Liu_Future_Frame_Prediction_CVPR_2018_paper.html)]
+[[Code](https://github.com/StevenLiuWen/ano_pred_cvpr2018)]<br>
+*Datasets: CUHK, Avenue, UCSD Ped1, UCSD Ped2, ShanghaiTech, Paper's toy dataset*<br>
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novelty Detection
@@ -3678,6 +3724,17 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Bhattacharjee_Multi-class_Novelty_Detection_Using_Mix-up_Technique_WACV_2020_paper.pdf)]<br>
 *Datasets: Caltech 256 and Stanford Dogs*<br>
 *Task: Image Classification*
+
+* Hierarchical Novelty Detection for Visual Object Recognition (CVPR 2018) 
+[[Paper](http://arxiv.org/abs/1804.00722)]<br>
+*Datasets: ImageNet, AwA2, CUB*<br>
+*Task: Image Classification*
+
+* Adversarially Learned One-Class Classifier for Novelty Detection (CVPR 2018) 
+[[Paper](http://arxiv.org/abs/1802.09088)]<br>
+*Datasets: MNIST, Caltech-256, UCSD Ped2*<br>
+*Task: Image Classification, Anomaly Detection*
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Other Related Papers

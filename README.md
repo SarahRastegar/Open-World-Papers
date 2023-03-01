@@ -571,9 +571,27 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: (CIFAR-10-LT, CIFAR-100-LT and ImageNet-LT) and three balanced OOD datasets (SVHN, ImageNet-open and Places-open)*<br>
 *Task: Image Classification*
 
-<!--#### ICLR
+#### ICLR
 #### NeurIPS
-#### ICCV-->
+* Is Out-of-Distribution Detection Learnable? (NeurIPS 2022 Outstanding) 
+[[Paper](https://neurips.cc/virtual/2022/poster/55375)]
+
+* Towards Out-of-Distribution Sequential Event Prediction: A Causal Treatment (NeurIPS 2022) 
+[[Paper](https://neurips.cc/virtual/2022/poster/54274)]
+
+* GraphDE: A Generative Framework for Debiased Learning and Out-of-Distribution Detection on Graphs (NeurIPS 2022) 
+[[Paper](https://neurips.cc/virtual/2022/poster/54922)]
+
+* Provably Adversarially Robust Detection of Out-of-Distribution Data (Almost) for Free (NeurIPS 2022) 
+[[Paper](https://neurips.cc/virtual/2022/poster/53127)]
+
+* Your Out-of-Distribution Detection Method is Not Robust! (NeurIPS 2022) 
+[[Paper](https://neurips.cc/virtual/2022/poster/53795)]
+
+* Density-driven Regularization for Out-of-distribution Detection (NeurIPS 2022) 
+[[Paper](https://neurips.cc/virtual/2022/poster/53993)]
+
+<!--#### ICCV-->
 #### ICML
 * Open-Sampling: Exploring Out-of-Distribution Data for Re-balancing long-tailed Datasets (ICML 2022) 
 [[Paper](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf)]

@@ -396,6 +396,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: “lever game”,  Hanabi with AI Agents, *<br>
 *Task: Zero-Shot Coordination*
 
+* Discovering Human Interactions With Novel Objects via Zero-Shot Learning (CVPR 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Discovering_Human_Interactions_With_Novel_Objects_via_Zero-Shot_Learning_CVPR_2020_paper.pdf)]
+[[Code](https://github.com/scwangdyd/zero_shot_hoi)]<br>
+*Datasets: V-COCO, HICO-DET *<br>
+*Task: Human Object Interaction*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1865,6 +1871,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: Simulation, 2019 UK general election, MNIST*<br>
 *Task: Continuous Categorical Distribution*
 
+* ShapeMask: Learning to Segment Novel Objects by Refining Shape Priors (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kuo_ShapeMask_Learning_to_Segment_Novel_Objects_by_Refining_Shape_Priors_ICCV_2019_paper.pdf)]
+[[Code](https://sites.google.com/view/shapemask/home)]<br>
+*Datasets: PASCAL VOC, COCO*<br>
+*Task: Instance Segmentation*
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary
@@ -2103,6 +2115,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://nocaps.org)]<br>
 *Datasets: nocaps, COCO Captions*<br>
 *Task: Image Captioning*
+
+* Pointing Novel Objects in Image Captioning (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Pointing_Novel_Objects_in_Image_Captioning_CVPR_2019_paper.pdf)]<br>
+*Datasets: held-out COCO, ImageNet*<br>
+*Task: Image Captioning*
+
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Fine Grained
@@ -3372,6 +3391,23 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: GTEA Gaze+, Toy Room*<br>
 *Task: Novel Object Localization*
 
+* Video Face Clustering With Unknown Number of Clusters (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tapaswi_Video_Face_Clustering_With_Unknown_Number_of_Clusters_ICCV_2019_paper.pdf)]
+[[Code](https://github.com/makarandtapaswi/BallClustering_ICCV2019)]<br>
+*Datasets: MovieGraphs, The Big Bang Theory (BBT) and Buffy the Vampire Slayer (BUFFY)*<br>
+*Task: Face Clustering*
+
+* Incremental Class Discovery for Semantic Segmentation With RGBD Sensing (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Nakajima_Incremental_Class_Discovery_for_Semantic_Segmentation_With_RGBD_Sensing_ICCV_2019_paper.pdf)]<br>
+*Datasets: NYUDv2*<br>
+*Task: Semantic Segmentation*
+
+* Object Discovery in Videos as Foreground Motion Clustering (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Object_Discovery_in_Videos_as_Foreground_Motion_Clustering_CVPR_2019_paper.pdf)]<br>
+*Datasets: Flying Things 3d (FT3D), DAVIS2016, Freibug-Berkeley motion segmentation, Complex Background, and Camouflaged Animal*<br>
+*Task: Object Discovery*
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary Videos
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -3929,6 +3965,32 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://www.bmvc2020-conference.com/assets/papers/0643.pdf)]<br>
 *Datasets: Mars novelty detection Mastcam labeled dataset*<br>
 *Task: Image Classification*
+
+* Where's Wally Now? Deep Generative and Discriminative Embeddings for Novelty Detection (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Burlina_Wheres_Wally_Now_Deep_Generative_and_Discriminative_Embeddings_for_Novelty_CVPR_2019_paper.pdf)]<br>
+*Datasets: CIFAR-10, IN-125*<br>
+*Task: Image Classification*
+
+* Deep Transfer Learning for Multiple Class Novelty Detection (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Perera_Deep_Transfer_Learning_for_Multiple_Class_Novelty_Detection_CVPR_2019_paper.pdf)]<br>
+*Datasets: Caltech256, Caltech-UCSD Birds 200 (CUB 200), Stanford Dogs, FounderType-200*<br>
+*Task: Image Classification*
+
+
+* Latent Space Autoregression for Novelty Detection (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Abati_Latent_Space_Autoregression_for_Novelty_Detection_CVPR_2019_paper.pdf)]
+[[Code](https://github.com/aimagelab/novelty-detection)]<br>
+*Datasets: MNIST, CIFAR10, UCSD Ped2 and ShanghaiTech*<br>
+*Task: Image Classification, Video Anomaly Detection*
+
+
+* OCGAN: One-Class Novelty Detection Using GANs With Constrained Latent Representations (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Perera_OCGAN_One-Class_Novelty_Detection_Using_GANs_With_Constrained_Latent_Representations_CVPR_2019_paper.pdf)]
+[[Code](https://github.com/PramuPerera/OCGAN)]<br>
+*Datasets: COIL100, fMNIST, MNIST, CIFAR10*<br>
+*Task: Image Classification*
+
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Other Related Papers

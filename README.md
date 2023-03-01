@@ -379,6 +379,23 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: COCO*<br>
 *Task: Image Captioning*
 
+* Safe Deep Semi-Supervised Learning for Unseen-Class Unlabeled Data (ICML 2020) 
+[[Paper](https://proceedings.mlr.press/v119/guo20i.html)]
+[[Code](http://www.lamda.nju.edu.cn/code_DS3L.ashx)]<br>
+*Datasets: MNIST, CIFAR10*<br>
+*Task: Image Classification*
+
+* Hallucinative Topological Memory for Zero-Shot Visual Planning (ICML 2020) 
+[[Paper](https://arxiv.org/abs/2002.12336)]<br>
+*Datasets: Mujoco simulation (Block wall, Block  wall  with  complex  obstacle, Block insertion, Robot  manipulation)*<br>
+*Task: Visual Planning*
+
+* “Other-Play” for Zero-Shot Coordination (ICML 2020) 
+[[Paper](https://arxiv.org/abs/2003.02979)]
+[[Code](https://bit.ly/2vYkfI7)]<br>
+*Datasets: “lever game”,  Hanabi with AI Agents, *<br>
+*Task: Zero-Shot Coordination*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
 <!----------------------------------------------------------------------------------------------------------------------------------------------->

@@ -767,6 +767,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Out-of-Distribution Image Classification*
 
 
+* Detecting Out-of-Distribution Examples with Gram Matrices (ICML 2020) 
+[[Paper](https://arxiv.org/abs/1912.12510)]
+[[Code](https://github.com/VectorInstitute/gram-ood-detection)]<br>
+*Datasets: CIFAR10, CIFAR100, MNIST, SVHN, TinyImageNet, LSUN and iSUN*<br>
+*Task: Out-of-Distribution Image Classification*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open-Set Recognition 
@@ -1457,6 +1462,40 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CECT, Simulation using PDB2VOL program*<br>
 *Task: Subtomogram Recognition*
 
+* Progressive Graph Learning for Open-Set Domain Adaptation (ICML 2020) 
+[[Paper](https://arxiv.org/abs/2006.12087)]<br>
+*Datasets: Office-Home, VisDA-17, Syn2Real-O*<br>
+*Task: Domain Adaptation*
+
+* Large-Scale Long-Tailed Recognition in an Open World (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Large-Scale_Long-Tailed_Recognition_in_an_Open_World_CVPR_2019_paper.pdf)]
+[[Code](https://liuziwei7.github.io/projects/LongTail.html)]<br>
+*Datasets: ImageNet-LT (object-centric), Places-LT (scene-centric),and MS1M-LT (face-centric)*<br>
+*Task: Domain Adaptation*
+
+* Separate to Adapt: Open Set Domain Adaptation via Progressive Separation (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Separate_to_Adapt_Open_Set_Domain_Adaptation_via_Progressive_Separation_CVPR_2019_paper.pdf)]
+[[Code](github.com/thuml)]<br>
+*Datasets: Office-31, Office-Home, VisDA-17, Digits, Caltech-ImageNet*<br>
+*Task: Domain Adaptation*
+
+* Classification-Reconstruction Learning for Open-Set Recognition (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yoshihashi_Classification-Reconstruction_Learning_for_Open-Set_Recognition_CVPR_2019_paper.pdf)]
+[[Code](https://github.com/facebookresearch/odin)]<br>
+*Datasets: MNIST, CIFAR-10, SVHN, Tiny-ImageNet, and DBpedia*<br>
+*Task: Image Classification-Reconstruction Learning*
+
+* Weakly Supervised Open-Set Domain Adaptation by Dual-Domain Collaboration (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_Weakly_Supervised_Open-Set_Domain_Adaptation_by_Dual-Domain_Collaboration_CVPR_2019_paper.pdf)]<br>
+*Datasets: DukeMTMC-reID, Office*<br>
+*Task: Domain Adaptation*
+
+* Attract or Distract: Exploit the Margin of Open Set (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Feng_Attract_or_Distract_Exploit_the_Margin_of_Open_Set_ICCV_2019_paper.pdf)]
+[[Code](https://github.com/qy-feng/margin-openset.git)]<br>
+*Datasets: Office-31, Digit*<br>
+*Task: Domain Adaptation*
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novel Class Discovery
@@ -1820,6 +1859,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: MNIST, SVHN and LSUN*<br>
 *Task: Image Generation*
 
+* The continuous categorical: a novel simplex-valued exponential family (ICML 2020) 
+[[Paper](https://arxiv.org/abs/2002.08563)]
+[[Code](https://github.com/cunningham-lab/cb_and_cc)]<br>
+*Datasets: Simulation, 2019 UK general election, MNIST*<br>
+*Task: Continuous Categorical Distribution*
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -2050,6 +2096,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Image Captioning with Unseen Objects (BMVC 2019) 
 [[Paper](https://bmvc2019.org/wp-content/papers/0124.html)]<br>
 *Datasets: COCO*<br>
+*Task: Image Captioning*
+
+* nocaps: novel object captioning at scale (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf)]
+[[Code](https://nocaps.org)]<br>
+*Datasets: nocaps, COCO Captions*<br>
 *Task: Image Captioning*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -3213,7 +3265,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: Market-1501, CUHK01, CUHK03*<br>
 *Task: Person Re-Identification*
 
-
+* From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_From_Open_Set_to_Closed_Set_Counting_Objects_by_Spatial_ICCV_2019_paper.pdf)]
+[[Code](https://github.com/xhp-hust-2018-2011/S-DCNet)]<br>
+*Datasets: Synthesized Cell Counting, UCF-QNRF, ShanghaiTech, UCFCC50, TRANCOS and MTC*<br>
+*Task: Visual Counting*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ##  Novel Class Discovery Videos
 <!----------------------------------------------------------------------------------------------------------------------------------------------->

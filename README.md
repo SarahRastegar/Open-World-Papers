@@ -393,14 +393,25 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * “Other-Play” for Zero-Shot Coordination (ICML 2020) 
 [[Paper](https://arxiv.org/abs/2003.02979)]
 [[Code](https://bit.ly/2vYkfI7)]<br>
-*Datasets: “lever game”,  Hanabi with AI Agents, *<br>
+*Datasets: “lever game”,  Hanabi with AI Agents*<br>
 *Task: Zero-Shot Coordination*
 
 * Discovering Human Interactions With Novel Objects via Zero-Shot Learning (CVPR 2020) 
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Discovering_Human_Interactions_With_Novel_Objects_via_Zero-Shot_Learning_CVPR_2020_paper.pdf)]
 [[Code](https://github.com/scwangdyd/zero_shot_hoi)]<br>
-*Datasets: V-COCO, HICO-DET *<br>
+*Datasets: V-COCO, HICO-DET*<br>
 *Task: Human Object Interaction*
+
+* Locality and Compositionality in Zero-Shot Learning (ICLR 2020) 
+[[Paper](https://openreview.net/forum?id=Hye_V0NKwr)]<br>
+*Datasets: AwA2, CUB-200-2011*<br>
+*Task: Image Classification*
+
+* Learning to Group: A Bottom-Up Framework for 3D Part Discovery in Unseen Categories (ICLR 2020) 
+[[Paper](https://openreview.net/forum?id=rkl8dlHYvB)]
+[[Code](https://github.com/tiangeluo/Learning-to-Group)]<br>
+*Datasets: PartNet*<br>
+*Task: 3D Part Discovery*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
@@ -766,17 +777,32 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR-10, CIFAR-100, MNIST, TinyImageNet, FashionMNIST, STL-10*<br>
 *Task: Out-of-Distribution Image Classification*
 
-
 * A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning (ECCV 2020) 
 [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf)]<br>
 *Datasets: AWA1, AWA2, CUB, FLO and SUN*<br>
 *Task: Out-of-Distribution Image Classification*
 
-
 * Detecting Out-of-Distribution Examples with Gram Matrices (ICML 2020) 
 [[Paper](https://arxiv.org/abs/1912.12510)]
 [[Code](https://github.com/VectorInstitute/gram-ood-detection)]<br>
 *Datasets: CIFAR10, CIFAR100, MNIST, SVHN, TinyImageNet, LSUN and iSUN*<br>
+*Task: Out-of-Distribution Image Classification*
+
+* Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2002.11297)]<br>
+*Datasets: CIFAR10, CIFAR100, SVHN, TinyImageNet, LSUN and iSUN, DomainNet*<br>
+*Task: Out-of-Distribution Image Classification*
+
+* Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models (ICLR 2020) 
+[[Paper](https://openreview.net/forum?id=SyxIWpVYvr)]
+[[Code](https://paperswithcode.com/paper/?openreview=SyxIWpVYvr)]<br>
+*Datasets: CIFAR-10, CIFAR-100, CelebA, Fashion-MNIST, ImageNet, SVHN*<br>
+*Task: Out-of-Distribution Image Classification*
+
+* Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks (ICLR 2020 Oral) 
+[[Paper](https://openreview.net/forum?id=rkeZIJBYvr)]
+[[Code](https://github.com/haebeom-lee/l2b)]<br>
+*Datasets: CIFAR-10, CIFAR-100, CIFAR-FS, miniImageNet, SVHN, CUB, Aircraft, QuickDraw, and VGG-Flower, Traffic Signs, Fashion-MNIST*<br>
 *Task: Out-of-Distribution Image Classification*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1376,6 +1402,157 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2020 Papers
+#### CVPR
+
+* Few-Shot Open-Set Recognition Using Meta-Learning (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2005.13713)]<br>
+*Datasets: mini-Imagenet, CIFAR10, XJTU-Stevens*<br>
+*Task: Image Classification*
+
+* Towards Inheritable Models for Open-Set Domain Adaptation (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2004.04388)]
+[[Code](https://github.com/val-iisc/inheritune)]<br>
+*Datasets: Office-31, Office-Home, VisDA*<br>
+*Task: Domain Adaptation*
+
+* Exploring Category-Agnostic Clusters for Open-Set Domain Adaptation (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2006.06567)]<br>
+*Datasets: Office, VisDA*<br>
+*Task: Domain Adaptation*
+
+* Conditional Gaussian Distribution Learning for Open Set Recognition (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2003.08823)]<br>
+*Datasets: MNIST, SVHN, CIFAR-10, CIFAR-100, Tiny-ImageNet, ImageNet-crop, ImageNet-resize,LSUN-crop, and LSUN-resize*<br>
+*Task: Image Classification*
+
+* Generative-Discriminative Feature Representations for Open-Set Recognition (CVPR 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Perera_Generative-Discriminative_Feature_Representations_for_Open-Set_Recognition_CVPR_2020_paper.pdf)]<br>
+*Datasets: SVHN, CIFAR-10, CIFAR+10, CIFAR+50, Tiny-ImageNet, ImageNet-crop, ImageNet-resize,LSUN-crop, and LSUN-resize*<br>
+*Task: Image Classification*
+
+#### ICML
+
+* Progressive Graph Learning for Open-Set Domain Adaptation (ICML 2020) 
+[[Paper](https://arxiv.org/abs/2006.12087)]<br>
+*Datasets: Office-Home, VisDA-17, Syn2Real-O*<br>
+*Task: Domain Adaptation*
+#### ECCV
+
+* Hybrid Models for Open Set Recognition (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480103.pdf)]<br>
+*Datasets: MNIST, SVHN, CIFAR10, CIFAR100, CIFAR+10, CIFAR+50 and TinyImageNet*<br>
+*Task: Image Classification*
+
+* Learning Open Set Network with Discriminative Reciprocal Points (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf)]<br>
+*Datasets: MNIST, SVHN, CIFAR10, CIFAR100, CIFAR+10, CIFAR+50 and TinyImageNet, ImageNet-LT, Aircraft 300*<br>
+*Task: Image Classification*
+
+* Multi-Task Curriculum Framework for Open-Set Semi-Supervised Learning (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570426.pdf)]<br>
+*Datasets: LSUN, TinyImageNet, Gaussian, Uniform, CIFAR-10, SVHN*<br>
+*Task: Multi-task Learning*
+
+* On the Effectiveness of Image Rotation for Open Set Domain Adaptation (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610409.pdf)]
+[[Code](https://github.com/silvia1993/ROS)]<br>
+*Datasets: Office-31 and Office-Home*<br>
+*Task: Domain Adaptation*
+
+* Open-set Adversarial Defense (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620664.pdf)]
+[[Code](https://github.com/rshaojimmy/ECCV2020-OSAD)]<br>
+*Datasets: SVHN, CIFAR10, TinyImageNet*<br>
+*Task: Adversarial Defense*
+
+* Multi-Source Open-Set Deep Adversarial Domain Adaptation (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710732.pdf)]<br>
+*Datasets: Office-31 and Office-Home, Office-CalTech, Digits*<br>
+*Task: Domain Adaptation*
+
+* Representative-Discriminative Learning for Open-set Land Cover Classification of Satellite Imagery (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750001.pdf)]
+[[Code](https://github.com/raziehkaviani/rdosr)]<br>
+*Datasets: Pavia University (PU) and Pavia Center (PC), Indian Pines (IN), CIFAR10, TinyImageNet*<br>
+*Task: Hyperspectral Image Classification*
+
+* Learning to Detect Open Classes for Universal Domain Adaptation (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600562.pdf)]<br>
+*Datasets: Office-31 and Office-Home, VisDA, DomainNet*<br>
+*Task: Domain Adaptation*
+
+#### WACV
+
+* The Overlooked Elephant of Object Detection: Open Set (WACV 2020) 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Dhamija_The_Overlooked_Elephant_of_Object_Detection_Open_Set_WACV_2020_paper.pdf)]
+[[Code](https://github.com/Vastlab/Elephant-of-object-detection)]<br>
+*Datasets: PASCAL VOC, MSCOCO*<br>
+*Task: Object Detection*
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2019 Papers
+#### CVPR
+* C2AE: Class Conditioned Auto-Encoder for Open-set Recognition (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Oza_C2AE_Class_Conditioned_Auto-Encoder_for_Open-Set_Recognition_CVPR_2019_paper.pdf)]
+[[Code](https://github.com/otkupjnoz/c2ae)]<br>
+*Datasets: MNIST, SVHN, CIFAR10, CIFAR+10, CIFAR+50, TinyImageNet*<br>
+*Task: Image Classification*
+
+* Large-Scale Long-Tailed Recognition in an Open World (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Large-Scale_Long-Tailed_Recognition_in_an_Open_World_CVPR_2019_paper.pdf)]
+[[Code](https://liuziwei7.github.io/projects/LongTail.html)]<br>
+*Datasets: ImageNet-LT (object-centric), Places-LT (scene-centric),and MS1M-LT (face-centric)*<br>
+*Task: Domain Adaptation*
+
+* Separate to Adapt: Open Set Domain Adaptation via Progressive Separation (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Separate_to_Adapt_Open_Set_Domain_Adaptation_via_Progressive_Separation_CVPR_2019_paper.pdf)]
+[[Code](github.com/thuml)]<br>
+*Datasets: Office-31, Office-Home, VisDA-17, Digits, Caltech-ImageNet*<br>
+*Task: Domain Adaptation*
+
+* Classification-Reconstruction Learning for Open-Set Recognition (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yoshihashi_Classification-Reconstruction_Learning_for_Open-Set_Recognition_CVPR_2019_paper.pdf)]
+[[Code](https://github.com/facebookresearch/odin)]<br>
+*Datasets: MNIST, CIFAR-10, SVHN, Tiny-ImageNet, and DBpedia*<br>
+*Task: Image Classification-Reconstruction Learning*
+
+* Weakly Supervised Open-Set Domain Adaptation by Dual-Domain Collaboration (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_Weakly_Supervised_Open-Set_Domain_Adaptation_by_Dual-Domain_Collaboration_CVPR_2019_paper.pdf)]<br>
+*Datasets: DukeMTMC-reID, Office*<br>
+*Task: Domain Adaptation*
+
+#### NeurIPS
+* Learning Factorized Representations for Open-set Domain Adaptation (NeurIPS 2019) 
+[[Paper](https://openreview.net/forum?id=SJe3HiC5KX)]<br>
+*Datasets: Bing(B), Caltech256(C), ImageNet(I) and SUN(S), hence referred to as BCIS, Office, namely Amazon(A), DSLR(D) and Webcam(W)*<br>
+*Task: Image Classification*
+
+#### ICCV
+
+* Attract or Distract: Exploit the Margin of Open Set (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Feng_Attract_or_Distract_Exploit_the_Margin_of_Open_Set_ICCV_2019_paper.pdf)]
+[[Code](https://github.com/qy-feng/margin-openset.git)]<br>
+*Datasets: Office-31, Digit*<br>
+*Task: Domain Adaptation*
+
+#### BMVC
+* Generalized Zero-shot Learning using Open Set Recognition (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0035.html)]<br>
+*Datasets: AWA1, APY, FLO, and CUB*<br>
+*Task: Image Classification*
+
+* Open-set Recognition of Unseen Macromolecules in Cellular Electron Cryo-Tomograms by Soft Large Margin Centralized Cosine Loss (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0347.html)]<br>
+*Datasets: CECT, Simulation using PDB2VOL program*<br>
+*Task: Subtomogram Recognition*
+
+#### Arxiv & Others
+* Open-world Learning and Application to Product Classification (WWW 2019) 
+[[Paper](https://arxiv.org/pdf/1809.06004v2.pdf)]
+[[Code](https://www.cs.uic.edu/~hxu/)]<br>
+*Datasets:  product descriptions from the Amazon Datasets*<br>
+*Task: Image Classification*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
@@ -1405,28 +1582,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: : MNIST, HASYv2*<br>
 *Task: Image Classification*
 
-* Open-world Learning and Application to Product Classification (WWW 2019) 
-[[Paper](https://arxiv.org/pdf/1809.06004v2.pdf)]
-[[Code](https://www.cs.uic.edu/~hxu/)]<br>
-*Datasets:  product descriptions from the Amazon Datasets*<br>
-*Task: Image Classification*
-
-* C2AE: Class Conditioned Auto-Encoder for Open-set Recognition (CVPR 2019) 
-[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Oza_C2AE_Class_Conditioned_Auto-Encoder_for_Open-Set_Recognition_CVPR_2019_paper.pdf)]
-[[Code](https://github.com/otkupjnoz/c2ae)]<br>
-*Datasets: MNIST, SVHN, CIFAR10, CIFAR+10, CIFAR+50, TinyImageNet*<br>
-*Task: Image Classification*
-
-* Learning Factorized Representations for Open-set Domain Adaptation (NeurIPS 2019) 
-[[Paper](https://openreview.net/forum?id=SJe3HiC5KX)]<br>
-*Datasets: Bing(B), Caltech256(C), ImageNet(I) and SUN(S), hence referred to as BCIS, Office, namely Amazon(A), DSLR(D) and Webcam(W)*<br>
-*Task: Image Classification*
-
-* The Overlooked Elephant of Object Detection: Open Set (WACV 2020) 
-[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Dhamija_The_Overlooked_Elephant_of_Object_Detection_Open_Set_WACV_2020_paper.pdf)]
-[[Code](https://github.com/Vastlab/Elephant-of-object-detection)]<br>
-*Datasets: PASCAL VOC, MSCOCO*<br>
-*Task: Object Detection*
 
 * Open Category Detection with PAC Guarantees (ICML 2018) 
 [[Paper](http://proceedings.mlr.press/v80/liu18e.html)]<br>
@@ -1456,50 +1611,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Open Set Domain Adaptation by Backpropagation (ECCV 2018) 
 [[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf)]<br>
 *Datasets: Office, VisDA and digits*<br>
-*Task: Domain Adaptation*
-
-* Generalized Zero-shot Learning using Open Set Recognition (BMVC 2019) 
-[[Paper](https://bmvc2019.org/wp-content/papers/0035.html)]<br>
-*Datasets: AWA1, APY, FLO, and CUB*<br>
-*Task: Image Classification*
-
-* Open-set Recognition of Unseen Macromolecules in Cellular Electron Cryo-Tomograms by Soft Large Margin Centralized Cosine Loss (BMVC 2019) 
-[[Paper](https://bmvc2019.org/wp-content/papers/0347.html)]<br>
-*Datasets: CECT, Simulation using PDB2VOL program*<br>
-*Task: Subtomogram Recognition*
-
-* Progressive Graph Learning for Open-Set Domain Adaptation (ICML 2020) 
-[[Paper](https://arxiv.org/abs/2006.12087)]<br>
-*Datasets: Office-Home, VisDA-17, Syn2Real-O*<br>
-*Task: Domain Adaptation*
-
-* Large-Scale Long-Tailed Recognition in an Open World (CVPR 2019) 
-[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Large-Scale_Long-Tailed_Recognition_in_an_Open_World_CVPR_2019_paper.pdf)]
-[[Code](https://liuziwei7.github.io/projects/LongTail.html)]<br>
-*Datasets: ImageNet-LT (object-centric), Places-LT (scene-centric),and MS1M-LT (face-centric)*<br>
-*Task: Domain Adaptation*
-
-* Separate to Adapt: Open Set Domain Adaptation via Progressive Separation (CVPR 2019) 
-[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Separate_to_Adapt_Open_Set_Domain_Adaptation_via_Progressive_Separation_CVPR_2019_paper.pdf)]
-[[Code](github.com/thuml)]<br>
-*Datasets: Office-31, Office-Home, VisDA-17, Digits, Caltech-ImageNet*<br>
-*Task: Domain Adaptation*
-
-* Classification-Reconstruction Learning for Open-Set Recognition (CVPR 2019) 
-[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yoshihashi_Classification-Reconstruction_Learning_for_Open-Set_Recognition_CVPR_2019_paper.pdf)]
-[[Code](https://github.com/facebookresearch/odin)]<br>
-*Datasets: MNIST, CIFAR-10, SVHN, Tiny-ImageNet, and DBpedia*<br>
-*Task: Image Classification-Reconstruction Learning*
-
-* Weakly Supervised Open-Set Domain Adaptation by Dual-Domain Collaboration (CVPR 2019) 
-[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_Weakly_Supervised_Open-Set_Domain_Adaptation_by_Dual-Domain_Collaboration_CVPR_2019_paper.pdf)]<br>
-*Datasets: DukeMTMC-reID, Office*<br>
-*Task: Domain Adaptation*
-
-* Attract or Distract: Exploit the Margin of Open Set (ICCV 2019) 
-[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Feng_Attract_or_Distract_Exploit_the_Margin_of_Open_Set_ICCV_2019_paper.pdf)]
-[[Code](https://github.com/qy-feng/margin-openset.git)]<br>
-*Datasets: Office-31, Digit*<br>
 *Task: Domain Adaptation*
 
 
@@ -1740,8 +1851,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](http://arxiv.org/abs/2106.10731)]<br>
 *Datasets: CIFAR10, CIFAR 100, Imagenet*<br>
 *Task: Image Classification*
-
-
 
 <!--#### ICLR-->
 #### NeurIPS
@@ -2121,7 +2230,16 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: held-out COCO, ImageNet*<br>
 *Task: Image Captioning*
 
+* Learning User Representations for Open Vocabulary Image Hashtag Prediction (CVPR 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Durand_Learning_User_Representations_for_Open_Vocabulary_Image_Hashtag_Prediction_CVPR_2020_paper.pdf)]<br>
+*Datasets: YFCC100M*<br>
+*Task: Image Hashtag Prediction*
 
+* Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560086.pdf)]
+[[Code](https://github.com/xh-liu/Open-Edit)]<br>
+*Datasets: BSDS500, Conceptual Captions*<br>
+*Task: Image Manipulation*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Fine Grained
@@ -2416,6 +2534,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/xueluli/GSFL-Net)]<br>
 *Datasets: CaltechUCSD (CUB-200-2011) Birds, Stanford Dogs, FGVC-Aircraft*<br>
 *Task: Image Classification*
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Long Tail
@@ -2718,6 +2837,16 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!--#### ICCw
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
+
+* Decoupling Representation and Classifier for Long-Tailed Recognition (ICLR 2020) 
+[[Paper](https://openreview.net/forum?id=r1gRTCVFvB)]
+[[Code](github facebookresearch/classifier-balancing)]<br>
+*Datasets: AwA, CUB-200-2011, ImageNet, ImageNet-LT, Places, Places-LT, iNaturalist*<br>
+*Task: Image Classification*
+
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Anomaly Detection
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2023 Papers
@@ -2925,6 +3054,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Interpretable, Multidimensional, Multimodal Anomaly Detection with Negative Sampling for Detection of Device Failure (ICML 2020) 
 [[Paper](https://arxiv.org/abs/2007.10088)]<br>
 *Datasets: FOREST COVER(FC), MAMMOGRAPHY(MM), SMARTBUILDINGS(SB), MULCROSS(MC), SATELLITE(SA), SHUTTLE(SH)*<br>
+
+* RaPP: Novelty Detection with Reconstruction along Projection Pathway (ICLR 2020) 
+[[Paper](https://openreview.net/forum?id=HkgeGeBYDB)]
+[[Code](https://drive.google.com/drive/folders/1sknl_i4zmvSsPYZdzYxbg66ZSYDZ_abg?usp=sharing)]<br>
+*Datasets: fMNIST, MNIST, MI-F and MI-V, STL, OTTO, SNSR, EOPT, NASA, RARM*<br>
+*Task: Image Classification, Anomaly Detection*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 # Video Open World Papers
@@ -3990,7 +4125,16 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: COIL100, fMNIST, MNIST, CIFAR10*<br>
 *Task: Image Classification*
 
+* RaPP: Novelty Detection with Reconstruction along Projection Pathway (ICLR 2020) 
+[[Paper](https://openreview.net/forum?id=HkgeGeBYDB)]
+[[Code](https://drive.google.com/drive/folders/1sknl_i4zmvSsPYZdzYxbg66ZSYDZ_abg?usp=sharing)]<br>
+*Datasets: fMNIST, MNIST, MI-F and MI-V, STL, OTTO, SNSR, EOPT, NASA, RARM*<br>
+*Task: Image Classification, Anomaly Detection*
 
+* Novelty Detection Via Blurring (ICLR 2020) 
+[[Paper](https://openreview.net/forum?id=ByeNra4FDB)]<br>
+*Datasets: CIFAR-10, CIFAR-100, CelebA, ImageNet, LSUN, SVHN*<br>
+*Task: Image Classification*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Other Related Papers

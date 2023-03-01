@@ -369,6 +369,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: Rope manipulation using Baxter robot, Navigation of a wheeled robot in cluttered office environments, Simulated 3D navigation*<br>
 *Task: Imitation Learning*
 
+* Generalized Zero-shot Learning using Open Set Recognition (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0035.html)]<br>
+*Datasets: AWA1, APY, FLO, and CUB*<br>
+*Task: Image Classification*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1405,6 +1410,32 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR-10+SVHN, CIFAR-10+CIFAR-100 and CIFAR-10+ImageNet3, CIFAR-100/ImageNet32*<br>
 *Task: Image Classification*
 
+* Bayesian Semantic Instance Segmentation in Open Set World (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Trung_Pham_Bayesian_Instance_Segmentation_ECCV_2018_paper.pdf)]<br>
+*Datasets: COCO, NYU*<br>
+*Task: Semantic Segmentation*
+
+* Open Set Learning with Counterfactual Images (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Lawrence_Neal_Open_Set_Learning_ECCV_2018_paper.pdf)]<br>
+*Datasets: MNIST, SVHN, CIFAR-10, and Tiny-Imagenet*<br>
+*Task: Counterfactual Image Generation, Image Classification*
+
+* Open Set Domain Adaptation by Backpropagation (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf)]<br>
+*Datasets: Office, VisDA and digits*<br>
+*Task: Domain Adaptation*
+
+* Generalized Zero-shot Learning using Open Set Recognition (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0035.html)]<br>
+*Datasets: AWA1, APY, FLO, and CUB*<br>
+*Task: Image Classification*
+
+* Open-set Recognition of Unseen Macromolecules in Cellular Electron Cryo-Tomograms by Soft Large Margin Centralized Cosine Loss (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0347.html)]<br>
+*Datasets: CECT, Simulation using PDB2VOL program*<br>
+*Task: Subtomogram Recognition *
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novel Class Discovery
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1980,6 +2011,19 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://arxiv.org/abs/1810.08305)]<br>
 *Datasets: Java source code*<br>
 *Task: Java source code Learning*
+
+* Visual Question Generation for Class Acquisition of Unknown Objects (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Kohei_Uehara_Visual_Question_Generation_ECCV_2018_paper.pdf)]
+[[Code](https://github.com/mil-tokyo/vqg-unknown)]<br>
+*Datasets: Visual Genome, ILSVRC2012, ILSVRC2010, WordNet*<br>
+*Task: Visual Question Generation, Object Detection*
+
+* Jointly Discovering Visual Objects and Spoken Words from Raw Sensory Input (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/David_Harwath_Jointly_Discovering_Visual_ECCV_2018_paper.pdf)]<br>
+*Datasets: Places Audio Caption, ADE20k, MSCOCO*
+[[Code](http://groups.csail.mit.edu/sls/downloads/placesaudio/)]<br>
+*Task: Audio-Visual Associative Localizations*
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Fine Grained
@@ -3114,6 +3158,17 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://arxiv.org/pdf/1901.07757v1.pdf)]<br>
 *Datasets:  HMDB51, UCF50, UCF101*<br>
 *Task: Action Recognition*
+
+* Open-World Stereo Video Matching with Deep RNN (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Yiran_Zhong_Open-World_Stereo_Video_ECCV_2018_paper.pdf)]<br>
+*Datasets: KITTI VO, Middlebury Stereo 2005 & 2006, Freiburg Sceneflow, Random dot, Synthia*<br>
+*Task: Stereo Video Matching*
+
+* Adversarial Open-World Person Re-Identification (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Xiang_Li_Adversarial_Open-World_Person_ECCV_2018_paper.pdf)]<br>
+*Datasets: Market-1501, CUHK01, CUHK03*<br>
+*Task: Person Re-Identification*
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ##  Novel Class Discovery Videos

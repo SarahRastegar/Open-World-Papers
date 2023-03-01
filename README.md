@@ -374,6 +374,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: AWA1, APY, FLO, and CUB*<br>
 *Task: Image Classification*
 
+* Image Captioning with Unseen Objects (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0124.html)]<br>
+*Datasets: COCO*<br>
+*Task: Image Captioning*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1433,7 +1438,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Open-set Recognition of Unseen Macromolecules in Cellular Electron Cryo-Tomograms by Soft Large Margin Centralized Cosine Loss (BMVC 2019) 
 [[Paper](https://bmvc2019.org/wp-content/papers/0347.html)]<br>
 *Datasets: CECT, Simulation using PDB2VOL program*<br>
-*Task: Subtomogram Recognition *
+*Task: Subtomogram Recognition*
 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1797,6 +1802,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/WuChenshen/MeRGAN)]<br>
 *Datasets: MNIST, SVHN and LSUN*<br>
 *Task: Image Generation*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -2019,11 +2025,15 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Visual Question Generation, Object Detection*
 
 * Jointly Discovering Visual Objects and Spoken Words from Raw Sensory Input (ECCV 2018) 
-[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/David_Harwath_Jointly_Discovering_Visual_ECCV_2018_paper.pdf)]<br>
-*Datasets: Places Audio Caption, ADE20k, MSCOCO*
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/David_Harwath_Jointly_Discovering_Visual_ECCV_2018_paper.pdf)]
 [[Code](http://groups.csail.mit.edu/sls/downloads/placesaudio/)]<br>
+*Datasets: Places Audio Caption, ADE20k, MSCOCO*<br>
 *Task: Audio-Visual Associative Localizations*
 
+* Image Captioning with Unseen Objects (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0124.html)]<br>
+*Datasets: COCO*<br>
+*Task: Image Captioning*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Fine Grained
@@ -2430,8 +2440,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR-10-LT & CIFAR-100-LT; ImageNet-LT; iNaturalist; Places-LT*<br>
 *Task: Image Classification*
 
-
-
 <!-- #### ICLR-->
 #### NeurIPS
 * Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition (NeurIPS 2022) 
@@ -2810,6 +2818,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://openreview.net/forum?id=BJJLHbb0-)]
 [[Code](https://paperswithcode.com/paper/?openreview=BJJLHbb0-)]<br>
 *Datasets: CIFAR-10, Fashion-MNIST, MNIST, STL-10, cats_vs_dogs*<br>
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 # Video Open World Papers
@@ -3253,7 +3262,19 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!--#### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
 
+* Tracking the Known and the Unknown by Leveraging Semantic Information (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/1003.html)]
+[[Code](https://tracking.vision.ee.ethz.ch/track-known-unknown/)]<br>
+*Datasets: NFS, UAV123, LaSOT, TrackingNet, VOT2018*<br>
+*Task: Object Tracking*
+
+* DetectFusion: Detecting and Segmenting Both Known and Unknown Dynamic Objects in Real-time SLAM (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0499.html)]<br>
+*Datasets: TUM-RGB-D, MS COCO, PASCAL VOC*<br>
+*Task: Object Tracking and Segmentation*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary Videos
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -3627,8 +3648,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Anomaly Detection in Autonomous Driving: A Survey (CVPRw 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/WAD/papers/Bogdoll_Anomaly_Detection_in_Autonomous_Driving_A_Survey_CVPRW_2022_paper.pdf)]
 
-
-
 #### WACV
 * A Modular and Unified Framework for Detecting and Localizing Video Anomalies (WACV 2022) 
 [[Paper](http://arxiv.org/abs/2103.11299)]<br>
@@ -3692,6 +3711,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/StevenLiuWen/ano_pred_cvpr2018)]<br>
 *Datasets: CUHK, Avenue, UCSD Ped1, UCSD Ped2, ShanghaiTech, Paper's toy dataset*<br>
 
+* Hybrid Deep Network for Anomaly Detection (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0726.html)]<br>
+*Datasets: CUHK Avenue, UCSD Ped2, Belleview, Traffic-Train*<br>
+
+* Motion-Aware Feature for Improved Video Anomaly Detection (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0129.html)]<br>
+*Datasets: UCF Crime*<br>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novelty Detection

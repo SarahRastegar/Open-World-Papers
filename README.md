@@ -1322,6 +1322,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning (Neural Networks 2023) 
 [[Paper](https://arxiv.org/abs/2009.01797)]
 
+* ConceptFusion: Open-set Multimodal 3D Mapping (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.07241)]
+
+* Contrastive Credibility Propagation for Reliable Semi-Supervised Learning (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2211.09929)]
+
+* Open-Set Automatic Target Recognition (ICASSP 2023 Submission) 
+[[Paper](https://arxiv.org/abs/2211.05883)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
@@ -1700,7 +1708,32 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Uncertainty for Identifying Open-Set Errors in Visual Object Detection (IROS/RAL 2022) 
 [[Paper](https://arxiv.org/abs/2104.01328)]
 
+* Oracle Analysis of Representations for Deep Open Set Detection (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2209.11350)]
 
+* One-Shot Open-Set Skeleton-Based Action Recognition (IEEE International Conference on Humanoid Robots 2022) 
+[[Paper](https://arxiv.org/abs/2209.04288)]
+
+* Open Long-Tailed Recognition in a Dynamic World (TPAMI 2022) 
+[[Paper](https://arxiv.org/abs/2208.08349)]
+
+* From Known to Unknown: Quality-aware Self-improving Graph Neural Network for Open Set Social Event Detection (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2208.06973)]
+
+* 3DOS: Towards 3D Open Set Learning -- Benchmarking and Understanding Semantic Novelty Detection on Point Clouds (NeurIPS 2022 Datasets and Benchmarks) 
+[[Paper](https://arxiv.org/abs/2207.11554)]
+
+* Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2207.11514)]
+
+* Open-world Semantic Segmentation for LIDAR Point Clouds (ECCV 2022) 
+[[Paper](https://arxiv.org/abs/2207.01452)]
+
+* Dummy Prototypical Networks for Few-Shot Open-Set Keyword Spotting (INTERSPEECH 2022) 
+[[Paper](https://arxiv.org/abs/2206.13691)]
+
+* Open-Set Recognition with Gradient-Based Representations (ICIP 2022) 
+[[Paper](https://arxiv.org/abs/2206.08229)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR
@@ -1859,9 +1892,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCw-->
 #### Arxiv & Others
 
-* Open-Set Representation Learning through Combinatorial Embedding (ARxiv 2021) 
+* Open-Set Representation Learning through Combinatorial Embedding (Arxiv 2021) 
 [[Paper](https://arxiv.org/abs/2106.15278)]
 
+* Open-Set Multi-Source Multi-Target Domain Adaptation (NeurIPSw 2021) 
+[[Paper](https://arxiv.org/abs/2302.00995)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2020 Papers
@@ -2029,6 +2064,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * The Importance of Metric Learning for Robotic Vision: Open Set Recognition and Active Learning (ICRA 2019) 
 [[Paper](https://arxiv.org/abs/1902.10363)]
 
+* Knowledge is Never Enough: Towards Web Aided Deep Open World Recognition (ICRA 2019) 
+[[Paper](https://arxiv.org/abs/1906.01258)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers

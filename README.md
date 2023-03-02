@@ -2654,6 +2654,23 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### IJCV
 #### BMVC
 #### ICCw -->
+#### Arxiv & Others
+
+* A Language-Guided Benchmark for Weakly Supervised Open Vocabulary Semantic Segmentation	(Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.14163)]
+
+* Aligning Bag of Regions for Open-Vocabulary Object Detection (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.13996)]
+
+* From Occlusion to Insight: Object Search in Semantic Shelves using Large Language Models (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.12915)]
+
+* Side Adapter Network for Open-Vocabulary Semantic Segmentation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.12242)]
+
+* CHiLS: Zero-Shot Image Classification with Hierarchical Label Sets (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.02551)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR

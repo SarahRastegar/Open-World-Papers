@@ -418,7 +418,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR-->
+#### CVPR
+
+
+
 #### ICLR
 * Offline RL with No OOD Actions: In-Sample Learning via Implicit Value Regularization (ICLR 2023 top 5%) 
 [[Paper](https://openreview.net/forum?id=boNyg20-JDm)]
@@ -1218,6 +1221,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Recent advances in open set recognition: A survey (TPAMI 2020) 
 [[Paper](https://arxiv.org/abs/1811.08581v4)]
 
+* A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges (TMLR 2023) 
+[[Paper](https://arxiv.org/abs/2110.14051)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2023 Papers
 <!-- #### CVPR-->
@@ -1306,6 +1312,15 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/deeplearning-wisc/opencon)]<br>
 *Datasets: CIFAR-10, CIFAR-100, Imagenet-100*<br>
 *Task: Image Classification and Domain Adaptation*
+
+* CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2301.01970)]
+
+* KRADA: Known-region-aware Domain Alignment for Open-set Domain Adaptation in Semantic Segmentation (TMLR 2023) 
+[[Paper](https://arxiv.org/abs/2106.06237)]
+
+* A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning (Neural Networks 2023) 
+[[Paper](https://arxiv.org/abs/2009.01797)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
@@ -1669,6 +1684,23 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Discovering Implicit Classes Achieves Open Set Domain Adaptation (ICME 2022) 
 [[Paper](https://ieeexplore.ieee.org/document/9859594)]
 
+* NovelCraft: A Dataset for Novelty Detection and Discovery in Open Worlds (Arxiv 2022 - TMLR 2023 Under Review) 
+[[Paper](https://arxiv.org/abs/2206.11736)]
+
+* Open-World Object Detection via Discriminative Class Prototype Learning (ICIP 2022) 
+[[Paper](https://arxiv.org/abs/2302.11757)]
+
+* Multi-Attribute Open Set Recognition (GCPR 2022) 
+[[Paper](https://arxiv.org/abs/2208.06809)]
+
+
+* Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2207.11514)]
+
+* Uncertainty for Identifying Open-Set Errors in Visual Object Detection (IROS/RAL 2022) 
+[[Paper](https://arxiv.org/abs/2104.01328)]
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR
@@ -1796,6 +1828,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Addressing Visual Search in Open and Closed Set Settings (CVPRw 2021) 
 [[Paper](http://arxiv.org/abs/2012.06509)]
 
+* Contextual Transformer Networks for Visual Recognition (CVPRw 2021) 
+[[Paper](https://arxiv.org/abs/2107.12292)]
+
 #### WACV
 
 * Class Anchor Clustering: A Loss for Distance-Based Open Set Recognition (WACV 2021) 
@@ -1821,8 +1856,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!--#### IJCV
 #### BMVC
-#### ICCw
-#### Arxiv & Others-->
+#### ICCw-->
+#### Arxiv & Others
+
+* Open-Set Representation Learning through Combinatorial Embedding (ARxiv 2021) 
+[[Paper](https://arxiv.org/abs/2106.15278)]
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2020 Papers
 #### CVPR
@@ -1911,6 +1951,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/Vastlab/Elephant-of-object-detection)]<br>
 *Datasets: PASCAL VOC, MSCOCO*<br>
 *Task: Object Detection*
+
+#### Arxiv & Others
+
+* Boosting Deep Open World Recognition by Clustering (IROS/RAL 2020) 
+[[Paper](https://arxiv.org/abs/2004.13849)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2019 Papers
 #### CVPR
@@ -1920,7 +1966,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: MNIST, SVHN, CIFAR10, CIFAR+10, CIFAR+50, TinyImageNet*<br>
 *Task: Image Classification*
 
-* Large-Scale Long-Tailed Recognition in an Open World (CVPR 2019) 
+* Large-Scale Long-Tailed Recognition in an Open World (CVPR 2019 Oral) 
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Large-Scale_Long-Tailed_Recognition_in_an_Open_World_CVPR_2019_paper.pdf)]
 [[Code](https://liuziwei7.github.io/projects/LongTail.html)]<br>
 *Datasets: ImageNet-LT (object-centric), Places-LT (scene-centric),and MS1M-LT (face-centric)*<br>
@@ -1979,6 +2025,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://www.cs.uic.edu/~hxu/)]<br>
 *Datasets:  product descriptions from the Amazon Datasets*<br>
 *Task: Image Classification*
+
+* The Importance of Metric Learning for Robotic Vision: Open Set Recognition and Active Learning (ICRA 2019) 
+[[Paper](https://arxiv.org/abs/1902.10363)]
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
@@ -2041,6 +2091,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 * Polarimetric Synthetic-Aperture-Radar Change-Type Classification With a Hyperparameter-Free Open-Set Classifier (CVPRw 2018) 
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w21/Koch_Polarimetric_Synthetic-Aperture-Radar_Change-Type_CVPR_2018_paper.pdf)]<br>
+
+* Online Open World Recognition (Arxiv 2016) 
+[[Paper](https://arxiv.org/abs/1604.02275)]<br>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novel Class Discovery
@@ -2169,6 +2222,15 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850581.pdf)]<br>
 *Datasets: 1.CIFAR-10 (10 classes), 2. CIFAR-100 (super-classlevel, 20 classes), 3. EMNIST (26 classes) and 4. iNaturalist21 (phylumlevel, 9 classes)*<br>
 *Task: Image Classification*
+
+* Novel Class Discovery without Forgetting (ECCV 2022) 
+[[Paper](https://arxiv.org/abs/2207.10659)]
+
+* Class-incremental Novel Class Discovery (ECCV 2022) 
+[[Paper](https://arxiv.org/abs/2207.08605)]
+
+* Towards Realistic Semi-Supervised Learning (ECCV 2022 Oral) 
+[[Paper](https://arxiv.org/abs/2207.02269)]
 
 #### AAAI
 * Self-Labeling Framework for Novel Category Discovery over Domains (AAAI 2022) 
@@ -2421,6 +2483,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Adversarial Joint-Distribution Learning for Novel Class Sketch-Based Image Retrieval (ICCVw 2019) 
 [[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/MDALC/Pandey_Adversarial_Joint-Distribution_Learning_for_Novel_Class_Sketch-Based_Image_Retrieval_ICCVW_2019_paper.pdf)]
 
+* Unseen Class Discovery in Open-world Classification (Arxiv 2018) 
+[[Paper](https://arxiv.org/abs/1801.05609)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -3639,8 +3703,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+* Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.00040)]
+<!-- #### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML

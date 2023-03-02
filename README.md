@@ -1754,67 +1754,18 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition (Jounal of Imaging 2022) 
 [[Paper](https://arxiv.org/abs/1905.12019)]
 
+* Prompt-driven efficient Open-set Semi-supervised Learning (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2209.14205)]
 
+* OOD Augmentation May Be at Odds with Open-Set Recognition (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2206.04242)]
 
-* One-Class Meta-Learning: Towards Generalizable Few-Shot Open-Set Classification (Arxiv 2021) 
-[[Paper](https://arxiv.org/abs/2109.06859)]
+* Evaluating Uncertainty Calibration for Open-Set Recognition (ICRA 2022) 
+[[Paper](https://arxiv.org/abs/2205.07160)]
 
-* Learning Metrics from Mean Teacher: A Supervised Learning Method for Improving the Generalization of Speaker Verification System (Arxiv 2021) 
-[[Paper](https://arxiv.org/abs/2104.06604)]
+* Knowledge Distillation Meets Open-Set Semi-Supervised Learning (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2205.06701)]
 
-* Open-set Intersection Intention Prediction for Autonomous Driving (ICRA 2021) 
-[[Paper](https://arxiv.org/abs/2103.00140)]
-
-* Open-Set Support Vector Machines (TSMC 2021) 
-[[Paper](https://arxiv.org/abs/1606.03802)]
-
-* Empowering Knowledge Distillation via Open Set Recognition for Robust 3D Point Cloud Classification (Pattern Recognition Letters 2021) 
-[[Paper](https://arxiv.org/abs/2010.13114)]
-
-* Fully Convolutional Open Set Segmentation (Machine Learning 2021) 
-[[Paper](https://link.springer.com/article/10.1007/s10994-021-06027-1)]
-
-
-* Open-set Face Recognition for Small Galleries Using Siamese Networks (IWSSIP 2020) 
-[[Paper](https://arxiv.org/abs/2105.06967)]
-
-* Improved Robustness to Open Set Inputs via Tempered Mixup (ECCVw 2020) 
-[[Paper](https://arxiv.org/abs/2009.04659)]
-
-
-* Adversarial Network with Multiple Classifiers for Open Set Domain Adaptation (TMM 2020) 
-[[Paper](https://arxiv.org/abs/2007.00384)]
-
-* P-ODN: Prototype based Open Deep Network for Open Set Recognition (Scientific Reports 2020) 
-[[Paper](https://arxiv.org/abs/1905.01851)]
-
-
-* One-vs-Rest Network-based Deep Probability Model for Open Set Recognition (Arxiv 2020) 
-[[Paper](https://arxiv.org/abs/2004.08067)]
-
-* Towards Open-Set Semantic Segmentation of Aerial Images (LAGIRS 2020) 
-[[Paper](https://arxiv.org/abs/2001.10063)]
-
-* Open Set Authorship Attribution toward Demystifying Victorian Periodicals (ICDAR 2021) 
-[[Paper](https://arxiv.org/abs/1912.08259)]
-
-* Identifying Unknown Instances for Autonomous Driving (CoRL 2019) 
-[[Paper](https://arxiv.org/abs/1910.11296)]
-
-* Known-class Aware Self-ensemble for Open Set Domain Adaptation (Arxiv 2019) 
-[[Paper](https://arxiv.org/abs/1905.01068)]
-
-
-* Open Set Domain Adaptation for Image and Action Recognition (TPAMI 2018) 
-[[Paper](https://arxiv.org/abs/1907.12865)]
-
-* Dropout Sampling for Robust Object Detection in Open-Set Conditions (ICRA 2018) 
-[[Paper](https://arxiv.org/abs/1710.06677)]
-
-
-
-* Toward an Efficient Multi-class Classification in an Open Universe (Arxiv 2015) 
-[[Paper](https://arxiv.org/abs/1511.00725)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
@@ -1980,6 +1931,36 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Open-Set Multi-Source Multi-Target Domain Adaptation (NeurIPSw 2021) 
 [[Paper](https://arxiv.org/abs/2302.00995)]
 
+* A Unified Benchmark for the Unknown Detection Capability of Deep Neural Networks (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2112.00337)]
+
+* One-Class Meta-Learning: Towards Generalizable Few-Shot Open-Set Classification (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2109.06859)]
+
+* Learning Metrics from Mean Teacher: A Supervised Learning Method for Improving the Generalization of Speaker Verification System (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2104.06604)]
+
+* Open-set Intersection Intention Prediction for Autonomous Driving (ICRA 2021) 
+[[Paper](https://arxiv.org/abs/2103.00140)]
+
+* Open-Set Support Vector Machines (TSMC 2021) 
+[[Paper](https://arxiv.org/abs/1606.03802)]
+
+* Empowering Knowledge Distillation via Open Set Recognition for Robust 3D Point Cloud Classification (Pattern Recognition Letters 2021) 
+[[Paper](https://arxiv.org/abs/2010.13114)]
+
+* Fully Convolutional Open Set Segmentation (Machine Learning 2021) 
+[[Paper](https://link.springer.com/article/10.1007/s10994-021-06027-1)]
+
+* O2D2: Out-Of-Distribution Detector to Capture Undecidable Trials in Authorship Verification (PAN@CLEF 2021) 
+[[Paper](https://arxiv.org/abs/2106.15825)]
+
+* An Empirical Study and Analysis on Open-Set Semi-Supervised Learning (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2101.08237)]
+
+* Open Set Authorship Attribution toward Demystifying Victorian Periodicals (ICDAR 2021) 
+[[Paper](https://arxiv.org/abs/1912.08259)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2020 Papers
 #### CVPR
@@ -2074,6 +2055,27 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Boosting Deep Open World Recognition by Clustering (IROS/RAL 2020) 
 [[Paper](https://arxiv.org/abs/2004.13849)]
 
+* Are Out-of-Distribution Detection Methods Effective on Large-Scale Datasets? (Plos One 2020) 
+[[Paper](https://arxiv.org/abs/1910.14034)]
+
+* Open-set Face Recognition for Small Galleries Using Siamese Networks (IWSSIP 2020) 
+[[Paper](https://arxiv.org/abs/2105.06967)]
+
+* Improved Robustness to Open Set Inputs via Tempered Mixup (ECCVw 2020) 
+[[Paper](https://arxiv.org/abs/2009.04659)]
+
+* Adversarial Network with Multiple Classifiers for Open Set Domain Adaptation (TMM 2020) 
+[[Paper](https://arxiv.org/abs/2007.00384)]
+
+* P-ODN: Prototype based Open Deep Network for Open Set Recognition (Scientific Reports 2020) 
+[[Paper](https://arxiv.org/abs/1905.01851)]
+
+* One-vs-Rest Network-based Deep Probability Model for Open Set Recognition (Arxiv 2020) 
+[[Paper](https://arxiv.org/abs/2004.08067)]
+
+* Towards Open-Set Semantic Segmentation of Aerial Images (LAGIRS 2020) 
+[[Paper](https://arxiv.org/abs/2001.10063)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2019 Papers
 #### CVPR
@@ -2149,38 +2151,21 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Knowledge is Never Enough: Towards Web Aided Deep Open World Recognition (ICRA 2019) 
 [[Paper](https://arxiv.org/abs/1906.01258)]
 
+* Identifying Unknown Instances for Autonomous Driving (CoRL 2019) 
+[[Paper](https://arxiv.org/abs/1910.11296)]
+
+* Known-class Aware Self-ensemble for Open Set Domain Adaptation (Arxiv 2019) 
+[[Paper](https://arxiv.org/abs/1905.01068)]
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-### Older Papers
-* Toward Open Set Recognition (TPAMI 2012) 
-[[Paper](https://ieeexplore.ieee.org/document/6365193)]<br>
-*Datasets: Caltech 256, ImageNet*<br>
-*Task: Image Classification*
+### 2018 Papers
 
-* Multi-class Open Set Recognition Using Probability of Inclusion (ECCV 2014) 
-[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10578-9_26)]<br>
-*Datasets:LETTER, MNIST*<br>
-*Task: Image Classification*
+#### CVPR
 
-* Towards Open World Recognition (CVPR 2015) 
-[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Bendale_Towards_Open_World_2015_CVPR_paper.pdf)]
-[[Code](http://vast.uccs.edu/OpenWorld)]<br>
-*Datasets: ImageNet 2010*<br>
-*Task: Image Classification*
-
-* Towards Open Set Deep Networks (OpenMax) (CVPR 2016) 
-[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf)]<br>
-*Datasets: ILSVRC 2012*<br>
-*Task: Image Classification*
-
-* Generative OpenMax for multi-class open set classification (BMVC 2017) 
-[[Paper](http://www.bmva.org/bmvc/2017/papers/paper042/paper042.pdf)]<br>
-*Datasets: : MNIST, HASYv2*<br>
-*Task: Image Classification*
-
-
-* Open Category Detection with PAC Guarantees (ICML 2018) 
-[[Paper](http://proceedings.mlr.press/v80/liu18e.html)]<br>
-*Datasets: Landsat, Opt.digits, pageb, Shuttle, Covertype and MNIST, Tiny ImageNet*<br>
+* Iterative Learning With Open-Set Noisy Labels (CVPR 2018) 
+[[Paper](http://arxiv.org/abs/1804.00092v1)]<br>
+*Datasets: CIFAR-10+SVHN, CIFAR-10+CIFAR-100 and CIFAR-10+ImageNet3, CIFAR-100/ImageNet32*<br>
 *Task: Image Classification*
 
 * Towards Open-Set Identity Preserving Face Synthesis (CVPR 2018) 
@@ -2188,10 +2173,17 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: MS-Celeb-1M, LFW, Multi-PIE*<br>
 *Task: Object Detection*
 
-* Iterative Learning With Open-Set Noisy Labels (CVPR 2018) 
-[[Paper](http://arxiv.org/abs/1804.00092v1)]<br>
-*Datasets: CIFAR-10+SVHN, CIFAR-10+CIFAR-100 and CIFAR-10+ImageNet3, CIFAR-100/ImageNet32*<br>
+* Polarimetric Synthetic-Aperture-Radar Change-Type Classification With a Hyperparameter-Free Open-Set Classifier (CVPRw 2018) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w21/Koch_Polarimetric_Synthetic-Aperture-Radar_Change-Type_CVPR_2018_paper.pdf)]<br>
+
+#### ICML
+
+* Open Category Detection with PAC Guarantees (ICML 2018) 
+[[Paper](http://proceedings.mlr.press/v80/liu18e.html)]<br>
+*Datasets: Landsat, Opt.digits, pageb, Shuttle, Covertype and MNIST, Tiny ImageNet*<br>
 *Task: Image Classification*
+
+#### ECCV
 
 * Bayesian Semantic Instance Segmentation in Open Set World (ECCV 2018) 
 [[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Trung_Pham_Bayesian_Instance_Segmentation_ECCV_2018_paper.pdf)]<br>
@@ -2208,11 +2200,45 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: Office, VisDA and digits*<br>
 *Task: Domain Adaptation*
 
-* Polarimetric Synthetic-Aperture-Radar Change-Type Classification With a Hyperparameter-Free Open-Set Classifier (CVPRw 2018) 
-[[Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w21/Koch_Polarimetric_Synthetic-Aperture-Radar_Change-Type_CVPR_2018_paper.pdf)]<br>
 
+#### Arxiv & Others
+* Open Set Domain Adaptation for Image and Action Recognition (TPAMI 2018) 
+[[Paper](https://arxiv.org/abs/1907.12865)]
+
+* Dropout Sampling for Robust Object Detection in Open-Set Conditions (ICRA 2018) 
+[[Paper](https://arxiv.org/abs/1710.06677)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
+* Toward Open Set Recognition (TPAMI 2012) 
+[[Paper](https://ieeexplore.ieee.org/document/6365193)]<br>
+*Datasets: Caltech 256, ImageNet*<br>
+*Task: Image Classification*
+
+* Multi-class Open Set Recognition Using Probability of Inclusion (ECCV 2014) 
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10578-9_26)]<br>
+*Datasets:LETTER, MNIST*<br>
+*Task: Image Classification*
+
+* Toward an Efficient Multi-class Classification in an Open Universe (Arxiv 2015) 
+[[Paper](https://arxiv.org/abs/1511.00725)]
 * Online Open World Recognition (Arxiv 2016) 
 [[Paper](https://arxiv.org/abs/1604.02275)]<br>
+
+* Towards Open World Recognition (CVPR 2015) 
+[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Bendale_Towards_Open_World_2015_CVPR_paper.pdf)]
+[[Code](http://vast.uccs.edu/OpenWorld)]<br>
+*Datasets: ImageNet 2010*<br>
+*Task: Image Classification*
+
+* Towards Open Set Deep Networks (OpenMax) (CVPR 2016) 
+[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf)]<br>
+*Datasets: ILSVRC 2012*<br>
+*Task: Image Classification*
+
+* Generative OpenMax for multi-class open set classification (BMVC 2017) 
+[[Paper](http://www.bmva.org/bmvc/2017/papers/paper042/paper042.pdf)]<br>
+*Datasets: : MNIST, HASYv2*<br>
+*Task: Image Classification*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novel Class Discovery

@@ -416,10 +416,28 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Out-of-Distribution Detection
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+#### Surveys
+
+* A Comprehensive Review of Trends, Applications and Challenges In Out-of-Distribution Detection (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2209.12935)]
+
+* Out-Of-Distribution Generalization on Graphs: A Survey (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2202.07987)]
+
+* A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges (TMLR 2023) 
+[[Paper](https://arxiv.org/abs/2110.14051)]
+
+* Generalized Out-of-Distribution Detection: A Survey (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2110.11334)]
+
+* Towards Out-Of-Distribution Generalization: A Survey (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2108.13624)]
+
+* A Survey on Assessing the Generalization Envelope of Deep Neural Networks: Predictive Uncertainty, Out-of-distribution and Adversarial Samples (Arxiv 2020) 
+[[Paper](https://arxiv.org/abs/2008.09381)]
 
 ### 2023 Papers
-#### CVPR
-
+<!-- #### CVPR -->
 
 
 #### ICLR
@@ -1226,6 +1244,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 * A Survey on Open Set Recognition (Arxiv 2021) 
 [[Paper](https://arxiv.org/abs/2109.00893)]
+
+* A Review of Open-World Learning and Steps Toward Open-World Learning Without Labels (Arxiv 2020) 
+[[Paper](https://arxiv.org/abs/2011.12906)]
+
+* Transfer Adaptation Learning: A Decade Survey (Arxiv 2019) 
+[[Paper](https://arxiv.org/abs/1903.04687)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2023 Papers

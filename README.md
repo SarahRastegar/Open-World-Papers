@@ -931,7 +931,19 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
-<!-- #### CVPR-->
+#### CVPR
+* Deep Stable Learning for Out-of-Distribution Generalization (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2104.07876)]
+
+* MOOD: Multi-Level Out-of-Distribution Detection (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2104.14726)]
+
+* MOS: Towards Scaling Out-of-Distribution Detection for Large Semantic Space (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2105.01879)]
+
+* Out-of-Distribution Detection Using Union of 1-Dimensional Subspaces (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.pdf)]
+
 #### ICLR
 * Multiscale Score Matching for Out-of-Distribution Detection (ICLR 2021) 
 [[Paper](https://openreview.net/forum?id=xoHdgbQJohv)]
@@ -1001,6 +1013,30 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR-10, Animal-10, Tiny-ImageNet, CIFAR100*<br>
 *Task: Image Classification*
 
+* Entropy Maximization and Meta Classification for Out-of-Distribution Detection in Semantic Segmentation (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2012.06575)]
+
+* The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2006.16241)]
+
+* MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Dendorfer_MG-GAN_A_Multi-Generator_Model_Preventing_Out-of-Distribution_Samples_in_Pedestrian_Trajectory_ICCV_2021_paper.pdf)]
+
+* Semantically Coherent Out-of-Distribution Detection (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2108.11941)]
+
+* Linguistically Routing Capsule Network for Out-of-Distribution Visual Question Answering (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_Linguistically_Routing_Capsule_Network_for_Out-of-Distribution_Visual_Question_Answering_ICCV_2021_paper.pdf)]
+
+* CODEs: Chamfer Out-of-Distribution Examples Against Overconfidence Issue (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2108.06024)]
+
+* NAS-OoD: Neural Architecture Search for Out-of-Distribution Generalization (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Bai_NAS-OoD_Neural_Architecture_Search_for_Out-of-Distribution_Generalization_ICCV_2021_paper.pdf)]
+
+* Triggering Failures: Out-of-Distribution Detection by Learning From Local Adversarial Attacks in Semantic Segmentation (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2108.01634)]
+
 #### ICML
 
 * Understanding Failures in Out-of-Distribution Detection with Deep Generative Models (ICML 2021) 
@@ -1027,9 +1063,18 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!--#### IEEE-Access
 #### ECCV
 #### AAAI
-#### TPAMI
+#### TPAMI-->
 #### CVPRw
-#### WACV
+* Sample-Free White-Box Out-of-Distribution Detection for Deep Learning (CVPRw 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/TCV/papers/Begon_Sample-Free_White-Box_Out-of-Distribution_Detection_for_Deep_Learning_CVPRW_2021_paper.pdf)]
+
+* Out-of-Distribution Detection and Generation Using Soft Brownian Offset Sampling and Autoencoders (CVPRw 2021) 
+[[Paper](http://arxiv.org/abs/2105.02965)]
+
+* DeVLBert: Out-of-Distribution Visio-Linguistic Pretraining With Causality (CVPRw 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/CiV/papers/Zhang_DeVLBert_Out-of-Distribution_Visio-Linguistic_Pretraining_With_Causality_CVPRW_2021_paper.pdf)]
+
+<!--#### WACV
 #### IJCV-->
 #### BMVC
 
@@ -1039,8 +1084,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR-10/-100 and ImageNet30*<br>
 *Task: Image Classification*
 
-<!--#### ICCw
-#### Arxiv & Others-->
+#### ICCw
+
+* SOoD: Self-Supervised Out-of-Distribution Detection Under Domain Shift for Multi-Class Colorectal Cancer Tissue Types (CVPRw 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021W/CVAMD/papers/Bozorgtabar_SOoD_Self-Supervised_Out-of-Distribution_Detection_Under_Domain_Shift_for_Multi-Class_Colorectal_ICCVW_2021_paper.pdf)]
+
+<!--#### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2020 Papers
 #### CVPR
@@ -1102,6 +1151,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: AWA1, AWA2, CUB, FLO and SUN*<br>
 *Task: Out-of-Distribution Image Classification*
 
+#### CVPRw
+
+* On Out-of-Distribution Detection Algorithms With Deep Neural Skin Cancer Classifiers (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w42/Pacheco_On_Out-of-Distribution_Detection_Algorithms_With_Deep_Neural_Skin_Cancer_Classifiers_CVPRW_2020_paper.pdf)]
+
+* Detection and Retrieval of Out-of-Distribution Objects in Semantic Segmentation (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w20/Oberdiek_Detection_and_Retrieval_of_Out-of-Distribution_Objects_in_Semantic_Segmentation_CVPRW_2020_paper.pdf)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### Older Papers
@@ -1149,6 +1205,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://github.com/ashafaei/OD-test)]<br>
 *Datasets: CIFAR-10, CIFAR-100, MNIST, TinyImageNet, FashionMNIST, STL-10*<br>
 *Task: Out-of-Distribution Image Classification*
+
 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -1717,10 +1774,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 <!--#### IEEE-Access
-#### ECCV
 #### AAAI
-#### TPAMI
-#### CVPRw-->
+#### TPAMI-->
+#### CVPRw
+
+* Addressing Visual Search in Open and Closed Set Settings (CVPRw 2021) 
+[[Paper](http://arxiv.org/abs/2012.06509)]
+
 #### WACV
 
 * Class Anchor Clustering: A Loss for Distance-Based Open Set Recognition (WACV 2021) 
@@ -1893,6 +1953,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CECT, Simulation using PDB2VOL program*<br>
 *Task: Subtomogram Recognition*
 
+#### ICCVw
+
+* Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers? (ICCVw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/SDL-CV/Mundt_Open_Set_Recognition_Through_Deep_Neural_Network_Uncertainty_Does_Out-of-Distribution_ICCVW_2019_paper.pdf)]
+
 #### Arxiv & Others
 * Open-world Learning and Application to Product Classification (WWW 2019) 
 [[Paper](https://arxiv.org/pdf/1809.06004v2.pdf)]
@@ -1959,6 +2024,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: Office, VisDA and digits*<br>
 *Task: Domain Adaptation*
 
+* Polarimetric Synthetic-Aperture-Radar Change-Type Classification With a Hyperparameter-Free Open-Set Classifier (CVPRw 2018) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w21/Koch_Polarimetric_Synthetic-Aperture-Radar_Change-Type_CVPR_2018_paper.pdf)]<br>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novel Class Discovery
@@ -2332,6 +2399,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: PASCAL VOC, COCO*<br>
 *Task: Instance Segmentation*
 
+* Adversarial Joint-Distribution Learning for Novel Class Sketch-Based Image Retrieval (ICCVw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/MDALC/Pandey_Adversarial_Joint-Distribution_Learning_for_Novel_Class_Sketch-Based_Image_Retrieval_ICCVW_2019_paper.pdf)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary

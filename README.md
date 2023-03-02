@@ -420,46 +420,70 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 ### 2023 Papers
 <!-- #### CVPR-->
 #### ICLR
+* Offline RL with No OOD Actions: In-Sample Learning via Implicit Value Regularization (ICLR 2023 top 5%) 
+[[Paper](https://openreview.net/forum?id=boNyg20-JDm)]
+
 * Harnessing Out-Of-Distribution Examples via Augmenting Content and Style (ICLR 2023) 
 [[Paper](https://openreview.net/forum?id=boNyg20-JDm)]<br>
 *Datasets:  SVHN, CIFAR10, LSUN, DTD, CUB, Flowers, Caltech, Dogs*<br>
 
-* Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution (ICLR Oral 2023) 
-[[Paper](https://openreview.net/forum?id=UYneFzXSJWh)]
-[[Code](https://github.com/AnanyaKumar/transfer_learning)]<br>
-*Datasets:  DomainNet, BREEDS-Living-17, BREEDS-Entity-30, CIFAR-10→STL, CIFAR-10→CIFAR-10.1, ImageNet-1K — where the OODtest sets are ImageNetV2, ImageNet-R, ImageNet-A, and ImageNet-Sketch —, FMoW Geo-shift*<br>
+* Out-of-Distribution Detection and Selective Generation for Conditional Language Models (ICLR 2023 top 25%) 
+[[Paper](https://openreview.net/forum?id=kJUS5nD0vPB)]
 
-* Vision-Based Manipulators Need to Also See from Their Hands (ICLR Oral 2023) 
-[[Paper](https://openreview.net/forum?id=RJkAHKp7kNZ)]
-[[Code](https://sites.google.com/view/seeing-from-hands)]<br>
-*Datasets: PyBullet physics engine, Meta-World*<br>
+* A framework for benchmarking Class-out-of-distribution detection and its application to ImageNet (ICLR 2023 top 25%) 
+[[Paper](https://openreview.net/forum?id=Iuubb9W6Jtk)]
 
-* Asymmetry Learning for Counterfactually-invariant Classification in OOD Tasks (ICLR Oral 2023) 
-[[Paper](https://openreview.net/forum?id=avgclFZ221l)]<br>
-*Datasets: MNIST-{3,4},...*<br>
+* Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection (ICLR 2023 top 25%) 
+[[Paper](https://openreview.net/forum?id=mMNimwRb7Gr)]
 
-* Poisoning and Backdooring Contrastive Learning (ICLR Oral 2023) 
-[[Paper](https://openreview.net/forum?id=iC4UHbQ01Mp)]<br>
-*Datasets: Conceptual Captions dataset*<br>
+* Modeling the Data-Generating Process is Necessary for Out-of-Distribution Generalization (ICLR 2023 top 25%) 
+[[Paper](https://openreview.net/forum?id=uyqks-LILZX)]
 
-* Representational Continuity for Unsupervised Continual Learning (ICLR Oral 2023) 
-[[Paper](https://openreview.net/forum?id=9Hrka5PA7LW)]
-[[Code](https://github.com/divyam3897/UCL)]<br>
-*Datasets: Split CIFAR-10, Split CIFAR-100, Split Tiny-ImageNet*<br>
+* Extremely Simple Activation Shaping for Out-of-Distribution Detection (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=ndYXTEL6cZz)]
 
-* Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions (ICLR Spotlight 2023) 
-[[Paper](https://openreview.net/forum?id=tV3N0DWMxCg)]<br>
-*Datasets: Sensorless Drive, MNIST, FMNIST, CIFAR-10*<br>
+* The Tilted Variational Autoencoder: Improving Out-of-Distribution Detection (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=YlGsTZODyjz)]
 
-* Pessimistic Bootstrapping for Uncertainty-Driven Offline Reinforcement Learning (ICLR Spotlight 2023) 
-[[Paper](https://openreview.net/forum?id=Y4cs1Z3HnqL)]
-[[Code](https://github.com/Baichenjia/PBRL)]<br>
-*Datasets: Gym*<br>
+* Pareto Invariant Risk Minimization: Towards Mitigating the Optimization Dilemma in Out-of-Distribution Generalization (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=esFxSb_0pSL)]
 
-* Compositional Attention: Disentangling Search and Retrieval (ICLR Spotlight 2023) 
-[[Paper](https://openreview.net/forum?id=IwJPj2MBcIa)]
-[[Code](https://github.com/sarthmit/Compositional-Attention)]<br>
-*Datasets: Sort-of-CLEVR, CIFAR10, FashionMNIST, SVHN, Equilateral Triangle Detection*<br>
+* Out-of-Distribution Detection based on In-Distribution Data Patterns Memorization with Modern Hopfield Energy (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=KkazG4lgKL)]
+
+* Improving Out-of-distribution Generalization with Indirection Representations (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=0f-0I6RFAch)]
+
+* Out-of-distribution Detection with Implicit Outlier Transformation (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=hdghx6wbGuD)]
+
+* Topology-aware Robust Optimization for Out-of-Distribution Generalization (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=ylMq8MBnAp)]
+
+* Out-of-distribution Representation Learning for Time Series Classification (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=gUZWOE42l6Q)]
+
+* How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection? (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=aEFaE0W5pAd)]
+
+* Energy-based Out-of-Distribution Detection for Graph Neural Networks (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=zoz7Ze4STUL)]
+
+* Don’t forget the nullspace! Nullspace occupancy as a mechanism for out of distribution failure (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=39z0zPZ0AvB)]
+
+* InPL: Pseudo-labeling the Inliers First for Imbalanced Semi-supervised Learning (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=m6ahb1mpwwX)]
+
+* Diversify and Disambiguate: Out-of-Distribution Robustness via Disagreement (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=RVTOp3MwT3n)]
+
+* On the Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning. (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=v8JIQdiN9Sh)]
+
+* Can Agents Run Relay Race with Strangers? Generalization of RL to Out-of-Distribution Trajectories (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=ipflrGaf7ry)]
+
 
 <!--#### NeurIPS
 #### ICCV
@@ -572,6 +596,80 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 #### ICLR
+
+* Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution (ICLR 2022 Oral) 
+[[Paper](https://openreview.net/forum?id=UYneFzXSJWh)]
+[[Code](https://github.com/AnanyaKumar/transfer_learning)]<br>
+*Datasets:  DomainNet, BREEDS-Living-17, BREEDS-Entity-30, CIFAR-10→STL, CIFAR-10→CIFAR-10.1, ImageNet-1K — where the OODtest sets are ImageNetV2, ImageNet-R, ImageNet-A, and ImageNet-Sketch —, FMoW Geo-shift*<br>
+
+* Vision-Based Manipulators Need to Also See from Their Hands (ICLR 2022 Oral) 
+[[Paper](https://openreview.net/forum?id=RJkAHKp7kNZ)]
+[[Code](https://sites.google.com/view/seeing-from-hands)]<br>
+*Datasets: PyBullet physics engine, Meta-World*<br>
+
+* Asymmetry Learning for Counterfactually-invariant Classification in OOD Tasks (ICLR 2022 Oral) 
+[[Paper](https://openreview.net/forum?id=avgclFZ221l)]<br>
+*Datasets: MNIST-{3,4},...*<br>
+
+* Poisoning and Backdooring Contrastive Learning (ICLR 2022 Oral) 
+[[Paper](https://openreview.net/forum?id=iC4UHbQ01Mp)]<br>
+*Datasets: Conceptual Captions dataset*<br>
+
+* Representational Continuity for Unsupervised Continual Learning (ICLR 2022 Oral) 
+[[Paper](https://openreview.net/forum?id=9Hrka5PA7LW)]
+[[Code](https://github.com/divyam3897/UCL)]<br>
+*Datasets: Split CIFAR-10, Split CIFAR-100, Split Tiny-ImageNet*<br>
+
+* Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions (ICLR 2022 Spotlight) 
+[[Paper](https://openreview.net/forum?id=tV3N0DWMxCg)]<br>
+*Datasets: Sensorless Drive, MNIST, FMNIST, CIFAR-10*<br>
+
+* Pessimistic Bootstrapping for Uncertainty-Driven Offline Reinforcement Learning (ICLR 2022 Spotlight) 
+[[Paper](https://openreview.net/forum?id=Y4cs1Z3HnqL)]
+[[Code](https://github.com/Baichenjia/PBRL)]<br>
+*Datasets: Gym*<br>
+
+* Compositional Attention: Disentangling Search and Retrieval (ICLR Spotlight 2022) 
+[[Paper](https://openreview.net/forum?id=IwJPj2MBcIa)]
+[[Code](https://github.com/sarthmit/Compositional-Attention)]<br>
+*Datasets: Sort-of-CLEVR, CIFAR10, FashionMNIST, SVHN, Equilateral Triangle Detection*<br>
+
+* Asymmetry Learning for Counterfactually-invariant Classification in OOD Tasks? (ICLR 2022 Oral)
+[[Paper](https://openreview.net/forum?id=avgclFZ221l)]
+
+* Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution (ICLR 2022 Oral)
+[[Paper](https://openreview.net/forum?id=UYneFzXSJWh)]
+
+* Vision-Based Manipulators Need to Also See from Their Hands (ICLR 2022 Oral)
+[[Paper](https://openreview.net/forum?id=RJkAHKp7kNZ)]
+
+* Uncertainty Modeling for Out-of-Distribution Generalization (ICLR 2022)
+[[Paper](https://openreview.net/forum?id=6HN7LHyzGgC)]
+
+* Igeood: An Information Geometry Approach to Out-of-Distribution Detection (ICLR 2022)
+[[Paper](https://openreview.net/forum?id=mfwdY3U_9ea)]
+
+* Revisiting flow generative models for Out-of-distribution detection (ICLR 2022)
+[[Paper](https://openreview.net/forum?id=6y2KBh-0Fd9)]
+
+* Invariant Causal Representation Learning for Out-of-Distribution Generalization (ICLR 2022)
+[[Paper](https://openreview.net/forum?id=-e4EXDWXnSn)]
+
+* PI3NN: Out-of-distribution-aware Prediction Intervals from Three Neural Networks (ICLR 2022)
+[[Paper](https://openreview.net/forum?id=NoB8YgRuoFU)]
+
+* A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks (ICLR 2022)
+[[Paper](https://openreview.net/forum?id=Oy9WeuZD51)]
+
+* Leveraging unlabeled data to predict out-of-distribution performance (ICLR 2022)
+[[Paper](https://openreview.net/forum?id=o_HsiMPYh_x)]
+
+* Out-of-distribution Generalization in the Presence of Nuisance-Induced Spurious Correlations (ICLR 2022)
+[[Paper](https://openreview.net/forum?id=12RoR2o32T)]
+
+* The Role of Pretrained Representations for the OOD Generalization of RL Agents (ICLR 2022)
+[[Paper](https://openreview.net/forum?id=8eb12UQYxrG)]
+
 #### NeurIPS
 * Is Out-of-Distribution Detection Learnable? (NeurIPS 2022 Outstanding) 
 [[Paper](https://neurips.cc/virtual/2022/poster/55375)]
@@ -670,6 +768,33 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR10, CIFAR100 (ID), SVHN, Textures, Places365, LSUN-Crop, LSUN-Resize*<br>
 *Task: Image Classification*
 
+* Model Agnostic Sample Reweighting for Out-of-Distribution Learning (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/17867)]
+
+* Predicting Out-of-Distribution Error with the Projection Norm (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/17655)]
+
+* Fishr: Invariant Gradient Variances for Out-of-Distribution Generalization (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/17213)]
+
+* POEM: Out-of-Distribution Detection with Posterior Sampling (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/16651)]
+
+* Improved StyleGAN-v2 based Inversion for Out-of-Distribution Images (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/17161)]
+
+* Scaling Out-of-Distribution Detection for Real-World Settings (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/16907)]
+
+* Breaking Down Out-of-Distribution Detection: Many Methods Based on OOD Training Data Estimate a Combination of the Same Core Quantities (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/17469)]
+
+* Improving Out-of-Distribution Robustness via Selective Augmentation (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/18011)]
+
+* Out-of-Distribution Detection with Deep Nearest Neighbors (ICML 2022) 
+[[Paper](https://icml.cc/virtual/2022/poster/16493)]
+
 <!-- #### IEEE-Access-->
 #### ECCV
 
@@ -722,6 +847,31 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20812/version/19109/20571)]<br>
 *Datasets: CIFAR-10, CIFAR-100, SVHN and TinyImageNet*<br>
 *Task: Image Classification*
+
+* Provable Guarantees for Understanding Out-of-distribution Detection (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AAAI3913.html)]
+
+* On the Impact of Spurious Correlation for Out-of-Distribution Detection (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AAAI4486.html)]
+
+* OoDHDR-Codec: Out-of-Distribution Generalization for HDR Image Compression (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AAAI8610.html)]
+
+* Zero-Shot Out-of-Distribution Detection Based on the Pre-Trained Model CLIP (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AAAI10297.html)]
+
+* iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AAAI12912.html)]
+
+* Exploiting Mixed Unlabeled Data for Detecting Samples of Seen and Unseen Out-of-Distribution Classes (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AAAI6640.html)]
+
+* VITA: A Multi-Source Vicinal Transfer Augmentation Method for Out-of-Distribution Generalization (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AAAI733.html)]
+
+* Learning Modular Structures That Generalize Out-of-Distribution (Student Abstract) (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_SA398.html)]
+
 
 <!-- #### TPAMI-->
 #### CVPRw
@@ -781,17 +931,100 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
-<!-- #### CVPR
+<!-- #### CVPR-->
 #### ICLR
-#### NeurIPS-->
+* Multiscale Score Matching for Out-of-Distribution Detection (ICLR 2021) 
+[[Paper](https://openreview.net/forum?id=xoHdgbQJohv)]
+
+* In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness (ICLR 2021) 
+[[Paper](https://openreview.net/forum?id=jznizqvr15J)]
+
+* Understanding the failure modes of out-of-distribution generalization (ICLR 2021) 
+[[Paper](https://openreview.net/forum?id=fSTD6NFIW_b)]
+
+* Removing Undesirable Feature Contributions Using Out-of-Distribution Data (ICLR 2021) 
+[[Paper](https://openreview.net/forum?id=eIHYL6fpbkA)]
+
+#### NeurIPS
+* Out-of-Distribution Generalization in Kernel Regression (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/28011)]
+
+* Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/26541)]
+
+* STEP: Out-of-Distribution Detection in the Presence of Limited In-Distribution Labeled Data (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/28380)]
+
+* The Out-of-Distribution Problem in Explainability and Search Methods for Feature Importance Explanations
+ (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/27019)]
+
+* A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/26319)]
+
+* Locally Most Powerful Bayesian Test for Out-of-Distribution Detection using Deep Generative Models (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/28170)]
+
+* Task-Agnostic Undesirable Feature Deactivation Using Out-of-Distribution Data (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/33051)]
+
+* Exploring the Limits of Out-of-Distribution Detection (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/27825)]
+
+* ReAct: Out-of-distribution Detection With Rectified Activations (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/27015)]
+
+* Learning Causal Semantic Representation for Out-of-Distribution Prediction (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/27172)]
+
+* Towards a Theoretical Framework of Out-of-Distribution Generalization (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/27952)]
+
+* Characterizing Generalization under Out-Of-Distribution Shifts in Deep Metric Learning (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/28292)]
+
+* Single Layer Predictive Normalized Maximum Likelihood for Out-of-Distribution Detection (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/28421)]
+
+* On the Out-of-distribution Generalization of Probabilistic Image Modelling (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/28832)]
+
+* POODLE: Improving Few-shot Learning via Penalizing Out-of-Distribution Samples (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/26921)]
+
+* Towards optimally abstaining from prediction with OOD test examples (NeurIPS 2021) 
+[[Paper](https://neurips.cc/virtual/2021/poster/28648)]
+
 #### ICCV
 * Trash To Treasure: Harvesting OOD Data With Cross-Modal Matching for Open-Set Semi-Supervised Learning (ICCV 2021) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Trash_To_Treasure_Harvesting_OOD_Data_With_Cross-Modal_Matching_for_ICCV_2021_paper.pdf)]<br>
 *Datasets: CIFAR-10, Animal-10, Tiny-ImageNet, CIFAR100*<br>
 *Task: Image Classification*
 
-<!--#### ICML
-#### IEEE-Access
+#### ICML
+
+* Understanding Failures in Out-of-Distribution Detection with Deep Generative Models (ICML 2021) 
+[[Paper](https://icml.cc/virtual/2021/poster/9421)]
+
+* Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization (ICML 2021) 
+[[Paper](https://icml.cc/virtual/2021/poster/8741)]
+
+* Out-of-Distribution Generalization via Risk Extrapolation (REx) (ICML 2021) 
+[[Paper](https://icml.cc/virtual/2021/poster/9185)]
+
+* Can Subnetwork Structure Be the Key to Out-of-Distribution Generalization? (ICML 2021) 
+[[Paper](https://icml.cc/virtual/2021/poster/9481)]
+
+* Accuracy on the Line: on the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization (ICML 2021) 
+[[Paper](https://icml.cc/virtual/2021/poster/9243)]
+
+* Amortized Conditional Normalized Maximum Likelihood: Reliable Out of Distribution Uncertainty Estimation (ICML 2021) 
+[[Paper](https://icml.cc/virtual/2021/poster/9305)]
+
+* Improved OOD Generalization via Adversarial Training and Pretraing (ICML 2021) 
+[[Paper](https://icml.cc/virtual/2021/poster/10511)]
+
+<!--#### IEEE-Access
 #### ECCV
 #### AAAI
 #### TPAMI
@@ -808,6 +1041,69 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 <!--#### ICCw
 #### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2020 Papers
+#### CVPR
+
+* Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2002.11297)]<br>
+*Datasets: CIFAR10, CIFAR100, SVHN, TinyImageNet, LSUN and iSUN, DomainNet*<br>
+*Task: Out-of-Distribution Image Classification*
+
+#### ICLR
+
+* Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models (ICLR 2020) 
+[[Paper](https://openreview.net/forum?id=SyxIWpVYvr)]
+[[Code](https://paperswithcode.com/paper/?openreview=SyxIWpVYvr)]<br>
+*Datasets: CIFAR-10, CIFAR-100, CelebA, Fashion-MNIST, ImageNet, SVHN*<br>
+*Task: Out-of-Distribution Image Classification*
+
+* Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks (ICLR 2020 Oral) 
+[[Paper](https://openreview.net/forum?id=rkeZIJBYvr)]
+[[Code](https://github.com/haebeom-lee/l2b)]<br>
+*Datasets: CIFAR-10, CIFAR-100, CIFAR-FS, miniImageNet, SVHN, CUB, Aircraft, QuickDraw, and VGG-Flower, Traffic Signs, Fashion-MNIST*<br>
+*Task: Out-of-Distribution Image Classification*
+
+#### NeurIPS
+
+* Why Normalizing Flows Fail to Detect Out-of-Distribution Data (NeurIPS 2020) 
+[[Paper](https://neurips.cc/virtual/2020/poster/18088)]
+
+* Certifiably Adversarially Robust Detection of Out-of-Distribution Data (NeurIPS 2020) 
+[[Paper](https://neurips.cc/virtual/2020/poster/18869)]
+
+* Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder (NeurIPS 2020) 
+[[Paper](https://neurips.cc/virtual/2020/poster/16848)]
+
+* Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples (NeurIPS 2020) 
+[[Paper](https://neurips.cc/virtual/2020/poster/17642)]
+
+* Energy-based Out-of-distribution Detection (NeurIPS 2020) 
+[[Paper](https://neurips.cc/virtual/2020/poster/17313)]
+
+* On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law (NeurIPS 2020) 
+[[Paper](https://neurips.cc/virtual/2020/poster/16833)]
+
+* OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification (NeurIPS 2020) 
+[[Paper](https://neurips.cc/virtual/2020/poster/17004)]
+
+#### ICML
+
+* Detecting Out-of-Distribution Examples with Gram Matrices (ICML 2020) 
+[[Paper](https://arxiv.org/abs/1912.12510)]
+[[Code](https://github.com/VectorInstitute/gram-ood-detection)]<br>
+*Datasets: CIFAR10, CIFAR100, MNIST, SVHN, TinyImageNet, LSUN and iSUN*<br>
+*Task: Out-of-Distribution Image Classification*
+
+#### ECCV
+
+* A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf)]<br>
+*Datasets: AWA1, AWA2, CUB, FLO and SUN*<br>
+*Task: Out-of-Distribution Image Classification*
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
 ### Older Papers
 * Enhancing the reliability of out-of-distribution image detection in neural networks (ICLR 2018) 
 [[Paper](https://openreview.net/pdf?id=H1VGkIxRZ)]
@@ -854,33 +1150,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR-10, CIFAR-100, MNIST, TinyImageNet, FashionMNIST, STL-10*<br>
 *Task: Out-of-Distribution Image Classification*
 
-* A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning (ECCV 2020) 
-[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf)]<br>
-*Datasets: AWA1, AWA2, CUB, FLO and SUN*<br>
-*Task: Out-of-Distribution Image Classification*
-
-* Detecting Out-of-Distribution Examples with Gram Matrices (ICML 2020) 
-[[Paper](https://arxiv.org/abs/1912.12510)]
-[[Code](https://github.com/VectorInstitute/gram-ood-detection)]<br>
-*Datasets: CIFAR10, CIFAR100, MNIST, SVHN, TinyImageNet, LSUN and iSUN*<br>
-*Task: Out-of-Distribution Image Classification*
-
-* Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data (CVPR 2020) 
-[[Paper](http://arxiv.org/abs/2002.11297)]<br>
-*Datasets: CIFAR10, CIFAR100, SVHN, TinyImageNet, LSUN and iSUN, DomainNet*<br>
-*Task: Out-of-Distribution Image Classification*
-
-* Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models (ICLR 2020) 
-[[Paper](https://openreview.net/forum?id=SyxIWpVYvr)]
-[[Code](https://paperswithcode.com/paper/?openreview=SyxIWpVYvr)]<br>
-*Datasets: CIFAR-10, CIFAR-100, CelebA, Fashion-MNIST, ImageNet, SVHN*<br>
-*Task: Out-of-Distribution Image Classification*
-
-* Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks (ICLR 2020 Oral) 
-[[Paper](https://openreview.net/forum?id=rkeZIJBYvr)]
-[[Code](https://github.com/haebeom-lee/l2b)]<br>
-*Datasets: CIFAR-10, CIFAR-100, CIFAR-FS, miniImageNet, SVHN, CUB, Aircraft, QuickDraw, and VGG-Flower, Traffic Signs, Fashion-MNIST*<br>
-*Task: Out-of-Distribution Image Classification*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open-Set Recognition 

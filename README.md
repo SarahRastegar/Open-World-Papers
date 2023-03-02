@@ -1564,6 +1564,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: SemanticKITTI, nuScenes*<br>
 *Task: Semantic Segmentation on LIDAR Point Clouds*
 
+* OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning	(ECCV 2022)
+[[Paper](https://arxiv.org/abs/2207.02261)]<br>
+
+
 #### AAAI
 * Learngene: From Open-World to Your Learning Task	(AAAI 2022)
 [[Paper](https://arxiv.org/abs/2106.06788v3)]<br>
@@ -1661,6 +1665,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://arxiv.org/abs/2203.03329v1)]<br>
 *Datasets: Office-31, Office-Home, DomainNet*<br>
 *Task: Image Classification and Domain Adaptation*
+
+* Discovering Implicit Classes Achieves Open Set Domain Adaptation (ICME 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9859594)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR

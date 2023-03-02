@@ -2269,7 +2269,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Surveys
 * Novel Class Discovery: an Introduction and Key Concepts (Arxiv 2023) 
-[[Paper](https://arxiv.org/abs/2302.12028)]<br>
+[[Paper](https://arxiv.org/abs/2302.12028)]
+
+* Deep Class-Incremental Learning: A Survey (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.03648)]
 
 
 ### 2023 Papers

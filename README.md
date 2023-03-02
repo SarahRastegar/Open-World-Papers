@@ -1224,6 +1224,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges (TMLR 2023) 
 [[Paper](https://arxiv.org/abs/2110.14051)]
 
+* A Survey on Open Set Recognition (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2109.00893)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2023 Papers
 <!-- #### CVPR-->
@@ -1734,6 +1737,36 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 * Open-Set Recognition with Gradient-Based Representations (ICIP 2022) 
 [[Paper](https://arxiv.org/abs/2206.08229)]
+
+* Open-set Adversarial Defense with Clean-Adversarial Mutual Learning (IJCV 2022) 
+[[Paper](https://arxiv.org/abs/2202.05953)]
+
+* Collective Decision of One-vs-Rest Networks for Open Set Recognition (TNNLS 2022) 
+[[Paper](https://arxiv.org/abs/2103.10230)]
+
+* One-Class Meta-Learning: Towards Generalizable Few-Shot Open-Set Classification (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2109.06859)]
+
+* Learning Metrics from Mean Teacher: A Supervised Learning Method for Improving the Generalization of Speaker Verification System (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2104.06604)]
+
+* Open-set Intersection Intention Prediction for Autonomous Driving (ICRA 2021) 
+[[Paper](https://arxiv.org/abs/2103.00140)]
+
+* Incremental Learning from Low-labelled Stream Data in Open-Set Video Face Recognition (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2012.09571)]
+
+* Open-set Face Recognition for Small Galleries Using Siamese Networks (IWSSIP 2020) 
+[[Paper](https://arxiv.org/abs/2105.06967)]
+
+* Improved Robustness to Open Set Inputs via Tempered Mixup (ECCVw 2020) 
+[[Paper](https://arxiv.org/abs/2009.04659)]
+
+* Empowering Knowledge Distillation via Open Set Recognition for Robust 3D Point Cloud Classification (Arxiv 2020) 
+[[Paper](https://arxiv.org/abs/2010.13114)]
+
+* Extended T: Learning with Mixed Closed-set and Open-set Noisy Labels (Arxiv 2020) 
+[[Paper](https://arxiv.org/abs/2012.00932)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR

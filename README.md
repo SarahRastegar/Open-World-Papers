@@ -1687,6 +1687,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!-- 
 #### ICCVw -->
 #### Arxiv & Others 
+
+* Extended T: Learning with Mixed Closed-set and Open-set Noisy Labels (TPAMI 2023) 
+[[Paper](https://arxiv.org/abs/2012.00932)]
+
+
 * Open Set Domain Adaptation By Novel Class Discovery (ICME 2022) 
 [[Paper](https://arxiv.org/abs/2203.03329v1)]<br>
 *Datasets: Office-31, Office-Home, DomainNet*<br>
@@ -1704,8 +1709,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Multi-Attribute Open Set Recognition (GCPR 2022) 
 [[Paper](https://arxiv.org/abs/2208.06809)]
 
-
-* Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models (Arxiv 2022) 
+* Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models (Conference on Robot Learning 2022) 
 [[Paper](https://arxiv.org/abs/2207.11514)]
 
 * Uncertainty for Identifying Open-Set Errors in Visual Object Detection (IROS/RAL 2022) 
@@ -1744,6 +1748,14 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Collective Decision of One-vs-Rest Networks for Open Set Recognition (TNNLS 2022) 
 [[Paper](https://arxiv.org/abs/2103.10230)]
 
+* Incremental Learning from Low-labelled Stream Data in Open-Set Video Face Recognition (Pattern Recognition 2022) 
+[[Paper](https://arxiv.org/abs/2012.09571)]
+
+* Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition (Jounal of Imaging 2022) 
+[[Paper](https://arxiv.org/abs/1905.12019)]
+
+
+
 * One-Class Meta-Learning: Towards Generalizable Few-Shot Open-Set Classification (Arxiv 2021) 
 [[Paper](https://arxiv.org/abs/2109.06859)]
 
@@ -1753,8 +1765,15 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Open-set Intersection Intention Prediction for Autonomous Driving (ICRA 2021) 
 [[Paper](https://arxiv.org/abs/2103.00140)]
 
-* Incremental Learning from Low-labelled Stream Data in Open-Set Video Face Recognition (Arxiv 2021) 
-[[Paper](https://arxiv.org/abs/2012.09571)]
+* Open-Set Support Vector Machines (TSMC 2021) 
+[[Paper](https://arxiv.org/abs/1606.03802)]
+
+* Empowering Knowledge Distillation via Open Set Recognition for Robust 3D Point Cloud Classification (Pattern Recognition Letters 2021) 
+[[Paper](https://arxiv.org/abs/2010.13114)]
+
+* Fully Convolutional Open Set Segmentation (Machine Learning 2021) 
+[[Paper](https://link.springer.com/article/10.1007/s10994-021-06027-1)]
+
 
 * Open-set Face Recognition for Small Galleries Using Siamese Networks (IWSSIP 2020) 
 [[Paper](https://arxiv.org/abs/2105.06967)]
@@ -1762,11 +1781,41 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Improved Robustness to Open Set Inputs via Tempered Mixup (ECCVw 2020) 
 [[Paper](https://arxiv.org/abs/2009.04659)]
 
-* Empowering Knowledge Distillation via Open Set Recognition for Robust 3D Point Cloud Classification (Arxiv 2020) 
-[[Paper](https://arxiv.org/abs/2010.13114)]
 
-* Extended T: Learning with Mixed Closed-set and Open-set Noisy Labels (Arxiv 2020) 
-[[Paper](https://arxiv.org/abs/2012.00932)]
+* Adversarial Network with Multiple Classifiers for Open Set Domain Adaptation (TMM 2020) 
+[[Paper](https://arxiv.org/abs/2007.00384)]
+
+* P-ODN: Prototype based Open Deep Network for Open Set Recognition (Scientific Reports 2020) 
+[[Paper](https://arxiv.org/abs/1905.01851)]
+
+
+* One-vs-Rest Network-based Deep Probability Model for Open Set Recognition (Arxiv 2020) 
+[[Paper](https://arxiv.org/abs/2004.08067)]
+
+* Towards Open-Set Semantic Segmentation of Aerial Images (LAGIRS 2020) 
+[[Paper](https://arxiv.org/abs/2001.10063)]
+
+* Open Set Authorship Attribution toward Demystifying Victorian Periodicals (ICDAR 2021) 
+[[Paper](https://arxiv.org/abs/1912.08259)]
+
+* Identifying Unknown Instances for Autonomous Driving (CoRL 2019) 
+[[Paper](https://arxiv.org/abs/1910.11296)]
+
+* Known-class Aware Self-ensemble for Open Set Domain Adaptation (Arxiv 2019) 
+[[Paper](https://arxiv.org/abs/1905.01068)]
+
+
+* Open Set Domain Adaptation for Image and Action Recognition (TPAMI 2018) 
+[[Paper](https://arxiv.org/abs/1907.12865)]
+
+* Dropout Sampling for Robust Object Detection in Open-Set Conditions (ICRA 2018) 
+[[Paper](https://arxiv.org/abs/1710.06677)]
+
+
+
+* Toward an Efficient Multi-class Classification in an Open Universe (Arxiv 2015) 
+[[Paper](https://arxiv.org/abs/1511.00725)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR

@@ -1293,6 +1293,13 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!--#### IJCV
 #### BMVC
 #### ICCw -->
+#### WACVw
+* Dealing With the Novelty in Open Worlds (WACVw 2023) 
+[[Workshop](https://openaccess.thecvf.com/WACV2023_workshops/DNOW)]
+
+* MetaMax: Improved Open-Set Deep Neural Networks via Weibull Calibration (WACVw 2023) 
+[[Paper](http://arxiv.org/abs/2211.10872)]
+
 #### Arxiv & Others 
 * OpenCon: Open-world Contrastive Learning (TMLR 2023) 
 [[Paper](https://openreview.net/forum?id=2wWJxtpFer)]
@@ -2074,6 +2081,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 <!--#### IJCV
 #### BMVC
 #### ICCw-->
+#### WACVw
+* Uncertainty Aware Proposal Segmentation for Unknown Object Detection (WACVw 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022W/DNOW/papers/Li_Uncertainty_Aware_Proposal_Segmentation_for_Unknown_Object_Detection_WACVW_2022_paper.pdf)]
+
 #### Arxiv & Others
 * Zero-Knowledge Zero-Shot Learning for Novel Visual Category Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2302.04427v1)]<br>

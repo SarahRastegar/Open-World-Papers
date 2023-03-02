@@ -2225,7 +2225,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CIFAR10, CIFAR100, OmniGlot, ImageNet*<br>
 *Task: Image Classification*
 
-* A Method for Discovering Novel Classes in Tabular Data (Arxiv 2022) 
+* A Method for Discovering Novel Classes in Tabular Data (ICKG 2022) 
 [[Paper](https://arxiv.org/abs/2209.01217v3)]<br>
 *Datasets: ForestCover Type, Letter Recognition, Human Activity Recognition, Satimage, Pen-Based Handwritten Digits Recognition, 1990 US Census Data, MNIST*<br>
 *Task: Tabular Data Classification*

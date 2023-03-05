@@ -1251,6 +1251,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Transfer Adaptation Learning: A Decade Survey (Arxiv 2019) 
 [[Paper](https://arxiv.org/abs/1903.04687)]
 
+* A Survey of Open-World Person Re-Identification (IEEE Transactions on Circuits and Systems for Video Technology 2020) 
+[[Paper](https://ieeexplore.ieee.org/document/8640834/)]
+
+* Biometric-Enabled Authentication Machines: A Survey of Open-Set Real-World Applications (IEEE Transactions on Human-Machine Systems 2016) 
+[[Paper](https://ieeexplore.ieee.org/document/7103330/)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2023 Papers
 <!-- #### CVPR-->
@@ -1297,9 +1303,16 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICML
 #### IEEE-Access
 #### ECCV
-#### AAAI
+#### AAAI-->
 #### TPAMI
-#### CVPRw-->
+
+* Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition (TPAMI 2023) 
+[[Paper](https://ieeexplore.ieee.org/document/9978641/)]
+
+* Extended T: Learning with Mixed Closed-set and Open-set Noisy Labels (TPAMI 2023) 
+[[Paper](https://arxiv.org/abs/2012.00932)]
+
+<!--#### CVPRw-->
 #### WACV
 * MORGAN: Meta-Learning-Based Few-Shot Open-Set Recognition via Generative Adversarial Network (WACV 2023) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Pal_MORGAN_Meta-Learning-Based_Few-Shot_Open-Set_Recognition_via_Generative_Adversarial_Network_WACV_2023_paper.pdf)]
@@ -1357,6 +1370,22 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 * Open-Set Automatic Target Recognition (ICASSP 2023 Submission) 
 [[Paper](https://arxiv.org/abs/2211.05883)]
+
+* Spatial-Temporal Exclusive Capsule Network for Open Set Action Recognition (IEEE Transactions on Multimedia 2023) 
+[[Paper](https://ieeexplore.ieee.org/document/10058554/)]
+
+
+* Multi-resolution Fusion Convolutional Network for Open Set Human Activity Recognition (IEEE Internet of Things Journal 2023) 
+[[Paper](https://ieeexplore.ieee.org/document/10040612/)]
+
+* Open-Set Object Detection Using Classification-Free Object Proposal and Instance-Level Contrastive Learning (IEEE Robotics and Automation Letters 2023) 
+[[Paper](https://ieeexplore.ieee.org/document/10035923/)]
+
+* An Open-Set Modulation Recognition Scheme with Deep Representation Learning (IEEE Communications Letters 2023) 
+[[Paper](https://ieeexplore.ieee.org/document/10034661/)]
+
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
@@ -1617,6 +1646,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning	(ECCV 2022)
 [[Paper](https://arxiv.org/abs/2207.02261)]<br>
 
+* Open-world Semantic Segmentation for LIDAR Point Clouds (ECCV 2022) 
+[[Paper](https://arxiv.org/abs/2207.01452)]
 
 #### AAAI
 * Learngene: From Open-World to Your Learning Task	(AAAI 2022)
@@ -1645,6 +1676,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Code](https://liuziwei7.github.io/projects/LongTail.html)]<br>
 *Datasets: CIFAR-10-LT,CIFAR-100-LT, and iNaturalist-18, Places-LT,  MS1M-LT, SUN-LT*<br>
 *Task: Image Classification*
+
+* Convolutional Prototype Network for Open Set Recognition (TPAMI 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9296325/)]
 
 #### CVPRw
 
@@ -1712,10 +1746,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 #### ICCVw -->
 #### Arxiv & Others 
 
-* Extended T: Learning with Mixed Closed-set and Open-set Noisy Labels (TPAMI 2023) 
-[[Paper](https://arxiv.org/abs/2012.00932)]
-
-
 * Open Set Domain Adaptation By Novel Class Discovery (ICME 2022) 
 [[Paper](https://arxiv.org/abs/2203.03329v1)]<br>
 *Datasets: Office-31, Office-Home, DomainNet*<br>
@@ -1757,8 +1787,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2207.11514)]
 
-* Open-world Semantic Segmentation for LIDAR Point Clouds (ECCV 2022) 
-[[Paper](https://arxiv.org/abs/2207.01452)]
+
 
 * Dummy Prototypical Networks for Few-Shot Open-Set Keyword Spotting (INTERSPEECH 2022) 
 [[Paper](https://arxiv.org/abs/2206.13691)]
@@ -1790,7 +1819,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Knowledge Distillation Meets Open-Set Semi-Supervised Learning (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2205.06701)]
 
+* Spectral-Spatial Latent Reconstruction for Open-Set Hyperspectral Image Classification (IEEE Transactions on Image Processing 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9846880/)]
 
+* Deep-Learning-Based Open Set Fault Diagnosis by Extreme Value Theory (IEEE Transactions on Industrial Informatics 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9394793/)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR
@@ -1911,8 +1944,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Image Classification*
 
 <!--#### IEEE-Access
-#### AAAI
-#### TPAMI-->
+#### AAAI-->
+#### TPAMI
+* Adversarial Reciprocal Points Learning for Open Set Recognition (TPAMI 2021) 
+[[Paper](https://arxiv.org/abs/2103.00953)]
+
 #### CVPRw
 
 * Addressing Visual Search in Open and Closed Set Settings (CVPRw 2021) 
@@ -1985,6 +2021,25 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Open Set Authorship Attribution toward Demystifying Victorian Periodicals (ICDAR 2021) 
 [[Paper](https://arxiv.org/abs/1912.08259)]
 
+* Siamese Network-based Open Set Identification of Communications Emitters with Comprehensive Features (CCISP 2021) 
+[[Paper](https://ieeexplore.ieee.org/document/9639257/)]
+
+* Recurrent Variational Open-Set Recognition (URTC 2021) 
+[[Paper](https://ieeexplore.ieee.org/document/9701621/)]
+
+* Unsupervised Domain Alignment Based Open Set Structural Recognition of Macromolecules Captured By Cryo-Electron Tomography (ICIP 2021) 
+[[Paper](https://ieeexplore.ieee.org/document/9506205/)]
+
+* The Open Set Weighted Domain Adaptation Method for Fault Diagnosis of Rolling Bearings (PHM-Nanjing 2021) 
+[[Paper](https://ieeexplore.ieee.org/document/9612979/)]
+
+* Open Set Domain Adaptation: Theoretical Bound and Algorithm (IEEE Transactions on Neural Networks and Learning Systems 2021) 
+[[Paper](https://ieeexplore.ieee.org/document/9186366/)]
+
+
+
+* Open-Set Human Identification Based on Gait Radar Micro-Doppler Signatures (IEEE Sensors Journal 2021) 
+[[Paper](https://ieeexplore.ieee.org/document/9328322/)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2020 Papers
 #### CVPR
@@ -2100,6 +2155,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Towards Open-Set Semantic Segmentation of Aerial Images (LAGIRS 2020) 
 [[Paper](https://arxiv.org/abs/2001.10063)]
 
+* Centralized Large Margin Cosine Loss for Open-Set Deep Palmprint Recognition (IEEE Transactions on Circuits and Systems for Video Technology 2020) 
+[[Paper](https://ieeexplore.ieee.org/document/8666165/)]
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2019 Papers
 #### CVPR
@@ -2181,7 +2240,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Known-class Aware Self-ensemble for Open Set Domain Adaptation (Arxiv 2019) 
 [[Paper](https://arxiv.org/abs/1905.01068)]
 
+* An In-Depth Study on Open-Set Camera Model Identification (IEEE Access 2019) 
+[[Paper](https://ieeexplore.ieee.org/document/8732341)][[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:U82yfTB1vB4J:scholar.google.com/&output=citation&scisdr=CgUQSzlhEN2xp5YPcDE:AAGBfm0AAAAAZAUJaDF8XeMxgJAVVHASTNGQ82hlaSKB&scisig=AAGBfm0AAAAAZAUJaG0cnmsWVpkqZUMg21wDVJCy2xlR&scisf=4&ct=citation&cd=-1&hl=en])
 
+* Open Set Incremental Learning for Automatic Target Recognition (IEEE Transactions on Geoscience and Remote Sensing 2019) 
+[[Paper](https://ieeexplore.ieee.org/document/8631004/)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2018 Papers
 
@@ -2231,6 +2294,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 
 * Dropout Sampling for Robust Object Detection in Open-Set Conditions (ICRA 2018) 
 [[Paper](https://arxiv.org/abs/1710.06677)]
+
+* The Extreme Value Machine (TPAMI 2018) 
+[[Paper](https://ieeexplore.ieee.org/document/7932895/)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
 * Toward Open Set Recognition (TPAMI 2012) 
@@ -2263,6 +2329,26 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](http://www.bmva.org/bmvc/2017/papers/paper042/paper042.pdf)]<br>
 *Datasets: : MNIST, HASYv2*<br>
 *Task: Image Classification*
+
+* Probability Models for Open Set Recognition (TPAMI 2014) 
+[[Paper](https://ieeexplore.ieee.org/document/6809169/)]
+
+* Open Set Domain Adaptation (ICCV 2017) 
+[[Paper](https://ieeexplore.ieee.org/document/8237350/)]
+
+* Sparse Representation-Based Open Set Recognition (TPAMI 2017) 
+[[Paper](https://ieeexplore.ieee.org/document/7577876/)]
+
+* Towards unsupervised open-set person re-identification (ICIP 2016) 
+[[Paper](https://ieeexplore.ieee.org/document/7532461/)]
+
+* Detecting and classifying scars, marks, and tattoos found in the wild (BTAS 2012) 
+[[Paper](https://ieeexplore.ieee.org/document/6374555/)]
+
+* Toward Open-Set Face Recognition (CVPRw 2017) 
+[[Paper](https://ieeexplore.ieee.org/document/8014819/)]
+
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novel Class Discovery
@@ -2505,6 +2591,11 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: CLINC, Web of Science (WOS), HWU64*<br>
 *Task: Text Classification*
 
+* Novel Class Discovery: A Dependency Approach (ICASSP 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9747827/)]
+
+* Discovering Novel Categories in Sar Images in Open Set Conditions (IGARSS 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9883175/)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR

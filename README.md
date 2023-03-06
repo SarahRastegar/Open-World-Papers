@@ -22,6 +22,7 @@ Without further due, let us dive into the fantastic and challenging world of unc
 - [Anomaly Detection](#Anomaly-Detection)
 - [Zero-Shot Learning Videos](#Zero-Shot-Learning-Videos)  
 - [Out-of-Distribution Detection Videos](#Out-of-Distribution-Detection-Videos) 
+- [Open-Set Recognition Videos](#Open-Set-Recognition-Videos)
 - [Novel Class Discovery Videos](#Novel-Class-Discovery-Videos)
 - [Open Vocabulary Videos](#Open-Vocabulary-Videos)
 - [Fine Grained Videos](#Fine-Grained-Videos)

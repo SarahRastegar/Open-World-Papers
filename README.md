@@ -2270,7 +2270,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://arxiv.org/abs/1905.01068)]
 
 * An In-Depth Study on Open-Set Camera Model Identification (IEEE Access 2019) 
-[[Paper](https://ieeexplore.ieee.org/document/8732341)][[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:U82yfTB1vB4J:scholar.google.com/&output=citation&scisdr=CgUQSzlhEN2xp5YPcDE:AAGBfm0AAAAAZAUJaDF8XeMxgJAVVHASTNGQ82hlaSKB&scisig=AAGBfm0AAAAAZAUJaG0cnmsWVpkqZUMg21wDVJCy2xlR&scisf=4&ct=citation&cd=-1&hl=en])
+[[Paper](https://ieeexplore.ieee.org/document/8732341)]
 
 * Open Set Incremental Learning for Automatic Target Recognition (IEEE Transactions on Geoscience and Remote Sensing 2019) 
 [[Paper](https://ieeexplore.ieee.org/document/8631004/)]

@@ -1312,6 +1312,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Extended T: Learning with Mixed Closed-set and Open-set Noisy Labels (TPAMI 2023) 
 [[Paper](https://arxiv.org/abs/2012.00932)]
 
+* Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation (TPAMI 2023) 
+[[Paper](https://ieeexplore.ieee.org/document/10048580/)]
+
+* From Instance to Metric Calibration: A Unified Framework for Open-World Few-Shot Learning (TPAMI 2023) 
+[[Paper](https://ieeexplore.ieee.org/document/10041935/)]
+
 <!--#### CVPRw-->
 #### WACV
 * MORGAN: Meta-Learning-Based Few-Shot Open-Set Recognition via Generative Adversarial Network (WACV 2023) 
@@ -1680,6 +1686,20 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Convolutional Prototype Network for Open Set Recognition (TPAMI 2022) 
 [[Paper](https://ieeexplore.ieee.org/document/9296325/)]
 
+* Class-Specific Semantic Reconstruction for Open Set Recognition (TPAMI 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9864101/)]
+
+* OpenGAN: Open-Set Recognition Via Open Data Generation (TPAMI 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9799769/)]
+
+* Open World Entity Segmentation (TPAMI 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9976289/)]
+
+* Bayesian Embeddings for Few-Shot Open World Recognition (TPAMI 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9875990/)]
+
+* Learning Graph Embeddings for Open World Compositional Zero-Shot Learning (TPAMI 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9745371/)]
 #### CVPRw
 
 * Variable Few Shot Class Incremental and Open World Learning (CVPRw 2022) 
@@ -1775,8 +1795,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * One-Shot Open-Set Skeleton-Based Action Recognition (IEEE International Conference on Humanoid Robots 2022) 
 [[Paper](https://arxiv.org/abs/2209.04288)]
 
-* Open Long-Tailed Recognition in a Dynamic World (TPAMI 2022) 
-[[Paper](https://arxiv.org/abs/2208.08349)]
 
 * From Known to Unknown: Quality-aware Self-improving Graph Neural Network for Open Set Social Event Detection (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2208.06973)]
@@ -1949,6 +1967,10 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Adversarial Reciprocal Points Learning for Open Set Recognition (TPAMI 2021) 
 [[Paper](https://arxiv.org/abs/2103.00953)]
 
+* Polyhedral Conic Classifiers for Computer Vision Applications and Open Set Recognition (TPAMI 2021) 
+[[Paper](https://ieeexplore.ieee.org/document/8798888/)]
+
+
 #### CVPRw
 
 * Addressing Visual Search in Open and Closed Set Settings (CVPRw 2021) 
@@ -2036,8 +2058,6 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Open Set Domain Adaptation: Theoretical Bound and Algorithm (IEEE Transactions on Neural Networks and Learning Systems 2021) 
 [[Paper](https://ieeexplore.ieee.org/document/9186366/)]
 
-
-
 * Open-Set Human Identification Based on Gait Radar Micro-Doppler Signatures (IEEE Sensors Journal 2021) 
 [[Paper](https://ieeexplore.ieee.org/document/9328322/)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -2076,6 +2096,9 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://arxiv.org/abs/2006.12087)]<br>
 *Datasets: Office-Home, VisDA-17, Syn2Real-O*<br>
 *Task: Domain Adaptation*
+
+
+
 #### ECCV
 
 * Hybrid Models for Open Set Recognition (ECCV 2020) 
@@ -2120,6 +2143,12 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600562.pdf)]<br>
 *Datasets: Office-31 and Office-Home, VisDA, DomainNet*<br>
 *Task: Domain Adaptation*
+<!--#### IEEE-Access
+#### AAAI-->
+#### TPAMI
+
+* Vocabulary-Informed Zero-Shot and Open-Set Learning (TPAMI 2020) 
+[[Paper](https://ieeexplore.ieee.org/document/8734786/)]
 
 #### WACV
 
@@ -2348,7 +2377,8 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 * Toward Open-Set Face Recognition (CVPRw 2017) 
 [[Paper](https://ieeexplore.ieee.org/document/8014819/)]
 
-
+* Towards Open-World Person Re-Identification by One-Shot Group-Based Verification (TPAMI 2016) 
+[[Paper](https://ieeexplore.ieee.org/document/7152932/)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novel Class Discovery

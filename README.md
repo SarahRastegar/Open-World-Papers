@@ -4956,3 +4956,5 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Datasets: ImageNet, tieredImageNet, and miniImageNet for source domain similarity to ImageNet: Places,CUB,Cars,Plantae,EuroSAT,CropDisease,ISIC,ChestX*<br>
 *Task: Active Learning*
 
+* Self-organization in a perceptual network (Info-max)(IEEE 1988) 
+[[Paper](https://ieeexplore.ieee.org/document/36)]<br>

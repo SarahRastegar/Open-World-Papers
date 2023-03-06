@@ -4088,7 +4088,7 @@ Telsa scientists are relieved that their autopilot model is ready to be employed
 *Task: Action Recognition*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-##  Open-set Recognition Videos
+##  Open-Set Recognition Videos
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers

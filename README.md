@@ -2665,7 +2665,7 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 *Datasets: D2AwA; IAwA2*<br>
 *Task: Image Classification*
 
-* A Unified Objective for Novel Class Discovery (ICCV 2021) 
+* A Unified Objective for Novel Class Discovery (ICCV 2021 Oral) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fini_A_Unified_Objective_for_Novel_Class_Discovery_ICCV_2021_paper.pdf)]
 [[Code](https://ncd-uno.github.ioc)]<br>
 *Datasets: CIFAR10; CIFAR100-20; CIFAR100-50; ImageNet*<br>

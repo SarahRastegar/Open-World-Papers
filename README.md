@@ -2467,6 +2467,11 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 *Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Herbarium19*<br>
 *Task: Image Classification*
 
+* Parametric Classification for Generalized Category Discovery: A Baseline Study (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2211.11727v2)]
+[[Code](https://github.com/CVMI-Lab/SimGCD)]<br>
+*Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Herbarium19*<br>
+*Task: Image Classification*
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR

@@ -3932,6 +3932,12 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 * Zero-Shot Action Recognition in Videos: A Survey (Neurocomputing 2021) 
 [[Paper](https://arxiv.org/abs/1909.06423)]<br>
 
+* A Review of Generalized Zero-Shot Learning Methods (TPAMI 2022) 
+[[Paper](https://arxiv.org/abs/2011.08641)]<br>
+
+* Generalized Zero-Shot Learning for Action Recognition with Web-Scale Video Data (Arxiv 2017) 
+[[Paper](https://arxiv.org/abs/1710.07455)]<br>
+
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR

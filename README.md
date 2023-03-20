@@ -4969,3 +4969,10 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 
 * Self-organization in a perceptual network (Info-max)(IEEE 1988) 
 [[Paper](https://ieeexplore.ieee.org/document/36)]<br>
+
+
+* Mutual Information-Based Temporal Difference Learning for Human Pose Estimation in Video (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.08475)]<br>
+
+* Upcycling Models under Domain and Category Shift (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.07110)]<br>

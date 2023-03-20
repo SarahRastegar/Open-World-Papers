@@ -4231,6 +4231,13 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+
+* Conditional Extreme Value Theory for Open Set Video Domain Adaptation (MMAsia 2021) 
+[[Paper](https://dl.acm.org/doi/10.1145/3469877.3490600)]<br>
+
+* Dual Metric Discriminator for Open Set Video Domain Adaptation (ICASSP 2021) 
+[[Paper](https://ieeexplore.ieee.org/document/9413361)]<br> 
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
 * Specifying weight priors in bayesian deep neural networks with empirical bayes (AAAI 2020) 
@@ -4273,6 +4280,7 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 [[Code](https://github.com/xhp-hust-2018-2011/S-DCNet)]<br>
 *Datasets: Synthesized Cell Counting, UCF-QNRF, ShanghaiTech, UCFCC50, TRANCOS and MTC*<br>
 *Task: Visual Counting*
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ##  Novel Class Discovery Videos
 <!----------------------------------------------------------------------------------------------------------------------------------------------->

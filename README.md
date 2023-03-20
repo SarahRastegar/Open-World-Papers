@@ -2154,6 +2154,11 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600562.pdf)]<br>
 *Datasets: Office-31 and Office-Home, VisDA, DomainNet*<br>
 *Task: Domain Adaptation*
+
+* Adaptive Object Detection with Dual Multi-Label Prediction (ECCV 2020) 
+[[Paper](https://arxiv.org/abs/2003.12943)]<br>
+
+
 <!--#### IEEE-Access
 #### AAAI-->
 #### TPAMI
@@ -2230,6 +2235,10 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_Weakly_Supervised_Open-Set_Domain_Adaptation_by_Dual-Domain_Collaboration_CVPR_2019_paper.pdf)]<br>
 *Datasets: DukeMTMC-reID, Office*<br>
 *Task: Domain Adaptation*
+
+* FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery (CVPR 2019 Oral) 
+[[Paper](https://arxiv.org/abs/1811.11155)]<br>
+
 
 #### NeurIPS
 * Learning Factorized Representations for Open-set Domain Adaptation (NeurIPS 2019) 
@@ -2327,16 +2336,23 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 *Datasets: Office, VisDA and digits*<br>
 *Task: Domain Adaptation*
 
+* Improving Generalization via Scalable Neighborhood Component Analysis (ECCV 2018) 
+[[Paper](https://arxiv.org/abs/1808.04699)]<br>
 
-#### Arxiv & Others
+#### TPAMI
 * Open Set Domain Adaptation for Image and Action Recognition (TPAMI 2018) 
 [[Paper](https://arxiv.org/abs/1907.12865)]
+
+* The Extreme Value Machine (TPAMI 2018) 
+[[Paper](https://ieeexplore.ieee.org/document/7932895/)]
+
+
+#### Arxiv & Others
 
 * Dropout Sampling for Robust Object Detection in Open-Set Conditions (ICRA 2018) 
 [[Paper](https://arxiv.org/abs/1710.06677)]
 
-* The Extreme Value Machine (TPAMI 2018) 
-[[Paper](https://ieeexplore.ieee.org/document/7932895/)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
 * Toward Open Set Recognition (TPAMI 2012) 
@@ -2794,12 +2810,19 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 
 * Unseen Class Discovery in Open-world Classification (Arxiv 2018) 
 [[Paper](https://arxiv.org/abs/1801.05609)]
+
+* A probabilistic constrained clustering for transfer learning and image category discovery (CVPRw 2018) 
+[[Paper](https://arxiv.org/abs/1806.11078)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR-->
+#### CVPR
+
+* Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models (CVPRw 2023) 
+[[Paper](https://arxiv.org/abs/2303.04803)]
+
 #### ICLR
 * Open-vocabulary Object Detection via Vision and Language Knowledge Distillation	(ICLR 2023) 
 [[Paper](https://openreview.net/forum?id=lL3lnMbR4WU)]

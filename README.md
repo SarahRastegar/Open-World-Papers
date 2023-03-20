@@ -2166,6 +2166,10 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 * Vocabulary-Informed Zero-Shot and Open-Set Learning (TPAMI 2020) 
 [[Paper](https://ieeexplore.ieee.org/document/8734786/)]
 
+* Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice (TPAMI 2020) 
+[[Paper](https://arxiv.org/abs/2002.08681)]
+[[Code](https://github.com/YBZh/MultiClassDA)]<br>
+
 #### WACV
 
 * The Overlooked Elephant of Object Detection: Open Set (WACV 2020) 
@@ -2190,6 +2194,7 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 
 * Adversarial Network with Multiple Classifiers for Open Set Domain Adaptation (TMM 2020) 
 [[Paper](https://arxiv.org/abs/2007.00384)]
+[[Code](https://github.com/tasfia/DAMC)]<br>
 
 * P-ODN: Prototype based Open Deep Network for Open Set Recognition (Scientific Reports 2020) 
 [[Paper](https://arxiv.org/abs/1905.01851)]
@@ -2203,6 +2208,14 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 * Centralized Large Margin Cosine Loss for Open-Set Deep Palmprint Recognition (IEEE Transactions on Circuits and Systems for Video Technology 2020) 
 [[Paper](https://ieeexplore.ieee.org/document/8666165/)]
 
+* Joint Partial Optimal Transport for Open Set Domain Adaptation (IJCAI 2020) 
+[[Paper](https://www.ijcai.org/Proceedings/2020/0352.pdf)]
+
+* Collaborative Training of Balanced Random Forests for Open Set Domain Adaptation (Arxiv 2020) 
+[[Paper](https://arxiv.org/abs/2002.03642v1)]
+
+* Known-class Aware Self-ensemble for Open Set Domain Adaptation (Arxiv 2020) 
+[[Paper](https://arxiv.org/abs/1905.01068v1)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2019 Papers
@@ -2240,8 +2253,8 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 [[Paper](https://arxiv.org/abs/1811.11155)]<br>
 
 
-#### NeurIPS
-* Learning Factorized Representations for Open-set Domain Adaptation (NeurIPS 2019) 
+#### ICLR
+* Learning Factorized Representations for Open-set Domain Adaptation (ICLR 2019) 
 [[Paper](https://openreview.net/forum?id=SJe3HiC5KX)]<br>
 *Datasets: Bing(B), Caltech256(C), ImageNet(I) and SUN(S), hence referred to as BCIS, Office, namely Amazon(A), DSLR(D) and Webcam(W)*<br>
 *Task: Image Classification*
@@ -3915,6 +3928,9 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Zero-Shot Learning Videos
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Surveys
+* Zero-Shot Action Recognition in Videos: A Survey (Neurocomputing 2021) 
+[[Paper](https://arxiv.org/abs/1909.06423)]<br>
 
 ### 2023 Papers
 <!-- #### CVPR

@@ -3220,9 +3220,35 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 *Datasets: GrainSpace*<br>
 *Task: Grain Appearance Inspection (GAI)*
 
-<!-- #### ICLR
+#### ICLR
+
+* A Fine-Grained Analysis on Distribution Shift (ICLR 2022 Oral) 
+[[Paper](https://openreview.net/forum?id=Dl4LetuLdyK)]<br>
+
+* Superclass-Conditional Gaussian Mixture Model For Learning Fine-Grained Embeddings (ICLR 2022 Spotlight) 
+[[Paper](https://openreview.net/forum?id=vds4SNooOe)]<br>
+
+* Contrastive Fine-grained Class Clustering via Generative Adversarial Networks (ICLR 2022 Spotlight) 
+[[Paper](https://openreview.net/forum?id=XWODe7ZLn8f)]<br>
+
+* FILIP: Fine-grained Interactive Language-Image Pre-Training (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=cpDhcsEDC2)]<br>
+
 #### NeurIPS
-#### ICCV
+
+* Relational Proxies: Emergent Relationships as Fine-Grained Discriminators (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=xONqm0NUJc)]<br>
+
+* Fine-Grained Semantically Aligned Vision-Language Pre-Training (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=yam42JWePu)]<br>
+
+* Structuring Uncertainty for Fine-Grained Sampling in Stochastic Segmentation Networks (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=odOQU9PYrkD)]<br>
+
+* Learning Efficient Vision Transformers via Fine-Grained Manifold Distillation (NeurIPS 2022) 
+[[Paper](https://openreview.net/forum?id=crFMP5irwzn)]<br>
+
+<!-- #### ICCV
 #### ICML
 #### IEEE-Access-->
 #### ECCV
@@ -3358,9 +3384,25 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_Learning_Deep_Classifiers_Consistent_With_Fine-Grained_Novelty_Detection_CVPR_2021_paper.pdf)]<br>
 *Datasets: small- and large-scale FGVC*<br>
 *Task: Novelty Detection*
-<!--#### ICLR
+#### ICLR
+
+* Learning N:M Fine-grained Structured Sparse Neural Networks From Scratch (ICLR 2021) 
+[[Paper](https://openreview.net/forum?id=K9bw7vqp_s)]<br>
+
 #### NeurIPS
-#### ICCV
+* A2-Net: Learning Attribute-Aware Hash Codes for Large-Scale Fine-Grained Image Retrieval (NeurIPS 2021 Spotlight) 
+[[Paper](https://openreview.net/forum?id=mIki_kyHpLb)]<br>
+
+* Fine-Grained Zero-Shot Learning with DNA as Side Information (NeurIPS 2021) 
+[[Paper](https://openreview.net/forum?id=RqAzAoL8BER)]<br>
+
+* Weak-shot Fine-grained Classification via Similarity Transfer (NeurIPS 2021) 
+[[Paper](https://openreview.net/forum?id=wDJUUcCTNI2)]<br>
+
+* Landmark-RxR: Solving Vision-and-Language Navigation with Fine-Grained Alignment Supervision (NeurIPS 2021) 
+[[Paper](https://openreview.net/forum?id=41QJ--DLjoD)]<br>
+
+<!--#### ICCV
 #### ICML
 #### IEEE-Access
 #### ECCV
@@ -3395,14 +3437,57 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 *Datasets: CaltechUCSD (CUB-200-2011) Birds, Stanford Dogs, FGVC-Aircraft*<br>
 *Task: Image Classification*
 
+* Fine-Grained Dynamic Head for Object Detection (NeurIPS 2020) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/7f6caf1f0ba788cd7953d817724c2b6e-Abstract.html)]<br>
+
+* No Subclass Left Behind: Fine-Grained Robustness in Coarse-Grained Classification Problems (NeurIPS 2020) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/e0688d13958a19e087e123148555e4b4-Abstract.html)]<br>
+
+* Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition (NeurIPS 2020) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/e58cc5ca94270acaceed13bc82dfedf7-Abstract.html)]<br>
+
+* Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition (NeurIPS 2019) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2019/hash/418ef6127e44214882c61e372e866691-Abstract.html)]<br>
+
+* Learning Deep Bilinear Transformation for Fine-grained Image Representation (NeurIPS 2019) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2019/hash/959ef477884b6ac2241b19ee4fb776ae-Abstract.html)]<br>
+
+* Fine-grained Optimization of Deep Neural Networks (NeurIPS 2019) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2019/hash/c2626d850c80ea07e7511bbae4c76f4b-Abstract.html)]<br>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Long Tail
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR
+<!-- #### CVPR -->
 #### ICLR
+* CUDA: Curriculum of Data Augmentation for Long-tailed Recognition (ICLR 2023 top 25%) 
+[[Paper](https://openreview.net/forum?id=RgUPdudkWlN)]<br>
+*Datasets: CIFAR-100-LT, ImageNet-LT, iNaturalist 2018*<br>
+*Task: Image Classification*
+
+* Decoupled Training for Long-Tailed Classification With Stochastic Representations (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=bcYZwYo-0t)]<br>
+
+* Long-Tailed Partial Label Learning via Dynamic Rebalancing (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=sXfWoK4KvSW)]<br>
+
+* Long-Tailed Learning Requires Feature Learning (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=S-h1oFv-mq)]<br>
+
+* LPT: Long-tailed Prompt Tuning for Image Classification (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=8pOVAeo8ie)]<br>
+
+* Delving into Semantic Scale Imbalance (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=07tc5kKRIo)]<br>
+
+* On the Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning. (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=v8JIQdiN9Sh)]<br>
+
+* Temperature Schedules for self-supervised contrastive methods on long-tail data (ICLR 2023) 
+[[Paper](https://openreview.net/forum?id=ejHUr4nfHhD)]<br>
+
 #### NeurIPS
 #### ICCV
 #### ICML
@@ -3518,7 +3603,10 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 *Datasets: CIFAR-10-LT & CIFAR-100-LT; ImageNet-LT; iNaturalist; Places-LT*<br>
 *Task: Image Classification*
 
-<!-- #### ICLR-->
+#### ICLR
+* Optimal Transport for Long-Tailed Recognition with Learnable Cost Matrix (ICLR 2022) 
+[[Paper](https://openreview.net/forum?id=t98k9ePQQpn)]<br>
+
 #### NeurIPS
 * Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition (NeurIPS 2022) 
 [[Paper](https://arxiv.org/abs/2107.09249)]
@@ -3675,9 +3763,15 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
-<!--#### CVPR
+<!--#### CVPR-->
 #### ICLR
-#### NeurIPS
+* Long-tail learning via logit adjustment (ICLR 2021 Spotlight) 
+[[Paper](https://openreview.net/forum?id=37nvvqkCo5)]<br>
+
+* Long-tailed Recognition by Routing Diverse Distribution-Aware Experts (ICLR 2021 Spotlight) 
+[[Paper](https://openreview.net/forum?id=D9I3drBz4UC)]<br>
+
+<!--#### NeurIPS
 #### ICCV
 #### ICML
 #### IEEE-Access 

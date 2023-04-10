@@ -1270,7 +1270,65 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2023 Papers
-<!-- #### CVPR-->
+#### CVPR
+* Detecting Everything in the Open World: Towards Universal Object Detection (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.11749)]
+
+* Annealing-based Label-Transfer Learning for Open World Object Detection (CVPR 2023) 
+[[Paper]]
+
+* Glocal Energy-based Learning for Few-Shot Open-Set Recognition (CVPR 2023) 
+[[Paper]]
+
+* OpenMix: Exploring Outlier Samples for Misclassification Detection (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.17093)]
+
+* CapDet: Unifying Dense Captioning and Open-World Detection Pretraining (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.02489)]
+
+* Open-set Fine-grained Retrieval via Prompting Vision-Language Evaluator (CVPR 2023) 
+[[Paper](https://readpaper.com/paper/1608794558669368064)]
+
+* Open-Set Representation Learning through Combinatorial Embedding (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2106.15278)]
+
+* PROB: Probabilistic Objectness for Open World Object Detection (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2212.01424)]
+
+* GLIGEN: Open-Set Grounded Text-to-Image Generation (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2301.07093)]
+
+* Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2212.00785)]
+
+* Open-Set Likelihood Maximization for Few-Shot Learning (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2301.08390)]
+
+* Adjustment and Alignment for Unbiased Open Set Domain Adaptation (CVPR 2023) 
+[[Paper]]
+
+* Coreset Sampling from Open-Set for Fine-Grained Self-Supervised Learning (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.11101)]
+
+* Progressive Open Space Expansion for Open Set Model Attribution (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.06877)]
+
+* Cascade Evidential Learning for Open-world Weakly-supervised Temporal Action Localization (CVPR 2023) 
+[[Paper]]
+
+* Open-set Semantic Segmentation for Point Clouds via Adversarial Prototype Framework (CVPR 2023) 
+[[Paper]]
+
+* Towards Open-World Segmentation of Parts (CVPR 2023) 
+[[Paper]]
+
+* Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2301.10034)]
+
+* CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2301.01970)]
+
+
 #### ICLR
 * Towards Open Temporal Graph Neural Networks (ICLR 2023 top 5%) 
 [[Paper](https://openreview.net/forum?id=N9Pk5iSCzAn)]<br>
@@ -1815,7 +1873,6 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 
 * Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2207.11514)]
-
 
 
 * Dummy Prototypical Networks for Few-Shot Open-Set Keyword Spotting (INTERSPEECH 2022) 
@@ -2433,10 +2490,14 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 
 ### 2023 Papers
 #### CVPR
+* Open-Category Human-Object Interaction Pre-training via Language Modeling Framework (CVPR 2023) 
+[[Paper]]
+
 * Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2210.03591)]<br>
 *Datasets: CIFAR-10, CIFAR-100, and ImageNet, CIFAR100-50, CIFAR100-20*<br>
 *Task: Image Classification*
+
 
 #### ICLR
 * Effective Cross-instance Positive Relations for Generalized Category Discovery (ICLR 2023 Submission) 
@@ -2832,9 +2893,78 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 
 ### 2023 Papers
 #### CVPR
+* OpenScene: 3D Scene Understanding with Open Vocabularies (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2211.15654)]
 
-* Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models (CVPRw 2023) 
+* Open-Vocabulary Point-Cloud Object Detection without 3D Annotation (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2304.00788)]
+
+* Learning to Generate Language-supervised and Open-vocabulary Scene Graph using Pre-trained Visual-Semantic Space (CVPR 2023) 
+[[Paper]]
+
+* Side Adapter Network for Open-Vocabulary Semantic Segmentation (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2302.12242)]
+
+* Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.04803)]
+
+* Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.16891)]
+
+* Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2210.04150)]
+
+* Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers (CVPR 2023) 
+[[Paper]]
+
+* Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.05892)]
+
+* Aligning Bag of Regions for Open-Vocabulary Object Detection (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2302.13996)]
+
+* Open-set Fine-grained Retrieval via Prompting Vision-Language Evaluator (CVPR 2023) 
+[[Paper](https://readpaper.com/paper/1608794558669368064)]
+
+* Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2212.04994)]
+
+* FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.17225)]
+
+* GLIGEN: Open-Set Grounded Text-to-Image Generation (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2301.07093)]
+
+* DetCLIPv2: Scalable Open-Vocabulary Object Detection Pre-training via Word-Region Alignment (CVPR 2023) 
+[[Paper]]
+
+* OvarNet: Towards Open-vocabulary Object Attribute Recognition (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2301.09506)]
+
+* PLA: Language-Driven Open-Vocabulary 3D Scene Understanding (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2211.16312)]
+
+* Open-vocabulary Attribute Detection (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2211.12914)]
+
+* Learning Open-vocabulary Semantic Segmentation Models From Natural Language Supervision (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2301.09121)]
+
+* Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2212.00785)]
+
+* CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.13076)]
+
+* OVTrack: Open-Vocabulary Multiple Object Tracking (CVPR 2023) 
+[[Paper]]
+
+* Learning to Detect and Segment for Open Vocabulary Object Detection (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2212.12130)]
+
+* Learning to Detect and Segment for Open Vocabulary Object Detection (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2212.12130)]
+
 
 #### ICLR
 * Open-vocabulary Object Detection via Vision and Language Knowledge Distillation	(ICLR 2023) 
@@ -2848,9 +2978,11 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 #### IEEE-Access
 #### ECCV
 #### AAAI
-#### TPAMI
+#### TPAMI-->
 #### CVPRw
-#### WACV
+* Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models (CVPRw 2023) 
+[[Paper](https://arxiv.org/abs/2303.04803)]
+<!--#### WACV
 #### IJCV
 #### BMVC
 #### ICCw -->
@@ -4247,8 +4379,23 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+
+* Enlarging Instance-specific and Class-specific Information for Open-set Action Recognition (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.15467)]
+
+* AutoLabel: CLIP-based framework for Open-set Video Domain Adaptation (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2304.01110)]
+
+* Open Set Action Recognition via Multi-Label Evidential Learning (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.12698)]
+
+* OpenGait: Revisiting Gait Recognition Towards Better Practicality (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2211.06597)]
+
+* Open-Category Human-Object Interaction Pre-training via Language Modeling Framework (CVPR 2023) 
+[[Paper]]
+<!-- #### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML
@@ -4402,11 +4549,16 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+
+* Open-Category Human-Object Interaction Pre-training via Language Modeling Framework (CVPR 2023) 
+[[Paper]]
+<!-- #### ICLR
 #### NeurIPS
 #### ICCV
-#### ICML* AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise (CVPRw 2022) 
+#### ICML
+
+* AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise (CVPRw 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)]
 [[Code](https://github.com/Julian-Wyatt/AnoDDPM)]<br>
 *Datasets: MVTec AD*<br>
@@ -4521,7 +4673,13 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR-->
+#### CVPR
+
+* Open-Category Human-Object Interaction Pre-training via Language Modeling Framework (CVPR 2023) 
+[[Paper]]
+
+* Being Comes from Not-being: Open-vocabulary Text-to-Motion Generation with Wordless Training (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2210.15929)]
 #### ICLR
 * The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition (ICLR 2023) 
 [[Paper](https://openreview.net/pdf?id=xLr0I_xYGAs)]<br>
@@ -4541,8 +4699,8 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 #### ICCw
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-### 2022 Papers
-<!-- #### CVPR
+<!--### 2022 Papers
+ #### CVPR
 #### ICLR
 #### NeurIPS
 #### ICCV
@@ -4558,8 +4716,8 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 #### ICCw
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-### 2021 Papers
-<!-- #### CVPR
+<!--### 2021 Papers
+ #### CVPR
 #### ICLR
 #### NeurIPS
 #### ICCV

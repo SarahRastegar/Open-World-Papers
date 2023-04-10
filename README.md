@@ -3312,7 +3312,57 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR -->
+#### CVPR
+
+* Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.01219)]
+
+* DeCo : Decomposition and Reconstruction for Compositional Temporal Grounding via Coarse-to-Fine Contrastive Ranking (CVPR 2023) 
+[[Paper]]
+
+* Exploiting Unlabelled Photos for Stronger Fine-Grained SBIR (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.13779)]
+
+* Fine-Grained Face Swapping via Regional GAN Inversion (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2211.14068)]
+
+* Learning Attribute and Class Specific Representation Duet for Fine-grained Fashion Analysis (CVPR 2023) 
+[[Paper]]
+
+* Learning Common Rationale to Improve Self-Supervised Representation for Fine-Grained Visual Recognition Problems (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.01669)]
+
+* FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training (CVPR 2023) 
+[[Paper]]
+
+* Fine-grained Image-text Matching by Cross-modal Hard Aligning Network (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2008.05231)]
+
+* Open-set Fine-grained Retrieval via Prompting Vision-Language Evaluator (CVPR 2023) 
+[[Paper](https://readpaper.com/paper/1608794558669368064)]
+
+* Weakly Supervised Posture Mining for Fine-grained Classification (CVPR 2023) 
+[[Paper]]
+
+* Hierarchical Fine-Grained Image Forgery Detection and Localization (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.17111)]
+
+* Coreset Sampling from Open-Set for Fine-Grained Self-Supervised Learning (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.11101)]
+
+* CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.13440)]
+
+* Fine-Grained Classification with Noisy Labels (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.02404)]
+
+* An Erudite Fine-Grained Visual Classification Model (CVPR 2023) 
+[[Paper]]
+
+* Fine-Grained Classification with Noisy Labels (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.02404)]
+
+
 #### ICLR
 * This Looks Like It Rather Than That: ProtoKNN For Similarity-Based Classifiers (ICLR 2023) 
 [[Paper](https://openreview.net/forum?id=lh-HRYxuoRr)]<br>
@@ -4812,8 +4862,33 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2023 Papers
-<!-- #### CVPR
-#### ICLR
+#### CVPR
+* On the Difficulty of Unpaired Infrared-to-Visible Video Translation: Fine-Grained Content-Rich Patches Transfer (CVPR 2023) 
+[[Paper]]
+
+* ANetQA: A Large-scale Benchmark for Fine-grained Compositional Reasoning over Untrimmed Videos (CVPR 2023) 
+[[Paper]]
+
+* MELTR: Meta Loss Transformer for Learning to Fine-tune Video Foundation Models (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.13009)]
+
+
+* Modeling Video as Stochastic Processes for Fine-Grained Video Representation Learning (CVPR 2023) 
+[[Paper]]
+
+* Class Prototypes based Contrastive Learning for Classifying Multi-Label and Fine-Grained Educational Videos (CVPR 2023) 
+[[Paper]]
+
+* Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2211.14506)]
+
+
+* Focus On Details: Online Multi-object Tracking with Diverse Fine-grained Representation (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2302.14589)]
+
+* Fine-grained Audible Video Description (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.15616)]
+<!-- #### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML
@@ -4915,8 +4990,8 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 #### ICCw
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-### 2021 Papers
-<!-- #### CVPR
+<!--### 2021 Papers
+#### CVPR
 #### ICLR
 #### NeurIPS
 #### ICCV
@@ -4936,8 +5011,8 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 ## Long Tail Videos
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
-### 2023 Papers
-<!-- #### CVPR
+<!--### 2023 Papers
+#### CVPR
 #### ICLR
 #### NeurIPS
 #### ICCV
@@ -4953,8 +5028,8 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 #### ICCw
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-### 2022 Papers
-<!-- #### CVPR
+<!--### 2022 Papers
+#### CVPR
 #### ICLR
 #### NeurIPS
 #### ICCV
@@ -4970,8 +5045,8 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 #### ICCw
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-### 2021 Papers
-<!-- #### CVPR
+<!--### 2021 Papers
+#### CVPR
 #### ICLR
 #### NeurIPS
 #### ICCV

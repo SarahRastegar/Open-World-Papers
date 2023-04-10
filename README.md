@@ -3398,8 +3398,10 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 
 <!--#### IJCV
 #### BMVC
-#### ICCw
-#### Arxiv & Others-->
+#### ICCw-->
+#### Arxiv & Others
+* Test-Time Amendment with a Coarse Classifier for Fine-Grained Classification (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.00368)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
@@ -4860,8 +4862,12 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 #### WACV
 #### IJCV
 #### BMVC
-#### ICCw
-#### Arxiv & Others-->
+#### ICCw-->
+#### Arxiv & Others
+
+* Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.00624)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 <!--### 2022 Papers
  #### CVPR

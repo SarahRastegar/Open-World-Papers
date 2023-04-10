@@ -4624,8 +4624,11 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 #### WACV
 #### IJCV
 #### BMVC
-#### ICCw
-#### Arxiv & Others-->
+#### ICCw-->
+#### Arxiv & Others
+* Human Activity Recognition in an Open World (Submitted to JAIR 2022) 
+[[Paper](https://arxiv.org/abs/2212.12141)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR
@@ -4867,10 +4870,9 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 
 * Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2302.00624)]
-
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-<!--### 2022 Papers
- #### CVPR
+### 2022 Papers
+<!-- #### CVPR
 #### ICLR
 #### NeurIPS
 #### ICCV
@@ -4883,8 +4885,11 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 #### WACV
 #### IJCV
 #### BMVC
-#### ICCw
-#### Arxiv & Others-->
+#### ICCw-->
+#### Arxiv & Others
+
+* Open-Vocabulary Temporal Action Detection with Off-the-Shelf Image-Text Features (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2212.10596)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 <!--### 2021 Papers
  #### CVPR

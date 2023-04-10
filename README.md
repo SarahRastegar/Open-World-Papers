@@ -3714,9 +3714,49 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Long Tail
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Survey 
+* Deep Long-Tailed Learning: A Survey (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2110.04596)]
 
 ### 2023 Papers
-<!-- #### CVPR -->
+#### CVPR
+* Class-Conditional Sharpness-Aware Minimization for Deep Long-Tailed Recognition (CVPR 2023) 
+[[Paper]]
+
+* Global and Local Mixture Consistency Cumulative Learning for Long-tailed Visual Recognitions (CVPR 2023) 
+[[Paper](https://paperswithcode.com/paper/global-and-local-mixture-consistency)]
+
+* Balancing Logit Variation for Long-tailed Semantic Segmentation (CVPR 2023) 
+[[Paper]]
+
+* Transfer Knowledge from Head to Tail: Uncertainty Calibration under Long-tailed Distribution (CVPR 2023) 
+[[Paper]]
+
+* Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need (CVPR 2023) 
+[[Paper]]
+
+* Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective (CVPR 2023) 
+[[Paper]]
+
+* Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2304.01279)]
+
+* FCC: Feature Clusters Compression for Long-Tailed Visual Recognition (CVPR 2023) 
+[[Paper]]
+
+* Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.12307)]
+
+* Balanced Product of Calibrated Experts for Long-Tailed Recognition (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2206.05260)]
+
+* SuperDisco: Super-Class Discovery Improves Visual Recognition for the Long-Tail (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2304.00101)]
+
+* No One Left Behind: Improving the Worst Categories in Long-Tailed Learning (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.03630)]
+
+
 #### ICLR
 * CUDA: Curriculum of Data Augmentation for Long-tailed Recognition (ICLR 2023 top 25%) 
 [[Paper](https://openreview.net/forum?id=RgUPdudkWlN)]<br>
@@ -5011,9 +5051,15 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 ## Long Tail Videos
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
-<!--### 2023 Papers
+### 2023 Papers
 #### CVPR
-#### ICLR
+* Use Your Head: Improving Long-Tail Video Recognition (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2304.01143)]
+
+* FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework For Long-tail Trajectory Prediction (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.16574)]
+
+<!--#### ICLR
 #### NeurIPS
 #### ICCV
 #### ICML

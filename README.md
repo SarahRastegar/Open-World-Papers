@@ -448,7 +448,51 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 [[Paper](https://arxiv.org/abs/2008.09381)]
 
 ### 2023 Papers
-<!-- #### CVPR -->
+#### CVPR
+* Mind the Label Shift of Augmentation-based Graph OOD Generalization (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.14859)]
+
+* Balanced Energy Regularization Loss for Out-of-distribution Detection (CVPR 2023) 
+[[Paper]]
+
+* NICO++: Towards better bechmarks for Out-of-Distribution Generalization (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2204.08040)]
+
+* LINe: Out-of-Distribution Detection by Leveraging Important Neurons (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.13995)]
+
+* Detection of out-of-distribution samples using binary neuron activation patterns (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2212.14268)]
+
+* Decoupling MaxLogit for Out-of-Distribution Detection (CVPR 2023) 
+[[Paper]]
+
+* Rethinking Out-of-Distribution Detection: Masked Image Modeling is All You Need (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2302.02615)]
+
+* Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning (CVPR 2023) 
+[[Paper]]
+
+* Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2304.00212)]
+
+* GEN: Pushing the Limits of Softmax-Based Out-of-Distribution Detection (CVPR 2023) 
+[[Paper]]
+
+* Are Data-driven Explanations Robust against Out-of-distribution Data? (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.16390)]
+
+* Uncertainty-Aware Optimal Transport for Semantically Coherent Out-of-Distribution Detection (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.10449)]
+
+* Distribution Shift Inversion for Out-of-Distribution Generalization (CVPR 2023) 
+[[Paper]]
+
+* PoseExaminer: Automated Testing of Out-of-Distribution Robustness in Human Pose and Shape Estimation (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.07337)]
+
+* Block Selection Method for Using Feature Norm in Out-of-Distribution Detection (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2212.02295)]
 
 
 #### ICLR
@@ -1327,6 +1371,18 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 
 * CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2301.01970)]
+
+* Unknown Sniffer for Object Detection: Don't Turn a Blind Eye to Unknown Objects (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.13769)]
+
+* BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.14158)]
+
+* Discriminating Known from Unknown Objects via Structure-Enhanced Recurrent Variational AutoEncoder (CVPR 2023) 
+[[Paper]]
+
+* Unsupervised Object Localization: Observing the Background to Discover Objects (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2212.07834)]
 
 
 #### ICLR
@@ -2497,6 +2553,24 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 [[Paper](https://arxiv.org/abs/2210.03591)]<br>
 *Datasets: CIFAR-10, CIFAR-100, and ImageNet, CIFAR100-50, CIFAR100-20*<br>
 *Task: Image Classification*
+
+* Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery (CVPR 2023) 
+[[Paper]]
+
+* Novel Class Discovery for 3D Point Cloud Semantic Segmentation (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.11610)]
+
+* PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2212.05590)]
+
+* Upcycling Models under Domain and Category Shift (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.07110)]
+
+* On-the-fly Category Discovery (CVPR 2023) 
+[[Paper]]
+
+* Dynamic Conceptional Contrastive Learning for Generalized Category Discovery (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.17393)]
 
 
 #### ICLR

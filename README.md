@@ -4202,7 +4202,9 @@ For more concise terminology, we use **claster** when referring to clusters depi
 <!--#### ICCw
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-### Older Papers
+### 2020 Papers
+#### CVPR
+
 * Inflated Episodic Memory With Region Self-Attention for Long-Tailed Visual Recognition (CVPR 2020) 
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Inflated_Episodic_Memory_With_Region_Self-Attention_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf)]
 
@@ -4224,11 +4226,15 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Equalization Loss for Long-Tailed Object Recognition (CVPR 2020) 
 [[Paper](http://arxiv.org/abs/2003.05176)]
 
+#### ICLR
+
 * Decoupling Representation and Classifier for Long-Tailed Recognition (ICLR 2020) 
 [[Paper](https://openreview.net/forum?id=r1gRTCVFvB)]
 [[Code](github facebookresearch/classifier-balancing)]<br>
 *Datasets: AwA, CUB-200-2011, ImageNet, ImageNet-LT, Places, Places-LT, iNaturalist*<br>
 *Task: Image Classification*
+
+#### NeurIPS
 
 * Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect (NeurIPS 2020) 
 [[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/1091660f3dff84fd648efe31391c5524-Abstract.html)]
@@ -4236,6 +4242,25 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Balanced Meta-Softmax for Long-Tailed Visual Recognition (NeurIPS 2020) 
 [[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/2ba61cc3a8f44143e1f2f13b2b729ab3-Abstract.html)]
 
+#### ECCV
+
+* Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490154.pdf)]
+
+* Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500239.pdf)]
+
+* Solving Long-tailed Recognition with Deep Realistic Taxonomic Classifier (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530171.pdf)]
+
+* The Devil is in Classification: A Simple Framework for Long-tail Instance Segmentation (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590715.pdf)]
+
+* Feature Space Augmentation for Long-Tailed Data (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740681.pdf)]
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
 * Large-Scale Long-Tailed Recognition in an Open World (CVPR 2019) 
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Large-Scale_Long-Tailed_Recognition_in_an_Open_World_CVPR_2019_paper.pdf)]
 

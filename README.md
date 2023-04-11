@@ -6,6 +6,9 @@ In tackling the real world, we want to consider layers of uncertainty. In the fo
 Finally, since our primary focus is fine-grained or long-tailed novel action discovery, we also address related works in this area. 
 Without further due, let us dive into the fantastic and challenging world of uncertainty, unseens, and unknowns. 
 
+**Disclaimer:** Since some papers belong to multiple categories, I put them in all related categories; some papers got accepted in conferences or journals later, so there might be both an arxiv or submission form of the paper in the repository. Usually, it means where I found the paper, not where it has been published. I made sure that there were no mistakes, but there might be a few, so if you noticed that I missed something, make a pull request. In the end, the explanation of problems might be wrong; it is what I perceived the problem as, and it might be wrong.
+
+
 ## Contents
 - [Introduction](#Introduction)
   - [Unseen Environments](#Unseen-Environments)

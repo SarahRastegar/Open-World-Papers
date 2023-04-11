@@ -4080,16 +4080,96 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
-<!--#### CVPR-->
+#### CVPR
+
+* Contrastive Learning Based Hybrid Networks for Long-Tailed Image Classification (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2103.14267)]
+
+* PML: Progressive Margin Loss for Long-Tailed Age Classification (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2103.02140)]
+
+* Adaptive Class Suppression Loss for Long-Tail Object Detection (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2104.00885)]
+
+* Adversarial Robustness Under Long-Tailed Distribution (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2104.02703)]
+
+* MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2103.12579)]
+
+* Disentangling Label Distribution for Long-Tailed Visual Recognition (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2012.00321)]
+
+* Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2102.08981)]
+
+* Distribution Alignment: A Unified Framework for Long-Tail Visual Recognition (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2103.16370)]
+
+* Seesaw Loss for Long-Tailed Instance Segmentation (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2008.10032)]
+
+* Unsupervised Discovery of the Long-Tail in Instance Segmentation Using Hierarchical Self-Supervision (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2104.01257)]
+
+* Equalization Loss v2: A New Gradient Balance Approach for Long-Tailed Object Detection (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2012.08548)]
+
+* Long-Tailed Multi-Label Visual Recognition by Collaborative Training on Uniform and Re-Balanced Samplings (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Long-Tailed_Multi-Label_Visual_Recognition_by_Collaborative_Training_on_Uniform_and_CVPR_2021_paper.pdf)]
+
+* Improving Calibration for Long-Tailed Recognition (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2104.00466)]
+
+
 #### ICLR
+
 * Long-tail learning via logit adjustment (ICLR 2021 Spotlight) 
 [[Paper](https://openreview.net/forum?id=37nvvqkCo5)]<br>
 
 * Long-tailed Recognition by Routing Diverse Distribution-Aware Experts (ICLR 2021 Spotlight) 
 [[Paper](https://openreview.net/forum?id=D9I3drBz4UC)]<br>
 
-<!--#### NeurIPS
-#### ICCV-->
+#### NeurIPS
+
+* On Model Calibration for Long-Tailed Object Detection and Instance Segmentation (NeurIPS 2021) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2021/hash/14ad095ecc1c3e1b87f3c522836e9158-Abstract.html)]
+
+* Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective (NeurIPS 2021) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2021/hash/39ae2ed11b14a4ccb41d35e9d1ba5d11-Abstract.html)]
+
+* Handling Long-tailed Feature Distribution in AdderNets (NeurIPS 2021) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2021/hash/95323660ed2124450caaac2c46b5ed90-Abstract.html)]
+
+#### ICCV
+* Exploring Long Tail Visual Relationship Recognition With Large Vocabulary (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2004.00436)]
+
+* Exploring Classification Equilibrium in Long-Tailed Object Detection (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2108.07507)]
+
+* Distilling Virtual Examples for Long-Tailed Recognition (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2103.15042)]
+
+* Distributional Robustness Loss for Long-Tail Learning (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2104.03066)]
+
+* FASA: Feature Augmentation and Sampling Adaptation for Long-Tailed Instance Segmentation (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2102.12867)]
+
+* ACE: Ally Complementary Experts for Solving Long-Tailed Recognition in One-Shot (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2108.02385)]
+
+* MosaicOS: A Simple and Effective Use of Object-Centric Images for Long-Tailed Object Detection (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2102.08884)]
+
+* GistNet: A Geometric Structure Transfer Network for Long-Tailed Recognition (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2105.00131)]
+
+* Self Supervision to Distillation for Long-Tailed Visual Recognition (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2109.04075)]
+
+
 #### ICML
 * Image-Level or Object-Level? A Tale of Two Resampling Strategies for Long-Tailed Detection (ICML 2021) 
 [[Paper](http://proceedings.mlr.press/v139/chang21c.html)]
@@ -4097,10 +4177,21 @@ For more concise terminology, we use **claster** when referring to clusters depi
 <!--#### IEEE-Access 
 #### ECCV
 #### AAAI
-#### TPAMI
+#### TPAMI-->
 #### CVPRw
+
+* Long-Tailed Recognition of SAR Aerial View Objects by Cascading and Paralleling Experts (CVPRw 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Yang_Long-Tailed_Recognition_of_SAR_Aerial_View_Objects_by_Cascading_and_CVPRW_2021_paper.pdf)]
+
 #### WACV
-#### IJCV-->
+
+* Towards Resolving the Challenge of Long-Tail Distribution in UAV Images for Object Detection (WACV 2021) 
+[[Paper](http://arxiv.org/abs/2011.03822)]
+
+* From Generalized Zero-Shot Learning to Long-Tail With Class Descriptors (WACV 2021) 
+[[Paper](http://arxiv.org/abs/2004.02235)]
+
+<!--#### IJCV-->
 #### BMVC
 
 * Class-Balanced Distillation for Long-Tailed Visual Recognition (BMVC 2021) 
@@ -4112,6 +4203,26 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
+* Inflated Episodic Memory With Region Self-Attention for Long-Tailed Visual Recognition (CVPR 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Inflated_Episodic_Memory_With_Region_Self-Attention_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf)]
+
+* Deep Representation Learning on Long-Tailed Data: A Learnable Embedding Augmentation Perspective (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2002.10826)]
+
+* Domain Balancing: Face Recognition on Long-Tailed Domains (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2003.13791)]
+
+* Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition From a Domain Adaptation Perspective (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2003.10780)]
+
+* Overcoming Classifier Imbalance for Long-Tail Object Detection With Balanced Group Softmax (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2006.10408)]
+
+* BBN: Bilateral-Branch Network With Cumulative Learning for Long-Tailed Visual Recognition (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/1912.02413)]
+
+* Equalization Loss for Long-Tailed Object Recognition (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2003.05176)]
 
 * Decoupling Representation and Classifier for Long-Tailed Recognition (ICLR 2020) 
 [[Paper](https://openreview.net/forum?id=r1gRTCVFvB)]
@@ -4119,6 +4230,20 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: AwA, CUB-200-2011, ImageNet, ImageNet-LT, Places, Places-LT, iNaturalist*<br>
 *Task: Image Classification*
 
+* Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect (NeurIPS 2020) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/1091660f3dff84fd648efe31391c5524-Abstract.html)]
+
+* Balanced Meta-Softmax for Long-Tailed Visual Recognition (NeurIPS 2020) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/2ba61cc3a8f44143e1f2f13b2b729ab3-Abstract.html)]
+
+* Large-Scale Long-Tailed Recognition in an Open World (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Large-Scale_Long-Tailed_Recognition_in_an_Open_World_CVPR_2019_paper.pdf)]
+
+* Unequal-Training for Deep Face Recognition With Long-Tailed Noisy Data (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Unequal-Training_for_Deep_Face_Recognition_With_Long-Tailed_Noisy_Data_CVPR_2019_paper.pdf)]
+
+* FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network (CVPRw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Vision%20for%20All%20Seasons%20Bad%20Weather%20and%20Nighttime/Philion_FastDraw_Addressing_the_Long_Tail_of_Lane_Detection_by_Adapting_CVPRW_2019_paper.pdf)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Anomaly Detection
@@ -5124,12 +5249,17 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### ICCw
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-<!--### 2021 Papers
-#### CVPR
+### 2021 Papers
+<!--#### CVPR
 #### ICLR
-#### NeurIPS
+#### NeurIPS-->
 #### ICCV
-#### ICML
+* VideoLT: Large-Scale Long-Tailed Video Recognition (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2105.02668)]
+
+* On Exposing the Challenging Long Tail in Future Prediction of Traffic Actors (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Makansi_On_Exposing_the_Challenging_Long_Tail_in_Future_Prediction_of_ICCV_2021_paper.pdf)]
+<!--#### ICML
 #### IEEE-Access
 #### ECCV
 #### AAAI
@@ -5407,7 +5537,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### IJCV-->
 #### BMVC
 
-
 * Multi-Class Novelty Detection with Generated Hard Novel Features (BMVC 2021) 
 [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0838.pdf)]<br>
 *Datasets: Stanford Dogs, Caltech 256, CUB 200, FounderType-200*<br>
@@ -5415,8 +5544,8 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 <!--#### ICCw
 #### Arxiv & Others-->
-<!----------------------------------------------------------------------------------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 * Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents (NeurIPS 2018) 

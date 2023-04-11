@@ -32,6 +32,7 @@ Since some papers belong to multiple categories, I put them in all related categ
 - [Fine Grained Videos](#Fine-Grained-Videos)
 - [Long Tail Videos](#Long-Tail-Videos)
 - [Anomaly Detection Videos](#Anomaly-Detection-Videos)
+- [Novelty Detection](#Novelty-Detection)
 
 ## Introduction 
 Let us consider a Telsa! Car is our running example during this repo. One day Telsa engineers decide to train their autopilot model. First, they meticulously collect these data on mornings on the way to their job while contemplating their life choices in the traffic. Then they give those videos to some people to categorize over several categories like cars, bikes, people, birds, and trees. They then train the model on the collected, labeled data, which produces a good performance on the evaluation data.

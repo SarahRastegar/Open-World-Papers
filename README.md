@@ -58,6 +58,7 @@ The problem with OOD or OSR is that the model rejects the unknowns, so though it
 
 While novel class discovery and its cousin generalized category discovery have a lot of challenges, dealing with fine-grained categories where the categories have subtle differences and may have a lot of overlap or long-tail distribution where the frequency of each category can differ drastically elevates these obstacles to a very dark realm. So in this repository, we also consider the works that are done in [Fine Grained](#Fine-Grained) or [Fine Grained Videos](#Fine-Grained-Videos). While Long-tail is still in its infancy, especially for the video field, the challenge it introduces to the open world is very real, therefore works that focus on [Long Tail](#Long-Tail) or [Long Tail Videos](#Long-Tail-Videos) also has been collected. 
 
+For more concise terminology, we use **claster** when referring to clusters depicting an already seen class or an unseen proposed class. 
 
 | **Problem Name**  |     **Problem Goal** |
 |---------------|-----------|
@@ -67,7 +68,9 @@ While novel class discovery and its cousin generalized category discovery have a
 | Out-of-Distribution Detection| Classify test samples from a set of seen categories while rejecting samples which are not from the training distribution.|
 | Novel Class Discovery| Classify test samples from a set of unknown categories into proposed clasters.|
 | Generalized Category Discovery| Classify test samples from a set of seen or unknown categories into seen categories or proposed clasters.|
-| Open vocabulary| Classify test samples from a set of seen or unknown categories into proposed clasters and find the corresponding name for that claster with the help of additional information like another modality or language models.|
+| Open Vocabulary| Classify test samples from a set of seen or unknown categories into proposed clasters and find the corresponding name for that claster with the help of additional information like another modality or language models.|
+| Fine Grained| Classify test samples from a set of categories that have very subtle differences.|
+| Long Tailed| Classify test samples from a set of categories that have very different frequencies often in form of a power law distribution.|
 
 <!-- #### CVPR
 #### ICLR

@@ -580,7 +580,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Mixture Outlier Exposure: Towards Out-of-Distribution Detection in Fine-Grained Environments (WACV 2023) 
 [[Paper](http://arxiv.org/abs/2106.03917)]
 [[Code](https://github.com/zjysteven/MixOE)]<br>
-*Datasets: WebVision 1.0*<br>
+*Datasets: WebVision 1.0*
 *Task: Out-of-Distribution Detection Images*
 
 * Out-of-Distribution Detection via Frequency-Regularized Generative Models (WACV 2023) 
@@ -3399,7 +3399,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Mixture Outlier Exposure: Towards Out-of-Distribution Detection in Fine-Grained Environments (WACV 2023) 
 [[Paper](http://arxiv.org/abs/2106.03917)]
 [[Code](https://github.com/zjysteven/MixOE)]<br>
-*Datasets: WebVision 1.0<br>
+*Datasets: WebVision 1.0*<br>
 *Task: Out-of-Distribution Detection Images*
 
 <!--#### IJCV
@@ -3651,6 +3651,40 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_Learning_Deep_Classifiers_Consistent_With_Fine-Grained_Novelty_Detection_CVPR_2021_paper.pdf)]<br>
 *Datasets: small- and large-scale FGVC*<br>
 *Task: Novelty Detection*
+
+* Graph-Based High-Order Relation Discovery for Fine-Grained Recognition (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Graph-Based_High-Order_Relation_Discovery_for_Fine-Grained_Recognition_CVPR_2021_paper.pdf)]
+
+* Learning Deep Classifiers Consistent With Fine-Grained Novelty Detection (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_Learning_Deep_Classifiers_Consistent_With_Fine-Grained_Novelty_Detection_CVPR_2021_paper.pdf)]
+
+* More Photos Are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2103.13990)]
+
+* RefineMask: Towards High-Quality Instance Segmentation With Fine-Grained Features (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2104.08569)]
+
+* A Realistic Evaluation of Semi-Supervised Learning for Fine-Grained Classification (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2104.00679)]
+
+* Your "Flamingo" is My "Bird": Fine-Grained, or Not (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2011.09040)]
+
+* FaceSec: A Fine-Grained Robustness Evaluation Framework for Face Recognition Systems (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2104.04107)]
+
+* Discrimination-Aware Mechanism for Fine-Grained Representation Learning (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Discrimination-Aware_Mechanism_for_Fine-Grained_Representation_Learning_CVPR_2021_paper.pdf)]
+
+* Fine-Grained Angular Contrastive Learning With Coarse Labels (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2012.03515)]
+
+* Neural Prototype Trees for Interpretable Fine-Grained Image Recognition (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2012.02046)]
+
+* Learning Fine-Grained Segmentation of 3D Shapes Without Part Labels (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2103.13030)]
+
 #### ICLR
 
 * Learning N:M Fine-grained Structured Sparse Neural Networks From Scratch (ICLR 2021) 
@@ -3669,8 +3703,49 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Landmark-RxR: Solving Vision-and-Language Navigation with Fine-Grained Alignment Supervision (NeurIPS 2021) 
 [[Paper](https://openreview.net/forum?id=41QJ--DLjoD)]<br>
 
-<!--#### ICCV
-#### ICML
+#### ICCV
+
+* Persistent Homology Based Graph Convolution Network for Fine-Grained 3D Shape Segmentation (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wong_Persistent_Homology_Based_Graph_Convolution_Network_for_Fine-Grained_3D_Shape_ICCV_2021_paper.pdf)]
+
+* Webly Supervised Fine-Grained Recognition: Benchmark Datasets and an Approach (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2108.02399)]
+
+* Semi-Supervised Single-Stage Controllable GANs for Conditional Fine-Grained Image Generation (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Semi-Supervised_Single-Stage_Controllable_GANs_for_Conditional_Fine-Grained_Image_Generation_ICCV_2021_paper.pdf)]
+
+* Benchmark Platform for Ultra-Fine-Grained Visual Categorization Beyond Human Performance (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Benchmark_Platform_for_Ultra-Fine-Grained_Visual_Categorization_Beyond_Human_Performance_ICCV_2021_paper.pdf)]
+
+* Variational Feature Disentangling for Fine-Grained Few-Shot Classification (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2010.03255)]
+
+* CrackFormer: Transformer Network for Fine-Grained Crack Detection (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_CrackFormer_Transformer_Network_for_Fine-Grained_Crack_Detection_ICCV_2021_paper.pdf)]
+
+* Talk-To-Edit: Fine-Grained Facial Editing via Dialog (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Talk-To-Edit_Fine-Grained_Facial_Editing_via_Dialog_ICCV_2021_paper.pdf)]
+
+* N-ImageNet: Towards Robust, Fine-Grained Object Recognition With Event Cameras (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_N-ImageNet_Towards_Robust_Fine-Grained_Object_Recognition_With_Event_Cameras_ICCV_2021_paper.pdf)]
+
+* Fine-Grained Semantics-Aware Representation Enhancement for Self-Supervised Monocular Depth Estimation (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2108.08829)]
+
+* ALADIN: All Layer Adaptive Instance Normalization for Fine-Grained Style Similarity (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2103.09776)]
+
+* Grafit: Learning Fine-Grained Image Representations With Coarse Labels (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2011.12982)]
+
+* Stochastic Partial Swap: Enhanced Model Generalization and Interpretability for Fine-Grained Recognition (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Stochastic_Partial_Swap_Enhanced_Model_Generalization_and_Interpretability_for_Fine-Grained_ICCV_2021_paper.pdf)]
+
+* Learning Canonical 3D Object Representation for Fine-Grained Recognition (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2108.04628)]
+
+
+<!--#### ICML
 #### IEEE-Access
 #### ECCV
 #### AAAI
@@ -3685,18 +3760,65 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * CLIP-Art: Contrastive Pre-Training for Fine-Grained Art Classification (CVPRw 2021) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Conde_CLIP-Art_Contrastive_Pre-Training_for_Fine-Grained_Art_Classification_CVPRW_2021_paper.pdf)]
 
-<!--#### WACV
-#### IJCV
-#### BMVC-->
+#### WACV
+
+* Multi-Modal Reasoning Graph for Scene-Text Based Fine-Grained Image Classification and Retrieval (WACV 2021) 
+[[Paper](http://arxiv.org/abs/2009.09809)]
+
+* Text-to-Image Generation Grounded by Fine-Grained User Attention (WACV 2021) 
+[[Paper](http://arxiv.org/abs/2011.03775)]
+
+* TB-Net: A Three-Stream Boundary-Aware Network for Fine-Grained Pavement Disease Segmentation (WACV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_TB-Net_A_Three-Stream_Boundary-Aware_Network_for_Fine-Grained_Pavement_Disease_Segmentation_WACV_2021_paper.pdf)]
+
+* Coarse- and Fine-Grained Attention Network With Background-Aware Loss for Crowd Density Map Estimation (WACV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Rong_Coarse-_and_Fine-Grained_Attention_Network_With_Background-Aware_Loss_for_Crowd_WACV_2021_paper.pdf)]
+
+* Fair Comparison: Quantifying Variance in Results for Fine-Grained Visual Categorization (WACV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Gwilliam_Fair_Comparison_Quantifying_Variance_in_Results_for_Fine-Grained_Visual_Categorization_WACV_2021_paper.pdf)]
+
+* Fine-Grained Foreground Retrieval via Teacher-Student Learning (WACV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Wu_Fine-Grained_Foreground_Retrieval_via_Teacher-Student_Learning_WACV_2021_paper.pdf)]
+
+* Intra-Class Part Swapping for Fine-Grained Image Classification (WACV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Intra-Class_Part_Swapping_for_Fine-Grained_Image_Classification_WACV_2021_paper.pdf)]
+
+* Towards Enhancing Fine-Grained Details for Image Matting (WACV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Liu_Towards_Enhancing_Fine-Grained_Details_for_Image_Matting_WACV_2021_paper.pdf)]
+
+<!--#### IJCV-->
+#### BMVC
+
+* The Curious Layperson: Fine-Grained Image Recognition without Expert Labels (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0229.pdf)]
+
+* Human Attention in Fine-grained Classification (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0421.pdf)]
+
+* Feature Fusion Vision Transformer for Fine-Grained Visual Categorization (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0685.pdf)]
+
+* Fine-grained Multi-Modal Self-Supervised Learning (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0702.pdf)]
+
+* Channel DropBlock: An Improved Regularization Method for Fine-Grained Visual Classification (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0601.pdf)]
+
+* SwinFGHash: Fine-grained Image Retrieval via Transformer-based Hashing Network (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/1551.pdf)]
+
 #### ICCw
 
-* Fine-Grain Prediction of Strawberry Freshness Using Subsurface Scattering (CVPRw 2020) 
+* Fine-Grain Prediction of Strawberry Freshness Using Subsurface Scattering (ICCVw 2021) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/LFFAI/papers/Klotz_Fine-Grain_Prediction_of_Strawberry_Freshness_Using_Subsurface_Scattering_ICCVW_2021_paper.pdf)]
 
 <!--#### Arxiv & Others-->
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-### Older Papers
+### 2020 Papers
+#### CVPR
+
+#### NeurIPS
 
 * Fine-Grained Dynamic Head for Object Detection (NeurIPS 2020) 
 [[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/7f6caf1f0ba788cd7953d817724c2b6e-Abstract.html)]<br>
@@ -3706,6 +3828,8 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition (NeurIPS 2020) 
 [[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/e58cc5ca94270acaceed13bc82dfedf7-Abstract.html)]<br>
+
+#### CVPRw
 
 * ePillID Dataset: A Low-Shot Fine-Grained Benchmark for Pill Identification (CVPRw 2020) 
 [[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w54/Usuyama_ePillID_Dataset_A_Low-Shot_Fine-Grained_Benchmark_for_Pill_Identification_CVPRW_2020_paper.pdf)]
@@ -3718,6 +3842,37 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Fine-Grained Recognition in High-Throughput Phenotyping (CVPRw 2020) 
 [[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w5/Lyu_Fine-Grained_Recognition_in_High-Throughput_Phenotyping_CVPRW_2020_paper.pdf)]
+
+#### WACV
+
+
+* L\*ReLU: Piece-wise Linear Activation Functions for Deep Fine-grained Visual Categorization (WACV 2020) 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Basirat_LReLU_Piece-wise_Linear_Activation_Functions_for_Deep_Fine-grained_Visual_Categorization_WACV_2020_paper.pdf)]
+
+* An Adversarial Domain Adaptation Network for Cross-Domain Fine-Grained Recognition (WACV 2020) 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Wang_An_Adversarial_Domain_Adaptation_Network_for_Cross-Domain_Fine-Grained_Recognition_WACV_2020_paper.pdf)]
+
+* ELoPE: Fine-Grained Visual Classification with Efficient Localization, Pooling and Embedding (WACV 2020) 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Hanselmann_ELoPE_Fine-Grained_Visual_Classification_with_Efficient_Localization_Pooling_and_Embedding_WACV_2020_paper.pdf)]
+
+* Color Composition Similarity and Its Application in Fine-grained Similarity (WACV 2020) 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Ha_Color_Composition_Similarity_and_Its_Application_in_Fine-grained_Similarity_WACV_2020_paper.pdf)]
+
+* Fine-grained Image Classification and Retrieval by Combining Visual and Locally Pooled Textual Features (WACV 2020) 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Mafla_Fine-grained_Image_Classification_and_Retrieval_by_Combining_Visual_and_Locally_WACV_2020_paper.pdf)]
+
+#### BMVC
+
+* Cross-Modal Hierarchical Modelling for Fine-Grained Sketch Based Image Retrieval (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/assets/papers/0102.pdf)]
+
+* Contrastively-reinforced Attention Convolutional Neural Network for Fine-grained Image Recognition (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/assets/papers/0656.pdf)]
+
+* On the Exploration of Incremental Learning for Fine-grained Image Retrieval (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/assets/papers/0079.pdf)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
 
 * Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering (ICLR 2019) 
 [[Paper](https://openreview.net/forum?id=Syl7OsRqY7)]<br>
@@ -3875,7 +4030,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
-
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
@@ -5289,12 +5443,34 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### ICCw
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-<!--### 2021 Papers
+### 2021 Papers
 #### CVPR
-#### ICLR
-#### NeurIPS
+
+* Fine-Grained Shape-Appearance Mutual Learning for Cloth-Changing Person Re-Identification (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Fine-Grained_Shape-Appearance_Mutual_Learning_for_Cloth-Changing_Person_Re-Identification_CVPR_2021_paper.pdf)]
+
+
+* Temporal Query Networks for Fine-Grained Video Understanding (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2104.09496)]
+
+* GLAVNet: Global-Local Audio-Visual Cues for Fine-Grained Material Recognition (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_GLAVNet_Global-Local_Audio-Visual_Cues_for_Fine-Grained_Material_Recognition_CVPR_2021_paper.pdf)]
+
+
+<!--#### ICLR
+#### NeurIPS-->
 #### ICCV
-#### ICML
+
+* Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-Identification (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2108.08728)]
+
+* Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2109.01305)]
+
+* FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2109.02974)]
+
+<!--#### ICML
 #### IEEE-Access
 #### ECCV
 #### AAAI
@@ -5308,6 +5484,12 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
+
+* Fine-Grained Motion Representation For Template-Free Visual Tracking (WACV 2020) 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Shuang_Fine-Grained_Motion_Representation_For_Template-Free_Visual_Tracking_WACV_2020_paper.pdf)]
+
+* WHENet: Real-time Fine-Grained Estimation for Wide Range Head Pose (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/assets/papers/0907.pdf)]
 
 * Yoga-82: A New Dataset for Fine-Grained Classification of Human Poses (CVPRw 2020) 
 [[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w70/Verma_Yoga-82_A_New_Dataset_for_Fine-Grained_Classification_of_Human_Poses_CVPRW_2020_paper.pdf)]
@@ -5566,16 +5748,8 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### IEEE-Access
 #### ECCV
 #### AAAI
-#### TPAMI
+#### TPAMI-->
 #### CVPRw
-#### WACV
-#### IJCV
-#### BMVC
-#### ICCw
-#### Arxiv & Others-->
-
-### Older Papers
-
 * Box-Level Tube Tracking and Refinement for Vehicles Anomaly Detection (CVPRw 2021) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Wu_Box-Level_Tube_Tracking_and_Refinement_for_Vehicles_Anomaly_Detection_CVPRW_2021_paper.pdf)]
 
@@ -5594,6 +5768,14 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Spacecraft Time-Series Anomaly Detection Using Transfer Learning (CVPRw 2021) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/papers/Baireddy_Spacecraft_Time-Series_Anomaly_Detection_Using_Transfer_Learning_CVPRW_2021_paper.pdf)]
+<!--#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
 
 * Multi-Granularity Tracking With Modularlized Components for Unsupervised Vehicles Anomaly Detection (CVPRw 2020) 
 [[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Li_Multi-Granularity_Tracking_With_Modularlized_Components_for_Unsupervised_Vehicles_Anomaly_Detection_CVPRW_2020_paper.pdf)]

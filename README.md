@@ -3406,6 +3406,9 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### BMVC
 #### ICCw-->
 #### Arxiv & Others
+* Combining Photogrammetric Computer Vision and Semantic Segmentation for Fine-Grained Understanding of Coral Reef Growth Under Climate Change (WACVw 2023) 
+[[Paper](http://arxiv.org/abs/2212.04132)]
+
 * Test-Time Amendment with a Coarse Classifier for Fine-Grained Classification (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2302.00368)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -3671,24 +3674,68 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### IEEE-Access
 #### ECCV
 #### AAAI
-#### TPAMI
+#### TPAMI-->
 #### CVPRw
-#### WACV
+* Localized Triplet Loss for Fine-Grained Fashion Image Retrieval (CVPRw 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/DInnocente_Localized_Triplet_Loss_for_Fine-Grained_Fashion_Image_Retrieval_CVPRW_2021_paper.pdf)]
+
+* Fine-Grained Visual Attribute Extraction From Fashion Wear (CVPRw 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Parekh_Fine-Grained_Visual_Attribute_Extraction_From_Fashion_Wear_CVPRW_2021_paper.pdf)]
+
+* CLIP-Art: Contrastive Pre-Training for Fine-Grained Art Classification (CVPRw 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Conde_CLIP-Art_Contrastive_Pre-Training_for_Fine-Grained_Art_Classification_CVPRW_2021_paper.pdf)]
+
+<!--#### WACV
 #### IJCV
-#### BMVC
+#### BMVC-->
 #### ICCw
-#### Arxiv & Others-->
+
+* Fine-Grain Prediction of Strawberry Freshness Using Subsurface Scattering (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021W/LFFAI/papers/Klotz_Fine-Grain_Prediction_of_Strawberry_Freshness_Using_Subsurface_Scattering_ICCVW_2021_paper.pdf)]
+
+<!--#### Arxiv & Others-->
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
+
+* Fine-Grained Dynamic Head for Object Detection (NeurIPS 2020) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/7f6caf1f0ba788cd7953d817724c2b6e-Abstract.html)]<br>
+
+* No Subclass Left Behind: Fine-Grained Robustness in Coarse-Grained Classification Problems (NeurIPS 2020) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/e0688d13958a19e087e123148555e4b4-Abstract.html)]<br>
+
+* Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition (NeurIPS 2020) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/e58cc5ca94270acaceed13bc82dfedf7-Abstract.html)]<br>
+
+* ePillID Dataset: A Low-Shot Fine-Grained Benchmark for Pill Identification (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w54/Usuyama_ePillID_Dataset_A_Low-Shot_Fine-Grained_Benchmark_for_Pill_Identification_CVPRW_2020_paper.pdf)]
+
+* Towards Fine-Grained Sampling for Active Learning in Object Detection (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w54/Desai_Towards_Fine-Grained_Sampling_for_Active_Learning_in_Object_Detection_CVPRW_2020_paper.pdf)]
+
+* Focus Longer to See Better: Recursively Refined Attention for Fine-Grained Image Classification (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w51/Shroff_Focus_Longer_to_See_Better_Recursively_Refined_Attention_for_Fine-Grained_CVPRW_2020_paper.pdf)]
+
+* Fine-Grained Recognition in High-Throughput Phenotyping (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w5/Lyu_Fine-Grained_Recognition_in_High-Throughput_Phenotyping_CVPRW_2020_paper.pdf)]
 
 * Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering (ICLR 2019) 
 [[Paper](https://openreview.net/forum?id=Syl7OsRqY7)]<br>
 *Datasets: TriviaQA, WikiHop*<br>
 *Task: Question Answering*
 
-* Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning (NeurIPS 2018) 
-[[Paper](https://papers.nips.cc/paper/2018/hash/9087b0efc7c7acd1ef7e153678809c77-Abstract.html)]<br>
-*Datasets: CUB and NABird*<br>
-*Task: Image Classification*
+* Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition (NeurIPS 2019) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2019/hash/418ef6127e44214882c61e372e866691-Abstract.html)]<br>
+
+* Learning Deep Bilinear Transformation for Fine-grained Image Representation (NeurIPS 2019) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2019/hash/959ef477884b6ac2241b19ee4fb776ae-Abstract.html)]<br>
+
+* Fine-grained Optimization of Deep Neural Networks (NeurIPS 2019) 
+[[Paper](https://papers.nips.cc/paper_files/paper/2019/hash/c2626d850c80ea07e7511bbae4c76f4b-Abstract.html)]<br>
+
+* Interpreting Fine-Grained Dermatological Classification by Deep Learning (CVPRw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/ISIC/Mishra_Interpreting_Fine-Grained_Dermatological_Classification_by_Deep_Learning_CVPRW_2019_paper.pdf)]
+
 
 * Guided Zoom: Questioning Network Evidence for Fine-grained Classification (BMVC 2019) 
 [[Paper](https://bmvc2019.org/wp-content/papers/0061.html)]<br>
@@ -3701,23 +3748,30 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: CaltechUCSD (CUB-200-2011) Birds, Stanford Dogs, FGVC-Aircraft*<br>
 *Task: Image Classification*
 
-* Fine-Grained Dynamic Head for Object Detection (NeurIPS 2020) 
-[[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/7f6caf1f0ba788cd7953d817724c2b6e-Abstract.html)]<br>
+* A Refined 3D Pose Dataset for Fine-Grained Object Categories (ICCVw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/R6D/Wang_A_Refined_3D_Pose_Dataset_for_Fine-Grained_Object_Categories_ICCVW_2019_paper.pdf)]
 
-* No Subclass Left Behind: Fine-Grained Robustness in Coarse-Grained Classification Problems (NeurIPS 2020) 
-[[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/e0688d13958a19e087e123148555e4b4-Abstract.html)]<br>
+* Count, Crop and Recognise: Fine-Grained Recognition in the Wild (ICCVw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVWC/Bain_Count_Crop_and_Recognise_Fine-Grained_Recognition_in_the_Wild_ICCVW_2019_paper.pdf)]
 
-* Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition (NeurIPS 2020) 
-[[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/e58cc5ca94270acaceed13bc82dfedf7-Abstract.html)]<br>
+* Geo-Aware Networks for Fine-Grained Recognition (ICCVw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVWC/Chu_Geo-Aware_Networks_for_Fine-Grained_Recognition_ICCVW_2019_paper.pdf)]
 
-* Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition (NeurIPS 2019) 
-[[Paper](https://papers.nips.cc/paper_files/paper/2019/hash/418ef6127e44214882c61e372e866691-Abstract.html)]<br>
+* ELPephants: A Fine-Grained Dataset for Elephant Re-Identification (ICCVw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVWC/Korschens_ELPephants_A_Fine-Grained_Dataset_for_Elephant_Re-Identification_ICCVW_2019_paper.pdf)]
 
-* Learning Deep Bilinear Transformation for Fine-grained Image Representation (NeurIPS 2019) 
-[[Paper](https://papers.nips.cc/paper_files/paper/2019/hash/959ef477884b6ac2241b19ee4fb776ae-Abstract.html)]<br>
+* Squeezed Bilinear Pooling for Fine-Grained Visual Categorization (ICCVw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/SDL-CV/Liao_Squeezed_Bilinear_Pooling_for_Fine-Grained_Visual_Categorization_ICCVW_2019_paper.pdf)]
 
-* Fine-grained Optimization of Deep Neural Networks (NeurIPS 2019) 
-[[Paper](https://papers.nips.cc/paper_files/paper/2019/hash/c2626d850c80ea07e7511bbae4c76f4b-Abstract.html)]<br>
+
+* Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning (NeurIPS 2018) 
+[[Paper](https://papers.nips.cc/paper/2018/hash/9087b0efc7c7acd1ef7e153678809c77-Abstract.html)]<br>
+*Datasets: CUB and NABird*<br>
+*Task: Image Classification*
+
+* Cross-Domain Hallucination Network for Fine-Grained Object Recognition (CVPRw 2018) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w21/Lin_Cross-Domain_Hallucination_Network_CVPR_2018_paper.pdf)]
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Long Tail
@@ -3821,6 +3875,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
@@ -4434,15 +4489,59 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### IEEE-Access
 #### ECCV
 #### AAAI
-#### TPAMI
+#### TPAMI-->
 #### CVPRw
-#### WACV
+* Fuse-PN: A Novel Architecture for Anomaly Pattern Segmentation in Aerial Agricultural Images (CVPRw 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/AgriVision/papers/Innani_Fuse-PN_A_Novel_Architecture_for_Anomaly_Pattern_Segmentation_in_Aerial_CVPRW_2021_paper.pdf)]
+<!--#### WACV
 #### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
+
+
+* RaPP: Novelty Detection with Reconstruction along Projection Pathway (ICLR 2020) 
+[[Paper](https://openreview.net/forum?id=HkgeGeBYDB)]
+[[Code](https://drive.google.com/drive/folders/1sknl_i4zmvSsPYZdzYxbg66ZSYDZ_abg?usp=sharing)]<br>
+*Datasets: fMNIST, MNIST, MI-F and MI-V, STL, OTTO, SNSR, EOPT, NASA, RARM*<br>
+*Task: Image Classification, Anomaly Detection*
+
+* Interpretable, Multidimensional, Multimodal Anomaly Detection with Negative Sampling for Detection of Device Failure (ICML 2020) 
+[[Paper](https://arxiv.org/abs/2007.10088)]<br>
+*Datasets: FOREST COVER(FC), MAMMOGRAPHY(MM), SMARTBUILDINGS(SB), MULCROSS(MC), SATELLITE(SA), SHUTTLE(SH)*<br>
+
+
+* Unsupervised Ensemble-Kernel Principal Component Analysis for Hyperspectral Anomaly Detection (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Merrill_Unsupervised_Ensemble-Kernel_Principal_Component_Analysis_for_Hyperspectral_Anomaly_Detection_CVPRW_2020_paper.pdf)]
+
+
+* Superpixel Masking and Inpainting for Self-Supervised Anomaly Detection (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/assets/papers/0275.pdf)]<br>
+*Datasets: MVTec AD*<br>
+
+
+* Deep Anomaly Detection with Outlier Exposure (ICLR 2019) 
+[[Paper](https://openreview.net/forum?id=HyxCxhRcY7)]
+[[Code](https://github.com/hendrycks/outlier-exposure)]<br>
+*Datasets: CIFAR-10, CIFAR-100, Places, SST, SVHN, Tiny ImageNet, Tiny Images*<br>
+
+* Anomaly Detection With Multiple-Hypotheses Predictions (ICML 2019) 
+[[Paper](https://arxiv.org/abs/1810.13292)]<br>
+*Datasets: CIFAR-10*<br>
+
+* Deep Anomaly Detection for Generalized Face Anti-Spoofing (CVPRw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CFS/Perez-Cabo_Deep_Anomaly_Detection_for_Generalized_Face_Anti-Spoofing_CVPRW_2019_paper.pdf)]
+
+* Anomaly-Based Manipulation Detection in Satellite Images (CVPRw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Horvath_Anomaly-Based_Manipulation_Detection_in_Satellite_Images_CVPRW_2019_paper.pdf)]
+
+* Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection (ICLR 2018) 
+[[Paper](https://openreview.net/forum?id=BJJLHbb0-)]
+[[Code](https://paperswithcode.com/paper/?openreview=BJJLHbb0-)]<br>
+*Datasets: CIFAR-10, Fashion-MNIST, MNIST, STL-10, cats_vs_dogs*<br>
+
 
 * Efficient Anomaly Detection via Matrix Sketching (NeurIPS 2018) 
 [[Paper](https://papers.nips.cc/paper/2018/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html)]<br>
@@ -4455,35 +4554,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * A loss framework for calibrated anomaly detection (NeurIPS 2018) 
 [[Paper](https://papers.nips.cc/paper/2018/hash/959a557f5f6beb411fd954f3f34b21c3-Abstract.html)]<br>
-
-
-* Deep Anomaly Detection with Outlier Exposure (ICLR 2019) 
-[[Paper](https://openreview.net/forum?id=HyxCxhRcY7)]
-[[Code](https://github.com/hendrycks/outlier-exposure)]<br>
-*Datasets: CIFAR-10, CIFAR-100, Places, SST, SVHN, Tiny ImageNet, Tiny Images*<br>
-
-* Anomaly Detection With Multiple-Hypotheses Predictions (ICML 2019) 
-[[Paper](https://arxiv.org/abs/1810.13292)]<br>
-*Datasets: CIFAR-10*<br>
-
-* Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection (ICLR 2018) 
-[[Paper](https://openreview.net/forum?id=BJJLHbb0-)]
-[[Code](https://paperswithcode.com/paper/?openreview=BJJLHbb0-)]<br>
-*Datasets: CIFAR-10, Fashion-MNIST, MNIST, STL-10, cats_vs_dogs*<br>
-
-* Superpixel Masking and Inpainting for Self-Supervised Anomaly Detection (BMVC 2020) 
-[[Paper](https://www.bmvc2020-conference.com/assets/papers/0275.pdf)]<br>
-*Datasets: MVTec AD*<br>
-
-* Interpretable, Multidimensional, Multimodal Anomaly Detection with Negative Sampling for Detection of Device Failure (ICML 2020) 
-[[Paper](https://arxiv.org/abs/2007.10088)]<br>
-*Datasets: FOREST COVER(FC), MAMMOGRAPHY(MM), SMARTBUILDINGS(SB), MULCROSS(MC), SATELLITE(SA), SHUTTLE(SH)*<br>
-
-* RaPP: Novelty Detection with Reconstruction along Projection Pathway (ICLR 2020) 
-[[Paper](https://openreview.net/forum?id=HkgeGeBYDB)]
-[[Code](https://drive.google.com/drive/folders/1sknl_i4zmvSsPYZdzYxbg66ZSYDZ_abg?usp=sharing)]<br>
-*Datasets: fMNIST, MNIST, MI-F and MI-V, STL, OTTO, SNSR, EOPT, NASA, RARM*<br>
-*Task: Image Classification, Anomaly Detection*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 # Video Open World Papers
@@ -5133,8 +5203,14 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Task: Action Recognition*
 <!--#### IJCV
 #### BMVC
-#### ICCw
-#### Arxiv & Others-->
+#### ICCw-->
+#### Arxiv & Others
+* Hand Guided High Resolution Feature Enhancement for Fine-Grained Atomic Action Segmentation Within Complex Human Assemblies (WACVw 2023) 
+[[Paper](http://arxiv.org/abs/2211.13694)]
+
+* A Transformer-Based Late-Fusion Mechanism for Fine-Grained Object Recognition in Videos (WACVw 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Koch_A_Transformer-Based_Late-Fusion_Mechanism_for_Fine-Grained_Object_Recognition_in_Videos_WACVW_2023_paper.pdf)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
@@ -5230,6 +5306,26 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### ICCw
 #### Arxiv & Others-->
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
+
+* Yoga-82: A New Dataset for Fine-Grained Classification of Human Poses (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w70/Verma_Yoga-82_A_New_Dataset_for_Fine-Grained_Classification_of_Human_Poses_CVPRW_2020_paper.pdf)]
+
+* Fine-Grained Pointing Recognition for Natural Drone Guidance (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w70/Barbed_Fine-Grained_Pointing_Recognition_for_Natural_Drone_Guidance_CVPRW_2020_paper.pdf)]
+
+* Fine-Grained Visual Dribbling Style Analysis for Soccer Videos With Augmented Dribble Energy Image (CVPRw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Li_Fine-Grained_Visual_Dribbling_Style_Analysis_for_Soccer_Videos_With_Augmented_CVPRW_2019_paper.pdf)]
+
+* Anticipation of Human Actions With Pose-Based Fine-Grained Representations (CVPRw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Agethen_Anticipation_of_Human_Actions_With_Pose-Based_Fine-Grained_Representations_CVPRW_2019_paper.pdf)]
+
+* Fine-Grained Head Pose Estimation Without Keypoints (CVPRw 2018) 
+[[Paper](http://arxiv.org/abs/1710.00925)]
+
+* Fine-Grained Activity Recognition in Baseball Videos (CVPRw 2018) 
+[[Paper](http://arxiv.org/abs/1804.03247)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Long Tail Videos
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -5480,6 +5576,70 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 ### Older Papers
 
+* Box-Level Tube Tracking and Refinement for Vehicles Anomaly Detection (CVPRw 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Wu_Box-Level_Tube_Tracking_and_Refinement_for_Vehicles_Anomaly_Detection_CVPRW_2021_paper.pdf)]
+
+* Dual-Modality Vehicle Anomaly Detection via Bilateral Trajectory Tracing (CVPRw 2021) 
+[[Paper](http://arxiv.org/abs/2106.05003)]
+
+* A Vision-Based System for Traffic Anomaly Detection Using Deep Learning and Decision Trees (CVPRw 2021) 
+[[Paper](http://arxiv.org/abs/2104.06856)]
+
+* Good Practices and a Strong Baseline for Traffic Anomaly Detection (CVPRw 2021) 
+[[Paper](http://arxiv.org/abs/2105.03827)]
+
+* An Efficient Approach for Anomaly Detection in Traffic Videos (CVPRw 2021) 
+[[Paper](http://arxiv.org/abs/2104.09758)]
+
+
+* Spacecraft Time-Series Anomaly Detection Using Transfer Learning (CVPRw 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/papers/Baireddy_Spacecraft_Time-Series_Anomaly_Detection_Using_Transfer_Learning_CVPRW_2021_paper.pdf)]
+
+* Multi-Granularity Tracking With Modularlized Components for Unsupervised Vehicles Anomaly Detection (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Li_Multi-Granularity_Tracking_With_Modularlized_Components_for_Unsupervised_Vehicles_Anomaly_Detection_CVPRW_2020_paper.pdf)]
+
+* Fractional Data Distillation Model for Anomaly Detection in Traffic Videos (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Shine_Fractional_Data_Distillation_Model_for_Anomaly_Detection_in_Traffic_Videos_CVPRW_2020_paper.pdf)]
+
+* Towards Real-Time Systems for Vehicle Re-Identification, Multi-Camera Tracking, and Anomaly Detection (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Peri_Towards_Real-Time_Systems_for_Vehicle_Re-Identification_Multi-Camera_Tracking_and_Anomaly_CVPRW_2020_paper.pdf)]
+
+* Fast Unsupervised Anomaly Detection in Traffic Videos (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Doshi_Fast_Unsupervised_Anomaly_Detection_in_Traffic_Videos_CVPRW_2020_paper.pdf)]
+
+* Continual Learning for Anomaly Detection in Surveillance Videos (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w15/Doshi_Continual_Learning_for_Anomaly_Detection_in_Surveillance_Videos_CVPRW_2020_paper.pdf)]
+
+* Any-Shot Sequential Anomaly Detection in Surveillance Videos (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w54/Doshi_Any-Shot_Sequential_Anomaly_Detection_in_Surveillance_Videos_CVPRW_2020_paper.pdf)]
+
+
+* Challenges in Time-Stamp Aware Anomaly Detection in Traffic Videos (CVPRw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Biradar_Challenges_in_Time-Stamp_Aware_Anomaly_Detection_in_Traffic_Videos_CVPRW_2019_paper.pdf)]
+
+* Traffic Anomaly Detection via Perspective Map based on Spatial-temporal Information Matrix (CVPRw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Bai_Traffic_Anomaly_Detection_via_Perspective_Map_based_on_Spatial-temporal_Information_CVPRW_2019_paper.pdf)]
+
+* Unsupervised Traffic Anomaly Detection Using Trajectories (CVPRw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Zhao_Unsupervised_Traffic_Anomaly_Detection_Using_Trajectories_CVPRW_2019_paper.pdf)]
+
+* Attention Driven Vehicle Re-identification and Unsupervised Anomaly Detection for Traffic Understanding (CVPRw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Khorramshahi_Attention_Driven_Vehicle_Re-identification_and_Unsupervised_Anomaly_Detection_for_Traffic_CVPRW_2019_paper.pdf)]
+
+* A Comparative Study of Faster R-CNN Models for Anomaly Detection in 2019 AI City Challenge (CVPRw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Shine_A_Comparative_Study_of_Faster_R-CNN_Models_for_Anomaly_Detection_CVPRW_2019_paper.pdf)]
+
+* Anomaly Candidate Identification and Starting Time Estimation of Vehicles from Traffic Videos (CVPRw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Wang_Anomaly_Candidate_Identification_and_Starting_Time_Estimation_of_Vehicles_from_CVPRW_2019_paper.pdf)]
+
+* Hybrid Deep Network for Anomaly Detection (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0726.html)]<br>
+*Datasets: CUHK Avenue, UCSD Ped2, Belleview, Traffic-Train*<br>
+
+* Motion-Aware Feature for Improved Video Anomaly Detection (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0129.html)]<br>
+*Datasets: UCF Crime*<br>
+
 * Adversarially Learned One-Class Classifier for Novelty Detection (CVPR 2018) 
 [[Paper](http://arxiv.org/abs/1802.09088)]<br>
 *Datasets: MNIST, Caltech-256, UCSD Ped2*<br>
@@ -5495,13 +5655,11 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Code](https://github.com/StevenLiuWen/ano_pred_cvpr2018)]<br>
 *Datasets: CUHK, Avenue, UCSD Ped1, UCSD Ped2, ShanghaiTech, Paper's toy dataset*<br>
 
-* Hybrid Deep Network for Anomaly Detection (BMVC 2019) 
-[[Paper](https://bmvc2019.org/wp-content/papers/0726.html)]<br>
-*Datasets: CUHK Avenue, UCSD Ped2, Belleview, Traffic-Train*<br>
+* Unsupervised Anomaly Detection for Traffic Surveillance Based on Background Modeling (CVPRw 2018) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wei_Unsupervised_Anomaly_Detection_CVPR_2018_paper.pdf)]
 
-* Motion-Aware Feature for Improved Video Anomaly Detection (BMVC 2019) 
-[[Paper](https://bmvc2019.org/wp-content/papers/0129.html)]<br>
-*Datasets: UCF Crime*<br>
+* Dual-Mode Vehicle Motion Pattern Learning for High Performance Road Traffic Anomaly Detection (CVPRw 2018) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Xu_Dual-Mode_Vehicle_Motion_CVPR_2018_paper.pdf)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novelty Detection

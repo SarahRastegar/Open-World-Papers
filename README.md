@@ -4036,6 +4036,19 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/19887)]<br>
 *Datasets: ImageNet-LT, Places-LT, Marine Species (MS)-LT*<br>
 *Task: Image Classification*
+
+* Imagine by Reasoning: A Reasoning-Based Implicit Semantic Data Augmentation for Long-Tailed Classification (AAAI 2022)
+[[Paper](https://arxiv.org/abs/2112.07928)]
+
+* Adaptive Logit Adjustment Loss for Long-Tailed Visual Recognition (AAAI 2022)
+[[Paper](https://arxiv.org/abs/2104.06094)]
+
+* Cross-Domain Empirical Risk Minimization for Unbiased Long-Tailed Classification (AAAI 2022)
+[[Paper](https://arxiv.org/abs/2112.14380)]
+
+* Memory-Based Jitter: Improving Visual Recognition on Long-Tailed Data with Diversity In Memory (AAAI 2022)
+[[Paper](https://arxiv.org/abs/2008.09809)]
+
 #### TPAMI
 * Open Long-Tailed RecognitionIn A Dynamic World	(TPAMI 2022) 
 [[Paper](https://arxiv.org/pdf/2208.08349v1.pdf)]
@@ -4076,9 +4089,12 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://openreview.net/forum?id=D9I3drBz4UC)]<br>
 
 <!--#### NeurIPS
-#### ICCV
+#### ICCV-->
 #### ICML
-#### IEEE-Access 
+* Image-Level or Object-Level? A Tale of Two Resampling Strategies for Long-Tailed Detection (ICML 2021) 
+[[Paper](http://proceedings.mlr.press/v139/chang21c.html)]
+
+<!--#### IEEE-Access 
 #### ECCV
 #### AAAI
 #### TPAMI

@@ -3818,6 +3818,37 @@ For more concise terminology, we use **claster** when referring to clusters depi
 ### 2020 Papers
 #### CVPR
 
+* Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention (CVPR 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Fine-Grained_Generalized_Zero-Shot_Learning_via_Dense_Attribute-Based_Attention_CVPR_2020_paper.pdf)]
+
+* Progressive Adversarial Networks for Fine-Grained Domain Adaptation (CVPR 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Progressive_Adversarial_Networks_for_Fine-Grained_Domain_Adaptation_CVPR_2020_paper.pdf)]
+
+* Interpretable and Accurate Fine-grained Recognition via Region Grouping (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2005.10411)]
+
+* Fine-Grained Image-to-Image Transformation Towards Visual Recognition (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2001.03856)]
+
+* Weakly Supervised Fine-Grained Image Classification via Guassian Mixture Model Oriented Discriminative Learning (CVPR 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Weakly_Supervised_Fine-Grained_Image_Classification_via_Guassian_Mixture_Model_Oriented_CVPR_2020_paper.pdf)]
+
+* Say As You Wish: Fine-Grained Control of Image Caption Generation With Abstract Scene Graphs (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2003.00387)]
+
+* Attention Convolutional Binary Neural Tree for Fine-Grained Visual Categorization (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/1909.11378)]
+
+* Sketch Less for More: On-the-Fly Fine-Grained Sketch-Based Image Retrieval (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2002.10310)]
+
+* 3D Part Guided Image Editing for Fine-Grained Object Understanding (CVPR 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_3D_Part_Guided_Image_Editing_for_Fine-Grained_Object_Understanding_CVPR_2020_paper.pdf)]
+
+* Solving Mixed-Modal Jigsaw Puzzle for Fine-Grained Sketch-Based Image Retrieval (CVPR 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_Solving_Mixed-Modal_Jigsaw_Puzzle_for_Fine-Grained_Sketch-Based_Image_Retrieval_CVPR_2020_paper.pdf)]
+
+
 #### NeurIPS
 
 * Fine-Grained Dynamic Head for Object Detection (NeurIPS 2020) 
@@ -3828,6 +3859,36 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition (NeurIPS 2020) 
 [[Paper](https://papers.nips.cc/paper_files/paper/2020/hash/e58cc5ca94270acaceed13bc82dfedf7-Abstract.html)]<br>
+
+#### ECCV
+
+* ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf)]
+
+* ExchNet: A Unified Hashing Network for Large-Scale Fine-Grained Image Retrieval (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480188.pdf)]
+
+* Self-supervising Fine-grained Region Similarities for Large-scale Image Localization (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490358.pdf)]
+
+* Beyond 3DMM Space: Towards Fine-grained 3D Face Reconstruction (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530341.pdf)]
+
+* Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590630.pdf)]
+
+* SceneSketcher: Fine-Grained Image Retrieval with Scene Sketches (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640698.pdf)]
+
+* Fine-Grained Visual Classification via Progressive Multi-Granularity Training of Jigsaw Patches (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650154.pdf)]
+
+* OneGAN: Simultaneous Unsupervised Learning of Conditional Image Generation, Foreground Segmentation, and Fine-Grained Clustering (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710511.pdf)]
+
+* Toward Fine-grained Facial Expression Manipulation (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730035.pdf)]
+
 
 #### CVPRw
 
@@ -5484,6 +5545,20 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
+* FineGym: A Hierarchical Video Dataset for Fine-Grained Action Understanding (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2004.06704)]
+
+* Multi-Modal Domain Adaptation for Fine-Grained Action Recognition (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2001.09691)]
+
+* Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2004.00705)]
+
+* Fine-Grained Video-Text Retrieval With Hierarchical Graph Reasoning (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2003.00392)]
+
+* Stochastic Fine-grained Labeling of Multi-state Sign Glosses for Continuous Sign Language Recognition (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610171.pdf)]
 
 * Fine-Grained Motion Representation For Template-Free Visual Tracking (WACV 2020) 
 [[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Shuang_Fine-Grained_Motion_Representation_For_Template-Free_Visual_Tracking_WACV_2020_paper.pdf)]

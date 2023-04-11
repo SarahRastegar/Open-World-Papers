@@ -3934,12 +3934,55 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * On the Exploration of Incremental Learning for Fine-grained Image Retrieval (BMVC 2020) 
 [[Paper](https://www.bmvc2020-conference.com/assets/papers/0079.pdf)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-### Older Papers
+### 2019 Papers
+
+#### CVPR
+* Generalising Fine-Grained Sketch-Based Image Retrieval (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pang_Generalising_Fine-Grained_Sketch-Based_Image_Retrieval_CVPR_2019_paper.pdf)]
+
+* PartNet: A Large-Scale Benchmark for Fine-Grained and Hierarchical Part-Level 3D Object Understanding (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mo_PartNet_A_Large-Scale_Benchmark_for_Fine-Grained_and_Hierarchical_Part-Level_3D_CVPR_2019_paper.pdf)]
+
+* FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation From a Single Image (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_FSA-Net_Learning_Fine-Grained_Structure_Aggregation_for_Head_Pose_Estimation_From_CVPR_2019_paper.pdf)]
+
+* Weakly Supervised Complementary Parts Models for Fine-Grained Image Classification From the Bottom Up (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_Weakly_Supervised_Complementary_Parts_Models_for_Fine-Grained_Image_Classification_From_CVPR_2019_paper.pdf)]
+
+* Distilling Object Detectors With Fine-Grained Feature Imitation (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Distilling_Object_Detectors_With_Fine-Grained_Feature_Imitation_CVPR_2019_paper.pdf)]
+
+* Looking for the Devil in the Details: Learning Trilinear Attention Sampling Network for Fine-Grained Image Recognition (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Looking_for_the_Devil_in_the_Details_Learning_Trilinear_Attention_CVPR_2019_paper.pdf)]
+
+* Destruction and Construction Learning for Fine-Grained Image Recognition (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Destruction_and_Construction_Learning_for_Fine-Grained_Image_Recognition_CVPR_2019_paper.pdf)]
+
+* FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Singh_FineGAN_Unsupervised_Hierarchical_Disentanglement_for_Fine-Grained_Object_Generation_and_Discovery_CVPR_2019_paper.pdf)]
+
+* Multispectral Imaging for Fine-Grained Recognition of Powders on Complex Backgrounds (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhi_Multispectral_Imaging_for_Fine-Grained_Recognition_of_Powders_on_Complex_Backgrounds_CVPR_2019_paper.pdf)]
+
+* Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)]
+
+* PartNet: A Recursive Part Decomposition Network for Fine-Grained and Hierarchical Shape Segmentation (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_PartNet_A_Recursive_Part_Decomposition_Network_for_Fine-Grained_and_Hierarchical_CVPR_2019_paper.pdf)]
+
+* 3D Guided Fine-Grained Face Manipulation (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Geng_3D_Guided_Fine-Grained_Face_Manipulation_CVPR_2019_paper.pdf)]
+
+
+#### ICLR
 
 * Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering (ICLR 2019) 
 [[Paper](https://openreview.net/forum?id=Syl7OsRqY7)]<br>
 *Datasets: TriviaQA, WikiHop*<br>
 *Task: Question Answering*
+
+#### NeurIPS
+
 
 * Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition (NeurIPS 2019) 
 [[Paper](https://papers.nips.cc/paper_files/paper/2019/hash/418ef6127e44214882c61e372e866691-Abstract.html)]<br>
@@ -3950,9 +3993,44 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Fine-grained Optimization of Deep Neural Networks (NeurIPS 2019) 
 [[Paper](https://papers.nips.cc/paper_files/paper/2019/hash/c2626d850c80ea07e7511bbae4c76f4b-Abstract.html)]<br>
 
+#### ICCV
+
+* Fine-Grained Segmentation Networks: Self-Supervised Segmentation for Improved Long-Term Visual Localization (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Larsson_Fine-Grained_Segmentation_Networks_Self-Supervised_Segmentation_for_Improved_Long-Term_Visual_Localization_ICCV_2019_paper.pdf)]
+
+* Cost-Aware Fine-Grained Recognition for IoTs Based on Sequential Fixations (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Cost-Aware_Fine-Grained_Recognition_for_IoTs_Based_on_Sequential_Fixations_ICCV_2019_paper.pdf)]
+
+* Adversarial Fine-Grained Composition Learning for Unseen Attribute-Object Recognition (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wei_Adversarial_Fine-Grained_Composition_Learning_for_Unseen_Attribute-Object_Recognition_ICCV_2019_paper.pdf)]
+
+* Person-in-WiFi: Fine-Grained Person Perception Using WiFi (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Person-in-WiFi_Fine-Grained_Person_Perception_Using_WiFi_ICCV_2019_paper.pdf)]
+
+* Selective Sparse Sampling for Fine-Grained Image Recognition (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ding_Selective_Sparse_Sampling_for_Fine-Grained_Image_Recognition_ICCV_2019_paper.pdf)]
+
+* SkyScapes Fine-Grained Semantic Understanding of Aerial Scenes (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Azimi_SkyScapes__Fine-Grained_Semantic_Understanding_of_Aerial_Scenes_ICCV_2019_paper.pdf)]
+
+* Cross-X Learning for Fine-Grained Visual Categorization (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_Cross-X_Learning_for_Fine-Grained_Visual_Categorization_ICCV_2019_paper.pdf)]
+
+* Learning a Mixture of Granularity-Specific Experts for Fine-Grained Categorization (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_a_Mixture_of_Granularity-Specific_Experts_for_Fine-Grained_Categorization_ICCV_2019_paper.pdf)]
+
+* Presence-Only Geographical Priors for Fine-Grained Image Classification (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Aodha_Presence-Only_Geographical_Priors_for_Fine-Grained_Image_Classification_ICCV_2019_paper.pdf)]
+
+* Detecting 11K Classes: Large Scale Object Detection Without Fine-Grained Bounding Boxes (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Detecting_11K_Classes_Large_Scale_Object_Detection_Without_Fine-Grained_Bounding_ICCV_2019_paper.pdf)]
+
+#### CVPRw
+
 * Interpreting Fine-Grained Dermatological Classification by Deep Learning (CVPRw 2019) 
 [[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/ISIC/Mishra_Interpreting_Fine-Grained_Dermatological_Classification_by_Deep_Learning_CVPRW_2019_paper.pdf)]
 
+#### BMVC
 
 * Guided Zoom: Questioning Network Evidence for Fine-grained Classification (BMVC 2019) 
 [[Paper](https://bmvc2019.org/wp-content/papers/0061.html)]<br>
@@ -3964,6 +4042,8 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Code](https://github.com/xueluli/GSFL-Net)]<br>
 *Datasets: CaltechUCSD (CUB-200-2011) Birds, Stanford Dogs, FGVC-Aircraft*<br>
 *Task: Image Classification*
+
+#### ICCVw
 
 * A Refined 3D Pose Dataset for Fine-Grained Object Categories (ICCVw 2019) 
 [[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/R6D/Wang_A_Refined_3D_Pose_Dataset_for_Fine-Grained_Object_Categories_ICCVW_2019_paper.pdf)]
@@ -3980,11 +4060,48 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Squeezed Bilinear Pooling for Fine-Grained Visual Categorization (ICCVw 2019) 
 [[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/SDL-CV/Liao_Squeezed_Bilinear_Pooling_for_Fine-Grained_Visual_Categorization_ICCVW_2019_paper.pdf)]
 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
+* AttnGAN: Fine-Grained Text to Image Generation With Attentional Generative Adversarial Networks (CVPR 2018) 
+[[Paper](http://arxiv.org/abs/1711.10485)]
+
+* Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning (CVPR 2018) 
+[[Paper](http://arxiv.org/abs/1806.06193)]
+
+* Learning a Discriminative Filter Bank Within a CNN for Fine-Grained Recognition (CVPR 2018) 
+[[Paper](http://arxiv.org/abs/1611.09932)]
+
+* Webly Supervised Learning Meets Zero-Shot Learning: A Hybrid Approach for Fine-Grained Classification (CVPR 2018) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Niu_Webly_Supervised_Learning_CVPR_2018_paper.pdf)]
 
 * Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning (NeurIPS 2018) 
 [[Paper](https://papers.nips.cc/paper/2018/hash/9087b0efc7c7acd1ef7e153678809c77-Abstract.html)]<br>
 *Datasets: CUB and NABird*<br>
 *Task: Image Classification*
+
+* Attend and Rectify: a gated attention mechanism for fine-grained recovery (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Pau_Rodriguez_Lopez_Attend_and_Rectify_ECCV_2018_paper.pdf)]
+
+* DeepKSPD: Learning Kernel-matrix-based SPD Representation for Fine-grained Image Recognition (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Melih_Engin_DeepKSPD_Learning_Kernel-matrix-based_ECCV_2018_paper.pdf)]
+
+* Fine-Grained Visual Categorization using Meta-Learning Optimization with Sample Selection of Auxiliary Data (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Yabin_Zhang_Fine-Grained_Visual_Categorization_ECCV_2018_paper.pdf)]
+
+* Hierarchical Bilinear Pooling for Fine-Grained Visual Recognition (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Chaojian_Yu_Hierarchical_Bilinear_Pooling_ECCV_2018_paper.pdf)]
+
+* Grassmann Pooling as Compact Homogeneous Bilinear Pooling for Fine-Grained Visual Classification (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Xing_Wei_Grassmann_Pooling_for_ECCV_2018_paper.pdf)]
+
+* Learning to Navigate for Fine-grained Classification (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Ze_Yang_Learning_to_Navigate_ECCV_2018_paper.pdf)]
+
+* Pairwise Confusion for Fine-Grained Visual Classification (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Abhimanyu_Dubey_Improving_Fine-Grained_Visual_ECCV_2018_paper.pdf)]
+
+* Multi-Attention Multi-Class Constraint for Fine-grained Image Recognition (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Ming_Sun_Multi-Attention_Multi-Class_Constraint_ECCV_2018_paper.pdf)]
 
 * Cross-Domain Hallucination Network for Fine-Grained Object Recognition (CVPRw 2018) 
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w21/Lin_Cross-Domain_Hallucination_Network_CVPR_2018_paper.pdf)]
@@ -5573,17 +5690,42 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Fine-Grained Pointing Recognition for Natural Drone Guidance (CVPRw 2020) 
 [[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w70/Barbed_Fine-Grained_Pointing_Recognition_for_Natural_Drone_Guidance_CVPRW_2020_paper.pdf)]
 
+* Local Temporal Bilinear Pooling for Fine-Grained Action Parsing (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Local_Temporal_Bilinear_Pooling_for_Fine-Grained_Action_Parsing_CVPR_2019_paper.pdf)]
+
+* Drive&Act: A Multi-Modal Dataset for Fine-Grained Driver Behavior Recognition in Autonomous Vehicles (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Martin_DriveAct_A_Multi-Modal_Dataset_for_Fine-Grained_Driver_Behavior_Recognition_in_ICCV_2019_paper.pdf)]
+
+* Fine-Grained Action Retrieval Through Multiple Parts-of-Speech Embeddings (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wray_Fine-Grained_Action_Retrieval_Through_Multiple_Parts-of-Speech_Embeddings_ICCV_2019_paper.pdf)]
+
+* Learning Motion in Feature Space: Locally-Consistent Deformable Convolution Networks for Fine-Grained Action Detection (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Mac_Learning_Motion_in_Feature_Space_Locally-Consistent_Deformable_Convolution_Networks_for_ICCV_2019_paper.pdf)]
+
+* ViSiL: Fine-Grained Spatio-Temporal Video Similarity Learning (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kordopatis-Zilos_ViSiL_Fine-Grained_Spatio-Temporal_Video_Similarity_Learning_ICCV_2019_paper.pdf)]
+
 * Fine-Grained Visual Dribbling Style Analysis for Soccer Videos With Augmented Dribble Energy Image (CVPRw 2019) 
 [[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Li_Fine-Grained_Visual_Dribbling_Style_Analysis_for_Soccer_Videos_With_Augmented_CVPRW_2019_paper.pdf)]
 
 * Anticipation of Human Actions With Pose-Based Fine-Grained Representations (CVPRw 2019) 
 [[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Agethen_Anticipation_of_Human_Actions_With_Pose-Based_Fine-Grained_Representations_CVPRW_2019_paper.pdf)]
 
+* Fine-Grained Video Captioning for Sports Narrative (CVPR 2018) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Fine-Grained_Video_Captioning_CVPR_2018_paper.pdf)]
+
+* Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion using Conditional Variational Autoencoders (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf)]
+
+* Fine-grained Video Categorization with Redundancy Reduction Attention (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Chen_Zhu_Fine-grained_Video_Categorization_ECCV_2018_paper.pdf)]
+
 * Fine-Grained Head Pose Estimation Without Keypoints (CVPRw 2018) 
 [[Paper](http://arxiv.org/abs/1710.00925)]
 
 * Fine-Grained Activity Recognition in Baseball Videos (CVPRw 2018) 
 [[Paper](http://arxiv.org/abs/1804.03247)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Long Tail Videos
 <!----------------------------------------------------------------------------------------------------------------------------------------------->

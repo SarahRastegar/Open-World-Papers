@@ -3623,8 +3623,42 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Task: Image Retrieval*
 
 
-<!--#### AAAI
-#### TPAMI
+#### AAAI
+
+* TransFG: A Transformer Architecture for Fine-Grained Recognition (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_aaai8475)]
+
+* Category-Specific Nuance Exploration Network for Fine-Grained Object Retrieval (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AAAI4346.html)]
+
+* Dual Attention Networks for Few-Shot Fine-Grained Recognition (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AAAI1537.html)]
+
+* Hyperbolic Disentangled Representation for Fine-Grained Aspect Extraction (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AAAI6574.html)]
+
+* Class Guided Channel Weighting Network for Fine-Grained Semantic Segmentation (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AAAI6621.html)]
+
+* Exploiting Fine-Grained Face Forgery Clues via Progressive Enhancement Learning (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AAAI1011.html)]
+
+* Towards Fine-Grained Reasoning for Fake News Detection (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AAAI12332.html)]
+
+* Accurate and Scalable Gaussian Processes for Fine-Grained Air Quality Inference (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AISI11178.html)]
+
+* Fine-Grained Urban Flow Inference via Normalizing Flow (Student Abstract) (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_SA418.html)]
+
+* Pinpointing Fine-Grained Relationships between Hateful Tweets and Replies (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AAAI6353.html)]
+
+* COVID-EENet: Predicting Fine-Grained Impact of COVID-19 on Local Economies (AAAI 2022) 
+[[Paper](https://aaai-2022.virtualchair.net/poster_AISI1959.html)]
+
+<!--#### TPAMI
 #### CVPRw
 #### WACV
 #### IJCV-->

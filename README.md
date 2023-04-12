@@ -33,6 +33,8 @@ Since some papers belong to multiple categories, I put them in all related categ
 - [Long Tail Videos](#Long-Tail-Videos)
 - [Anomaly Detection Videos](#Anomaly-Detection-Videos)
 - [Novelty Detection](#Novelty-Detection)
+- [Other Related Papers](#Other-Related-Papers)
+- [Action Recognition Related](#Action-Recognition-Related)
 
 ## Introduction 
 Let us consider a Telsa! Car is our running example during this repo. One day Telsa engineers decide to train their autopilot model. First, they meticulously collect these data on mornings on the way to their job while contemplating their life choices in the traffic. Then they give those videos to some people to categorize over several categories like cars, bikes, people, birds, and trees. They then train the model on the collected, labeled data, which produces a good performance on the evaluation data.
@@ -96,6 +98,24 @@ For more concise terminology, we use **claster** when referring to clusters depi
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Zero-Shot Learning
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Surveys
+* Zero-shot and Few-shot Learning with Knowledge Graphs: A Comprehensive Survey (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2112.10006)]
+
+* A Survey of Zero-shot Generalisation in Deep Reinforcement Learning (JAIR 2023) 
+[[Paper](https://arxiv.org/abs/2111.09794)]
+
+* Survey of Visual-Semantic Embedding Methods for Zero-Shot Image Retrieval (ICMLA 2021) 
+[[Paper](https://arxiv.org/abs/2105.07391)]
+
+* Knowledge-aware Zero-Shot Learning: Survey and Perspective (IJCAI 2021 Survey Track) 
+[[Paper](https://arxiv.org/abs/2103.00070)]
+
+* A Survey of Deep Learning for Low-Shot Object Detection (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2112.02814)]
+
+* Weak Novel Categories without Tears: A Survey on Weak-Shot Learning (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2110.02651)]
 
 ### 2023 Papers
 <!-- #### CVPR-->
@@ -6260,3 +6280,10 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Upcycling Models under Domain and Category Shift (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.07110)]<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Action Recognition Related
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Surveys
+* Vision Transformers for Action Recognition: A Survey (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2209.05700)]

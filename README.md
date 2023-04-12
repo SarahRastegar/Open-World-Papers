@@ -1190,10 +1190,13 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 #### ICCw
 
-* SOoD: Self-Supervised Out-of-Distribution Detection Under Domain Shift for Multi-Class Colorectal Cancer Tissue Types (CVPRw 2021) 
+* SOoD: Self-Supervised Out-of-Distribution Detection Under Domain Shift for Multi-Class Colorectal Cancer Tissue Types (ICCVw 2021) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/CVAMD/papers/Bozorgtabar_SOoD_Self-Supervised_Out-of-Distribution_Detection_Under_Domain_Shift_for_Multi-Class_Colorectal_ICCVW_2021_paper.pdf)]
 
-<!--#### Arxiv & Others-->
+#### Arxiv & Others
+
+* ATOM: Robustifying Out-of-distribution Detection Using Outlier Mining (ECML 2021) 
+[[Paper](https://arxiv.org/abs/2006.15207)] 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2020 Papers
 #### CVPR
@@ -2046,7 +2049,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * One-Shot Open-Set Skeleton-Based Action Recognition (IEEE International Conference on Humanoid Robots 2022) 
 [[Paper](https://arxiv.org/abs/2209.04288)]
 
-
 * From Known to Unknown: Quality-aware Self-improving Graph Neural Network for Open Set Social Event Detection (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2208.06973)]
 
@@ -2055,7 +2057,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2207.11514)]
-
 
 * Dummy Prototypical Networks for Few-Shot Open-Set Keyword Spotting (INTERSPEECH 2022) 
 [[Paper](https://arxiv.org/abs/2206.13691)]
@@ -2296,6 +2297,9 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: n MNIST, SVHN, CIFAR-10, CIFAR+10, CIFAR+50*<br>
 *Task: Image Classification*
 
+* Towards Open-World Recommendation: An Inductive Model-based Collaborative Filtering Approach (ICML 2021) 
+[[Paper](https://arxiv.org/abs/2007.04833)]
+
 <!--#### IEEE-Access
 #### AAAI-->
 #### TPAMI
@@ -2435,9 +2439,11 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Towards Entity Alignment in the Open World: An Unsupervised Approach (DASFAA 2021) 
 [[Paper](https://arxiv.org/abs/2101.10535)] 
 
-
 * Semantic Task Planning for Service Robots in Open World (Arxiv 2021) 
 [[Paper](https://arxiv.org/abs/2011.00621)] 
+
+* Lifelong Learning of Graph Neural Networks for Open-World Node Classification (IJCNN 2021) 
+[[Paper](https://arxiv.org/abs/2006.14422)] 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2020 Papers
@@ -2475,7 +2481,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2006.12087)]<br>
 *Datasets: Office-Home, VisDA-17, Syn2Real-O*<br>
 *Task: Domain Adaptation*
-
 
 
 #### ECCV
@@ -2576,8 +2581,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Centralized Large Margin Cosine Loss for Open-Set Deep Palmprint Recognition (IEEE Transactions on Circuits and Systems for Video Technology 2020) 
 [[Paper](https://ieeexplore.ieee.org/document/8666165/)]
 
-* Joint Partial Optimal Transport for Open Set Domai* Open-World Class Discovery with Kernel Networks (ICDM 2020 Best paper candidate) 
-[[Paper](https://arxiv.org/abs/2012.06957)] n Adaptation (IJCAI 2020) 
+* Joint Partial Optimal Transport for Open Set Domain Adaptation (IJCAI 2020) 
 [[Paper](https://www.ijcai.org/Proceedings/2020/0352.pdf)]
 
 * Collaborative Training of Balanced Random Forests for Open Set Domain Adaptation (Arxiv 2020) 
@@ -2588,6 +2592,16 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Open-World Class Discovery with Kernel Networks (ICDM 2020 Best paper candidate) 
 [[Paper](https://arxiv.org/abs/2012.06957)] 
+
+* Probabilistic Case-based Reasoning for Open-World Knowledge Graph Completion (Arxiv 2020) 
+[[Paper](https://arxiv.org/abs/2010.03548)] 
+
+* An Open-World Simulated Environment for Developmental Robotics (ICMLw 2020) 
+[[Paper](https://arxiv.org/abs/2007.09300)] 
+
+* A Critical Evaluation of Open-World Machine Learning (ICMLw 2020) 
+[[Paper](https://arxiv.org/abs/2007.04391)] 
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2019 Papers
@@ -2679,6 +2693,19 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Open Set Incremental Learning for Automatic Target Recognition (IEEE Transactions on Geoscience and Remote Sensing 2019) 
 [[Paper](https://ieeexplore.ieee.org/document/8631004/)]
+
+* Multi-stage Deep Classifier Cascades for Open World Recognition (CIKM 2019) 
+[[Paper](https://arxiv.org/abs/1908.09931)] 
+
+* An Open-World Extension to Knowledge Graph Completion Models (AAAI 2019) 
+[[Paper](https://arxiv.org/abs/1906.08382)] 
+
+* Enabling Open-World Specification Mining via Unsupervised Learning (Arxiv 2019) 
+[[Paper](https://arxiv.org/abs/1904.12098)] 
+
+* Open-world Learning and Application to Product Classification (WWW 2019) 
+[[Paper](https://arxiv.org/abs/1809.06004)] 
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2018 Papers
 
@@ -2737,6 +2764,9 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Dropout Sampling for Robust Object Detection in Open-Set Conditions (ICRA 2018) 
 [[Paper](https://arxiv.org/abs/1710.06677)]
 
+* Open-World Knowledge Graph Completion (AAAI 2018) 
+[[Paper](https://arxiv.org/abs/1711.03438)] 
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
@@ -2791,6 +2821,15 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Towards Open-World Person Re-Identification by One-Shot Group-Based Verification (TPAMI 2016) 
 [[Paper](https://ieeexplore.ieee.org/document/7152932/)]
+
+* Open-World Visual Recognition Using Knowledge Graphs (Arxiv 2017) 
+[[Paper](https://arxiv.org/abs/1708.08310)] 
+
+* Identifying Unknown Unknowns in the Open World: Representations and Policies for Guided Exploration (AAAI 2017) 
+[[Paper](https://arxiv.org/abs/1610.09064)] 
+
+* Online Open World Recognition (Arxiv 2016) 
+[[Paper](https://arxiv.org/abs/1604.02275)] 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Novel Class Discovery
@@ -5629,6 +5668,18 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Code](https://github.com/xhp-hust-2018-2011/S-DCNet)]<br>
 *Datasets: Synthesized Cell Counting, UCF-QNRF, ShanghaiTech, UCFCC50, TRANCOS and MTC*<br>
 *Task: Visual Counting*
+
+* AutOTranS: an Autonomous Open World Transportation System (Arxiv 2018) 
+[[Paper](https://arxiv.org/abs/1810.03400)] 
+
+* From Known to the Unknown: Transferring Knowledge to Answer Questions about Novel Visual and Semantic Concepts (Arxiv 2018) 
+[[Paper](https://arxiv.org/abs/1811.12772)] 
+
+* Visual Curiosity: Learning to Ask Questions to Learn Visual Recognition (CoRL 2018 Oral) 
+[[Paper](https://arxiv.org/abs/1810.00912)] 
+
+* Towards Large-Scale Video Video Object Mining (ECCVw 2018) 
+[[Paper](https://arxiv.org/abs/1809.07316)] 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ##  Novel Class Discovery Videos

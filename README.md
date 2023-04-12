@@ -1644,7 +1644,38 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Iterative Prompt Learning for Unsupervised Backlit Image Enhancement (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2303.17569)]
 
+* Open Set Classification of GAN-based Image Manipulations via a ViT-based Hybrid Architecture (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.05212)]
 
+* Uncertainty-inspired Open Set Learning for Retinal Anomaly Identification (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.03981)]
+
+* Adaptive Negative Evidential Deep Learning for Open-set Semi-supervised Learning (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.12091)]
+
+* Linking generative semi-supervised learning and generative open-set recognition (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.11702)]
+
+* Self-Paced Learning for Open-Set Domain Adaptation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.05933)]
+
+* Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.05499)]
+
+* Imbalanced Open Set Domain Adaptation via Moving-threshold Estimation and Gradual Alignment (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.04393)]
+
+* Open Set Wireless Signal Classification: Augmenting Deep Learning with Expert Feature Classifiers (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.03749)]
+
+* Improving Open-Set Semi-Supervised Learning with Self-Supervision (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2301.10127)]
+
+* Hybrid Open-set Segmentation with Synthetic Negative Data (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2301.08555)]
+
+* Subject-Independent Brain-Computer Interfaces with Open-Set Subject Recognition (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2301.07894)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
@@ -2174,6 +2205,27 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Revisiting Open World Object Detection (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2201.00471)]
+
+* Accurate Open-set Recognition for Memory Workload (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2212.08817)]
+
+* PointCaM: Cut-and-Mix for Open-Set Point Cloud Analysis (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2212.02011)]
+
+* Spatial-Temporal Attention Network for Open-Set Fine-Grained Image Recognition (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2211.13940)]
+
+* Open-Set Object Detection Using Classification-free Object Proposal and Instance-level Contrastive Learning with Appendix (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2211.11530)]
+
+* PartCom: Part Composition Learning for 3D Open-Set Recognition (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2211.10880)]
+
+* PartCom: Part Composition Learning for 3D Open-Set Recognition (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2211.10880)]
+
+* Open-Set Face Identification on Few-Shot Gallery by Fine-Tuning (ICPR 2022) 
+[[Paper](https://arxiv.org/abs/2301.01922)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
@@ -5937,6 +5989,8 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * A Transformer-Based Late-Fusion Mechanism for Fine-Grained Object Recognition in Videos (WACVw 2023) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Koch_A_Transformer-Based_Late-Fusion_Mechanism_for_Fine-Grained_Object_Recognition_in_Videos_WACVW_2023_paper.pdf)]
 
+* Simplifying Open-Set Video Domain Adaptation with Contrastive Learning (CVIU 2023 under review) 
+[[Paper](https://arxiv.org/abs/2301.03322)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR

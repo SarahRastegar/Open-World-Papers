@@ -630,9 +630,10 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 <!--#### IJCV
 #### BMVC
-#### ICCw
-#### Arxiv & Others-->
-
+#### ICCw-->
+#### Arxiv & Others
+* VRA: Out-of-Distribution Detection with variational rectified activations (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.11716)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
@@ -1411,6 +1412,15 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Unsupervised Object Localization: Observing the Background to Discover Objects (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2212.07834)]
 
+* CLIP2: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.12417)]
+
+* Unknown Sniffer for Object Detection: Don't Turn a Blind Eye to Unknown Objects (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.13769)]
+
+* Learning Attention as Disentangler for Compositional Zero-shot Learning (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.15111)]
+
 
 #### ICLR
 * Towards Open Temporal Graph Neural Networks (ICLR 2023 top 5%) 
@@ -1541,6 +1551,91 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * An Open-Set Modulation Recognition Scheme with Deep Representation Learning (IEEE Communications Letters 2023) 
 [[Paper](https://ieeexplore.ieee.org/document/10034661/)]
+
+* Characterizing Novelty in the Military Domain (Submitted to ICCRTS 2023) 
+[[Paper](https://arxiv.org/abs/2302.12314)]
+
+* Neuro-Symbolic World Models for Adapting to Open World Novelty (AAMAS 2023) 
+[[Paper](https://arxiv.org/abs/2301.06294)]
+
+* Towards Open World NeRF-Based SLAM (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2301.03102)]
+
+* Open-world Story Generation with Structured Knowledge Enhancement: A Comprehensive Survey (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2212.04634)]
+
+* CoDEPS: Online Continual Learning for Depth Estimation and Panoptic Segmentation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.10147)]
+
+* Pixel-wise Gradient Uncertainty for Convolutional Neural Networks applied to Out-of-Distribution Segmentation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.06920)]
+
+* Finding Competence Regions in Domain Generalization (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.09989)]
+
+* Background Matters: Enhancing Out-of-distribution Detection with Domain Features (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.08727)]
+
+* A Simple Framework for Open-Vocabulary Segmentation and Detection (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.08131)]
+
+* WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminant Analysis (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.07543)]
+
+* Towards Universal Vision-language Omni-supervised Segmentation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.06547)]
+
+* Open-world Instance Segmentation: Top-down Learning with Bottom-up Supervision (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.05503)]
+
+* ElC-OIS: Ellipsoidal Clustering for Open-World Instance Segmentation on LiDAR Data (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.04351)]
+
+* CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.04748)]
+
+* Distilled Reverse Attention Network for Open-world Compositional Zero-Shot Learning (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.00404)]
+
+* Toward Defining a Domain Complexity Measure Across Domains (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.04141)]
+
+* Methods and Mechanisms for Interactive Novelty Handling in Adversarial Environments (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.14208)]
+
+
+* Detecting the open-world objects with the help of the Brain (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.11623)]
+
+* Pluralistic Aging Diffusion Autoencoder (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.11086)]
+
+* Open-World Pose Transfer via Sequential Test-Time Adaption (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.10945)]
+
+* AUTO: Adaptive Outlier Optimization for Online Test-Time OOD Detection (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.12267)]
+
+* Visually-Prompted Language Model for Fine-Grained Scene Graph Generation in an Open World (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.13233)]
+
+* Addressing the Challenges of Open-World Object Detection (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.14930)]
+
+* Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.15230)]
+
+* OpenInst: A Simple Query-Based Method for Open-World Instance Segmentation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.15859)]
+
+* RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.00962)]
+
+* Establishing baselines and introducing TernaryMixOE for fine-grained out-of-distribution detection (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.17658)]
+
+* Iterative Prompt Learning for Unsupervised Backlit Image Enhancement (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.17569)]
 
 
 
@@ -1993,6 +2088,35 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Deep-Learning-Based Open Set Fault Diagnosis by Extreme Value Theory (IEEE Transactions on Industrial Informatics 2022) 
 [[Paper](https://ieeexplore.ieee.org/document/9394793/)]
+
+* Open World DETR: Transformer based Open World Object Detection (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2212.02969)]
+
+* ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2211.12417)]
+
+* PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2211.11682)]
+
+* Simple Primitives with Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-shot Learning (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2211.02895)]
+
+* OpenStance: Real-world Zero-shot Stance Detection (CoNLL 2022) 
+[[Paper](https://arxiv.org/abs/2210.14299)]
+
+* General Image Descriptors for Open World Image Retrieval using ViT CLIP (ECCVw 2022) 
+[[Paper](https://arxiv.org/abs/2210.11141)]
+
+* An Open-World Lottery Ticket for Out-of-Domain Intent Classification (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2210.07071)]
+
+* Robot Task Planning and Situation Handling in Open Worlds (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2210.01287)]
+
+* Robot Task Planning and Situation Handling in Open Worlds (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2210.01287)]
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR
@@ -2211,6 +2335,10 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Open-Set Human Identification Based on Gait Radar Micro-Doppler Signatures (IEEE Sensors Journal 2021) 
 [[Paper](https://ieeexplore.ieee.org/document/9328322/)]
+
+* Open World Classification with Adaptive Negative Samples (EMNLP 2021) 
+[[Paper](https://arxiv.org/abs/2303.05581)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2020 Papers
 #### CVPR
@@ -5193,6 +5321,10 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Open-Category Human-Object Interaction Pre-training via Language Modeling Framework (CVPR 2023) 
 [[Paper]]
+
+* SUDS: Scalable Urban Dynamic Scenes (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.14536)]
+
 <!-- #### ICLR
 #### NeurIPS
 #### ICCV
@@ -5210,8 +5342,36 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Task: Action Recognition*
 <!--#### IJCV
 #### BMVC
-#### ICCw
-#### Arxiv & Others-->
+#### ICCw-->
+#### Arxiv & Others
+
+* Video Instance Segmentation in an Open-World (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.01200)]
+
+* Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.16563)]
+
+* POAR: Towards Open-World Pedestrian Attribute Recognition (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.14643)]
+
+* Learning to Operate in Open Worlds by Adapting Planning Models (AAMAS 2023) 
+[[Paper](https://arxiv.org/abs/2303.14272)]
+
+* PyReason: Software for Open World Temporal Logic (AAAI 2023) 
+[[Paper](https://arxiv.org/abs/2302.13482)]
+
+* NovPhy: A Testbed for Physical Reasoning in Open-world Environments (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.01711)]
+
+* Improving Audio-Visual Video Parsing with Pseudo Visual Labels (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.02344)]
+
+* Open-World Object Manipulation using Pre-trained Vision-Language Models (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.00905)]
+
+* Towards Generalized Robot Assembly through Compliance-Enabled Contact Formations (ICRA 2023) 
+[[Paper](https://arxiv.org/abs/2303.05565)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR

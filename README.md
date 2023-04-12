@@ -1,7 +1,7 @@
 # Open World Papers
 
 Current machine learning algorithms are bound to a closed-world assumption. This means that these models assume the number of categories the model will encounter in the test time is predefined. However, this assumption needs to be revised in the real world. There are many challenges associated with the real-world setting that traditional machine learning models can not resolve. The uncertainty a model can encounter during test time and the strategy to address it have been considered recently under different computer vision branches. 
-In tackling the real world, we want to consider layers of uncertainty. In the following sections, we defined each challenge and what field of data will create. We created this repo to list current methods used in recent years to address uncertainty (specifically novel class and open-set) in the world in contemporary top venues like **CVPR, CVPRw, NeurIPS, ICCV, ECCV, ICLR, ICML, BMVC, WACV, TPAMI, AAAI,** and relevant papers from **Arxiv** and other venues. 
+In tackling the real world, we want to consider layers of uncertainty. In the following sections, we defined each challenge and what field of data will create. We created this repo to list current methods used in recent years to address uncertainty (specifically novel class and open-set) in the world in contemporary top venues like **CVPR, CVPRw, NeurIPS, ICCV, ICCVw, ECCV, ECCVw, ICLR, ICML, BMVC, WACV, WACVw, TPAMI, AAAI,** and relevant papers from **Arxiv** and other venues. 
 
 Finally, since our primary focus is fine-grained or long-tailed novel action discovery, we also address related works in this area. 
 Without further due, let us dive into the fantastic and challenging world of uncertainty, unseens, and unknowns. 
@@ -1316,11 +1316,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 ## Open-Set Recognition 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Surveys
-* Learning and the Unknown: Surveying Steps toward Open World Recognition (AAAI 2019) 
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/5054/4927)]
-
-* Recent advances in open set recognition: A survey (TPAMI 2020) 
-[[Paper](https://arxiv.org/abs/1811.08581v4)]
 
 * A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges (TMLR 2023) 
 [[Paper](https://arxiv.org/abs/2110.14051)]
@@ -1328,14 +1323,23 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * A Survey on Open Set Recognition (Arxiv 2021) 
 [[Paper](https://arxiv.org/abs/2109.00893)]
 
+* Toward Open-World Electroencephalogram Decoding Via Deep Learning: A Comprehensive Survey (IEEE Signal Processing Magazine 2021) 
+[[Paper](https://arxiv.org/abs/2112.06654)]
+
+* Recent advances in open set recognition: A survey (TPAMI 2020) 
+[[Paper](https://arxiv.org/abs/1811.08581v4)]
+
 * A Review of Open-World Learning and Steps Toward Open-World Learning Without Labels (Arxiv 2020) 
 [[Paper](https://arxiv.org/abs/2011.12906)]
 
-* Transfer Adaptation Learning: A Decade Survey (Arxiv 2019) 
-[[Paper](https://arxiv.org/abs/1903.04687)]
-
 * A Survey of Open-World Person Re-Identification (IEEE Transactions on Circuits and Systems for Video Technology 2020) 
 [[Paper](https://ieeexplore.ieee.org/document/8640834/)]
+
+* Learning and the Unknown: Surveying Steps toward Open World Recognition (AAAI 2019) 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/5054/4927)]
+
+* Transfer Adaptation Learning: A Decade Survey (Arxiv 2019) 
+[[Paper](https://arxiv.org/abs/1903.04687)]
 
 * Biometric-Enabled Authentication Machines: A Survey of Open-Set Real-World Applications (IEEE Transactions on Human-Machine Systems 2016) 
 [[Paper](https://ieeexplore.ieee.org/document/7103330/)]
@@ -2113,9 +2117,62 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Robot Task Planning and Situation Handling in Open Worlds (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2210.01287)]
 
-* Robot Task Planning and Situation Handling in Open Worlds (Arxiv 2022) 
-[[Paper](https://arxiv.org/abs/2210.01287)]
+* Generalized Intent Discovery: Learning from Open World Dialogue System (COLING 2022) 
+[[Paper](https://arxiv.org/abs/2209.06030)]
 
+* Self-Trained Proposal Networks for the Open World (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2208.11050)]
+
+* UnCommonSense: Informative Negative Knowledge about Everyday Concepts (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2208.09292)]
+
+* Single-Stage Open-world Instance Segmentation with Cross-task Consistency Regularization (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2208.09023)]
+
+* Learning to Generalize with Object-centric Agents in the Open World Survival Game Crafter (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2208.03374)]
+
+* Open World Learning Graph Convolution for Latency Estimation in Routing Networks (IJCNN 2022) 
+[[Paper](https://arxiv.org/abs/2207.14643)]
+
+* Enhancing Automated Software Traceability by Transfer Learning from Open-World Data (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2207.01084)]
+
+* RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments (ICDL 2022) 
+[[Paper](https://arxiv.org/abs/2206.12493)]
+
+* SCIM: Simultaneous Clustering, Inference, and Mapping for Open-World Semantic Scene Understanding (ISRR 2022) 
+[[Paper](https://arxiv.org/abs/2206.10670)]
+
+* Artificial Open World for Evaluating AGI: a Conceptual Design (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2206.01044)]
+
+* Exploring the Open World Using Incremental Extreme Value Machines (ICPR 2022) 
+[[Paper](https://arxiv.org/abs/2205.14892)]
+
+* Region-Aware Metric Learning for Open World Semantic Segmentation via Meta-Channel Aggregation (IJCAI 2022) 
+[[Paper](https://arxiv.org/abs/2205.08083)]
+
+* OA-Mine: Open-World Attribute Mining for E-Commerce Products with Weak Supervision (WWW 2022) 
+[[Paper](https://arxiv.org/abs/2204.13874)] 
+
+* On Leveraging Variational Graph Embeddings for Open World Compositional Zero-Shot Learning (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2204.11848)] 
+
+* Contrastive Learning for Cross-Domain Open World Recognition (IROS 2022) 
+[[Paper](https://arxiv.org/abs/2203.09257)] 
+
+* TegTok: Augmenting Text Generation via Task-specific and Open-world Knowledge (ACL 2022) 
+[[Paper](https://arxiv.org/abs/2203.08517)] 
+
+* Extending One-Stage Detection with Open-World Proposals (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2201.02302)] 
+
+* Towards Unsupervised Open World Semantic Segmentation (UAI 2022, PMLR) 
+[[Paper](https://arxiv.org/abs/2201.01073)] 
+
+* Revisiting Open World Object Detection (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2201.00471)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
@@ -2151,6 +2208,9 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Code](https://cv.snu.ac.kr/research/EOPSN)]<br>
 *Datasets: COCO*<br>
 *Task: Semantic Segmentation*
+
+* Open World Compositional Zero-Shot Learning (CVPR 2021) 
+[[Paper](https://arxiv.org/abs/2101.12609)]
 
 <!-- #### ICLR-->
 #### NeurIPS
@@ -2339,6 +2399,46 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Open World Classification with Adaptive Negative Samples (EMNLP 2021) 
 [[Paper](https://arxiv.org/abs/2303.05581)]
 
+* Learning Open-World Object Proposals without Learning to Classify (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2108.06753)] 
+
+* Open-World Entity Segmentation (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2107.14228)] 
+
+* On the Challenges of Open World Recognition under Shifting Visual Domains (RAL/ICRA 2021) 
+[[Paper](https://arxiv.org/abs/2107.04461)] 
+
+* Integrating Planning, Execution and Monitoring in the presence of Open World Novelties: Case Study of an Open World Monopoly Solver (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2107.04303)] 
+
+* The Difficulty of Novelty Detection in Open-World Physical Domains: An Application to Angry Birds (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2106.08670)] 
+
+* Open-world Machine Learning: Applications, Challenges, and Opportunities (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2105.13448)] 
+
+* Towards Open-World Text-Guided Face Image Generation and Manipulation (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2104.08910)] 
+
+* Rapid Exploration for Open-World Navigation with Latent Goal Models (CoRL 2021) 
+[[Paper](https://arxiv.org/abs/2104.05859)] 
+
+* Learning without Seeing nor Knowing: Towards Open Zero-Shot Learning (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2103.12437)] 
+
+* Out-distribution aware Self-training in an Open World Setting (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2012.12372)] 
+
+* Self-Supervised Features Improve Open-World Learning (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2102.07848)] 
+
+* Towards Entity Alignment in the Open World: An Unsupervised Approach (DASFAA 2021) 
+[[Paper](https://arxiv.org/abs/2101.10535)] 
+
+
+* Semantic Task Planning for Service Robots in Open World (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2011.00621)] 
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2020 Papers
 #### CVPR
@@ -2476,7 +2576,8 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Centralized Large Margin Cosine Loss for Open-Set Deep Palmprint Recognition (IEEE Transactions on Circuits and Systems for Video Technology 2020) 
 [[Paper](https://ieeexplore.ieee.org/document/8666165/)]
 
-* Joint Partial Optimal Transport for Open Set Domain Adaptation (IJCAI 2020) 
+* Joint Partial Optimal Transport for Open Set Domai* Open-World Class Discovery with Kernel Networks (ICDM 2020 Best paper candidate) 
+[[Paper](https://arxiv.org/abs/2012.06957)] n Adaptation (IJCAI 2020) 
 [[Paper](https://www.ijcai.org/Proceedings/2020/0352.pdf)]
 
 * Collaborative Training of Balanced Random Forests for Open Set Domain Adaptation (Arxiv 2020) 
@@ -2484,6 +2585,9 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Known-class Aware Self-ensemble for Open Set Domain Adaptation (Arxiv 2020) 
 [[Paper](https://arxiv.org/abs/1905.01068v1)]
+
+* Open-World Class Discovery with Kernel Networks (ICDM 2020 Best paper candidate) 
+[[Paper](https://arxiv.org/abs/2012.06957)] 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2019 Papers
@@ -5421,6 +5525,12 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Human Activity Recognition in an Open World (Submitted to JAIR 2022) 
 [[Paper](https://arxiv.org/abs/2212.12141)]
 
+* Self-Initiated Open World Learning for Autonomous AI Agents (AAAI 2022 Spring Symposium Series) 
+[[Paper](https://arxiv.org/abs/2110.11385)] 
+
+* UVO Challenge on Video-based Open-World Segmentation 2021: 1st Place Solution (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2110.11661)] 
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR
@@ -5461,6 +5571,21 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Dual Metric Discriminator for Open Set Video Domain Adaptation (ICASSP 2021) 
 [[Paper](https://ieeexplore.ieee.org/document/9413361)]<br> 
+
+* Open-World Active Learning with Stacking Ensemble for Self-Driving Cars (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2109.06628)] 
+
+* Physical Reasoning in an Open World (ACS 2021) 
+[[Paper](https://arxiv.org/abs/2201.08950)] 
+
+* Person Re-identification based on Robust Features in Open-world (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2102.10798)] 
+
+* Online Action Recognition (AAAI 2021) 
+[[Paper](https://arxiv.org/abs/2012.07464)] 
+
+* ViNG: Learning Open-World Navigation with Visual Goals (ICRA 2021) 
+[[Paper](https://arxiv.org/abs/2012.09812)] 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Older Papers
@@ -6318,7 +6443,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 2021 Papers
- #### CVPR
+#### CVPR
 * Learning Deep Classifiers Consistent With Fine-Grained Novelty Detection (CVPR 2021) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_Learning_Deep_Classifiers_Consistent_With_Fine-Grained_Novelty_Detection_CVPR_2021_paper.pdf)]<br>
 *Datasets: small- and large-scale FGVC*<br>
@@ -6329,9 +6454,13 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### ICCV
 #### ICML
 #### IEEE-Access
-#### ECCV
+#### ECCV-->
 #### AAAI
-#### TPAMI
+
+* A Unifying Framework for Formal Theories of Novelty:Framework, Examples and Discussion (AAAI 2021) 
+[[Paper](https://arxiv.org/abs/2012.06957)] 
+
+<!--#### TPAMI
 #### CVPRw
 #### WACV
 #### IJCV-->

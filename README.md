@@ -118,7 +118,10 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2110.02651)]
 
 ### 2023 Papers
-<!-- #### CVPR-->
+#### CVPR
+
+* Learning Attention as Disentangler for Compositional Zero-shot Learning (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.15111)]
 #### ICLR
 * Relative representations enable zero-shot latent space communication (ICLR 2023 top 5%) 
 [[Paper](https://openreview.net/forum?id=SrC-nwieGJ)]<br>

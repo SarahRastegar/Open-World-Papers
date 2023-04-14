@@ -601,7 +601,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Mixture Outlier Exposure: Towards Out-of-Distribution Detection in Fine-Grained Environments (WACV 2023) 
 [[Paper](http://arxiv.org/abs/2106.03917)]
 [[Code](https://github.com/zjysteven/MixOE)]<br>
-*Datasets: WebVision 1.0*
+*Datasets: WebVision 1.0*<br>
 *Task: Out-of-Distribution Detection Images*
 
 * Out-of-Distribution Detection via Frequency-Regularized Generative Models (WACV 2023) 

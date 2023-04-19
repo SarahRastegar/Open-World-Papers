@@ -7,7 +7,7 @@ Finally, since our primary focus is fine-grained or long-tailed novel action dis
 Without further due, let us dive into the fantastic and challenging world of uncertainty, unseens, and unknowns. 
 
 **Disclaimer:** 
-Since some papers belong to multiple categories, I put them in all related categories; some papers got accepted in conferences or journals later, so there might be both an arxiv or submission form of the paper in the repository. Usually, it means where I found the paper, not where it has been published. I made sure that there were no mistakes, but there might be a few, so if you noticed that I missed something, make a pull request. In the end, the explanation of problems might be wrong; it is what I perceived the problem as, and it might be wrong.
+Since some papers belong to multiple categories, I put them in all related categories; some papers got accepted in conferences or journals later, so there might be both an arxiv or submission form of the paper in the repository. Usually, it means where I found the paper, not where it has been published. I made sure that there were no mistakes, but there might be a few, so if you noticed that I missed something, make a pull request.
 
 
 ## Contents
@@ -1490,7 +1490,11 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * From Instance to Metric Calibration: A Unified Framework for Open-World Few-Shot Learning (TPAMI 2023) 
 [[Paper](https://ieeexplore.ieee.org/document/10041935/)]
 
-<!--#### CVPRw-->
+#### CVPRw
+
+* Impact of Pseudo Depth on Open World Object Segmentation with Minimal User Guidance (CVPRw 2023) 
+[[Paper](https://arxiv.org/abs/2304.05716)]
+
 #### WACV
 * MORGAN: Meta-Learning-Based Few-Shot Open-Set Recognition via Generative Adversarial Network (WACV 2023) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Pal_MORGAN_Meta-Learning-Based_Few-Shot_Open-Set_Recognition_via_Generative_Adversarial_Network_WACV_2023_paper.pdf)]
@@ -1613,7 +1617,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Methods and Mechanisms for Interactive Novelty Handling in Adversarial Environments (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2302.14208)]
 
-
 * Detecting the open-world objects with the help of the Brain (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2303.11623)]
 
@@ -1679,6 +1682,12 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Subject-Independent Brain-Computer Interfaces with Open-Set Subject Recognition (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2301.07894)]
+
+* Open-World Weakly-Supervised Object Localization (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.08271)]
+
+* USNID: A Framework for Unsupervised and Semi-supervised New Intent Discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.07699)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
@@ -2992,6 +3001,15 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2303.15975)]
+
+* USNID: A Framework for Unsupervised and Semi-supervised New Intent Discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.07699)]
+
+* CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.06928)]
+
+* NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.07354)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
@@ -5762,8 +5780,11 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### WACV
 #### IJCV
 #### BMVC
-#### ICCw
-#### Arxiv & Others-->
+#### ICCw-->
+#### Arxiv & Others
+
+* NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.07354)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 <!-- #### CVPR

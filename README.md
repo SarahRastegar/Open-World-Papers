@@ -122,6 +122,10 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Learning Attention as Disentangler for Compositional Zero-shot Learning (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.15111)]
+
+* Delving into Shape-aware Zero-shot Semantic Segmentation (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2304.08491)]
+
 #### ICLR
 * Relative representations enable zero-shot latent space communication (ICLR 2023 top 5%) 
 [[Paper](https://openreview.net/forum?id=SrC-nwieGJ)]<br>
@@ -1689,6 +1693,14 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * USNID: A Framework for Unsupervised and Semi-supervised New Intent Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2304.07699)]
 
+* Object-agnostic Affordance Categorization via Unsupervised Learning of Graph Embeddings (JAIR 2023) 
+[[Paper](https://arxiv.org/abs/2304.05989)]
+
+* DoUnseen: Zero-Shot Object Detection for Robotic Grasping (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.02833)]
+
+* Simple Domain Generalization Methods are Strong Baselines for Open Domain Generalization (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.18031)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
@@ -5893,6 +5905,9 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Being Comes from Not-being: Open-vocabulary Text-to-Motion Generation with Wordless Training (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2210.15929)]
+
+* OVTrack: Open-Vocabulary Multiple Object Tracking (CVPR 2023) 
+[[Paper]]
 #### ICLR
 * The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition (ICLR 2023) 
 [[Paper](https://openreview.net/pdf?id=xLr0I_xYGAs)]<br>
@@ -5914,6 +5929,56 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2302.00624)]
+
+* TagCLIP: Improving Discrimination Ability of Open-Vocabulary Semantic Segmentation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.07547)]
+
+* MVP-SEG: Multi-View Prompt Learning for Open-Vocabulary Semantic Segmentation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.06957)]
+
+* Segment Everything Everywhere All at Once (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.06718)]
+
+* Towards Open-Vocabulary Video Instance Segmentation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.01715)]
+
+
+
+* CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.05653)]
+
+* Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.04704)]
+
+* V3Det: Vast Vocabulary Visual Detection Dataset (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.03752)]
+
+* Token Merging for Fast Stable Diffusion (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.17604)]
+
+* Going Beyond Nouns With Vision & Language Models Using Synthetic Data (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.17590)]
+
+* MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.16839)]
+
+* ZBS: Zero-shot Background Subtraction via Instance-level Background Modeling and Foreground Selection (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.14679)]
+
+* Prompt-Guided Transformers for End-to-End Open-Vocabulary Object Detection (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.14386)]
+
+* Three ways to improve feature alignment for open vocabulary detection (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.13518)]
+
+* Zero-guidance Segmentation Using Zero Segment Labels (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.13396)]
+
+* Open-Vocabulary Object Detection using Pseudo Caption Labels (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.13040)]
+
+* Uni-Fusion: Universal Continuous Mapping (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.12678)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 <!-- #### CVPR

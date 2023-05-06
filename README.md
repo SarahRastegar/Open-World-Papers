@@ -2935,16 +2935,22 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2303.11610)]
 
 * PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (CVPR 2023) 
-[[Paper](https://arxiv.org/abs/2212.05590)]
+[[Paper](https://arxiv.org/abs/2212.05590)][[Code](https://github.com/sheng-eatamath/PromptCAL)]<br>
+*Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Herbarium19*<br>
+*Task: Image Classification*
 
 * Upcycling Models under Domain and Category Shift (CVPR 2023) 
-[[Paper](https://arxiv.org/abs/2303.07110)]
+[[Paper](https://arxiv.org/abs/2303.07110)][[Code](https://github.com/ispc-lab/GLC)]<br>
+*Datasets: Office-31, Office-Home, VisDA-C, Domain-Net*<br>
+*Task: Image Classification*
 
 * On-the-fly Category Discovery (CVPR 2023) 
 [[Paper]]
 
 * Dynamic Conceptional Contrastive Learning for Generalized Category Discovery (CVPR 2023) 
-[[Paper](https://arxiv.org/abs/2303.17393)]
+[[Paper](https://arxiv.org/abs/2303.17393)][[Code](https://github.com/TPCD/DCCL)]<br>
+*Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Oxford-IIIT Pet*<br>
+*Task: Image Classification*
 
 
 #### ICLR
@@ -2974,7 +2980,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### WACV
 * Scaling Novel Object Detection With Weakly Supervised Detection Transformers (WACV 2023) 
 [[Paper](http://arxiv.org/abs/2207.05205)]<br>
-*Datasets: Few-Shot  Object  Detec-tion (FSOD), FGVC-Aircraft, iNaturalist  2017, PASCAL VOC 2007*<br>
+*Datasets: Few-Shot  Object  Detection (FSOD), FGVC-Aircraft, iNaturalist  2017, PASCAL VOC 2007*<br>
 *Task: Object Detection*
 <!--#### IJCV
 #### BMVC

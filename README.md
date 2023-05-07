@@ -3142,7 +3142,9 @@ For more concise terminology, we use **claster** when referring to clusters depi
 <!--#### ICCw-->
 #### Arxiv & Others
 * Mutual Information-guided Knowledge Transfer for Novel Class Discovery (Arxiv 2022) 
-[[Paper](https://arxiv.org/abs/2206.12063v2)]
+[[Paper](https://arxiv.org/abs/2206.12063v1)]<br>
+*Datasets: CIFAR10, CIFAR100, OmniGlot, ImageNet*<br>
+*Task: Image Classification*
 
 
 * Automatically Discovering Novel Visual Categories with Adaptive Prototype Learning (Arxiv 2022) 
@@ -3262,11 +3264,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### WACV
 #### IJCV-->
 #### BMVC
-
-* Learning to Generate Novel Classes for Deep Metric Learning (BMVC 2021) 
-[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0631.pdf)]<br>
-*Datasets: CUB-200-2011 (CUB), Cars-196 (Cars), Stanford Online Product (SOP), and In-shop Clothes Retrieval (In-Shop)*<br>
-*Task: Image Classification*
 
 * Learning to Generate Novel Classes for Deep Metric Learning (BMVC 2021) 
 [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0631.pdf)]<br>

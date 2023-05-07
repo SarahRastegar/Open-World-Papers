@@ -3021,7 +3021,9 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2303.15975)]
 
 * USNID: A Framework for Unsupervised and Semi-supervised New Intent Discovery (Arxiv 2023) 
-[[Paper](https://arxiv.org/abs/2304.07699)]
+[[Paper](https://arxiv.org/abs/2304.07699)]<br>
+*Datasets: BANKING, StackOverflow, CLINC*<br>
+*Task: Intent Classification*
 
 * CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2304.06928)]

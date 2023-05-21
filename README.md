@@ -2929,7 +2929,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Task: Image Classification*
 
 * Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery (CVPR 2023) 
-[[Paper]]
+[[Paper]][[Code](https://github.com/muliyangm)]
 
 * Novel Class Discovery for 3D Point Cloud Semantic Segmentation (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.11610)]
@@ -3018,7 +3018,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Task: Image Classification*
 
 * Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery (Arxiv 2023) 
-[[Paper](https://arxiv.org/abs/2303.15975)]
+[[Paper](https://arxiv.org/abs/2303.15975)][[Code](https://github.com/OatmealLiu/MSc-iNCD)]
 
 * USNID: A Framework for Unsupervised and Semi-supervised New Intent Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2304.07699)]<br>
@@ -3029,7 +3029,22 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2304.06928)]
 
 * NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery (Arxiv 2023) 
-[[Paper](https://arxiv.org/abs/2304.07354)]
+[[Paper](https://arxiv.org/abs/2304.07354)][[Code](https://huggingface.co/datasets/mahmed10/MPSC_MV)]
+
+* Incremental Generalized Category Discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.14310)]
+
+* What's in a Name? Beyond Class Indices for Image Recognition (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.02364)]
+
+* Open-world Semi-supervised Novel Class Discovery (IJCAI 2023) 
+[[Code](https://github.com/LiuJMzzZ/OpenNCD)]
+
+* NeurNCD: Novel Class Discovery via Implicit Neural Representation (IJCAI 2023) 
+[[Paper](https://github.com/jmwang0117/NeurNCD/blob/main/IJCAI_2023.pdf)][[Code](https://github.com/jmwang0117/NeurNCD)]
+
+* Supervised Knowledge May Hurt Novel Class Discovery Performance (TMLR 2023) 
+[[Paper]][[Code](https://github.com/J-L-O/SK-Hurt-NCD)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR

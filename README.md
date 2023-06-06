@@ -2929,7 +2929,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Task: Image Classification*
 
 * Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery (CVPR 2023) 
-[[Paper]][[Code](https://github.com/muliyangm)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Bootstrap_Your_Own_Prior_Towards_Distribution-Agnostic_Novel_Class_Discovery_CVPR_2023_paper.pdf)][[Code](https://github.com/muliyangm)]
 
 * Novel Class Discovery for 3D Point Cloud Semantic Segmentation (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.11610)]
@@ -2945,7 +2945,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Task: Image Classification*
 
 * On-the-fly Category Discovery (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.pdf)][[Code](https://github.com/PRIS-CV/On-the-fly-Category-Discovery)]
 
 * Dynamic Conceptional Contrastive Learning for Generalized Category Discovery (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.17393)][[Code](https://github.com/TPCD/DCCL)]<br>
@@ -3045,6 +3045,12 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Supervised Knowledge May Hurt Novel Class Discovery Performance (TMLR 2023) 
 [[Paper]][[Code](https://github.com/J-L-O/SK-Hurt-NCD)]
+
+* Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.06144)]
+
+* CLIP-GCD: Simple Language Guided Generalized Category Discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.10420)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR

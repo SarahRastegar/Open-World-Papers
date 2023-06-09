@@ -1488,6 +1488,23 @@ For more concise terminology, we use **claster** when referring to clusters depi
 <!--#### IEEE-Access
 #### ECCV
 #### AAAI-->
+#### ACL
+
+* Open Set Relation Extraction via Unknown-Aware Training (ACL 2023) 
+[[Paper](https://arxiv.org/abs/2306.04950)]
+
+* Domain Incremental Lifelong Learning in an Open World (ACL 2023) 
+[[Paper](https://arxiv.org/abs/2305.06555)]
+
+* Long-Tailed Question Answering in an Open World (ACL 2023) 
+[[Paper](https://arxiv.org/abs/2305.06557)]
+
+* Decoupling Pseudo Label Disambiguation and Representation Learning for Generalized Intent Discovery (ACL 2023) 
+[[Paper](https://arxiv.org/abs/2305.17699)]
+
+* Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach (ACL 2023) 
+[[Paper](https://arxiv.org/abs/2305.18350)]
+
 #### TPAMI
 
 * Orientational Distribution Learning with Hierarchical Spatial Attention for Open Set Recognition (TPAMI 2023) 
@@ -1540,15 +1557,13 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * MetaMax: Improved Open-Set Deep Neural Networks via Weibull Calibration (WACVw 2023) 
 [[Paper](http://arxiv.org/abs/2211.10872)]
 
-#### Arxiv & Others 
+#### Other Journals and Conferences
+
 * OpenCon: Open-world Contrastive Learning (TMLR 2023) 
 [[Paper](https://openreview.net/forum?id=2wWJxtpFer)]
 [[Code](https://github.com/deeplearning-wisc/opencon)]<br>
 *Datasets: CIFAR-10, CIFAR-100, Imagenet-100*<br>
 *Task: Image Classification and Domain Adaptation*
-
-* CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection (Arxiv 2023) 
-[[Paper](https://arxiv.org/abs/2301.01970)]
 
 * KRADA: Known-region-aware Domain Alignment for Open-set Domain Adaptation in Semantic Segmentation (TMLR 2023) 
 [[Paper](https://arxiv.org/abs/2106.06237)]
@@ -1556,18 +1571,8 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning (Neural Networks 2023) 
 [[Paper](https://arxiv.org/abs/2009.01797)]
 
-* ConceptFusion: Open-set Multimodal 3D Mapping (Arxiv 2023) 
-[[Paper](https://arxiv.org/abs/2302.07241)]
-
-* Contrastive Credibility Propagation for Reliable Semi-Supervised Learning (Arxiv 2023) 
-[[Paper](https://arxiv.org/abs/2211.09929)]
-
-* Open-Set Automatic Target Recognition (ICASSP 2023 Submission) 
-[[Paper](https://arxiv.org/abs/2211.05883)]
-
 * Spatial-Temporal Exclusive Capsule Network for Open Set Action Recognition (IEEE Transactions on Multimedia 2023) 
 [[Paper](https://ieeexplore.ieee.org/document/10058554/)]
-
 
 * Multi-resolution Fusion Convolutional Network for Open Set Human Activity Recognition (IEEE Internet of Things Journal 2023) 
 [[Paper](https://ieeexplore.ieee.org/document/10040612/)]
@@ -1578,11 +1583,42 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * An Open-Set Modulation Recognition Scheme with Deep Representation Learning (IEEE Communications Letters 2023) 
 [[Paper](https://ieeexplore.ieee.org/document/10034661/)]
 
-* Characterizing Novelty in the Military Domain (Submitted to ICCRTS 2023) 
-[[Paper](https://arxiv.org/abs/2302.12314)]
-
 * Neuro-Symbolic World Models for Adapting to Open World Novelty (AAMAS 2023) 
 [[Paper](https://arxiv.org/abs/2301.06294)]
+
+* Object-agnostic Affordance Categorization via Unsupervised Learning of Graph Embeddings (JAIR 2023) 
+[[Paper](https://arxiv.org/abs/2304.05989)]
+
+* Few-Shot Open-Set Learning for On-Device Customization of KeyWord Spotting Systems (INTERSPEECH 2023) 
+[[Paper](https://arxiv.org/abs/2306.02161)]
+
+* Open-world Semi-supervised Novel Class Discovery (IJCAI 2023) 
+[[Paper](https://arxiv.org/abs/2305.13095)][[Code](https://github.com/LiuJMzzZ/OpenNCD)]
+
+* DiffuseExpand: Expanding dataset for 2D medical image segmentation using diffusion models (IJCAIw 2023) 
+[[Paper](https://arxiv.org/abs/2304.13416)]
+
+* SalienDet: A Saliency-based Feature Enhancement Algorithm for Object Detection for Autonomous Driving (submitted to IEEE Transactions on Intelligent Vehicles 2023) 
+[[Paper](https://arxiv.org/abs/2305.06940)]
+
+#### Arxiv & Others 
+
+* CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2301.01970)]
+
+
+* ConceptFusion: Open-set Multimodal 3D Mapping (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.07241)]
+
+* Contrastive Credibility Propagation for Reliable Semi-Supervised Learning (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2211.09929)]
+
+* Open-Set Automatic Target Recognition (ICASSP 2023 Submission) 
+[[Paper](https://arxiv.org/abs/2211.05883)]
+
+
+* Characterizing Novelty in the Military Domain (Submitted to ICCRTS 2023) 
+[[Paper](https://arxiv.org/abs/2302.12314)]
 
 * Towards Open World NeRF-Based SLAM (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2301.03102)]
@@ -1701,9 +1737,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * USNID: A Framework for Unsupervised and Semi-supervised New Intent Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2304.07699)]
 
-* Object-agnostic Affordance Categorization via Unsupervised Learning of Graph Embeddings (JAIR 2023) 
-[[Paper](https://arxiv.org/abs/2304.05989)]
-
 * DoUnseen: Zero-Shot Object Detection for Robotic Grasping (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2304.02833)]
 
@@ -1743,26 +1776,15 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Uncovering the Hidden Dynamics of Video Self-supervised Learning under Distribution Shifts (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2306.02014)]
 
-* Few-Shot Open-Set Learning for On-Device Customization of KeyWord Spotting Systems (INTERSPEECH 2023) 
-[[Paper](https://arxiv.org/abs/2306.02161)]
-
 * ProTeCt: Prompt Tuning for Hierarchical Consistency (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2306.02240)]
 
-* Open Set Relation Extraction via Unknown-Aware Training (ACL 2023) 
-[[Paper](https://arxiv.org/abs/2306.04950)]
 
 * 2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2306.05418)]
 
 * Open-World Continual Learning: Unifying Novelty Detection and Continual Learning (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2304.10038)]
-
-* Open-world Semi-supervised Novel Class Discovery (IJCAI 2023) 
-[[Paper](https://arxiv.org/abs/2305.13095)][[Code](https://github.com/LiuJMzzZ/OpenNCD)]
-
-* DiffuseExpand: Expanding dataset for 2D medical image segmentation using diffusion models (IJCAIw 2023) 
-[[Paper](https://arxiv.org/abs/2304.13416)]
 
 * Uncovering CWE-CVE-CPE Relations with Threat Knowledge Graphs (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2305.00632)]
@@ -1772,15 +1794,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * ChinaOpen: A Dataset for Open-world Multimodal Learning (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2305.05880)]
-
-* Domain Incremental Lifelong Learning in an Open World (ACL 2023) 
-[[Paper](https://arxiv.org/abs/2305.06555)]
-
-* Long-Tailed Question Answering in an Open World (ACL 2023) 
-[[Paper](https://arxiv.org/abs/2305.06557)]
-
-* SalienDet: A Saliency-based Feature Enhancement Algorithm for Object Detection for Autonomous Driving (submitted to IEEE Transactions on Intelligent Vehicles 2023) 
-[[Paper](https://arxiv.org/abs/2305.06940)]
 
 * ZeroFlow: Fast Zero Label Scene Flow via Distillation (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2305.10424)]
@@ -1830,11 +1843,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Integrating Action Knowledge and LLMs for Task Planning and Situation Handling in Open Worlds (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2305.17590)]
 
-* Decoupling Pseudo Label Disambiguation and Representation Learning for Generalized Intent Discovery (ACL 2023) 
-[[Paper](https://arxiv.org/abs/2305.17699)]
-
-* Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach (ACL 2023) 
-[[Paper](https://arxiv.org/abs/2305.18350)]
 
 * Multi-modal Queried Object Detection in the Wild (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2305.18980)]
@@ -2035,7 +2043,9 @@ For more concise terminology, we use **claster** when referring to clusters depi
 <!-- #### ICCV
 #### ICML
 #### IEEE-Access -->
+
 #### ECCV 
+
 * Open-Set Semi-Supervised Object Detection (ECCV 2022 Oral) 
 [[Paper](https://arxiv.org/pdf/2208.13722v1.pdf)]<br>
 *Datasets: COCO, OpenImages*<br>
@@ -2117,6 +2127,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2207.01452)]
 
 #### AAAI
+
 * Learngene: From Open-World to Your Learning Task	(AAAI 2022)
 [[Paper](https://arxiv.org/abs/2106.06788v3)]<br>
 *Datasets:CIFAR100, ImageNet100*<br>
@@ -2137,7 +2148,14 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: ImageNet-LT, Places-LT, Marine Species (MS)-LT*<br>
 *Task: Image Classification*
 
+#### ACL
+
+* TegTok: Augmenting Text Generation via Task-specific and Open-world Knowledge (ACL 2022) 
+[[Paper](https://arxiv.org/abs/2203.08517)] 
+
+
 #### TPAMI
+
 * Open Long-Tailed RecognitionIn A Dynamic World	(TPAMI 2022) 
 [[Paper](https://arxiv.org/pdf/2208.08349v1.pdf)]
 [[Code](https://liuziwei7.github.io/projects/LongTail.html)]<br>
@@ -2161,6 +2179,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Learning Graph Embeddings for Open World Compositional Zero-Shot Learning (TPAMI 2022) 
 [[Paper](https://ieeexplore.ieee.org/document/9745371/)]
+
 #### CVPRw
 
 * Variable Few Shot Class Incremental and Open World Learning (CVPRw 2022) 
@@ -2181,6 +2200,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 
 #### WACV
+
 * Few-Shot Open-Set Recognition of Hyperspectral Images With Outlier Calibration Network (WACV 2022) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Pal_Few-Shot_Open-Set_Recognition_of_Hyperspectral_Images_With_Outlier_Calibration_Network_WACV_2022_paper.pdf)]
 [[Code](https://github.com/DebabrataPal7/OCN)]<br>
@@ -2214,9 +2234,13 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: Scribble, SketchyCOCO*<br>
 *Task: Domain Adaptation*
 
-<!-- #### IJCV -->
+#### IJCV 
+
+* Open-set Adversarial Defense with Clean-Adversarial Mutual Learning (IJCV 2022) 
+[[Paper](https://arxiv.org/abs/2202.05953)]
 
 #### BMVC
+
 * Dual Decision Improves Open-Set Panoptic Segmentation (BMVC 2022) 
 [[Paper](https://arxiv.org/pdf/2207.02504v3.pdf)]
 [[Code](https://github.com/jd730/EOPSN.git)]<br>
@@ -2225,7 +2249,13 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 <!-- 
 #### ICCVw -->
-#### Arxiv & Others 
+
+#### ECCVw
+
+* General Image Descriptors for Open World Image Retrieval using ViT CLIP (ECCVw 2022) 
+[[Paper](https://arxiv.org/abs/2210.11141)]
+
+#### Other Journals and Conferences
 
 * Open Set Domain Adaptation By Novel Class Discovery (ICME 2022) 
 [[Paper](https://arxiv.org/abs/2203.03329v1)]<br>
@@ -2234,9 +2264,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Discovering Implicit Classes Achieves Open Set Domain Adaptation (ICME 2022) 
 [[Paper](https://ieeexplore.ieee.org/document/9859594)]
-
-* NovelCraft: A Dataset for Novelty Detection and Discovery in Open Worlds (Arxiv 2022 - TMLR 2023 Under Review) 
-[[Paper](https://arxiv.org/abs/2206.11736)]
 
 * Open-World Object Detection via Discriminative Class Prototype Learning (ICIP 2022) 
 [[Paper](https://arxiv.org/abs/2302.11757)]
@@ -2250,29 +2277,17 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Uncertainty for Identifying Open-Set Errors in Visual Object Detection (IROS/RAL 2022) 
 [[Paper](https://arxiv.org/abs/2104.01328)]
 
-* Oracle Analysis of Representations for Deep Open Set Detection (Arxiv 2022) 
-[[Paper](https://arxiv.org/abs/2209.11350)]
-
 * One-Shot Open-Set Skeleton-Based Action Recognition (IEEE International Conference on Humanoid Robots 2022) 
 [[Paper](https://arxiv.org/abs/2209.04288)]
 
-* From Known to Unknown: Quality-aware Self-improving Graph Neural Network for Open Set Social Event Detection (Arxiv 2022) 
-[[Paper](https://arxiv.org/abs/2208.06973)]
-
 * 3DOS: Towards 3D Open Set Learning -- Benchmarking and Understanding Semantic Novelty Detection on Point Clouds (NeurIPS 2022 Datasets and Benchmarks) 
 [[Paper](https://arxiv.org/abs/2207.11554)]
-
-* Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models (Arxiv 2022) 
-[[Paper](https://arxiv.org/abs/2207.11514)]
 
 * Dummy Prototypical Networks for Few-Shot Open-Set Keyword Spotting (INTERSPEECH 2022) 
 [[Paper](https://arxiv.org/abs/2206.13691)]
 
 * Open-Set Recognition with Gradient-Based Representations (ICIP 2022) 
 [[Paper](https://arxiv.org/abs/2206.08229)]
-
-* Open-set Adversarial Defense with Clean-Adversarial Mutual Learning (IJCV 2022) 
-[[Paper](https://arxiv.org/abs/2202.05953)]
 
 * Collective Decision of One-vs-Rest Networks for Open Set Recognition (TNNLS 2022) 
 [[Paper](https://arxiv.org/abs/2103.10230)]
@@ -2283,23 +2298,70 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition (Jounal of Imaging 2022) 
 [[Paper](https://arxiv.org/abs/1905.12019)]
 
+* Spectral-Spatial Latent Reconstruction for Open-Set Hyperspectral Image Classification (IEEE Transactions on Image Processing 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9846880/)]
+
+* Deep-Learning-Based Open Set Fault Diagnosis by Extreme Value Theory (IEEE Transactions on Industrial Informatics 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9394793/)]
+
+* Evaluating Uncertainty Calibration for Open-Set Recognition (ICRA 2022) 
+[[Paper](https://arxiv.org/abs/2205.07160)]
+
+* OpenStance: Real-world Zero-shot Stance Detection (CoNLL 2022) 
+[[Paper](https://arxiv.org/abs/2210.14299)]
+
+* Generalized Intent Discovery: Learning from Open World Dialogue System (COLING 2022) 
+[[Paper](https://arxiv.org/abs/2209.06030)]
+
+* Open World Learning Graph Convolution for Latency Estimation in Routing Networks (IJCNN 2022) 
+[[Paper](https://arxiv.org/abs/2207.14643)]
+
+* RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments (ICDL 2022) 
+[[Paper](https://arxiv.org/abs/2206.12493)]
+
+* SCIM: Simultaneous Clustering, Inference, and Mapping for Open-World Semantic Scene Understanding (ISRR 2022) 
+[[Paper](https://arxiv.org/abs/2206.10670)]
+
+* Exploring the Open World Using Incremental Extreme Value Machines (ICPR 2022) 
+[[Paper](https://arxiv.org/abs/2205.14892)]
+
+* Region-Aware Metric Learning for Open World Semantic Segmentation via Meta-Channel Aggregation (IJCAI 2022) 
+[[Paper](https://arxiv.org/abs/2205.08083)]
+
+* OA-Mine: Open-World Attribute Mining for E-Commerce Products with Weak Supervision (WWW 2022) 
+[[Paper](https://arxiv.org/abs/2204.13874)] 
+
+* Contrastive Learning for Cross-Domain Open World Recognition (IROS 2022) 
+[[Paper](https://arxiv.org/abs/2203.09257)] 
+
+* Towards Unsupervised Open World Semantic Segmentation (UAI 2022, PMLR) 
+[[Paper](https://arxiv.org/abs/2201.01073)] 
+
+* Open-Set Face Identification on Few-Shot Gallery by Fine-Tuning (ICPR 2022) 
+[[Paper](https://arxiv.org/abs/2301.01922)]
+
+#### Arxiv & Others 
+
+* NovelCraft: A Dataset for Novelty Detection and Discovery in Open Worlds (Arxiv 2022 - TMLR 2023 Under Review) 
+[[Paper](https://arxiv.org/abs/2206.11736)]
+
+* Oracle Analysis of Representations for Deep Open Set Detection (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2209.11350)]
+
+* From Known to Unknown: Quality-aware Self-improving Graph Neural Network for Open Set Social Event Detection (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2208.06973)]
+
+* Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2207.11514)]
+
 * Prompt-driven efficient Open-set Semi-supervised Learning (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2209.14205)]
 
 * OOD Augmentation May Be at Odds with Open-Set Recognition (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2206.04242)]
 
-* Evaluating Uncertainty Calibration for Open-Set Recognition (ICRA 2022) 
-[[Paper](https://arxiv.org/abs/2205.07160)]
-
 * Knowledge Distillation Meets Open-Set Semi-Supervised Learning (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2205.06701)]
-
-* Spectral-Spatial Latent Reconstruction for Open-Set Hyperspectral Image Classification (IEEE Transactions on Image Processing 2022) 
-[[Paper](https://ieeexplore.ieee.org/document/9846880/)]
-
-* Deep-Learning-Based Open Set Fault Diagnosis by Extreme Value Theory (IEEE Transactions on Industrial Informatics 2022) 
-[[Paper](https://ieeexplore.ieee.org/document/9394793/)]
 
 * Open World DETR: Transformer based Open World Object Detection (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2212.02969)]
@@ -2313,20 +2375,11 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Simple Primitives with Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-shot Learning (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2211.02895)]
 
-* OpenStance: Real-world Zero-shot Stance Detection (CoNLL 2022) 
-[[Paper](https://arxiv.org/abs/2210.14299)]
-
-* General Image Descriptors for Open World Image Retrieval using ViT CLIP (ECCVw 2022) 
-[[Paper](https://arxiv.org/abs/2210.11141)]
-
 * An Open-World Lottery Ticket for Out-of-Domain Intent Classification (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2210.07071)]
 
 * Robot Task Planning and Situation Handling in Open Worlds (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2210.01287)]
-
-* Generalized Intent Discovery: Learning from Open World Dialogue System (COLING 2022) 
-[[Paper](https://arxiv.org/abs/2209.06030)]
 
 * Self-Trained Proposal Networks for the Open World (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2208.11050)]
@@ -2340,44 +2393,17 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Learning to Generalize with Object-centric Agents in the Open World Survival Game Crafter (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2208.03374)]
 
-* Open World Learning Graph Convolution for Latency Estimation in Routing Networks (IJCNN 2022) 
-[[Paper](https://arxiv.org/abs/2207.14643)]
-
 * Enhancing Automated Software Traceability by Transfer Learning from Open-World Data (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2207.01084)]
-
-* RAPid-Learn: A Framework for Learning to Recover for Handling Novelties in Open-World Environments (ICDL 2022) 
-[[Paper](https://arxiv.org/abs/2206.12493)]
-
-* SCIM: Simultaneous Clustering, Inference, and Mapping for Open-World Semantic Scene Understanding (ISRR 2022) 
-[[Paper](https://arxiv.org/abs/2206.10670)]
 
 * Artificial Open World for Evaluating AGI: a Conceptual Design (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2206.01044)]
 
-* Exploring the Open World Using Incremental Extreme Value Machines (ICPR 2022) 
-[[Paper](https://arxiv.org/abs/2205.14892)]
-
-* Region-Aware Metric Learning for Open World Semantic Segmentation via Meta-Channel Aggregation (IJCAI 2022) 
-[[Paper](https://arxiv.org/abs/2205.08083)]
-
-* OA-Mine: Open-World Attribute Mining for E-Commerce Products with Weak Supervision (WWW 2022) 
-[[Paper](https://arxiv.org/abs/2204.13874)] 
-
 * On Leveraging Variational Graph Embeddings for Open World Compositional Zero-Shot Learning (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2204.11848)] 
 
-* Contrastive Learning for Cross-Domain Open World Recognition (IROS 2022) 
-[[Paper](https://arxiv.org/abs/2203.09257)] 
-
-* TegTok: Augmenting Text Generation via Task-specific and Open-world Knowledge (ACL 2022) 
-[[Paper](https://arxiv.org/abs/2203.08517)] 
-
 * Extending One-Stage Detection with Open-World Proposals (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2201.02302)] 
-
-* Towards Unsupervised Open World Semantic Segmentation (UAI 2022, PMLR) 
-[[Paper](https://arxiv.org/abs/2201.01073)] 
 
 * Revisiting Open World Object Detection (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2201.00471)]
@@ -2396,12 +2422,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * PartCom: Part Composition Learning for 3D Open-Set Recognition (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2211.10880)]
-
-* PartCom: Part Composition Learning for 3D Open-Set Recognition (Arxiv 2022) 
-[[Paper](https://arxiv.org/abs/2211.10880)]
-
-* Open-Set Face Identification on Few-Shot Gallery by Fine-Tuning (ICPR 2022) 
-[[Paper](https://arxiv.org/abs/2301.01922)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
@@ -2442,6 +2462,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2101.12609)]
 
 <!-- #### ICLR-->
+
 #### NeurIPS
 
 * Towards Open-World Feature Extrapolation: An Inductive Graph Learning Approach (NeurIPS 2021) 
@@ -2469,6 +2490,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Task: Image Classification with Noisy Labels*
 
 #### ICCV
+
 * OpenGAN: Open-Set Recognition via Open Data Generation (ICCV 2021 Best honorable) 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kong_OpenGAN_Open-Set_Recognition_via_Open_Data_Generation_ICCV_2021_paper.pdf)]
 [[Code](https://github.com/aimerykong/OpenGAN)]<br>
@@ -2537,6 +2559,11 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Polyhedral Conic Classifiers for Computer Vision Applications and Open Set Recognition (TPAMI 2021) 
 [[Paper](https://ieeexplore.ieee.org/document/8798888/)]
 
+#### EMNLP
+
+* Open World Classification with Adaptive Negative Samples (EMNLP 2021) 
+[[Paper](https://arxiv.org/abs/2303.05581)]
+
 
 #### CVPRw
 
@@ -2572,22 +2599,12 @@ For more concise terminology, we use **claster** when referring to clusters depi
 <!--#### IJCV
 #### BMVC
 #### ICCw-->
-#### Arxiv & Others
-
-* Open-Set Representation Learning through Combinatorial Embedding (Arxiv 2021) 
-[[Paper](https://arxiv.org/abs/2106.15278)]
+#### NeurIPSw
 
 * Open-Set Multi-Source Multi-Target Domain Adaptation (NeurIPSw 2021) 
 [[Paper](https://arxiv.org/abs/2302.00995)]
 
-* A Unified Benchmark for the Unknown Detection Capability of Deep Neural Networks (Arxiv 2021) 
-[[Paper](https://arxiv.org/abs/2112.00337)]
-
-* One-Class Meta-Learning: Towards Generalizable Few-Shot Open-Set Classification (Arxiv 2021) 
-[[Paper](https://arxiv.org/abs/2109.06859)]
-
-* Learning Metrics from Mean Teacher: A Supervised Learning Method for Improving the Generalization of Speaker Verification System (Arxiv 2021) 
-[[Paper](https://arxiv.org/abs/2104.06604)]
+#### Other Journals and Conferences
 
 * Open-set Intersection Intention Prediction for Autonomous Driving (ICRA 2021) 
 [[Paper](https://arxiv.org/abs/2103.00140)]
@@ -2603,9 +2620,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * O2D2: Out-Of-Distribution Detector to Capture Undecidable Trials in Authorship Verification (PAN@CLEF 2021) 
 [[Paper](https://arxiv.org/abs/2106.15825)]
-
-* An Empirical Study and Analysis on Open-Set Semi-Supervised Learning (Arxiv 2021) 
-[[Paper](https://arxiv.org/abs/2101.08237)]
 
 * Open Set Authorship Attribution toward Demystifying Victorian Periodicals (ICDAR 2021) 
 [[Paper](https://arxiv.org/abs/1912.08259)]
@@ -2628,17 +2642,40 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Open-Set Human Identification Based on Gait Radar Micro-Doppler Signatures (IEEE Sensors Journal 2021) 
 [[Paper](https://ieeexplore.ieee.org/document/9328322/)]
 
-* Open World Classification with Adaptive Negative Samples (EMNLP 2021) 
-[[Paper](https://arxiv.org/abs/2303.05581)]
+* On the Challenges of Open World Recognition under Shifting Visual Domains (RAL/ICRA 2021) 
+[[Paper](https://arxiv.org/abs/2107.04461)] 
+
+* Rapid Exploration for Open-World Navigation with Latent Goal Models (CoRL 2021) 
+[[Paper](https://arxiv.org/abs/2104.05859)] 
+
+* Lifelong Learning of Graph Neural Networks for Open-World Node Classification (IJCNN 2021) 
+[[Paper](https://arxiv.org/abs/2006.14422)] 
+
+* Towards Entity Alignment in the Open World: An Unsupervised Approach (DASFAA 2021) 
+[[Paper](https://arxiv.org/abs/2101.10535)] 
+
+#### Arxiv & Others
+
+* Open-Set Representation Learning through Combinatorial Embedding (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2106.15278)]
+
+* A Unified Benchmark for the Unknown Detection Capability of Deep Neural Networks (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2112.00337)]
+
+* One-Class Meta-Learning: Towards Generalizable Few-Shot Open-Set Classification (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2109.06859)]
+
+* Learning Metrics from Mean Teacher: A Supervised Learning Method for Improving the Generalization of Speaker Verification System (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2104.06604)]
+
+* An Empirical Study and Analysis on Open-Set Semi-Supervised Learning (Arxiv 2021) 
+[[Paper](https://arxiv.org/abs/2101.08237)]
 
 * Learning Open-World Object Proposals without Learning to Classify (Arxiv 2021) 
 [[Paper](https://arxiv.org/abs/2108.06753)] 
 
 * Open-World Entity Segmentation (Arxiv 2021) 
 [[Paper](https://arxiv.org/abs/2107.14228)] 
-
-* On the Challenges of Open World Recognition under Shifting Visual Domains (RAL/ICRA 2021) 
-[[Paper](https://arxiv.org/abs/2107.04461)] 
 
 * Integrating Planning, Execution and Monitoring in the presence of Open World Novelties: Case Study of an Open World Monopoly Solver (Arxiv 2021) 
 [[Paper](https://arxiv.org/abs/2107.04303)] 
@@ -2652,9 +2689,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Towards Open-World Text-Guided Face Image Generation and Manipulation (Arxiv 2021) 
 [[Paper](https://arxiv.org/abs/2104.08910)] 
 
-* Rapid Exploration for Open-World Navigation with Latent Goal Models (CoRL 2021) 
-[[Paper](https://arxiv.org/abs/2104.05859)] 
-
 * Learning without Seeing nor Knowing: Towards Open Zero-Shot Learning (Arxiv 2021) 
 [[Paper](https://arxiv.org/abs/2103.12437)] 
 
@@ -2664,14 +2698,8 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Self-Supervised Features Improve Open-World Learning (Arxiv 2021) 
 [[Paper](https://arxiv.org/abs/2102.07848)] 
 
-* Towards Entity Alignment in the Open World: An Unsupervised Approach (DASFAA 2021) 
-[[Paper](https://arxiv.org/abs/2101.10535)] 
-
 * Semantic Task Planning for Service Robots in Open World (Arxiv 2021) 
 [[Paper](https://arxiv.org/abs/2011.00621)] 
-
-* Lifelong Learning of Graph Neural Networks for Open-World Node Classification (IJCNN 2021) 
-[[Paper](https://arxiv.org/abs/2006.14422)] 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2020 Papers
@@ -2779,7 +2807,21 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: PASCAL VOC, MSCOCO*<br>
 *Task: Object Detection*
 
-#### Arxiv & Others
+#### ICMLw
+
+* An Open-World Simulated Environment for Developmental Robotics (ICMLw 2020) 
+[[Paper](https://arxiv.org/abs/2007.09300)] 
+
+* A Critical Evaluation of Open-World Machine Learning (ICMLw 2020) 
+[[Paper](https://arxiv.org/abs/2007.04391)] 
+
+
+#### ECCVw
+
+* Improved Robustness to Open Set Inputs via Tempered Mixup (ECCVw 2020) 
+[[Paper](https://arxiv.org/abs/2009.04659)]
+
+#### Other Journals and Conferences
 
 * Boosting Deep Open World Recognition by Clustering (IROS/RAL 2020) 
 [[Paper](https://arxiv.org/abs/2004.13849)]
@@ -2790,18 +2832,12 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Open-set Face Recognition for Small Galleries Using Siamese Networks (IWSSIP 2020) 
 [[Paper](https://arxiv.org/abs/2105.06967)]
 
-* Improved Robustness to Open Set Inputs via Tempered Mixup (ECCVw 2020) 
-[[Paper](https://arxiv.org/abs/2009.04659)]
-
 * Adversarial Network with Multiple Classifiers for Open Set Domain Adaptation (TMM 2020) 
 [[Paper](https://arxiv.org/abs/2007.00384)]
 [[Code](https://github.com/tasfia/DAMC)]<br>
 
 * P-ODN: Prototype based Open Deep Network for Open Set Recognition (Scientific Reports 2020) 
 [[Paper](https://arxiv.org/abs/1905.01851)]
-
-* One-vs-Rest Network-based Deep Probability Model for Open Set Recognition (Arxiv 2020) 
-[[Paper](https://arxiv.org/abs/2004.08067)]
 
 * Towards Open-Set Semantic Segmentation of Aerial Images (LAGIRS 2020) 
 [[Paper](https://arxiv.org/abs/2001.10063)]
@@ -2812,23 +2848,23 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Joint Partial Optimal Transport for Open Set Domain Adaptation (IJCAI 2020) 
 [[Paper](https://www.ijcai.org/Proceedings/2020/0352.pdf)]
 
+* Open-World Class Discovery with Kernel Networks (ICDM 2020 Best paper candidate) 
+[[Paper](https://arxiv.org/abs/2012.06957)] 
+
+
+#### Arxiv & Others
+
+* One-vs-Rest Network-based Deep Probability Model for Open Set Recognition (Arxiv 2020) 
+[[Paper](https://arxiv.org/abs/2004.08067)]
+
 * Collaborative Training of Balanced Random Forests for Open Set Domain Adaptation (Arxiv 2020) 
 [[Paper](https://arxiv.org/abs/2002.03642v1)]
 
 * Known-class Aware Self-ensemble for Open Set Domain Adaptation (Arxiv 2020) 
 [[Paper](https://arxiv.org/abs/1905.01068v1)]
 
-* Open-World Class Discovery with Kernel Networks (ICDM 2020 Best paper candidate) 
-[[Paper](https://arxiv.org/abs/2012.06957)] 
-
 * Probabilistic Case-based Reasoning for Open-World Knowledge Graph Completion (Arxiv 2020) 
 [[Paper](https://arxiv.org/abs/2010.03548)] 
-
-* An Open-World Simulated Environment for Developmental Robotics (ICMLw 2020) 
-[[Paper](https://arxiv.org/abs/2007.09300)] 
-
-* A Critical Evaluation of Open-World Machine Learning (ICMLw 2020) 
-[[Paper](https://arxiv.org/abs/2007.04391)] 
 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -2880,6 +2916,10 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Code](https://github.com/qy-feng/margin-openset.git)]<br>
 *Datasets: Office-31, Digit*<br>
 *Task: Domain Adaptation*
+#### AAAI
+
+* An Open-World Extension to Knowledge Graph Completion Models (AAAI 2019) 
+[[Paper](https://arxiv.org/abs/1906.08382)] 
 
 #### BMVC
 * Generalized Zero-shot Learning using Open Set Recognition (BMVC 2019) 
@@ -2924,9 +2964,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Multi-stage Deep Classifier Cascades for Open World Recognition (CIKM 2019) 
 [[Paper](https://arxiv.org/abs/1908.09931)] 
-
-* An Open-World Extension to Knowledge Graph Completion Models (AAAI 2019) 
-[[Paper](https://arxiv.org/abs/1906.08382)] 
 
 * Enabling Open-World Specification Mining via Unsupervised Learning (Arxiv 2019) 
 [[Paper](https://arxiv.org/abs/1904.12098)] 
@@ -2979,6 +3016,11 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Improving Generalization via Scalable Neighborhood Component Analysis (ECCV 2018) 
 [[Paper](https://arxiv.org/abs/1808.04699)]<br>
 
+#### AAAI
+
+* Open-World Knowledge Graph Completion (AAAI 2018) 
+[[Paper](https://arxiv.org/abs/1711.03438)] 
+
 #### TPAMI
 * Open Set Domain Adaptation for Image and Action Recognition (TPAMI 2018) 
 [[Paper](https://arxiv.org/abs/1907.12865)]
@@ -2991,9 +3033,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Dropout Sampling for Robust Object Detection in Open-Set Conditions (ICRA 2018) 
 [[Paper](https://arxiv.org/abs/1710.06677)]
-
-* Open-World Knowledge Graph Completion (AAAI 2018) 
-[[Paper](https://arxiv.org/abs/1711.03438)] 
 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -3141,6 +3180,17 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Uncertainty Aware Proposal Segmentation for Unknown Object Detection (WACVw 2023) 
 [[Paper](https://openaccess.thecvf.com/content/WACV2022W/DNOW/papers/Li_Uncertainty_Aware_Proposal_Segmentation_for_Unknown_Object_Detection_WACVW_2022_paper.pdf)]
 
+#### Other Journals and Conferences
+
+* Open-world Semi-supervised Novel Class Discovery (IJCAI 2023) 
+[[Paper](https://arxiv.org/abs/2305.13095)][[Code](https://github.com/LiuJMzzZ/OpenNCD)]
+
+* NeurNCD: Novel Class Discovery via Implicit Neural Representation (IJCAI 2023) 
+[[Paper](https://github.com/jmwang0117/NeurNCD/blob/main/IJCAI_2023.pdf)][[Code](https://github.com/jmwang0117/NeurNCD)]
+
+* Supervised Knowledge May Hurt Novel Class Discovery Performance (TMLR 2023) 
+[[Paper]][[Code](https://github.com/J-L-O/SK-Hurt-NCD)]
+
 #### Arxiv & Others
 * Zero-Knowledge Zero-Shot Learning for Novel Visual Category Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2302.04427v1)]<br>
@@ -3189,14 +3239,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * What's in a Name? Beyond Class Indices for Image Recognition (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2304.02364)]
 
-* Open-world Semi-supervised Novel Class Discovery (IJCAI 2023) 
-[[Paper](https://arxiv.org/abs/2305.13095)][[Code](https://github.com/LiuJMzzZ/OpenNCD)]
-
-* NeurNCD: Novel Class Discovery via Implicit Neural Representation (IJCAI 2023) 
-[[Paper](https://github.com/jmwang0117/NeurNCD/blob/main/IJCAI_2023.pdf)][[Code](https://github.com/jmwang0117/NeurNCD)]
-
-* Supervised Knowledge May Hurt Novel Class Discovery Performance (TMLR 2023) 
-[[Paper]][[Code](https://github.com/J-L-O/SK-Hurt-NCD)]
 
 * Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2305.06144)]
@@ -3277,6 +3319,14 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Task: Image Classification*
 
 <!-- #### TPAMI -->
+#### EMNLP
+
+* Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning (EMNLP 2022) 
+[[Paper](https://arxiv.org/abs/2210.07733v1)]
+[[Code](https://github.com/Lackel/Hierarchical_Weighted_SCL)]<br>
+*Datasets: CLINC, Web of Science (WOS), HWU64*<br>
+*Task: Text Classification*
+
 #### CVPRw
 * Spacing Loss for Discovering Novel Categories (CVPRw 2022) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/papers/Joseph_Spacing_Loss_for_Discovering_Novel_Categories_CVPRW_2022_paper.pdf)]
@@ -3316,6 +3366,38 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Task: Image Classification*
 
 <!--#### ICCw-->
+
+#### NeurIPSw
+
+* A Closer Look at Novel Class Discovery from the Labeled Set (NeurIPSw 2022) 
+[[Paper](https://arxiv.org/abs/2209.09120v4)]<br>
+*Datasets: CIFAR100-50, ImageNet*<br>
+*Task: Image Classification*
+
+#### Other Journals and Conferences
+
+* A Method for Discovering Novel Classes in Tabular Data (ICKG 2022) 
+[[Paper](https://arxiv.org/abs/2209.01217v3)]<br>
+*Datasets: ForestCover Type, Letter Recognition, Human Activity Recognition, Satimage, Pen-Based Handwritten Digits Recognition, 1990 US Census Data, MNIST*<br>
+*Task: Tabular Data Classification*
+
+* Residual Tuning: Toward Novel Category Discovery Without Labels (TNNLS 2022) 
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9690577&tag=1)]
+[[Code](https://github.com/liuyudut/ResTune)]<br>
+*Datasets: CIFAR-10, CIFAR-100, TinyImageNet*<br>
+*Task: Image Classification*
+
+* Open Set Domain Adaptation By Novel Class Discovery (ICME 2022) 
+[[Paper](https://arxiv.org/abs/2203.03329v1)]<br>
+*Datasets: Office-31, Office-Home, DomainNet*<br>
+*Task: Image Classification and Domain Adaptation*
+
+* Novel Class Discovery: A Dependency Approach (ICASSP 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9747827/)]
+
+* Discovering Novel Categories in Sar Images in Open Set Conditions (IGARSS 2022) 
+[[Paper](https://ieeexplore.ieee.org/document/9883175/)]
+
 #### Arxiv & Others
 * Mutual Information-guided Knowledge Transfer for Novel Class Discovery (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2206.12063v1)]<br>
@@ -3335,16 +3417,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: CIFAR10, CIFAR100, OmniGlot, ImageNet*<br>
 *Task: Image Classification*
 
-* A Method for Discovering Novel Classes in Tabular Data (ICKG 2022) 
-[[Paper](https://arxiv.org/abs/2209.01217v3)]<br>
-*Datasets: ForestCover Type, Letter Recognition, Human Activity Recognition, Satimage, Pen-Based Handwritten Digits Recognition, 1990 US Census Data, MNIST*<br>
-*Task: Tabular Data Classification*
-
-* A Closer Look at Novel Class Discovery from the Labeled Set (NeurIPSw 2022) 
-[[Paper](https://arxiv.org/abs/2209.09120v4)]<br>
-*Datasets: CIFAR100-50, ImageNet*<br>
-*Task: Image Classification*
-
 * Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2210.03591v2)]<br>
 *Datasets: CIFAR10, CIFAR100, ImageNet*<br>
@@ -3356,28 +3428,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: CIFAR10/100, ImageNet-100, Semantic Shift Benchmark (SSB, including CUB, Stanford Cars, and FGVC-Aircraft), Herbarium 19*<br>
 *Task: Image Classification*
 
-* Residual Tuning: Toward Novel Category Discovery Without Labels (TNNLS 2022) 
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9690577&tag=1)]
-[[Code](https://github.com/liuyudut/ResTune)]<br>
-*Datasets: CIFAR-10, CIFAR-100, TinyImageNet*<br>
-*Task: Image Classification*
-
-* Open Set Domain Adaptation By Novel Class Discovery (ICME 2022) 
-[[Paper](https://arxiv.org/abs/2203.03329v1)]<br>
-*Datasets: Office-31, Office-Home, DomainNet*<br>
-*Task: Image Classification and Domain Adaptation*
-
-* Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning (EMNLP 2022) 
-[[Paper](https://arxiv.org/abs/2210.07733v1)]
-[[Code](https://github.com/Lackel/Hierarchical_Weighted_SCL)]<br>
-*Datasets: CLINC, Web of Science (WOS), HWU64*<br>
-*Task: Text Classification*
-
-* Novel Class Discovery: A Dependency Approach (ICASSP 2022) 
-[[Paper](https://ieeexplore.ieee.org/document/9747827/)]
-
-* Discovering Novel Categories in Sar Images in Open Set Conditions (IGARSS 2022) 
-[[Paper](https://ieeexplore.ieee.org/document/9883175/)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2021 Papers
 #### CVPR
@@ -3520,14 +3570,16 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: PASCAL VOC, COCO*<br>
 *Task: Instance Segmentation*
 
+* A probabilistic constrained clustering for transfer learning and image category discovery (CVPRw 2018) 
+[[Paper](https://arxiv.org/abs/1806.11078)]
+
 * Adversarial Joint-Distribution Learning for Novel Class Sketch-Based Image Retrieval (ICCVw 2019) 
 [[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/MDALC/Pandey_Adversarial_Joint-Distribution_Learning_for_Novel_Class_Sketch-Based_Image_Retrieval_ICCVW_2019_paper.pdf)]
 
 * Unseen Class Discovery in Open-world Classification (Arxiv 2018) 
 [[Paper](https://arxiv.org/abs/1801.05609)]
 
-* A probabilistic constrained clustering for transfer learning and image category discovery (CVPRw 2018) 
-[[Paper](https://arxiv.org/abs/1806.11078)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary
 <!----------------------------------------------------------------------------------------------------------------------------------------------->

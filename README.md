@@ -1701,6 +1701,51 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Simple Domain Generalization Methods are Strong Baselines for Open Domain Generalization (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2303.18031)]
+
+* CNS-Net: Conservative Novelty Synthesizing Network for Malware Recognition in an Open-set Scenario (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.01236)]
+
+* MDENet: Multi-modal Dual-embedding Networks for Malware Open-set Recognition (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.01245)]
+
+* Unlocking the Power of Open Set : A New Perspective for Open-set Noisy Label Learning (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.04203)]
+
+* HiNoVa: A Novel Open-Set Detection Method for Automating RF Device Authentication (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.09594)]
+
+* torchosr -- a PyTorch extension package for Open Set Recognition models evaluation in Python (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.09646)]
+
+* Learning for Open-World Calibration with Graph Neural Networks (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.12039)]
+
+* Instance-Level Semantic Maps for Vision Language Navigation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.12363)]
+
+* Online Open-set Semi-supervised Object Detection via Semi-supervised Outlier Filtering (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.13802)]
+
+* Multi-modal Queried Object Detection in the Wild (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.18980)]
+
+* In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2306.00826)]
+
+* Uncovering the Hidden Dynamics of Video Self-supervised Learning under Distribution Shifts (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2306.02014)]
+
+* Few-Shot Open-Set Learning for On-Device Customization of KeyWord Spotting Systems (INTERSPEECH 2023) 
+[[Paper](https://arxiv.org/abs/2306.02161)]
+
+* ProTeCt: Prompt Tuning for Hierarchical Consistency (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2306.02240)]
+
+* Open Set Relation Extraction via Unknown-Aware Training (ACL 2023) 
+[[Paper](https://arxiv.org/abs/2306.04950)]
+
+* 2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2306.05418)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
@@ -3051,6 +3096,9 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * CLIP-GCD: Simple Language Guided Generalized Category Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2305.10420)]
+
+* Federated Generalized Category Discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.14107v1)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR

@@ -1354,6 +1354,10 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Biometric-Enabled Authentication Machines: A Survey of Open-Set Real-World Applications (IEEE Transactions on Human-Machine Systems 2016) 
 [[Paper](https://ieeexplore.ieee.org/document/7103330/)]
 
+* Completeness, Recall, and Negation in Open-World Knowledge Bases: A Survey (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.05403)]
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2023 Papers
 #### CVPR
@@ -1475,9 +1479,13 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Task: Image Retrieval*
 
 <!--#### NeurIPS
-#### ICCV
+#### ICCV-->
 #### ICML
-#### IEEE-Access
+* Towards Unbiased Training in Federated Open-world Semi-supervised Learning (ICML 2023) 
+[[Paper](https://arxiv.org/abs/2305.00771)]
+
+
+<!--#### IEEE-Access
 #### ECCV
 #### AAAI-->
 #### TPAMI
@@ -1746,6 +1754,105 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * 2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2306.05418)]
+
+* Open-World Continual Learning: Unifying Novelty Detection and Continual Learning (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.10038)]
+
+* Open-world Semi-supervised Novel Class Discovery (IJCAI 2023) 
+[[Paper](https://arxiv.org/abs/2305.13095)][[Code](https://github.com/LiuJMzzZ/OpenNCD)]
+
+* DiffuseExpand: Expanding dataset for 2D medical image segmentation using diffusion models (IJCAIw 2023) 
+[[Paper](https://arxiv.org/abs/2304.13416)]
+
+* Uncovering CWE-CVE-CPE Relations with Threat Knowledge Graphs (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.00632)]
+
+* Detecting Novelties with Empty Classes (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.00983)]
+
+* ChinaOpen: A Dataset for Open-world Multimodal Learning (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.05880)]
+
+* Domain Incremental Lifelong Learning in an Open World (ACL 2023) 
+[[Paper](https://arxiv.org/abs/2305.06555)]
+
+* Long-Tailed Question Answering in an Open World (ACL 2023) 
+[[Paper](https://arxiv.org/abs/2305.06557)]
+
+* SalienDet: A Saliency-based Feature Enhancement Algorithm for Object Detection for Autonomous Driving (submitted to IEEE Transactions on Intelligent Vehicles 2023) 
+[[Paper](https://arxiv.org/abs/2305.06940)]
+
+* ZeroFlow: Fast Zero Label Scene Flow via Distillation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.10424)]
+
+* OpenShape: Scaling Up 3D Shape Representation Towards Open-World Understanding (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.10424)][[Code](https://colin97.github.io/OpenShape/)]
+
+* MonoTDP: Twin Depth Perception for Monocular 3D Object Detection in Adverse Scenes (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.10974)]
+
+* Learning for Open-World Calibration with Graph Neural Networks (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.12039)]
+
+* WOT-Class: Weakly Supervised Open-world Text Classification (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.12401)]
+
+* Task-Oriented Communication with Out-of-Distribution Detection: An Information Bottleneck Framework (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.12423)]
+
+* GraphCare: Enhancing Healthcare Predictions with Open-World Personalized Knowledge Graphs (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.12788)]
+
+* Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.13310)]
+
+* Open-world Semi-supervised Generalized Relation Discovery Aligned in a Real-world Setting (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.13533)]
+
+* PIVOINE: Instruction Tuning for Open-world Information Extraction (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.14898)]
+
+* SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.15486)]
+
+* Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.15700)]
+
+* Discovering Novel Actions in an Open World with Object-Grounded Visual Commonsense Reasoning (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.16602)]
+
+* Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.17144)]
+
+* VoxDet: Voxel Learning for Novel Instance Detection (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.17220)]
+
+* Integrating Action Knowledge and LLMs for Task Planning and Situation Handling in Open Worlds (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.17590)]
+
+* Decoupling Pseudo Label Disambiguation and Representation Learning for Generalized Intent Discovery (ACL 2023) 
+[[Paper](https://arxiv.org/abs/2305.17699)]
+
+* Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach (ACL 2023) 
+[[Paper](https://arxiv.org/abs/2305.18350)]
+
+* Multi-modal Queried Object Detection in the Wild (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.18980)]
+
+* Temporal-controlled Frame Swap for Generating High-Fidelity Stereo Driving Data for Autonomy Analysis (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2306.01704)]
+
+* Open-world Text-specified Object Counting (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2306.01851)]
+
+* DOS: Diverse Outlier Sampling for Out-of-Distribution Detection (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2306.02031)]
+
+* USD: Unknown Sensitive Detector Empowered by Decoupled Objectness and Segment Anything Model (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2306.02275)]
+
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR
@@ -3083,7 +3190,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2304.02364)]
 
 * Open-world Semi-supervised Novel Class Discovery (IJCAI 2023) 
-[[Code](https://github.com/LiuJMzzZ/OpenNCD)]
+[[Paper](https://arxiv.org/abs/2305.13095)][[Code](https://github.com/LiuJMzzZ/OpenNCD)]
 
 * NeurNCD: Novel Class Discovery via Implicit Neural Representation (IJCAI 2023) 
 [[Paper](https://github.com/jmwang0117/NeurNCD/blob/main/IJCAI_2023.pdf)][[Code](https://github.com/jmwang0117/NeurNCD)]
@@ -5673,6 +5780,13 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Towards Generalized Robot Assembly through Compliance-Enabled Contact Formations (ICRA 2023) 
 [[Paper](https://arxiv.org/abs/2303.05565)]
+
+* Discovering Novel Actions in an Open World with Object-Grounded Visual Commonsense Reasoning (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2305.16602)]
+
+* Temporal-controlled Frame Swap for Generating High-Fidelity Stereo Driving Data for Autonomy Analysis (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2306.01704)]
+
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers

@@ -3165,10 +3165,9 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Task: Object Detection*
 <!--#### IJCV
 #### BMVC
-#### ICCw-->
-#### WACVw
-* Uncertainty Aware Proposal Segmentation for Unknown Object Detection (WACVw 2023) 
-[[Paper](https://openaccess.thecvf.com/content/WACV2022W/DNOW/papers/Li_Uncertainty_Aware_Proposal_Segmentation_for_Unknown_Object_Detection_WACVW_2022_paper.pdf)]
+#### ICCw
+#### WACVw-->
+
 
 #### Other Journals and Conferences
 
@@ -3374,6 +3373,10 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2209.09120v4)]<br>
 *Datasets: CIFAR100-50, ImageNet*<br>
 *Task: Image Classification*
+
+#### WACVw 
+* Uncertainty Aware Proposal Segmentation for Unknown Object Detection (WACVw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022W/DNOW/papers/Li_Uncertainty_Aware_Proposal_Segmentation_for_Unknown_Object_Detection_WACVW_2022_paper.pdf)]
 
 #### Other Journals and Conferences
 

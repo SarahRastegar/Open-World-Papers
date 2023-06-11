@@ -1365,7 +1365,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2303.11749)]
 
 * Annealing-based Label-Transfer Learning for Open World Object Detection (CVPR 2023) 
-[[Paper](Annealing-Based Label-Transfer Learning for Open World Object Detection)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ma_Annealing-Based_Label-Transfer_Learning_for_Open_World_Object_Detection_CVPR_2023_paper.html)]
 
 * Glocal Energy-based Learning for Few-Shot Open-Set Recognition (CVPR 2023) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Glocal_Energy-Based_Learning_for_Few-Shot_Open-Set_Recognition_CVPR_2023_paper.html)]

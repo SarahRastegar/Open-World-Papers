@@ -3144,18 +3144,8 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Task: Image Classification*
 
 
-#### ICLR
-* Effective Cross-instance Positive Relations for Generalized Category Discovery (ICLR 2023 Submission) 
-[[Paper](https://openreview.net/forum?id=hag85Gdq_RA)]<br>
-*Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Herbarium19*<br>
-*Task: Image Classification*
-
-* Novel Class Discovery under Unreliable Sampling (ICLR 2023 Submission) 
-[[Paper](https://openreview.net/forum?id=uJzSlJruEjk)]<br>
-*Datasets: CIFAR-10/100, ImageNet*<br>
-*Task: Image Classification*
-
-<!--#### NeurIPS
+<!--#### ICLR
+#### NeurIPS
 #### ICCV
 #### ICML
 #### IEEE-Access
@@ -3192,6 +3182,17 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://openreview.net/forum?id=oqOBTo5uWD&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))][[Code](https://github.com/J-L-O/SK-Hurt-NCD)]
 
 #### Arxiv & Others
+
+* Effective Cross-instance Positive Relations for Generalized Category Discovery (ICLR 2023 Submission) 
+[[Paper](https://openreview.net/forum?id=hag85Gdq_RA)]<br>
+*Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Herbarium19*<br>
+*Task: Image Classification*
+
+* Novel Class Discovery under Unreliable Sampling (ICLR 2023 Submission) 
+[[Paper](https://openreview.net/forum?id=uJzSlJruEjk)]<br>
+*Datasets: CIFAR-10/100, ImageNet*<br>
+*Task: Image Classification*
+
 * Zero-Knowledge Zero-Shot Learning for Novel Visual Category Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2302.04427v1)]<br>
 *Datasets:  Attribute Pascal and Yahoo (APY), Animals with Attributes2 (AWA2), Caltech-UCSD-Birds 200-2011 (CUB), SUN*<br>

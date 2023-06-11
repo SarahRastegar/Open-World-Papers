@@ -487,7 +487,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2303.14859)]
 
 * Balanced Energy Regularization Loss for Out-of-distribution Detection (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Choi_Balanced_Energy_Regularization_Loss_for_Out-of-Distribution_Detection_CVPR_2023_paper.html)]
 
 * NICO++: Towards better bechmarks for Out-of-Distribution Generalization (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2204.08040)]
@@ -499,19 +499,19 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2212.14268)]
 
 * Decoupling MaxLogit for Out-of-Distribution Detection (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Decoupling_MaxLogit_for_Out-of-Distribution_Detection_CVPR_2023_paper.html)]
 
 * Rethinking Out-of-Distribution Detection: Masked Image Modeling is All You Need (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2302.02615)]
 
 * Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Out-of-Distributed_Semantic_Pruning_for_Robust_Semi-Supervised_Learning_CVPR_2023_paper.html)]
 
 * Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2304.00212)]
 
 * GEN: Pushing the Limits of Softmax-Based Out-of-Distribution Detection (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_GEN_Pushing_the_Limits_of_Softmax-Based_Out-of-Distribution_Detection_CVPR_2023_paper.html)]
 
 * Are Data-driven Explanations Robust against Out-of-distribution Data? (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.16390)]
@@ -519,8 +519,8 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Uncertainty-Aware Optimal Transport for Semantically Coherent Out-of-Distribution Detection (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.10449)]
 
-* Distribution Shift Inversion for Out-of-Distribution Generalization (CVPR 2023) 
-[[Paper]]
+* Distribution Shift Inversion for Out-of-Distribution Prediction (CVPR 2023) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yu_Distribution_Shift_Inversion_for_Out-of-Distribution_Prediction_CVPR_2023_paper.html)]
 
 * PoseExaminer: Automated Testing of Out-of-Distribution Robustness in Human Pose and Shape Estimation (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.07337)]
@@ -1365,10 +1365,10 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2303.11749)]
 
 * Annealing-based Label-Transfer Learning for Open World Object Detection (CVPR 2023) 
-[[Paper]]
+[[Paper](Annealing-Based Label-Transfer Learning for Open World Object Detection)]
 
 * Glocal Energy-based Learning for Few-Shot Open-Set Recognition (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Glocal_Energy-Based_Learning_for_Few-Shot_Open-Set_Recognition_CVPR_2023_paper.html)]
 
 * OpenMix: Exploring Outlier Samples for Misclassification Detection (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.17093)]
@@ -1395,7 +1395,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2301.08390)]
 
 * Adjustment and Alignment for Unbiased Open Set Domain Adaptation (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Adjustment_and_Alignment_for_Unbiased_Open_Set_Domain_Adaptation_CVPR_2023_paper.html)]
 
 * Coreset Sampling from Open-Set for Fine-Grained Self-Supervised Learning (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.11101)]
@@ -1404,13 +1404,13 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2303.06877)]
 
 * Cascade Evidential Learning for Open-world Weakly-supervised Temporal Action Localization (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Cascade_Evidential_Learning_for_Open-World_Weakly-Supervised_Temporal_Action_Localization_CVPR_2023_paper.html)]
 
 * Open-set Semantic Segmentation for Point Clouds via Adversarial Prototype Framework (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Open-Set_Semantic_Segmentation_for_Point_Clouds_via_Adversarial_Prototype_Framework_CVPR_2023_paper.html)]
 
 * Towards Open-World Segmentation of Parts (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Pan_Towards_Open-World_Segmentation_of_Parts_CVPR_2023_paper.html)]
 
 * Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2301.10034)]
@@ -1425,7 +1425,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2303.14158)]
 
 * Discriminating Known from Unknown Objects via Structure-Enhanced Recurrent Variational AutoEncoder (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Discriminating_Known_From_Unknown_Objects_via_Structure-Enhanced_Recurrent_Variational_AutoEncoder_CVPR_2023_paper.html)]
 
 * Unsupervised Object Localization: Observing the Background to Discover Objects (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2212.07834)]
@@ -3112,7 +3112,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 ### 2023 Papers
 #### CVPR
 * Open-Category Human-Object Interaction Pre-training via Language Modeling Framework (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.html)]
 
 * Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2210.03591)]<br>
@@ -3189,7 +3189,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://github.com/jmwang0117/NeurNCD/blob/main/IJCAI_2023.pdf)][[Code](https://github.com/jmwang0117/NeurNCD)]
 
 * Supervised Knowledge May Hurt Novel Class Discovery Performance (TMLR 2023) 
-[[Paper]][[Code](https://github.com/J-L-O/SK-Hurt-NCD)]
+[[Paper](https://openreview.net/forum?id=oqOBTo5uWD&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))][[Code](https://github.com/J-L-O/SK-Hurt-NCD)]
 
 #### Arxiv & Others
 * Zero-Knowledge Zero-Shot Learning for Novel Visual Category Discovery (Arxiv 2023) 
@@ -3593,7 +3593,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2304.00788)]
 
 * Learning to Generate Language-supervised and Open-vocabulary Scene Graph using Pre-trained Visual-Semantic Space (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Learning_To_Generate_Language-Supervised_and_Open-Vocabulary_Scene_Graph_Using_Pre-Trained_CVPR_2023_paper.html)]
 
 * Side Adapter Network for Open-Vocabulary Semantic Segmentation (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2302.12242)]
@@ -3608,7 +3608,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2210.04150)]
 
 * Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Region-Aware_Pretraining_for_Open-Vocabulary_Object_Detection_With_Vision_Transformers_CVPR_2023_paper.html)]
 
 * Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.05892)]
@@ -3629,7 +3629,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2301.07093)]
 
 * DetCLIPv2: Scalable Open-Vocabulary Object Detection Pre-training via Word-Region Alignment (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yao_DetCLIPv2_Scalable_Open-Vocabulary_Object_Detection_Pre-Training_via_Word-Region_Alignment_CVPR_2023_paper.html)]
 
 * OvarNet: Towards Open-vocabulary Object Attribute Recognition (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2301.09506)]
@@ -3650,7 +3650,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2303.13076)]
 
 * OVTrack: Open-Vocabulary Multiple Object Tracking (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_OVTrack_Open-Vocabulary_Multiple_Object_Tracking_CVPR_2023_paper.html)]
 
 * Learning to Detect and Segment for Open Vocabulary Object Detection (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2212.12130)]
@@ -3666,9 +3666,22 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: LVIS, PASCAL VOC, COCO, Objects365*<br>
 *Task: Object Detection*
 <!--#### NeurIPS
-#### ICCV
+#### ICCV-->
+
 #### ICML
-#### IEEE-Access
+* SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation (ICML 2023) 
+[[Paper](https://arxiv.org/abs/2211.14813)]
+
+* Open-VCLIP: Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization (ICML 2023) 
+[[Paper](https://arxiv.org/abs/2302.00624)]
+
+* Open-Vocabulary Universal Image Segmentation with MaskCLIP (ICML 2023) 
+[[Paper](http://arxiv.org/abs/2208.08984)]
+
+* Multi-Modal Classifiers for Open-Vocabulary Object Detection (ICML 2023) 
+[[Paper](http://arxiv.org/abs/2207.01887)]
+
+<!--#### IEEE-Access
 #### ECCV
 #### AAAI
 #### TPAMI-->
@@ -3936,8 +3949,8 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.01219)]
 
-* DeCo : Decomposition and Reconstruction for Compositional Temporal Grounding via Coarse-to-Fine Contrastive Ranking (CVPR 2023) 
-[[Paper]]
+* DeCo: Decomposition and Reconstruction for Compositional Temporal Grounding via Coarse-to-Fine Contrastive Ranking (CVPR 2023) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_DeCo_Decomposition_and_Reconstruction_for_Compositional_Temporal_Grounding_via_Coarse-To-Fine_CVPR_2023_paper.html)]
 
 * Exploiting Unlabelled Photos for Stronger Fine-Grained SBIR (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.13779)]
@@ -3945,14 +3958,14 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Fine-Grained Face Swapping via Regional GAN Inversion (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2211.14068)]
 
-* Learning Attribute and Class Specific Representation Duet for Fine-grained Fashion Analysis (CVPR 2023) 
-[[Paper]]
+* Learning Attribute and Class-Specific Representation Duet for Fine-Grained Fashion Analysis (CVPR 2023) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jiao_Learning_Attribute_and_Class-Specific_Representation_Duet_for_Fine-Grained_Fashion_Analysis_CVPR_2023_paper.html)]
 
 * Learning Common Rationale to Improve Self-Supervised Representation for Fine-Grained Visual Recognition Problems (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.01669)]
 
 * FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Han_FashionSAP_Symbols_and_Attributes_Prompt_for_Fine-Grained_Fashion_Vision-Language_Pre-Training_CVPR_2023_paper.html)]
 
 * Fine-grained Image-text Matching by Cross-modal Hard Aligning Network (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2008.05231)]
@@ -3961,7 +3974,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://readpaper.com/paper/1608794558669368064)]
 
 * Weakly Supervised Posture Mining for Fine-grained Classification (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Weakly_Supervised_Posture_Mining_for_Fine-Grained_Classification_CVPR_2023_paper.html)]
 
 * Hierarchical Fine-Grained Image Forgery Detection and Localization (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.17111)]
@@ -3976,7 +3989,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2303.02404)]
 
 * An Erudite Fine-Grained Visual Classification Model (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chang_An_Erudite_Fine-Grained_Visual_Classification_Model_CVPR_2023_paper.html)]
 
 * Fine-Grained Classification with Noisy Labels (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.02404)]
@@ -4763,28 +4776,28 @@ For more concise terminology, we use **claster** when referring to clusters depi
 ### 2023 Papers
 #### CVPR
 * Class-Conditional Sharpness-Aware Minimization for Deep Long-Tailed Recognition (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhou_Class-Conditional_Sharpness-Aware_Minimization_for_Deep_Long-Tailed_Recognition_CVPR_2023_paper.html)]
 
 * Global and Local Mixture Consistency Cumulative Learning for Long-tailed Visual Recognitions (CVPR 2023) 
 [[Paper](https://paperswithcode.com/paper/global-and-local-mixture-consistency)]
 
 * Balancing Logit Variation for Long-tailed Semantic Segmentation (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Balancing_Logit_Variation_for_Long-Tailed_Semantic_Segmentation_CVPR_2023_paper.html)]
 
 * Transfer Knowledge from Head to Tail: Uncertainty Calibration under Long-tailed Distribution (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Transfer_Knowledge_From_Head_to_Tail_Uncertainty_Calibration_Under_Long-Tailed_CVPR_2023_paper.html)]
 
 * Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Towards_Realistic_Long-Tailed_Semi-Supervised_Learning_Consistency_Is_All_You_Need_CVPR_2023_paper.html)]
 
 * Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Gou_Rethinking_Image_Super_Resolution_From_Long-Tailed_Distribution_Learning_Perspective_CVPR_2023_paper.html)]
 
 * Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2304.01279)]
 
 * FCC: Feature Clusters Compression for Long-Tailed Visual Recognition (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_FCC_Feature_Clusters_Compression_for_Long-Tailed_Visual_Recognition_CVPR_2023_paper.html)]
 
 * Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.12307)]
@@ -5781,7 +5794,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2211.06597)]
 
 * Open-Category Human-Object Interaction Pre-training via Language Modeling Framework (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.html)]
 
 * SUDS: Scalable Urban Dynamic Scenes (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.14536)]
@@ -6014,7 +6027,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### CVPR
 
 * Open-Category Human-Object Interaction Pre-training via Language Modeling Framework (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.html)]
 <!-- #### ICLR
 #### NeurIPS
 #### ICCV
@@ -6141,22 +6154,26 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### CVPR
 
 * Open-Category Human-Object Interaction Pre-training via Language Modeling Framework (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.html)]
 
 * Being Comes from Not-being: Open-vocabulary Text-to-Motion Generation with Wordless Training (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2210.15929)]
 
 * OVTrack: Open-Vocabulary Multiple Object Tracking (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_OVTrack_Open-Vocabulary_Multiple_Object_Tracking_CVPR_2023_paper.html)]
 #### ICLR
 * The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition (ICLR 2023) 
 [[Paper](https://openreview.net/pdf?id=xLr0I_xYGAs)]<br>
 *Datasets: CIFAR100, LSUN, MiTv2, UCF101, HMDB51*<br>
 *Task: Image and Video Classification*
 <!--#### NeurIPS
-#### ICCV
+#### ICCV-->
 #### ICML
-#### IEEE-Access
+
+* Open-VCLIP: Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization (ICML 2023) 
+[[Paper](https://arxiv.org/abs/2302.00624)]
+
+<!--#### IEEE-Access
 #### ECCV
 #### AAAI
 #### TPAMI
@@ -6181,8 +6198,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Towards Open-Vocabulary Video Instance Segmentation (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2304.01715)]
-
-
 
 * CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2304.05653)]
@@ -6239,6 +6254,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 * Open-Vocabulary Temporal Action Detection with Off-the-Shelf Image-Text Features (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2212.10596)]
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 <!--### 2021 Papers
  #### CVPR
@@ -6264,24 +6280,22 @@ For more concise terminology, we use **claster** when referring to clusters depi
 ### 2023 Papers
 #### CVPR
 * On the Difficulty of Unpaired Infrared-to-Visible Video Translation: Fine-Grained Content-Rich Patches Transfer (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yu_On_the_Difficulty_of_Unpaired_Infrared-to-Visible_Video_Translation_Fine-Grained_Content-Rich_CVPR_2023_paper.html)]
 
 * ANetQA: A Large-scale Benchmark for Fine-grained Compositional Reasoning over Untrimmed Videos (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yu_ANetQA_A_Large-Scale_Benchmark_for_Fine-Grained_Compositional_Reasoning_Over_Untrimmed_CVPR_2023_paper.html)]
 
 * MELTR: Meta Loss Transformer for Learning to Fine-tune Video Foundation Models (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.13009)]
 
-
 * Modeling Video as Stochastic Processes for Fine-Grained Video Representation Learning (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Modeling_Video_As_Stochastic_Processes_for_Fine-Grained_Video_Representation_Learning_CVPR_2023_paper.html)]
 
 * Class Prototypes based Contrastive Learning for Classifying Multi-Label and Fine-Grained Educational Videos (CVPR 2023) 
-[[Paper]]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Gupta_Class_Prototypes_Based_Contrastive_Learning_for_Classifying_Multi-Label_and_Fine-Grained_CVPR_2023_paper.html)]
 
 * Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2211.14506)]
-
 
 * Focus On Details: Online Multi-object Tracking with Diverse Fine-grained Representation (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2302.14589)]

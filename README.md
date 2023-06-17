@@ -348,8 +348,13 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: CUB-200-2011 (CUB), SUN attributes (SUN) and DeepFashion (DF)*<br>
 *Task: Multimodal Zero-Shot*
 
-<!-- #### WACV
-#### IJCV
+#### WACV
+
+* COCOA: Context-Conditional Adaptation for Recognizing Unseen Classes in Unseen Domains (WACV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Mangla_COCOA_Context-Conditional_Adaptation_for_Recognizing_Unseen_Classes_in_Unseen_Domains_WACV_2022_paper.pdf)]<br>
+*Datasets: DomainNet, DomainNet-LS*<br>
+*Task: Domain Generalization and Novel Class Discovery*
+<!--#### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
@@ -3292,16 +3297,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### ICML
 #### IEEE-Access-->
 #### ECCV
-* Generative Meta-Adversarial Network for Unseen Object Navigation (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990295.pdf)]
-[[Code](https://github.com/sx-zhang/GMAN.git)]<br>
-*Datasets: AI2THOR  and RoboTHOR*<br>
-*Task: Object Navigation*
-
-* incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection (ECCV 2022) 
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850581.pdf)]<br>
-*Datasets: 1.CIFAR-10 (10 classes), 2. CIFAR-100 (super-classlevel, 20 classes), 3. EMNIST (26 classes) and 4. iNaturalist21 (phylumlevel, 9 classes)*<br>
-*Task: Image Classification*
 
 * Novel Class Discovery without Forgetting (ECCV 2022) 
 [[Paper](https://arxiv.org/abs/2207.10659)]
@@ -3334,30 +3329,12 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: CIFAR-10 and CIFAR-100*<br>
 *Task: Image Classification*
 
-#### WACV
-* One-Class Learned Encoder-Decoder Network With Adversarial Context Masking for Novelty Detection (WACV 2022) 
-[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Jewell_One-Class_Learned_Encoder-Decoder_Network_With_Adversarial_Context_Masking_for_Novelty_WACV_2022_paper.pdf)]
-[[Code](https://github.com/jewelltaylor/OLED)]<br>
-*Datasets: MNIST, CIFAR-10, UCSD*<br>
-*Task: Novelty Detection, Anomaly*
+<!--#### WACV
 
-* COCOA: Context-Conditional Adaptation for Recognizing Unseen Classes in Unseen Domains (WACV 2022) 
-[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Mangla_COCOA_Context-Conditional_Adaptation_for_Recognizing_Unseen_Classes_in_Unseen_Domains_WACV_2022_paper.pdf)]<br>
-*Datasets: DomainNet, DomainNet-LS*<br>
-*Task: Domain Generalization and Novel Class Discovery*
 
-* FalCon: Fine-Grained Feature Map Sparsity Computing With Decomposed Convolutions for Inference Optimization (WACV 2022) 
-[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Xu_FalCon_Fine-Grained_Feature_Map_Sparsity_Computing_With_Decomposed_Convolutions_for_WACV_2022_paper.pdf)]<br>
-*Datasets: CIFAR-10, CIFAR-100, ILSVRC-2012*<br>
-*Task: Inference Optimization*
 
-* 3DRefTransformer: Fine-Grained Object Identification in Real-World Scenes Using Natural Language (WACV 2022) 
-[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Abdelreheem_3DRefTransformer_Fine-Grained_Object_Identification_in_Real-World_Scenes_Using_Natural_Language_WACV_2022_paper.pdf)]
-[[Code](https://vision-cair.github.io/3dreftransformer/)]<br>
-*Datasets: Nr3D, Sr3D*<br>
-*Task: 3D Object Identification*
 
-<!-- #### IJCV-->
+#### IJCV-->
 #### BMVC
 * XCon: Learning with Experts for Fine-grained Category Discovery (BMVC 2022) 
 [[Paper](https://arxiv.org/abs/2208.01898v1)]
@@ -4288,9 +4265,20 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://aaai-2022.virtualchair.net/poster_AISI1959.html)]
 
 <!--#### TPAMI
-#### CVPRw
+#### CVPRw-->
 #### WACV
-#### IJCV-->
+* FalCon: Fine-Grained Feature Map Sparsity Computing With Decomposed Convolutions for Inference Optimization (WACV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Xu_FalCon_Fine-Grained_Feature_Map_Sparsity_Computing_With_Decomposed_Convolutions_for_WACV_2022_paper.pdf)]<br>
+*Datasets: CIFAR-10, CIFAR-100, ILSVRC-2012*<br>
+*Task: Inference Optimization*
+
+* 3DRefTransformer: Fine-Grained Object Identification in Real-World Scenes Using Natural Language (WACV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Abdelreheem_3DRefTransformer_Fine-Grained_Object_Identification_in_Real-World_Scenes_Using_Natural_Language_WACV_2022_paper.pdf)]
+[[Code](https://vision-cair.github.io/3dreftransformer/)]<br>
+*Datasets: Nr3D, Sr3D*<br>
+*Task: 3D Object Identification*
+
+<!--#### IJCV-->
 #### BMVC
 
 * XCon: Learning with Experts for Fine-grained Category Discovery (BMVC 2022) 
@@ -6881,13 +6869,23 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### NeurIPS
 #### ICCV
 #### ICML
-#### IEEE-Access
+#### IEEE-Access-->
 #### ECCV
-#### AAAI
+* incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850581.pdf)]<br>
+*Datasets: 1.CIFAR-10 (10 classes), 2. CIFAR-100 (super-classlevel, 20 classes), 3. EMNIST (26 classes) and 4. iNaturalist21 (phylumlevel, 9 classes)*<br>
+*Task: Image Classification*
+<!--#### AAAI
 #### TPAMI
-#### CVPRw
+#### CVPRw-->
 #### WACV
-#### IJCV
+* One-Class Learned Encoder-Decoder Network With Adversarial Context Masking for Novelty Detection (WACV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Jewell_One-Class_Learned_Encoder-Decoder_Network_With_Adversarial_Context_Masking_for_Novelty_WACV_2022_paper.pdf)]
+[[Code](https://github.com/jewelltaylor/OLED)]<br>
+*Datasets: MNIST, CIFAR-10, UCSD*<br>
+*Task: Novelty Detection, Anomaly*
+
+<!--#### IJCV
 #### BMVC
 #### ICCw
 #### Arxiv & Others-->
@@ -7025,9 +7023,18 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Upcycling Models under Domain and Category Shift (CVPR 2023) 
 [[Paper](https://arxiv.org/abs/2303.07110)]<br>
 
+* Generative Meta-Adversarial Network for Unseen Object Navigation (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990295.pdf)]
+[[Code](https://github.com/sx-zhang/GMAN.git)]<br>
+*Datasets: AI2THOR  and RoboTHOR*<br>
+*Task: Object Navigation*
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Action Recognition Related
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Surveys
 * Vision Transformers for Action Recognition: A Survey (Arxiv 2022) 
 [[Paper](https://arxiv.org/abs/2209.05700)]
+
+

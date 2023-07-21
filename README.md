@@ -3156,8 +3156,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 #### NeurIPS-->
 #### ICCV
 * Class-relation Knowledge Distillation for Novel Class Discovery (ICCV 2023) 
-[[Paper](https://arxiv.org/abs/2307.09158)]
-[[Code](https://github.com/kleinzcy/Cr-KD-NCD)]<br>
+[[Paper](https://arxiv.org/abs/2307.09158)][[Code](https://github.com/kleinzcy/Cr-KD-NCD)]<br>
 
 * Incremental Generalized Category Discovery (ICCV 2023) 
 [[Paper](https://arxiv.org/abs/2304.14310)]
@@ -3166,8 +3165,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://arxiv.org/abs/2305.06144)]
 
 * Parametric Classification for Generalized Category Discovery: A Baseline Study (ICCV 2023) 
-[[Paper](https://arxiv.org/abs/2211.11727v2)]
-[[Code](https://github.com/CVMI-Lab/SimGCD)]<br>
+[[Paper](https://arxiv.org/abs/2211.11727v2)][[Code](https://github.com/CVMI-Lab/SimGCD)]<br>
 *Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Herbarium19*<br>
 *Task: Image Classification*
 
@@ -3208,8 +3206,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Paper](https://openreview.net/forum?id=oqOBTo5uWD&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))][[Code](https://github.com/J-L-O/SK-Hurt-NCD)]
 
 * An Interactive Interface for Novel Class Discovery in Tabular Data (ECML PKDD 2023, Demo Track 2023) 
-[[Paper](https://arxiv.org/pdf/2306.12919.pdf)]
-[[Code](https://github.com/ColinTr/InteractiveClustering)]
+[[Paper](https://arxiv.org/pdf/2306.12919.pdf)][[Code](https://github.com/ColinTr/InteractiveClustering)]
 
 #### Arxiv & Others
 

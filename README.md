@@ -1483,8 +1483,11 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: LAION 400M*<br>
 *Task: Image Retrieval*
 
-<!--#### NeurIPS
-#### ICCV-->
+<!--#### NeurIPS-->
+#### ICCV
+* Random Boxes Are Open-world Object Detectors (ICCV 2023) 
+[[Paper](https://arxiv.org/abs/2307.08249)]
+
 #### ICML
 * Towards Unbiased Training in Federated Open-world Semi-supervised Learning (ICML 2023) 
 [[Paper](https://arxiv.org/abs/2305.00771)]
@@ -1999,7 +2002,7 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: Office-31, Office-Home, VisDA*<br>
 *Task: Domain Adaptation*
 
-* 3DOS: Towards Open Set 3D Learning:Benchmarking and Understanding Semantic Novelty Detection on Point Clouds	(NeurIPS 2022) 
+* 3DOS: Towards Open Set 3D Learning: Benchmarking and Understanding Semantic Novelty Detection on Point Clouds	(NeurIPS 2022) 
 [[Paper](https://openreview.net/pdf?id=X2dHozbd1at)]
 [[Code](https://github.com/antoalli/3D_OS)]<br>
 *Datasets: ShapeNetCore v2,  ModelNet40->ScanObjectNN, ScanObjectNN*<br>
@@ -3150,10 +3153,29 @@ For more concise terminology, we use **claster** when referring to clusters depi
 
 
 <!--#### ICLR
-#### NeurIPS
+#### NeurIPS-->
 #### ICCV
+* Class-relation Knowledge Distillation for Novel Class Discovery (ICCV 2023) 
+[[Paper](https://arxiv.org/abs/2307.09158)]
+[[Code](https://github.com/kleinzcy/Cr-KD-NCD)]<br>
+
+* Incremental Generalized Category Discovery (ICCV 2023) 
+[[Paper](https://arxiv.org/abs/2304.14310)]
+
+* Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery (ICCV 2023) 
+[[Paper](https://arxiv.org/abs/2305.06144)]
+
+* Parametric Classification for Generalized Category Discovery: A Baseline Study (ICCV 2023) 
+[[Paper](https://arxiv.org/abs/2211.11727v2)]
+[[Code](https://github.com/CVMI-Lab/SimGCD)]<br>
+*Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Herbarium19*<br>
+*Task: Image Classification*
+
 #### ICML
-#### IEEE-Access
+* When and How Does Known Class Help Discover Unknown Ones? Provable Understandings Through Spectral Analysis (ICML 2023) 
+[[Paper](https://openreview.net/pdf?id=JHodnaW5WZ)]
+[[Code](https://github.com/deeplearning-wisc/NSCL)]
+<!--#### IEEE-Access
 #### ECCV-->
 #### AAAI
 * Generalized Category Discovery with Decoupled Prototypical Network (AAAI 2023) 
@@ -3185,7 +3207,12 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * Supervised Knowledge May Hurt Novel Class Discovery Performance (TMLR 2023) 
 [[Paper](https://openreview.net/forum?id=oqOBTo5uWD&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))][[Code](https://github.com/J-L-O/SK-Hurt-NCD)]
 
+* An Interactive Interface for Novel Class Discovery in Tabular Data (ECML PKDD 2023, Demo Track 2023) 
+[[Paper](https://arxiv.org/pdf/2306.12919.pdf)]
+[[Code](https://github.com/ColinTr/InteractiveClustering)]
+
 #### Arxiv & Others
+
 
 * Effective Cross-instance Positive Relations for Generalized Category Discovery (ICLR 2023 Submission) 
 [[Paper](https://openreview.net/forum?id=hag85Gdq_RA)]<br>
@@ -3218,11 +3245,6 @@ For more concise terminology, we use **claster** when referring to clusters depi
 *Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Herbarium19*<br>
 *Task: Image Classification*
 
-* Parametric Classification for Generalized Category Discovery: A Baseline Study (Arxiv 2023) 
-[[Paper](https://arxiv.org/abs/2211.11727v2)]
-[[Code](https://github.com/CVMI-Lab/SimGCD)]<br>
-*Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Herbarium19*<br>
-*Task: Image Classification*
 
 * Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2303.15975)][[Code](https://github.com/OatmealLiu/MSc-iNCD)]
@@ -3238,15 +3260,8 @@ For more concise terminology, we use **claster** when referring to clusters depi
 * NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2304.07354)][[Code](https://huggingface.co/datasets/mahmed10/MPSC_MV)]
 
-* Incremental Generalized Category Discovery (Arxiv 2023) 
-[[Paper](https://arxiv.org/abs/2304.14310)]
-
 * What's in a Name? Beyond Class Indices for Image Recognition (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2304.02364)]
-
-
-* Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery (Arxiv 2023) 
-[[Paper](https://arxiv.org/abs/2305.06144)]
 
 * CLIP-GCD: Simple Language Guided Generalized Category Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2305.10420)]
@@ -3646,8 +3661,15 @@ For more concise terminology, we use **claster** when referring to clusters depi
 [[Code](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)]<br>
 *Datasets: LVIS, PASCAL VOC, COCO, Objects365*<br>
 *Task: Object Detection*
-<!--#### NeurIPS
-#### ICCV-->
+<!--#### NeurIPS-->
+
+#### ICCV
+
+* Global Knowledge Calibration for Fast Open-Vocabulary Segmentation (ICCV 2023) 
+[[Paper](https://arxiv.org/abs/2303.09181)]
+
+* Open-vocabulary Panoptic Segmentation with Embedding Modulation (ICCV 2023) 
+[[Paper](https://arxiv.org/abs/2303.11324)]
 
 #### ICML
 * SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation (ICML 2023) 
@@ -6580,9 +6602,12 @@ For more concise terminology, we use **claster** when referring to clusters depi
 ### 2023 Papers
 <!-- #### CVPR
 #### ICLR
-#### NeurIPS
+#### NeurIPS-->
 #### ICCV
-#### ICML
+* Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection (ICCV 2023) 
+[[Paper](https://arxiv.org/abs/2307.07205)]<br>
+
+<!--#### ICML
 #### IEEE-Access
 #### ECCV
 #### AAAI

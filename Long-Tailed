@@ -548,3 +548,69 @@
 
 * FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network (CVPRw 2019) 
 [[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Vision%20for%20All%20Seasons%20Bad%20Weather%20and%20Nighttime/Philion_FastDraw_Addressing_the_Long_Tail_of_Lane_Detection_by_Adapting_CVPRW_2019_paper.pdf)]
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Long Tail Videos
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+### 2023 Papers
+#### CVPR
+* Use Your Head: Improving Long-Tail Video Recognition (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2304.01143)]
+
+* FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework For Long-tail Trajectory Prediction (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.16574)]
+
+<!--#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+<!--### 2022 Papers
+#### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2021 Papers
+<!--#### CVPR
+#### ICLR
+#### NeurIPS-->
+#### ICCV
+* VideoLT: Large-Scale Long-Tailed Video Recognition (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2105.02668)]
+
+* On Exposing the Challenging Long Tail in Future Prediction of Traffic Actors (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Makansi_On_Exposing_the_Challenging_Long_Tail_in_Future_Prediction_of_ICCV_2021_paper.pdf)]
+<!--#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->

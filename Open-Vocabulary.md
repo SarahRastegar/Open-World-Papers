@@ -8,7 +8,6 @@
 - [Open Vocabulary-Videos](#Open-Vocabulary-Videos)
      - [2023 Papers](#2023-Papers)
      - [2022 Papers](#2022-Papers)
-     - [Older Papers](#Older-Papers)
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary

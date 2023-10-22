@@ -834,3 +834,247 @@
 
 * Cross-Domain Hallucination Network for Fine-Grained Object Recognition (CVPRw 2018) 
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w21/Lin_Cross-Domain_Hallucination_Network_CVPR_2018_paper.pdf)]
+
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Fine Grained Videos
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+### 2023 Papers
+#### CVPR
+* On the Difficulty of Unpaired Infrared-to-Visible Video Translation: Fine-Grained Content-Rich Patches Transfer (CVPR 2023) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yu_On_the_Difficulty_of_Unpaired_Infrared-to-Visible_Video_Translation_Fine-Grained_Content-Rich_CVPR_2023_paper.html)]
+
+* ANetQA: A Large-scale Benchmark for Fine-grained Compositional Reasoning over Untrimmed Videos (CVPR 2023) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yu_ANetQA_A_Large-Scale_Benchmark_for_Fine-Grained_Compositional_Reasoning_Over_Untrimmed_CVPR_2023_paper.html)]
+
+* MELTR: Meta Loss Transformer for Learning to Fine-tune Video Foundation Models (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.13009)]
+
+* Modeling Video as Stochastic Processes for Fine-Grained Video Representation Learning (CVPR 2023) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Modeling_Video_As_Stochastic_Processes_for_Fine-Grained_Video_Representation_Learning_CVPR_2023_paper.html)]
+
+* Class Prototypes based Contrastive Learning for Classifying Multi-Label and Fine-Grained Educational Videos (CVPR 2023) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Gupta_Class_Prototypes_Based_Contrastive_Learning_for_Classifying_Multi-Label_and_Fine-Grained_CVPR_2023_paper.html)]
+
+* Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2211.14506)]
+
+* Focus On Details: Online Multi-object Tracking with Diverse Fine-grained Representation (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2302.14589)]
+
+* Fine-grained Audible Video Description (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.15616)]
+<!-- #### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw-->
+#### WACV
+* Fine-Grained Activities of People Worldwide (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Byrne_Fine-Grained_Activities_of_People_Worldwide_WACV_2023_paper.pdf)]
+[[Code](https://visym.github.io/cap)]<br>
+*Datasets: Consented Activities of People (CAP)*<br>
+*Task: Action Recognition*
+
+* Fine-Grained Affordance Annotation for Egocentric Hand-Object Interaction Videos (WACV 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Yu_Fine-Grained_Affordance_Annotation_for_Egocentric_Hand-Object_Interaction_Videos_WACV_2023_paper.pdf)]<br>
+*Datasets:  EPIC-KITCHENS*<br>
+*Task: Action Recognition*
+<!--#### IJCV
+#### BMVC
+#### ICCw-->
+#### Arxiv & Others
+* Hand Guided High Resolution Feature Enhancement for Fine-Grained Atomic Action Segmentation Within Complex Human Assemblies (WACVw 2023) 
+[[Paper](http://arxiv.org/abs/2211.13694)]
+
+* A Transformer-Based Late-Fusion Mechanism for Fine-Grained Object Recognition in Videos (WACVw 2023) 
+[[Paper](https://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Koch_A_Transformer-Based_Late-Fusion_Mechanism_for_Fine-Grained_Object_Recognition_in_Videos_WACVW_2023_paper.pdf)]
+
+* Simplifying Open-Set Video Domain Adaptation with Contrastive Learning (CVIU 2023 under review) 
+[[Paper](https://arxiv.org/abs/2301.03322)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2022 Papers
+#### CVPR
+
+* FineDiving: A Fine-Grained Dataset for Procedure-Aware Action Quality Assessment (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_FineDiving_A_Fine-Grained_Dataset_for_Procedure-Aware_Action_Quality_Assessment_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/xujinglin/FineDiving)]<br>
+*Datasets: FineDiving*<br>
+*Task: Action Quality Assessment*
+
+* Fine-Grained Temporal Contrastive Learning for Weakly-Supervised Temporal Action Localization (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_Fine-Grained_Temporal_Contrastive_Learning_for_Weakly-Supervised_Temporal_Action_Localization_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/MengyuanChen21/CVPR2022-FTCL)]<br>
+*Datasets: THUMOS14; ActivityNet1.3*<br>
+*Task: Temporal Action Localization*
+
+* How Do You Do It? Fine-Grained Action Understanding With Pseudo-Adverbs (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Doughty_How_Do_You_Do_It_Fine-Grained_Action_Understanding_With_Pseudo-Adverbs_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/hazeld/PseudoAdverbs)]<br>
+*Datasets: VATEX Adverbs, ActivityNet Adverbs and MSR-VTT Adverbs*<br>
+*Task: Adverb Recognition*
+
+* EMScore: Evaluating Video Captioning via Coarse-Grained and Fine-Grained Embedding Matching (CVPR 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_EMScore_Evaluating_Video_Captioning_via_Coarse-Grained_and_Fine-Grained_Embedding_Matching_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/shiyaya/emscore)]<br>
+*Datasets: VATEX-EVAL; ActivityNet-FOIL*<br>
+*Task: Video Captioning*
+<!-- #### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access-->
+#### ECCV
+* Dynamic Spatio-Temporal Specialization Learning for Fine-Grained Action Recognition (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640381.pdf)]<br>
+*Datasets: Diving48*<br>
+*Task: Action Recognition*
+
+* Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680262.pdf)]
+[[Code](https://github.com/visipedia/ssw60)]<br>
+*Datasets: SSW60*<br>
+*Task: Action Recognition*
+
+* Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700562.pdf)]
+[[Code](https://github.com/lizhi1104/HAAN.git)]<br>
+*Datasets: FineAction; FineGym*<br>
+*Task: Action Recognition*
+
+* Semantic-Aware Fine-Grained Correspondence (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910093.pdf)]<br>
+*Datasets: DAVIS-2017; JHMDB; Video Instance Parsing (VIP)*<br>
+*Task: Video Object Segmentation, Human Pose Tracking, Human Part Tracking*
+
+* Spotting Temporally Precise, Fine-Grained Events in Video (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136950033.pdf)]<br>
+*Datasets: Tennis, Figure Skating, FineDiving, and Fine-Gym*<br>
+*Task: Temporally Precise Spotting*
+
+* Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890125.pdf)]
+[[Code](https://github.com/owenzlz/EgoHOS)]<br>
+*Datasets: EPIC-KITCHENS; Ego4d; THU-READ; Escape Room*<br>
+*Task: Semantic Segmentation*
+<!-- #### AAAI
+#### TPAMI-->
+#### CVPRw
+* FenceNet: Fine-Grained Footwork Recognition in Fencing (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVSports/papers/Zhu_FenceNet_Fine-Grained_Footwork_Recognition_in_Fencing_CVPRW_2022_paper.pdf)]<br>
+*Datasets:  FFD a publicly available fencing dataset*<br>
+*Task: Action Recognition*
+<!--#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2021 Papers
+#### CVPR
+
+* Fine-Grained Shape-Appearance Mutual Learning for Cloth-Changing Person Re-Identification (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Fine-Grained_Shape-Appearance_Mutual_Learning_for_Cloth-Changing_Person_Re-Identification_CVPR_2021_paper.pdf)]
+
+
+* Temporal Query Networks for Fine-Grained Video Understanding (CVPR 2021) 
+[[Paper](http://arxiv.org/abs/2104.09496)]
+
+* GLAVNet: Global-Local Audio-Visual Cues for Fine-Grained Material Recognition (CVPR 2021) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_GLAVNet_Global-Local_Audio-Visual_Cues_for_Fine-Grained_Material_Recognition_CVPR_2021_paper.pdf)]
+
+
+<!--#### ICLR
+#### NeurIPS-->
+#### ICCV
+
+* Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-Identification (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2108.08728)]
+
+* Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2109.01305)]
+
+* FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting (ICCV 2021) 
+[[Paper](http://arxiv.org/abs/2109.02974)]
+
+<!--#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
+* FineGym: A Hierarchical Video Dataset for Fine-Grained Action Understanding (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2004.06704)]
+
+* Multi-Modal Domain Adaptation for Fine-Grained Action Recognition (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2001.09691)]
+
+* Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2004.00705)]
+
+* Fine-Grained Video-Text Retrieval With Hierarchical Graph Reasoning (CVPR 2020) 
+[[Paper](http://arxiv.org/abs/2003.00392)]
+
+* Stochastic Fine-grained Labeling of Multi-state Sign Glosses for Continuous Sign Language Recognition (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610171.pdf)]
+
+* Fine-Grained Motion Representation For Template-Free Visual Tracking (WACV 2020) 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Shuang_Fine-Grained_Motion_Representation_For_Template-Free_Visual_Tracking_WACV_2020_paper.pdf)]
+
+* WHENet: Real-time Fine-Grained Estimation for Wide Range Head Pose (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/assets/papers/0907.pdf)]
+
+* Yoga-82: A New Dataset for Fine-Grained Classification of Human Poses (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w70/Verma_Yoga-82_A_New_Dataset_for_Fine-Grained_Classification_of_Human_Poses_CVPRW_2020_paper.pdf)]
+
+* Fine-Grained Pointing Recognition for Natural Drone Guidance (CVPRw 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w70/Barbed_Fine-Grained_Pointing_Recognition_for_Natural_Drone_Guidance_CVPRW_2020_paper.pdf)]
+
+* Local Temporal Bilinear Pooling for Fine-Grained Action Parsing (CVPR 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Local_Temporal_Bilinear_Pooling_for_Fine-Grained_Action_Parsing_CVPR_2019_paper.pdf)]
+
+* Drive&Act: A Multi-Modal Dataset for Fine-Grained Driver Behavior Recognition in Autonomous Vehicles (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Martin_DriveAct_A_Multi-Modal_Dataset_for_Fine-Grained_Driver_Behavior_Recognition_in_ICCV_2019_paper.pdf)]
+
+* Fine-Grained Action Retrieval Through Multiple Parts-of-Speech Embeddings (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wray_Fine-Grained_Action_Retrieval_Through_Multiple_Parts-of-Speech_Embeddings_ICCV_2019_paper.pdf)]
+
+* Learning Motion in Feature Space: Locally-Consistent Deformable Convolution Networks for Fine-Grained Action Detection (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Mac_Learning_Motion_in_Feature_Space_Locally-Consistent_Deformable_Convolution_Networks_for_ICCV_2019_paper.pdf)]
+
+* ViSiL: Fine-Grained Spatio-Temporal Video Similarity Learning (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kordopatis-Zilos_ViSiL_Fine-Grained_Spatio-Temporal_Video_Similarity_Learning_ICCV_2019_paper.pdf)]
+
+* Fine-Grained Visual Dribbling Style Analysis for Soccer Videos With Augmented Dribble Energy Image (CVPRw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Li_Fine-Grained_Visual_Dribbling_Style_Analysis_for_Soccer_Videos_With_Augmented_CVPRW_2019_paper.pdf)]
+
+* Anticipation of Human Actions With Pose-Based Fine-Grained Representations (CVPRw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Agethen_Anticipation_of_Human_Actions_With_Pose-Based_Fine-Grained_Representations_CVPRW_2019_paper.pdf)]
+
+* Fine-Grained Video Captioning for Sports Narrative (CVPR 2018) 
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Fine-Grained_Video_Captioning_CVPR_2018_paper.pdf)]
+
+* Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion using Conditional Variational Autoencoders (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf)]
+
+* Fine-grained Video Categorization with Redundancy Reduction Attention (ECCV 2018) 
+[[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Chen_Zhu_Fine-grained_Video_Categorization_ECCV_2018_paper.pdf)]
+
+* Fine-Grained Head Pose Estimation Without Keypoints (CVPRw 2018) 
+[[Paper](http://arxiv.org/abs/1710.00925)]
+
+* Fine-Grained Activity Recognition in Baseball Videos (CVPRw 2018) 
+[[Paper](http://arxiv.org/abs/1804.03247)]

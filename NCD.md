@@ -63,9 +63,9 @@
 #### NeurIPS
 
 * Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category Discovery (NeurIPS 2023) 
-[[Paper](https://openreview.net/forum?id=m0vfXMrLwF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FConference%2FAuthors%23your-submissions)][[Code](https://github.com/SarahRastegar/InfoSieve)]<br>
+[[Paper](https://openreview.net/forum?id=m0vfXMrLwF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FConference%2FAuthors%23your-submissions))][[Code](https://github.com/SarahRastegar/InfoSieve)]<br>
 
-* Class-relation Knowledge Distillation for Novel Class Discovery (NeurIPS 2023) 
+* Towards Distribution-Agnostic Generalized Category Discovery (NeurIPS 2023) 
 [[Paper](https://arxiv.org/abs/2310.01376)][[Code](https://github.com/JianhongBai/BaCon)]<br>
 
 #### ICCV

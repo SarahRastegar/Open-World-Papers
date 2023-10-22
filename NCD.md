@@ -76,6 +76,15 @@
 *Datasets: CIFAR-10, CIFAR-100, and ImageNet-100, CUB-200, SCars, Herbarium19*<br>
 *Task: Image Classification*
 
+* Parametric Information Maximization for Generalized Category Discovery (ICCV 2023) 
+[[Paper](https://arxiv.org/abs/2212.00334)][[Code](https://github.com/ThalesGroup/pim-generalized-category-discovery)]
+
+* MetaGCD: Learning to Continually Learn in Generalized Category Discovery (ICCV 2023) 
+[[Paper](https://arxiv.org/abs/2308.11063)]
+
+* Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (ICCV 2023) 
+[[Paper](https://arxiv.org/abs/2307.10943)]
+
 #### ICML
 * When and How Does Known Class Help Discover Unknown Ones? Provable Understandings Through Spectral Analysis (ICML 2023) 
 [[Paper](https://openreview.net/pdf?id=JHodnaW5WZ)]
@@ -88,8 +97,12 @@
 [[Code](https://github.com/Lackel/DPN)]<br>
 *Datasets: BANKING, StackOverflow, CLINC*<br>
 *Task: Intent Classification*
-<!--#### TPAMI
-#### CVPRw-->
+<!--#### TPAMI-->
+
+#### CVPRw
+* ImbaGCD: Imbalanced Generalized Category Discovery (CVPRw 2023) 
+[[Paper](https://computer-vision-in-the-wild.github.io/cvpr-2023/static/cvpr2023/accepted_papers/16/CameraReady/ImbaGCD_CVPR_Workshop.pdf)]
+
 #### WACV
 * Scaling Novel Object Detection With Weakly Supervised Detection Transformers (WACV 2023) 
 [[Paper](http://arxiv.org/abs/2207.05205)]<br>
@@ -111,6 +124,10 @@
 
 * Supervised Knowledge May Hurt Novel Class Discovery Performance (TMLR 2023) 
 [[Paper](https://openreview.net/forum?id=oqOBTo5uWD&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))][[Code](https://github.com/J-L-O/SK-Hurt-NCD)]
+
+* Novel Class Discovery for Long-tailed Recognition (TMLR 2023) 
+[[Paper](https://arxiv.org/abs/2308.02989)]
+
 
 * An Interactive Interface for Novel Class Discovery in Tabular Data (ECML PKDD 2023, Demo Track 2023) 
 [[Paper](https://arxiv.org/pdf/2306.12919.pdf)][[Code](https://github.com/ColinTr/InteractiveClustering)]
@@ -172,6 +189,18 @@
 
 * Federated Generalized Category Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2305.14107v1)]
+
+* Reinforcement Learning Based Multi-modal Feature Fusion Network for Novel Class Discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2308.13801)]
+
+* Generalized Continual Category Discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2308.12112)]
+
+* OpenGCD: Assisting Open World Recognition with Generalized Category Discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2308.06926)][[Code](https://github.com/Fulin-Gao/OpenGCD)]
+
+* Novel Categories Discovery from probability matrix perspective (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2307.03856)]
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR

@@ -363,3 +363,131 @@
 [[Code](https://github.com/xh-liu/Open-Edit)]<br>
 *Datasets: BSDS500, Conceptual Captions*<br>
 *Task: Image Manipulation*
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+## Open Vocabulary Videos
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+### 2023 Papers
+#### CVPR
+
+* Open-Category Human-Object Interaction Pre-training via Language Modeling Framework (CVPR 2023) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.html)]
+
+* Being Comes from Not-being: Open-vocabulary Text-to-Motion Generation with Wordless Training (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2210.15929)]
+
+* OVTrack: Open-Vocabulary Multiple Object Tracking (CVPR 2023) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_OVTrack_Open-Vocabulary_Multiple_Object_Tracking_CVPR_2023_paper.html)]
+#### ICLR
+* The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition (ICLR 2023) 
+[[Paper](https://openreview.net/pdf?id=xLr0I_xYGAs)]<br>
+*Datasets: CIFAR100, LSUN, MiTv2, UCF101, HMDB51*<br>
+*Task: Image and Video Classification*
+<!--#### NeurIPS
+#### ICCV-->
+#### ICML
+
+* Open-VCLIP: Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization (ICML 2023) 
+[[Paper](https://arxiv.org/abs/2302.00624)]
+
+<!--#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw-->
+#### Arxiv & Others
+
+* Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2302.00624)]
+
+* TagCLIP: Improving Discrimination Ability of Open-Vocabulary Semantic Segmentation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.07547)]
+
+* MVP-SEG: Multi-View Prompt Learning for Open-Vocabulary Semantic Segmentation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.06957)]
+
+* Segment Everything Everywhere All at Once (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.06718)]
+
+* Towards Open-Vocabulary Video Instance Segmentation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.01715)]
+
+* CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.05653)]
+
+* Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.04704)]
+
+* V3Det: Vast Vocabulary Visual Detection Dataset (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.03752)]
+
+* Token Merging for Fast Stable Diffusion (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.17604)]
+
+* Going Beyond Nouns With Vision & Language Models Using Synthetic Data (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.17590)]
+
+* MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.16839)]
+
+* ZBS: Zero-shot Background Subtraction via Instance-level Background Modeling and Foreground Selection (CVPR 2023) 
+[[Paper](https://arxiv.org/abs/2303.14679)]
+
+* Prompt-Guided Transformers for End-to-End Open-Vocabulary Object Detection (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.14386)]
+
+* Three ways to improve feature alignment for open vocabulary detection (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.13518)]
+
+* Zero-guidance Segmentation Using Zero Segment Labels (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.13396)]
+
+* Open-Vocabulary Object Detection using Pseudo Caption Labels (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.13040)]
+
+* Uni-Fusion: Universal Continuous Mapping (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2303.12678)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2022 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw-->
+#### Arxiv & Others
+
+* Open-Vocabulary Temporal Action Detection with Off-the-Shelf Image-Text Features (Arxiv 2022) 
+[[Paper](https://arxiv.org/abs/2212.10596)]
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+<!--### 2021 Papers
+ #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+

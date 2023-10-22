@@ -465,3 +465,131 @@
 
 * Unseen Class Discovery in Open-world Classification (Arxiv 2018) 
 [[Paper](https://arxiv.org/abs/1801.05609)]
+
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+##  Novel Class Discovery Videos
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+
+### 2023 Papers
+#### CVPR
+
+* Open-Category Human-Object Interaction Pre-training via Language Modeling Framework (CVPR 2023) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_Open-Category_Human-Object_Interaction_Pre-Training_via_Language_Modeling_Framework_CVPR_2023_paper.html)]
+<!-- #### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+
+* AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise (CVPRw 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)]
+[[Code](https://github.com/Julian-Wyatt/AnoDDPM)]<br>
+*Datasets: MVTec AD*<br>
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw-->
+#### Arxiv & Others
+
+* NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2304.07354)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2022 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access-->
+#### ECCV
+* Text-based Temporal Localization of Novel Events (ECCV 2022) 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740552.pdf)]<br>
+*Datasets: Charades-STA Unseen, ActivityNet Captions Unseen*<br>
+*Task: Temporal Action Localization*
+
+* Discovering Objects That Can Move (ECCV 2022) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Bao_Discovering_Objects_That_Can_Move_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/zpbao/Discovery_Obj_Move)]<br>
+*Datasets: KITTI; CATER; TRI-PD*<br>
+*Task: Object Segmentation*
+<!--#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw
+#### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2021 Papers
+<!-- #### CVPR
+#### ICLR
+#### NeurIPS-->
+#### ICCV
+* Joint Representation Learning and Novel Category Discovery on Single- and Multi-Modal Data (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jia_Joint_Representation_Learning_and_Novel_Category_Discovery_on_Single-_and_ICCV_2021_paper.pdf)]<br>
+*Datasets: ImageNet; CIFAR-10/CIFAR-100; Kinetics-400; VGG-Sound*<br>
+*Task: Multimodal Data*
+
+* Learning To Better Segment Objects From Unseen Classes With Unlabeled Videos (ICCV 2021) 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Du_Learning_To_Better_Segment_Objects_From_Unseen_Classes_With_Unlabeled_ICCV_2021_paper.pdf)]
+[[Code](https://dulucas.github.io/gbopt)]<br>
+*Datasets: COCO -> Unseen-VIS; DAVIS*<br>
+*Task: Instance Segmentation*
+<!--#### ICML
+#### IEEE-Access
+#### ECCV
+#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV-->
+#### BMVC
+
+* Unsupervised Discovery of Actions in Instructional Videos (BMVC 2021) 
+[[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0773.pdf)]<br>
+*Datasets: 50-salads dataset, Narrated Instructional Videos (NIV) dataset, Breakfast dataset*<br>
+*Task: Action Discovery*
+
+<!--#### ICCw
+#### Arxiv & Others-->
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
+
+* Tracking the Known and the Unknown by Leveraging Semantic Information (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/1003.html)]
+[[Code](https://tracking.vision.ee.ethz.ch/track-known-unknown/)]<br>
+*Datasets: NFS, UAV123, LaSOT, TrackingNet, VOT2018*<br>
+*Task: Object Tracking*
+
+* DetectFusion: Detecting and Segmenting Both Known and Unknown Dynamic Objects in Real-time SLAM (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0499.html)]<br>
+*Datasets: TUM-RGB-D, MS COCO, PASCAL VOC*<br>
+*Task: Object Tracking and Segmentation*
+
+* Localizing Novel Attended Objects in Egocentric Views (BMVC 2020) 
+[[Paper](https://www.bmvc2020-conference.com/assets/papers/0014.pdf)]<br>
+*Datasets: GTEA Gaze+, Toy Room*<br>
+*Task: Novel Object Localization*
+
+* Video Face Clustering With Unknown Number of Clusters (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tapaswi_Video_Face_Clustering_With_Unknown_Number_of_Clusters_ICCV_2019_paper.pdf)]
+[[Code](https://github.com/makarandtapaswi/BallClustering_ICCV2019)]<br>
+*Datasets: MovieGraphs, The Big Bang Theory (BBT) and Buffy the Vampire Slayer (BUFFY)*<br>
+*Task: Face Clustering*
+
+* Incremental Class Discovery for Semantic Segmentation With RGBD Sensing (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Nakajima_Incremental_Class_Discovery_for_Semantic_Segmentation_With_RGBD_Sensing_ICCV_2019_paper.pdf)]<br>
+*Datasets: NYUDv2*<br>
+*Task: Semantic Segmentation*
+
+* Object Discovery in Videos as Foreground Motion Clustering (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Object_Discovery_in_Videos_as_Foreground_Motion_Clustering_CVPR_2019_paper.pdf)]<br>
+*Datasets: Flying Things 3d (FT3D), DAVIS2016, Freibug-Berkeley motion segmentation, Complex Background, and Camouflaged Animal*<br>
+*Task: Object Discovery*
+

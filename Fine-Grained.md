@@ -1,6 +1,5 @@
 ## Contents
 - [Fine-Grained](#Fine-Grained)
-     - [Surveys](#Surveys)
      - [2023 Papers](#2023-Papers)
      - [2022 Papers](#2022-Papers)
      - [2021 Papers](#2021-Papers)

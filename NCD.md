@@ -408,19 +408,11 @@
 [[Paper](https://ieeexplore.ieee.org/document/9409777)]<br>
 *Datasets: Coil20, Yeast, MSRA25, PalmData25, Abalone, USPS, Letter, MNIST*<br>
 *Task: Self-Supervised Clustering*
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
-### Older Papers
-
-* Learning to Discover Novel Visual Categories via Deep Transfer Clustering (ICCV 2019) 
-[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Learning_to_Discover_Novel_Visual_Categories_via_Deep_Transfer_Clustering_ICCV_2019_paper.pdf)][[Code](https://github.com/k-han/DTC)]<br>
-*Datasets: ImageNet, OmniGlot, CIFAR-100, CIFAR-10, and SVHN*<br>
-*Task: Image Classification*
-
-* Open-World Class Discovery with Kernel Networks (ICDM 2020) 
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338431)]
-[[Code](https://github.com/neu-spiral/OpenWorldKNet)]<br>
-*Datasets: MNIST; Fashion-MNIST; CIFAR-100; RF-50*<br>
-*Task: Image Classification*
+### 2020 Papers
+#### ICLR
 
 * Automatically Discovering and Learning New Visual Categories with Ranking Statistics (ICLR 2020) 
 [[Paper](https://arxiv.org/pdf/2002.05714v1.pdf)]
@@ -428,24 +420,61 @@
 *Datasets: CIFAR-10; CIFAR-100; SVHN*<br>
 *Task: Image Classification*
 
+#### ICML
+
+* The continuous categorical: a novel simplex-valued exponential family (ICML 2020) 
+[[Paper](https://arxiv.org/abs/2002.08563)]
+[[Code](https://github.com/cunningham-lab/cb_and_cc)]<br>
+*Datasets: Simulation, 2019 UK general election, MNIST*<br>
+*Task: Continuous Categorical Distribution*
+
+#### Arxiv & Others
+
+* Open-World Class Discovery with Kernel Networks (ICDM 2020) 
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338431)]
+[[Code](https://github.com/neu-spiral/OpenWorldKNet)]<br>
+*Datasets: MNIST; Fashion-MNIST; CIFAR-100; RF-50*<br>
+*Task: Image Classification*
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2019 Papers
+#### ICLR
+
+
 * Multi-class classification without multi-class labels (ICLR 2019) 
 [[Paper](https://openreview.net/forum?id=SJzR2iRcK7)]
 [[Code](https://github.com/GT-RIPL/L2C)]<br>
 *Datasets: CIFAR-10, CIFAR-100, ImageNet, MNIST*<br>
 *Task: Image Classification*
 
+#### ICCV
+
+* Learning to Discover Novel Visual Categories via Deep Transfer Clustering (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Learning_to_Discover_Novel_Visual_Categories_via_Deep_Transfer_Clustering_ICCV_2019_paper.pdf)][[Code](https://github.com/k-han/DTC)]<br>
+*Datasets: ImageNet, OmniGlot, CIFAR-100, CIFAR-10, and SVHN*<br>
+*Task: Image Classification*
+
+* ShapeMask: Learning to Segment Novel Objects by Refining Shape Priors (ICCV 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kuo_ShapeMask_Learning_to_Segment_Novel_Objects_by_Refining_Shape_Priors_ICCV_2019_paper.pdf)]
+[[Code](https://sites.google.com/view/shapemask/home)]<br>
+*Datasets: PASCAL VOC, COCO*<br>
+*Task: Instance Segmentation*
+
+#### ICCVw
+
+* Adversarial Joint-Distribution Learning for Novel Class Sketch-Based Image Retrieval (ICCVw 2019) 
+[[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/MDALC/Pandey_Adversarial_Joint-Distribution_Learning_for_Novel_Class_Sketch-Based_Image_Retrieval_ICCVW_2019_paper.pdf)]
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2018 Papers
+#### ICLR
 * Learning to cluster in order to transfer across domains and tasks (ICLR 2018) 
 [[Paper](https://openreview.net/pdf?id=ByRWCqvT-)]
 [[Code](https://github.com/GT-RIPL/L2C)]<br>
 *Datasets: Omniglot, Office-31, SVHN-TO-MNIST*<br>
 *Task: Cross-domain Transfer Learning, Clustering*
 
-* Neural network-based clustering using pairwise constraints (ICLRw 2016) 
-[[Paper](https://arxiv.org/abs/1511.06321v5)]
-[[Code](https://github.com/GT-RIPL/L2C)]<br>
-*Datasets: MNIST, CIFAR10*<br>
-*Task: Image Classification, Clustering*
-
+#### NeurIPS
 * Learning to Reconstruct Shapes from Unseen Classes (NeurIPS 2018) 
 [[Paper](https://papers.nips.cc/paper/2018/hash/208e43f0e45c4c78cafadb83d2888cb6-Abstract.html)]
 [[Code](http://genre.csail.mit.edu/)]<br>
@@ -457,28 +486,21 @@
 [[Code](https://github.com/WuChenshen/MeRGAN)]<br>
 *Datasets: MNIST, SVHN and LSUN*<br>
 *Task: Image Generation*
-
-* The continuous categorical: a novel simplex-valued exponential family (ICML 2020) 
-[[Paper](https://arxiv.org/abs/2002.08563)]
-[[Code](https://github.com/cunningham-lab/cb_and_cc)]<br>
-*Datasets: Simulation, 2019 UK general election, MNIST*<br>
-*Task: Continuous Categorical Distribution*
-
-* ShapeMask: Learning to Segment Novel Objects by Refining Shape Priors (ICCV 2019) 
-[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kuo_ShapeMask_Learning_to_Segment_Novel_Objects_by_Refining_Shape_Priors_ICCV_2019_paper.pdf)]
-[[Code](https://sites.google.com/view/shapemask/home)]<br>
-*Datasets: PASCAL VOC, COCO*<br>
-*Task: Instance Segmentation*
-
+#### CVPRw
 * A probabilistic constrained clustering for transfer learning and image category discovery (CVPRw 2018) 
 [[Paper](https://arxiv.org/abs/1806.11078)]
-
-* Adversarial Joint-Distribution Learning for Novel Class Sketch-Based Image Retrieval (ICCVw 2019) 
-[[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/MDALC/Pandey_Adversarial_Joint-Distribution_Learning_for_Novel_Class_Sketch-Based_Image_Retrieval_ICCVW_2019_paper.pdf)]
+#### Arxiv & Others
 
 * Unseen Class Discovery in Open-world Classification (Arxiv 2018) 
 [[Paper](https://arxiv.org/abs/1801.05609)]
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
 
+* Neural network-based clustering using pairwise constraints (ICLRw 2016) 
+[[Paper](https://arxiv.org/abs/1511.06321v5)]
+[[Code](https://github.com/GT-RIPL/L2C)]<br>
+*Datasets: MNIST, CIFAR10*<br>
+*Task: Image Classification, Clustering*
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ##  Novel Class Discovery Videos

@@ -4,14 +4,10 @@
      - [2023 Papers](#2023-Papers)
      - [2022 Papers](#2022-Papers)
      - [2021 Papers](#2021-Papers)
-     - [2020 Papers](#2020-Papers)
-     - [2019 Papers](#2019-Papers)
-     - [2018 Papers](#2018-Papers)
      - [Older Papers](#Older-Papers)
 - [Open Vocabulary-Videos](#Open-Vocabulary-Videos)
      - [2023 Papers](#2023-Papers)
      - [2022 Papers](#2022-Papers)
-     - [2021 Papers](#2021-Papers)
      - [Older Papers](#Older-Papers)
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->

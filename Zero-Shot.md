@@ -309,44 +309,31 @@
 
 <!--#### ICCw
 #### Arxiv & Others-->
-### Older Papers
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2020 Papers
+#### CVPR
 
-* Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning (NeurIPS 2018) 
-[[Paper](https://papers.nips.cc/paper/2018/hash/9087b0efc7c7acd1ef7e153678809c77-Abstract.html)]<br>
-*Datasets: CUB and NABird*<br>
+* Discovering Human Interactions With Novel Objects via Zero-Shot Learning (CVPR 2020) 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Discovering_Human_Interactions_With_Novel_Objects_via_Zero-Shot_Learning_CVPR_2020_paper.pdf)]
+[[Code](https://github.com/scwangdyd/zero_shot_hoi)]<br>
+*Datasets: V-COCO, HICO-DET*<br>
+*Task: Human Object Interaction*
+
+#### ICLR
+
+* Locality and Compositionality in Zero-Shot Learning (ICLR 2020) 
+[[Paper](https://openreview.net/forum?id=Hye_V0NKwr)]<br>
+*Datasets: AwA2, CUB-200-2011*<br>
 *Task: Image Classification*
 
-* MSplit LBI: Realizing Feature Selection and Dense Estimation Simultaneously in Few-shot and Zero-shot Learning (ICML 2018) 
-[[Paper](http://proceedings.mlr.press/v80/zhao18c.html)]<br>
-*Datasets: Animals with Attributes (AwA), Caltech-UCSD Birds-200-2011 (CUB) and ImageNet 2012/2010*<br>
-*Task: Image Classification*
+* Learning to Group: A Bottom-Up Framework for 3D Part Discovery in Unseen Categories (ICLR 2020) 
+[[Paper](https://openreview.net/forum?id=rkl8dlHYvB)]
+[[Code](https://github.com/tiangeluo/Learning-to-Group)]<br>
+*Datasets: PartNet*<br>
+*Task: 3D Part Discovery*
 
-* A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning (ECCV 2020) 
-[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf)]<br>
-*Datasets: AWA1, AWA2, CUB, FLO and SUN*<br>
-*Task: Out-of-Distribution Image Classification*
 
-* Towards Recognizing Unseen Categories in Unseen Domains (ECCV 2020) 
-[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680460.pdf)]
-[[Code](https://github.com/mancinimassimiliano/CuMix)]<br>
-*Datasets: AWA, CUB, FLO and SUN, PACS*<br>
-*Task: Out-of-Distribution Image Classification*
-
-* Zero-Shot Visual Imitation (ICLR 2018 Oral) 
-[[Paper](https://openreview.net/forum?id=BkisuzWRW)]
-[[Code](https://github.com/pathak22/zeroshot-imitation)]<br>
-*Datasets: Rope manipulation using Baxter robot, Navigation of a wheeled robot in cluttered office environments, Simulated 3D navigation*<br>
-*Task: Imitation Learning*
-
-* Generalized Zero-shot Learning using Open Set Recognition (BMVC 2019) 
-[[Paper](https://bmvc2019.org/wp-content/papers/0035.html)]<br>
-*Datasets: AWA1, APY, FLO, and CUB*<br>
-*Task: Image Classification*
-
-* Image Captioning with Unseen Objects (BMVC 2019) 
-[[Paper](https://bmvc2019.org/wp-content/papers/0124.html)]<br>
-*Datasets: COCO*<br>
-*Task: Image Captioning*
+#### ICML
 
 * Safe Deep Semi-Supervised Learning for Unseen-Class Unlabeled Data (ICML 2020) 
 [[Paper](https://proceedings.mlr.press/v119/guo20i.html)]
@@ -365,22 +352,47 @@
 *Datasets: “lever game”,  Hanabi with AI Agents*<br>
 *Task: Zero-Shot Coordination*
 
-* Discovering Human Interactions With Novel Objects via Zero-Shot Learning (CVPR 2020) 
-[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Discovering_Human_Interactions_With_Novel_Objects_via_Zero-Shot_Learning_CVPR_2020_paper.pdf)]
-[[Code](https://github.com/scwangdyd/zero_shot_hoi)]<br>
-*Datasets: V-COCO, HICO-DET*<br>
-*Task: Human Object Interaction*
+#### ECCV
 
-* Locality and Compositionality in Zero-Shot Learning (ICLR 2020) 
-[[Paper](https://openreview.net/forum?id=Hye_V0NKwr)]<br>
-*Datasets: AwA2, CUB-200-2011*<br>
+* A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf)]<br>
+*Datasets: AWA1, AWA2, CUB, FLO and SUN*<br>
+*Task: Out-of-Distribution Image Classification*
+
+* Towards Recognizing Unseen Categories in Unseen Domains (ECCV 2020) 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680460.pdf)]
+[[Code](https://github.com/mancinimassimiliano/CuMix)]<br>
+*Datasets: AWA, CUB, FLO and SUN, PACS*<br>
+*Task: Out-of-Distribution Image Classification*
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+### Older Papers
+
+* Generalized Zero-shot Learning using Open Set Recognition (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0035.html)]<br>
+*Datasets: AWA1, APY, FLO, and CUB*<br>
 *Task: Image Classification*
 
-* Learning to Group: A Bottom-Up Framework for 3D Part Discovery in Unseen Categories (ICLR 2020) 
-[[Paper](https://openreview.net/forum?id=rkl8dlHYvB)]
-[[Code](https://github.com/tiangeluo/Learning-to-Group)]<br>
-*Datasets: PartNet*<br>
-*Task: 3D Part Discovery*
+* Image Captioning with Unseen Objects (BMVC 2019) 
+[[Paper](https://bmvc2019.org/wp-content/papers/0124.html)]<br>
+*Datasets: COCO*<br>
+*Task: Image Captioning*
+
+* Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning (NeurIPS 2018) 
+[[Paper](https://papers.nips.cc/paper/2018/hash/9087b0efc7c7acd1ef7e153678809c77-Abstract.html)]<br>
+*Datasets: CUB and NABird*<br>
+*Task: Image Classification*
+
+* MSplit LBI: Realizing Feature Selection and Dense Estimation Simultaneously in Few-shot and Zero-shot Learning (ICML 2018) 
+[[Paper](http://proceedings.mlr.press/v80/zhao18c.html)]<br>
+*Datasets: Animals with Attributes (AwA), Caltech-UCSD Birds-200-2011 (CUB) and ImageNet 2012/2010*<br>
+*Task: Image Classification*
+
+
+* Zero-Shot Visual Imitation (ICLR 2018 Oral) 
+[[Paper](https://openreview.net/forum?id=BkisuzWRW)]
+[[Code](https://github.com/pathak22/zeroshot-imitation)]<br>
+*Datasets: Rope manipulation using Baxter robot, Navigation of a wheeled robot in cluttered office environments, Simulated 3D navigation*<br>
+*Task: Imitation Learning*
 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
@@ -513,6 +525,8 @@
 
 <!--#### ICCw
 #### Arxiv & Others-->
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### Older Papers
 

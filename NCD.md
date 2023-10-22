@@ -59,8 +59,15 @@
 *Task: Image Classification*
 
 
-<!--#### ICLR
-#### NeurIPS-->
+<!--#### ICLR-->
+#### NeurIPS
+
+* Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category Discovery (NeurIPS 2023) 
+[[Paper](https://openreview.net/forum?id=m0vfXMrLwF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FConference%2FAuthors%23your-submissions)][[Code](https://github.com/SarahRastegar/InfoSieve)]<br>
+
+* Class-relation Knowledge Distillation for Novel Class Discovery (NeurIPS 2023) 
+[[Paper](https://arxiv.org/abs/2310.01376)][[Code](https://github.com/JianhongBai/BaCon)]<br>
+
 #### ICCV
 * Class-relation Knowledge Distillation for Novel Class Discovery (ICCV 2023) 
 [[Paper](https://arxiv.org/abs/2307.09158)][[Code](https://github.com/kleinzcy/Cr-KD-NCD)]<br>

@@ -68,6 +68,16 @@
 * Towards Distribution-Agnostic Generalized Category Discovery (NeurIPS 2023) 
 [[Paper](https://arxiv.org/abs/2310.01376)][[Code](https://github.com/JianhongBai/BaCon)]<br>
 
+* Improving Category Discovery When No Representation Rules Them All (NeurIPS 2023) 
+[[Paper](https://neurips.cc/virtual/2023/poster/72779)][[Code]]
+
+* Decompose Novel into Known: Part Concept Learning For 3D Novel Class Discovery (NeurIPS 2023) 
+[[Paper](https://neurips.cc/virtual/2023/poster/71503)][[Code]]
+
+* Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions (NeurIPS 2023) 
+[[Paper](https://neurips.cc/virtual/2023/poster/71624)][[Code]]
+
+
 #### ICCV
 * Class-relation Knowledge Distillation for Novel Class Discovery (ICCV 2023) 
 [[Paper](https://arxiv.org/abs/2307.09158)][[Code](https://github.com/kleinzcy/Cr-KD-NCD)]<br>

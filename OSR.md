@@ -1,6 +1,7 @@
 ## Contents
 - [Open-Set Recognition](#Open-Set-Recognition)
      - [Surveys](#Surveys)
+     - [2023 Papers](#2023-Papers)
 - [Open-Set Recognition Videos](#Open-Set-Recognition-Videos)
 
 

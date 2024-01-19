@@ -266,6 +266,8 @@
 * Novel Categories Discovery from probability matrix perspective (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2307.03856)]
 
+* Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2309.11930)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers

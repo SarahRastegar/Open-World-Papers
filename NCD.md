@@ -1,6 +1,7 @@
 ## Contents
 - [Novel Class Discovery](#Novel-Class-Discovery)
      - [Surveys](#Surveys)
+     - [2024 Papers](#2024-Papers)
      - [2023 Papers](#2023-Papers)
      - [2022 Papers](#2022-Papers)
      - [2021 Papers](#2021-Papers)
@@ -24,8 +25,8 @@
 [[Paper](https://arxiv.org/abs/2302.03648)]
 
 ### 2024 Papers
-<!--#### CVPR-->
-#### ICLR
+<!--#### CVPR
+#### ICLR-->
 <!--#### NeurIPS
 #### ICML
 #### ICCV
@@ -229,6 +230,8 @@
 * Generalized Category Discovery with Large Language Models in the Loop (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2312.10897)]
 
+* Novel class discovery meets foundation models for 3D semantic segmentation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2312.03782)]
 
 
 * CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery (Arxiv 2023) 

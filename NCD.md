@@ -97,6 +97,8 @@
 * Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions (NeurIPS 2023) 
 [[Paper](https://neurips.cc/virtual/2023/poster/71624)][[Code]]
 
+* A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning (NeurIPS 2023) 
+[[Paper](https://arxiv.org/abs/2311.03524)][[Code](https://github.com/deeplearning-wisc/sorl)]
 
 #### ICCV
 * Class-relation Knowledge Distillation for Novel Class Discovery (ICCV 2023) 

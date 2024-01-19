@@ -153,7 +153,7 @@
 
 * Generalized Categories Discovery for Long-tailed Recognition (ICCVw 2023) 
 [[Paper](https://arxiv.org/abs/2401.05352)]
-#### WACVw-->
+<!--#### WACVw-->
 
 
 #### Other Journals and Conferences
@@ -233,6 +233,11 @@
 * Novel class discovery meets foundation models for 3D semantic segmentation (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2312.03782)]
 
+* A Practical Approach to Novel Class Discovery in Tabular Data (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2311.05440)]
+
+* Towards Novel Class Discovery: A Study in Novel Skin Lesions Clustering (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2309.16451)]
 
 * CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2304.06928)]

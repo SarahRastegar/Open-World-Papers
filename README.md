@@ -18,7 +18,7 @@ Since some papers belong to multiple categories, I put them in all related categ
 - [Zero-Shot Learning](#Zero-Shot-Learning)  
 - [Out-of-Distribution Detection](#Out-of-Distribution-Detection) 
 - [Open-Set Recognition](#Open-Set-Recognition)
-- [Novel Class Discovery](#Novel-Class-Discovery)
+- [Novel Class Discovery](#NCD.md)
 - [Open Vocabulary](#Open-Vocabulary)
 - [Fine Grained](#Fine-Grained)
 - [Long Tail](#Long-Tail)

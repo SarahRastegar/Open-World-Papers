@@ -23,6 +23,25 @@
 * Deep Class-Incremental Learning: A Survey (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2302.03648)]
 
+### 2024 Papers
+<!--#### CVPR-->
+#### ICLR
+<!--#### NeurIPS
+#### ICML
+#### ICCV
+#### IEEE-Access
+#### ECCV-->
+#### AAAI
+
+* Transfer and Alignment Network for Generalized Category Discovery (AAAI 2024) 
+[[Paper](https://arxiv.org/abs/2312.16467)]
+<!--#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC-->
+
+
 
 ### 2023 Papers
 #### CVPR
@@ -68,7 +87,7 @@
 * Towards Distribution-Agnostic Generalized Category Discovery (NeurIPS 2023) 
 [[Paper](https://arxiv.org/abs/2310.01376)][[Code](https://github.com/JianhongBai/BaCon)]<br>
 
-* Improving Category Discovery When No Representation Rules Them All (NeurIPS 2023) 
+* No Representation Rules Them All in Category Discovery (NeurIPS 2023) 
 [[Paper](https://neurips.cc/virtual/2023/poster/72779)][[Code]]
 
 * Decompose Novel into Known: Part Concept Learning For 3D Novel Class Discovery (NeurIPS 2023) 
@@ -114,6 +133,8 @@
 [[Code](https://github.com/Lackel/DPN)]<br>
 *Datasets: BANKING, StackOverflow, CLINC*<br>
 *Task: Intent Classification*
+
+
 <!--#### TPAMI-->
 
 #### CVPRw
@@ -126,8 +147,11 @@
 *Datasets: Few-Shot  Object  Detection (FSOD), FGVC-Aircraft, iNaturalist  2017, PASCAL VOC 2007*<br>
 *Task: Object Detection*
 <!--#### IJCV
-#### BMVC
-#### ICCw
+#### BMVC-->
+#### ICCVw
+
+* Generalized Categories Discovery for Long-tailed Recognition (ICCVw 2023) 
+[[Paper](https://arxiv.org/abs/2401.05352)]
 #### WACVw-->
 
 
@@ -148,6 +172,13 @@
 
 * An Interactive Interface for Novel Class Discovery in Tabular Data (ECML PKDD 2023, Demo Track 2023) 
 [[Paper](https://arxiv.org/pdf/2306.12919.pdf)][[Code](https://github.com/ColinTr/InteractiveClustering)]
+
+* DNA: Denoised Neighborhood Aggregation for Fine-grained Category Discovery (EMNLP 2023) 
+[[Paper](https://arxiv.org/abs/2310.10151)]
+
+* Generalized Category Discovery with Clustering Assignment Consistency (ICONIP 2023,This paper has been nominated for ICONIP2023 Best Paper Award) 
+[[Paper](https://arxiv.org/abs/2310.19210)]
+
 
 #### Arxiv & Others
 
@@ -192,6 +223,14 @@
 *Datasets: BANKING, StackOverflow, CLINC*<br>
 *Task: Intent Classification*
 
+* Generalized Category Discovery in Semantic Segmentation (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2311.11525)]
+
+* Generalized Category Discovery with Large Language Models in the Loop (Arxiv 2023) 
+[[Paper](https://arxiv.org/abs/2312.10897)]
+
+
+
 * CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2304.06928)]
 
@@ -218,6 +257,8 @@
 
 * Novel Categories Discovery from probability matrix perspective (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2307.03856)]
+
+
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers
 #### CVPR

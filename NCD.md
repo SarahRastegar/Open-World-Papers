@@ -49,6 +49,9 @@
 [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Banerjee_AMEND_Adaptive_Margin_and_Expanded_Neighborhood_for_Efficient_Generalized_Category_WACV_2024_paper.pdf)]
 <!--#### IJCV
 #### BMVC-->
+#### Arxiv & Others
+* Learning from Semi-Factuals: A Debiased and Semantic-Aware Framework for Generalized Relation Discovery (Arxiv 2024)
+[[Paper](https://arxiv.org/abs/2401.06327)]
 
 
 
@@ -278,6 +281,9 @@
 
 * Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2309.11930)]
+
+* Federated Continual Novel Class Learning (Arxiv 2023)
+[[Paper](https://arxiv.org/abs/2312.13500)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers

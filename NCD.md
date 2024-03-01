@@ -25,8 +25,11 @@
 [[Paper](https://arxiv.org/abs/2302.03648)]
 
 ### 2024 Papers
-<!--#### CVPR
-#### ICLR-->
+<!--#### CVPR-->
+#### ICLR
+* SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (ICLR 2024)
+[[Paper](https://openreview.net/forum?id=3QLkwU40EE)]
+
 <!--#### NeurIPS
 #### ICML
 #### ICCV

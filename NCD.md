@@ -29,8 +29,17 @@
 * Active Generalized Category Discovery (CVPR 2024)
 [[Paper](https://arxiv.org/abs/2403.04272)]
 
+* Seeing Unseen: Discover Novel Biomedical Concepts via Geometry-Constrained Probabilistic Modeling (CVPR 2024)
+[[Paper](https://arxiv.org/abs/2403.01053)]
+
+* Federated Generalized Category Discovery (CVPR 2024)
+[[Paper](https://arxiv.org/abs/2305.14107)]
+
 
 #### ICLR
+* Democratizing Fine-grained Visual Recognition with Large Language Models (ICLR 2024)
+[[Paper](https://openreview.net/forum?id=c7DND1iIgb)]
+
 * SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (ICLR 2024)
 [[Paper](https://openreview.net/forum?id=3QLkwU40EE)]
 
@@ -40,6 +49,11 @@
 #### IEEE-Access
 #### ECCV-->
 #### AAAI
+* A Unified Knowledge Transfer Network for Generalized Category Discovery (AAAI 2024) 
+[[Paper](https://arxiv.org/abs/2312.16467)]
+
+* Debiased Novel Category Discovering and Localization (AAAI 2024) 
+[[Paper](https://arxiv.org/abs/2402.18821)]
 
 * Transfer and Alignment Network for Generalized Category Discovery (AAAI 2024) 
 [[Paper](https://arxiv.org/abs/2312.16467)]
@@ -115,6 +129,9 @@
 * A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning (NeurIPS 2023) 
 [[Paper](https://arxiv.org/abs/2311.03524)][[Code](https://github.com/deeplearning-wisc/sorl)]
 
+* Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning (NeurIPS 2023) 
+[[Paper](https://openreview.net/forum?id=zrLxHYvIFL)][[Code](https://github.com/rain305f/TIDA)]
+
 #### ICCV
 * Class-relation Knowledge Distillation for Novel Class Discovery (ICCV 2023) 
 [[Paper](https://arxiv.org/abs/2307.09158)][[Code](https://github.com/kleinzcy/Cr-KD-NCD)]<br>
@@ -175,6 +192,12 @@
 
 #### Other Journals and Conferences
 
+* Generalized Category Discovery with Clustering Assignment Consistency (ICONIP 2023) 
+[[Paper](https://arxiv.org/abs/2309.16451)]
+
+* Towards Novel Class Discovery: A Study in Novel Skin Lesions Clustering (MICCAI 2023) 
+[[Paper](https://arxiv.org/abs/2309.16451)]
+
 * Open-world Semi-supervised Novel Class Discovery (IJCAI 2023) 
 [[Paper](https://arxiv.org/abs/2305.13095)][[Code](https://github.com/LiuJMzzZ/OpenNCD)]
 
@@ -192,7 +215,10 @@
 [[Paper](https://arxiv.org/pdf/2306.12919.pdf)][[Code](https://github.com/ColinTr/InteractiveClustering)]
 
 * DNA: Denoised Neighborhood Aggregation for Fine-grained Category Discovery (EMNLP 2023) 
-[[Paper](https://arxiv.org/abs/2310.10151)]
+[[Paper](https://arxiv.org/abs/2310.10151)][[Code](https://github.com/wphogan/knord)]
+
+* Open-world Semi-supervised Generalized Relation Discovery Aligned in a Real-world Setting (EMNLP 2023) 
+[[Paper](https://arxiv.org/abs/2305.13533)]
 
 * Generalized Category Discovery with Clustering Assignment Consistency (ICONIP 2023,This paper has been nominated for ICONIP2023 Best Paper Award) 
 [[Paper](https://arxiv.org/abs/2310.19210)]

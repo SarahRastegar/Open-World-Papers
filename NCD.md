@@ -25,7 +25,11 @@
 [[Paper](https://arxiv.org/abs/2302.03648)]
 
 ### 2024 Papers
-<!--#### CVPR-->
+#### CVPR
+* Active Generalized Category Discovery (CVPR 2024)
+[[Paper](https://arxiv.org/abs/2403.04272)]
+
+
 #### ICLR
 * SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (ICLR 2024)
 [[Paper](https://openreview.net/forum?id=3QLkwU40EE)]

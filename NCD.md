@@ -18,6 +18,9 @@
 ## Novel Class Discovery
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### Surveys
+* Open-world Machine Learning: A Review and New Outlooks (Arxiv 2024) 
+[[Paper](https://arxiv.org/abs/2305.00771)]
+
 * Novel Class Discovery: an Introduction and Key Concepts (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2302.12028)]
 
@@ -73,6 +76,11 @@
 
 * Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery (Arxiv 2024)
 [[Paper](https://arxiv.org/abs/2403.07369)]
+
+* PANDAS: Prototype-based Novel Class Discovery and Detection (Arxiv 2024)
+[[Paper](https://arxiv.org/abs/2402.17420)][[Code](https://github.com/naver/pandas)]
+
+
 
 ### 2023 Papers
 #### CVPR
@@ -315,6 +323,9 @@
 
 * Federated Continual Novel Class Learning (Arxiv 2023)
 [[Paper](https://arxiv.org/abs/2312.13500)]
+
+* Towards Unbiased Training in Federated Open-world Semi-supervised Learning (Arxiv 2023)
+[[Paper](https://arxiv.org/abs/2305.00771)]
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ### 2022 Papers

@@ -71,7 +71,8 @@
 * Learning from Semi-Factuals: A Debiased and Semantic-Aware Framework for Generalized Relation Discovery (Arxiv 2024)
 [[Paper](https://arxiv.org/abs/2401.06327)]
 
-
+* Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery (Arxiv 2024)
+[[Paper](https://arxiv.org/abs/2403.07369)]
 
 ### 2023 Papers
 #### CVPR

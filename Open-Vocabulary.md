@@ -12,6 +12,55 @@
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
 ## Open Vocabulary
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
+### 2024 Papers
+#### CVPR
+* Open-Vocabulary Segmentation with Semantic-Assisted Calibration (CVPR 2024) 
+[[Paper](https://arxiv.org/abs/2312.04089)]
+
+* VideoGrounding-DINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wasim_VideoGrounding-DINO_Towards_Open-Vocabulary_Spatio-Temporal_Video_Grounding_CVPR_2024_paper.pdf)]
+
+* Open-Vocabulary Segmentation with Semantic-Assisted Calibration (CVPR 2024) 
+[[Paper](https://arxiv.org/abs/2312.04089)]
+
+* Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2402.12259)]
+
+* Exploring Region-Word Alignment in Built-in Detector for Open-Vocabulary Object Detection (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_Region-Word_Alignment_in_Built-in_Detector_for_Open-Vocabulary_Object_Detection_CVPR_2024_paper.pdf)]
+
+* Open Vocabulary Semantic Scene Sketch Understanding (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2312.12463)]
+
+* USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2406.05271)]
+
+* Emergent Open-Vocabulary Semantic Segmentation from Off-the-shelf Vision-Language Models (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2311.17095)]
+
+* SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2405.10053)]
+
+* SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2311.15537)]
+
+* Open-Vocabulary 3D Semantic Segmentation with Foundation Models (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_Open-Vocabulary_3D_Semantic_Segmentation_with_Foundation_Models_CVPR_2024_paper.pdf)]
+
+* OVER-NAV: Elevating Iterative Vision-and-Language Navigation with Open-Vocabulary Detection and StructurEd Representation (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_OVER-NAV_Elevating_Iterative_Vision-and-Language_Navigation_with_Open-Vocabulary_Detection_and_StructurEd_CVPR_2024_paper.pdf)]
+
+* DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2404.09216)]
+
+* MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2401.07745)]
+
+* Open-Vocabulary Video Anomaly Detection (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2311.07042)]
+
+* CLIP-Driven Open-Vocabulary 3D Scene Graph Generation via Cross-Modality Contrastive Learning (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_CLIP-Driven_Open-Vocabulary_3D_Scene_Graph_Generation_via_Cross-Modality_Contrastive_Learning_CVPR_2024_paper.pdf)]
 
 ### 2023 Papers
 #### CVPR

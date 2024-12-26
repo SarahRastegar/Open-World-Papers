@@ -1,6 +1,7 @@
 ## Contents
 - [Open Vocabulary](#Open-Vocabulary)
      - [Surveys](#Surveys)
+     - [2024 Papers](#2023-Papers)
      - [2023 Papers](#2023-Papers)
      - [2022 Papers](#2022-Papers)
      - [2021 Papers](#2021-Papers)
@@ -61,6 +62,82 @@
 
 * CLIP-Driven Open-Vocabulary 3D Scene Graph Generation via Cross-Modality Contrastive Learning (CVPR 2024) 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_CLIP-Driven_Open-Vocabulary_3D_Scene_Graph_Generation_via_Cross-Modality_Contrastive_Learning_CVPR_2024_paper.pdf)]
+
+* OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2312.08985)]
+
+* OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2405.05259)]
+
+* OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2404.01409)]
+
+* GOV-NeSF: Generalizable Open-Vocabulary Neural Semantic Fields (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_GOV-NeSF_Generalizable_Open-Vocabulary_Neural_Semantic_Fields_CVPR_2024_paper.pdf)]
+
+* Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Marcos-Manchon_Open-Vocabulary_Attention_Maps_with_Token_Optimization_for_Semantic_Segmentation_in_CVPR_2024_paper.pdf)]
+
+* The Devil is in the Fine-Grained Details: Evaluating Open-Vocabulary Object Detectors for Fine-Grained Understanding (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2311.17518)]
+
+* Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2311.17938)]
+
+* Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2311.15383)]
+
+* CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_CAT-Seg_Cost_Aggregation_for_Open-Vocabulary_Semantic_Segmentation_CVPR_2024_paper.pdf)]
+
+* Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2404.00262)]
+
+* Open3DIS: Open-Vocabulary 3D Instance Segmentation with 2D Mask Guidance (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2312.10671)] (CVPR 2024)
+
+* Open-Vocabulary Semantic Segmentation with Image Embedding Balancing (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2406.09829)] (CVPR 2024)
+
+* Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2406.00510)] (CVPR 2024)
+
+* AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2403.12835)] (CVPR 2024)
+
+* Scene-adaptive and Region-aware Multi-modal Prompt for Open Vocabulary Object Detection (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Scene-adaptive_and_Region-aware_Multi-modal_Prompt_for_Open_Vocabulary_Object_Detection_CVPR_2024_paper.pdf)] (CVPR 2024) 
+
+
+* Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2404.06542)] (CVPR 2024)
+
+* YOLO-World: Real-Time Open-Vocabulary Object Detection (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_YOLO-World_Real-Time_Open-Vocabulary_Object_Detection_CVPR_2024_paper.pdf)] (CVPR 2024)
+
+* Open-Vocabulary Object 6D Pose Estimation (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Corsetti_Open-Vocabulary_Object_6D_Pose_Estimation_CVPR_2024_paper.pdf)]
+
+* Taming Self-Training for Open-Vocabulary Object Detection (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2308.06412)]
+
+* OVMR: Open-Vocabulary Recognition with Multi-Modal References (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2406.04675)]
+
+* Retrieval-Augmented Open-Vocabulary Object Detection (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2404.05687)]
+
+* Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2311.18482)]
+
+* Transferable and Principled Efficiency for Open-Vocabulary Segmentation (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2404.07448)]
+
+* From Pixels to Graphs: Open-Vocabulary Scene Graph Generation with Vision-Language Models (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2404.00906)]
+
+* Exploring the Potential of Large Foundation Models for Open-Vocabulary HOI Detection (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2404.06194)]
 
 ### 2023 Papers
 #### CVPR

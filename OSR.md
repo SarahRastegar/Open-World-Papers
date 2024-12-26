@@ -1,6 +1,7 @@
 ## Contents
 - [Open-Set Recognition](#Open-Set-Recognition)
      - [Surveys](#Surveys)
+     - [2024 Papers](#2024-Papers)
      - [2023 Papers](#2023-Papers)
      - [2022 Papers](#2022-Papers)
      - [2021 Papers](#2021-Papers)
@@ -49,6 +50,103 @@
 
 * Completeness, Recall, and Negation in Open-World Knowledge Bases: A Survey (Arxiv 2023) 
 [[Paper](https://arxiv.org/abs/2305.05403)]
+
+### 2024 Papers
+#### CVPR
+
+* Open-Set Domain Adaptation for Semantic Segmentation (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2405.19899)]
+
+* Programmable Motion Generation for Open-Set Motion Control Tasks (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2405.19283)]
+
+* CommonCanvas: Open Diffusion Models Trained on Creative-Commons Images (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Gokaslan_CommonCanvas_Open_Diffusion_Models_Trained_on_Creative-Commons_Images_CVPR_2024_paper.pdf)]
+
+* Unified Entropy Optimization for Open-Set Test-Time Adaptation (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2404.06065)]
+
+* Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2402.17723)]
+
+* AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2406.00480)]
+
+* SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_SOK-Bench_A_Situated_Video_Reasoning_Benchmark_with_Aligned_Open-World_Knowledge_CVPR_2024_paper.pdf)]
+
+* Hyperbolic Learning with Synthetic Captions for Open-World Detection (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2404.05016)]
+
+* Open-World Semantic Segmentation Including Class Similarity (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2403.07532)]
+
+* RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2304.00962)]
+
+* Learning Object State Changes in Videos: An Open-World Perspective (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2312.11782)]
+
+* Open-World Human-Object Interaction Detection via Multi-modal Prompts (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2406.07221)]
+
+* ProTeCt: Prompt Tuning for Taxonomic Open Set Classification (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2306.02240)]
+
+* PDF: A Probability-Driven Framework for Open World 3D Point Cloud Semantic Segmentation (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2404.00979)]
+
+* Visual Concept Connectome (VCC): Open World Concept Discovery and their Interlayer Connections in Deep Models (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2404.02233)]
+
+* Exploring Orthogonality in Open World Object Detection (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Exploring_Orthogonality_in_Open_World_Object_Detection_CVPR_2024_paper.pdf)]
+
+* JRDB-PanoTrack: An Open-world Panoptic Segmentation and Tracking Robotic Dataset in Crowded Human Environments (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Le_JRDB-PanoTrack_An_Open-world_Panoptic_Segmentation_and_Tracking_Robotic_Dataset_in_CVPR_2024_paper.pdf)]
+
+* Targeted Representation Alignment for Open-World Semi-Supervised Learning (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)]
+
+
+* Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2310.12790)]
+
+* From Coarse to Fine-Grained Open-Set Recognition (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lang_From_Coarse_to_Fine-Grained_Open-Set_Recognition_CVPR_2024_paper.pdf)]
+
+* EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2311.15879)]
+
+* Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2311.13793)]
+
+* OpenBias: Open-set Bias Detection in Text-to-Image Generative Models (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/DInca_OpenBias_Open-set_Bias_Detection_in_Text-to-Image_Generative_Models_CVPR_2024_paper.pdf)]
+
+* Learning for Transductive Threshold Calibration in Open-World Recognition (CVPR 2024) 
+[[Paper](http://arxiv.org/abs/2305.12039)]
+
+* Unveiling the Unknown: Unleashing the Power of Unknown to Known in Open-Set Source-Free Domain Adaptation (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wan_Unveiling_the_Unknown_Unleashing_the_Power_of_Unknown_to_Known_CVPR_2024_paper.pdf)]
+
+* DeIL: Direct-and-Inverse CLIP for Open-World Few-Shot Learning (CVPR 2024) 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shao_DeIL_Direct-and-Inverse_CLIP_for_Open-World_Few-Shot_Learning_CVPR_2024_paper.pdf)]
+
+<!--#### ICLR
+#### NeurIPS
+#### ICCV
+#### ICML
+#### IEEE-Access-->
+#### ECCV
+<!--#### AAAI
+#### TPAMI
+#### CVPRw
+#### WACV
+#### IJCV
+#### BMVC
+#### ICCw-->
+#### Arxiv & Others
 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------->

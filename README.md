@@ -18,7 +18,7 @@ Since some papers belong to multiple categories, I put them in all related categ
 - [Zero-Shot Learning](https://github.com/SarahRastegar/Open-World-Papers/blob/main/Zero-Shot.md)  
 - [Out-of-Distribution Detection](https://github.com/SarahRastegar/Open-World-Papers/blob/main/OOD.md) 
 - [Open-Set Recognition](https://github.com/SarahRastegar/Open-World-Papers/blob/main/OSR.md)
-- [Novel Class Discovery](https://github.com/SarahRastegar/Open-World-Papers/blob/main/NCD.md))
+- [Novel Class Discovery](https://github.com/SarahRastegar/Open-World-Papers/blob/main/NCD.md)
 - [Open Vocabulary](https://github.com/SarahRastegar/Open-World-Papers/blob/main/Open-Vocabulary.md)
 - [Fine Grained](https://github.com/SarahRastegar/Open-World-Papers/blob/main/Fine-Grained.md)
 - [Long Tail](https://github.com/SarahRastegar/Open-World-Papers/blob/main/Long-Tailed.md)
